@@ -1,5 +1,5 @@
 ---
-title: My Explorations with LLMs
+title: "What Can You Do With AI"
 listing:
   contents: posts
   sort: date desc

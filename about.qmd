@@ -5,4 +5,4 @@ about:
   template: jolla
 ---
 
-About this blog
+What Can You Do With AI? Let's Find Out. 
