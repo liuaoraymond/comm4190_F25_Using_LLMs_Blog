@@ -47,6 +47,21 @@ a:hover {
   margin-bottom: 2rem;
 }
 ---
+/* Move categories sidebar down */
+.sidebar, .sidebar-content {
+  margin-top: 3rem !important;
+}
+
+/* Or if that doesn't work, try this alternative */
+.listing-category {
+  margin-top: 3rem !important;
+}
+
+/* If the categories are in a specific container */
+.categories {
+  margin-top: 3rem !important;
+}
+---
 
 @charset "UTF-8";/*!
  * Bootswatch v5.3.7 (https://bootswatch.com)
