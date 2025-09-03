@@ -1,20 +1,11 @@
----
+--- 
 title: "What Can You Do With AI"
-listing:
-  contents: posts
-  sort: date desc
-  type: default
-  categories: true
-  feed:
-    categories: [news, tool, opinion]
-  sort-ui: false
-  filter-ui: false
 ---
 
 <style>
 .hero-banner {
   text-align: center;
-  background: url('Images/banner.jpg');
+  background: url('images/banner.jpg');
   background-size: cover;
   background-position: center;
   padding: 4rem 0;
@@ -27,3 +18,14 @@ listing:
   <h1>Let's Find Out</h1>
   <em>Exploring AI in daily life</em>
 </div>
+
+---
+listing:
+  contents: posts
+  sort: date desc
+  type: default
+  categories: true
+  feed:
+    categories: [news, tool, opinion]
+  sort-ui: false
+  filter-ui: false
