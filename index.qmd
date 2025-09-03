@@ -1,5 +1,13 @@
 ---
 title: "What Can You Do With AI"
+
+---
+{.hero-banner}
+# Let's Find Out
+page-layout: full
+title-block-banner: true
+
+---
 listing:
   contents: posts
   sort: date desc
@@ -9,6 +17,5 @@ listing:
     categories: [news, tool, opinion]
   sort-ui: false
   filter-ui: false
-page-layout: full
-title-block-banner: true
+
 ---
