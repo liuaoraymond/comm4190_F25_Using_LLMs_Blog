@@ -1,4 +1,6 @@
 ---
+
+/* Hero banner styles */
 .hero-banner {
   text-align: center;
   background: url('images/banner.jpg');
@@ -9,11 +11,10 @@
   margin-bottom: 2rem;
 }
 
----
-css/* Change the navbar to blue instead of green */
+/* Change the navbar to medium grey */
 .navbar {
-  background-color: #4A90A4 !important; /* Steel blue similar to your original */
-  border-color: #4A90A4 !important;
+  background-color: #6B7280 !important;
+  border-color: #6B7280 !important;
 }
 
 /* Make sure navbar text is white and readable */
