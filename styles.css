@@ -10,21 +10,10 @@
 }
 
 ---
-/* Keep your existing hero-banner styles */
-.hero-banner {
-  text-align: center;
-  background: url('Images/banner.jpg');
-  background-size: cover;
-  background-position: center;
-  padding: 4rem 0;
-  color: white;
-  margin-bottom: 2rem;
-}
-
-/* Change the navbar (top bar) to dark green */
+css/* Change the navbar to blue instead of green */
 .navbar {
-  background-color: #2F4538 !important; /* Dark Bottega Veneta green */
-  border-color: #2F4538 !important;
+  background-color: #4A90A4 !important; /* Steel blue similar to your original */
+  border-color: #4A90A4 !important;
 }
 
 /* Make sure navbar text is white and readable */
