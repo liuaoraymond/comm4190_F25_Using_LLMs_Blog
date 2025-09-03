@@ -10,6 +10,33 @@
 }
 
 ---
+/* Keep your existing hero-banner styles */
+.hero-banner {
+  text-align: center;
+  background: url('Images/banner.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 4rem 0;
+  color: white;
+  margin-bottom: 2rem;
+}
+
+/* Change the navbar (top bar) to dark green */
+.navbar {
+  background-color: #2F4538 !important; /* Dark Bottega Veneta green */
+  border-color: #2F4538 !important;
+}
+
+/* Make sure navbar text is white and readable */
+.navbar-brand,
+.navbar .nav-link {
+  color: white !important;
+}
+
+.navbar .nav-link:hover {
+  color: #cccccc !important;
+}
+---
 
 @charset "UTF-8";/*!
  * Bootswatch v5.3.7 (https://bootswatch.com)
