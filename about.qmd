@@ -1,8 +1,20 @@
 ---
-title: About
+title: "About"
 image: profile.jpg
 about:
-  template: 
+  template: solana
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/
 ---
 
-What Can You Do With AI? Let's Find Out. 
+## About this blog
+
+What Can You Do With AI? Let's Find Out. By Raymond Liu Ao. 
+
+## Raymond Liu Ao
+
+Originally from Lima, Peru, Raymond Liu Ao is a Philosophy, Politics, and Economics student at the University of Pennsylvania. Interested in exploring the uses and implications of AI in daily usage, I will discuss how LLM can help us (or not) in commonly encountered scenarios. 
+
+---
