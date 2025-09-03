@@ -10,18 +10,16 @@ about:
       href: https://twitter.com/
     - icon: linkedin
       text: Linkedin
-      href: https://linkedin.com/in/liuaoray
+      href: https://linkedin.com/in/liuaoray/
 ---
 
-## About 
+##  
 
 What Can You Do With AI? Let's Find Out. 
-
--- 
 
 
 ## Raymond Liu Ao
 
 Originally from Lima, Peru, Raymond Liu Ao is a Philosophy, Politics, and Economics student at the University of Pennsylvania. Interested in exploring the uses and implications of AI in daily usage, I will discuss how LLM can help us (or not) in commonly encountered scenarios. 
 
----
+--
