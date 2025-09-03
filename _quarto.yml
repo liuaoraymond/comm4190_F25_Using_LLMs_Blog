@@ -13,9 +13,6 @@ website:
 format:
   html:
     theme: brite
-        light: brite 
-        dark: solar
-    fontsize: 
     css: styles.css
 
 execute:
