@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>What Can You Do With AI?</title>
+<link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/</link>
+<atom:link href="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/index.xml" rel="self" type="application/rss+xml"/>
+<description>Let&#39;s Find Out</description>
+<generator>quarto-1.7.34</generator>
+<lastBuildDate>Tue, 02 Sep 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Ray’s Test</title>
+  <dc:creator>Ray </dc:creator>
+  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_How_Does_AI_Really_Work/How_Does_AI_Really_Work.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+
+ ]]></description>
+  <category>LLMs</category>
+  <category>Learning</category>
+  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_How_Does_AI_Really_Work/How_Does_AI_Really_Work.html</guid>
+  <pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
