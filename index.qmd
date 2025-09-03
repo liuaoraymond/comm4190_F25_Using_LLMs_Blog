@@ -1,5 +1,14 @@
---- 
+---
 title: "What Can You Do With AI"
+listing:
+  contents: posts
+  sort: date desc
+  type: default
+  categories: true
+  feed:
+    categories: [news, tool, opinion]
+  sort-ui: false
+  filter-ui: false
 ---
 
 <style>
@@ -18,14 +27,3 @@ title: "What Can You Do With AI"
   <h1>Let's Find Out</h1>
   <em>Exploring AI in daily life</em>
 </div>
-
----
-listing:
-  contents: posts
-  sort: date desc
-  type: default
-  categories: true
-  feed:
-    categories: [news, tool, opinion]
-  sort-ui: false
-  filter-ui: false
