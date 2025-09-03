@@ -1,24 +1,5 @@
 ---
 title: "What Can You Do With AI"
----
-
-<style>
-.hero-banner {
-  text-align: center;
-  background: linear-gradient(rgba(244, 194, 194, 0.8), rgba(244, 194, 194, 0.8)), url('images/banner.jpg');
-  background-size: cover;
-  background-position: center;
-  padding: 4rem 0;
-  color: red;
-  margin-bottom: 2rem;
-}
-</style>
-
-<div class="hero-banner">
-  <h1>Let's Find Out</h1>
-  <em>Exploring AI in daily life</em>
-</div>
-
 listing:
   contents: posts
   sort: date desc
@@ -28,3 +9,21 @@ listing:
     categories: [news, tool, opinion]
   sort-ui: false
   filter-ui: false
+---
+
+<style>
+.hero-banner {
+  text-align: center;
+  background: url('Images/banner.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 4rem 0;
+  color: white;
+  margin-bottom: 2rem;
+}
+</style>
+
+<div class="hero-banner">
+  <h1>Let's Find Out</h1>
+  <em>Exploring AI in daily life</em>
+</div>
