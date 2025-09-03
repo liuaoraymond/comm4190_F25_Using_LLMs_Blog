@@ -1,4 +1,8 @@
 ---
+/* Set Helvetica font for entire website */
+body, html {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
 
 /* Hero banner styles */
 .hero-banner {
@@ -11,21 +15,29 @@
   margin-bottom: 2rem;
 }
 
-/* Change the navbar to medium grey */
+/* Change the navbar to medium grey with border */
 .navbar {
   background-color: #6B7280 !important;
   border-color: #6B7280 !important;
+  border-bottom: 2px solid #E5E7EB !important; /* Light grey border line */
 }
 
 /* Make sure navbar text is white and readable */
 .navbar-brand,
 .navbar .nav-link {
   color: white !important;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
 
 .navbar .nav-link:hover {
   color: #cccccc !important;
 }
+
+/* Apply Helvetica to all text elements */
+h1, h2, h3, h4, h5, h6, p, div, span, a, .nav-link, .navbar-brand {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
 ---
 
 @charset "UTF-8";/*!
