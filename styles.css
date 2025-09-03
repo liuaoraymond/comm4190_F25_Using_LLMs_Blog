@@ -1,3 +1,14 @@
+---
+
+.hero-banner {
+  text-align: center;
+  background: rgb(244, 194, 194);
+  padding: 4rem 0;
+  color: red;
+  margin-bottom: 2rem;
+
+---
+    
 @charset "UTF-8";/*!
  * Bootswatch v5.3.7 (https://bootswatch.com)
  * Theme: brite
