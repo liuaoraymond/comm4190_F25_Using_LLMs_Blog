@@ -14,7 +14,7 @@
 <item>
   <title>How AI Really Works: Beyond the Magic</title>
   <dc:creator>Raymond Liu Ao</dc:creator>
-  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_How_Does_AI_Really_Work/How_Does_AI_Really_Work.html</link>
+  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_How_Does_AI_Really_Work/</link>
   <description><![CDATA[ 
 
 
@@ -350,7 +350,7 @@ font-style: inherit;">return</span> generate_plausible_sounding_answer(query)</s
   <category>AI</category>
   <category>deep-dive</category>
   <category>technology</category>
-  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_How_Does_AI_Really_Work/How_Does_AI_Really_Work.html</guid>
+  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_How_Does_AI_Really_Work/</guid>
   <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
   <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_How_Does_AI_Really_Work/neural-network-brain.jpg" medium="image" type="image/jpeg"/>
 </item>
