@@ -10,6 +10,43 @@
 }
 
 ---
+/* Dark theme for entire website */
+body {
+  background-color: black !important;
+  color: white !important;
+}
+
+/* Make sure all text elements are white */
+h1, h2, h3, h4, h5, h6, p, div, span, a {
+  color: white !important;
+}
+
+/* Style links */
+a {
+  color: #87CEEB !important; /* Light blue for links */
+}
+
+a:hover {
+  color: #ADD8E6 !important; /* Lighter blue on hover */
+}
+
+/* Make sure post cards have dark backgrounds */
+.card, .listing-item {
+  background-color: #333 !important;
+  border: 1px solid #555 !important;
+}
+
+/* Keep your existing hero banner styles */
+.hero-banner {
+  text-align: center;
+  background: url('Images/banner.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 4rem 0;
+  color: white;
+  margin-bottom: 2rem;
+}
+---
 
 @charset "UTF-8";/*!
  * Bootswatch v5.3.7 (https://bootswatch.com)
