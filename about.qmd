@@ -1,6 +1,5 @@
 ---
 title: "About"
-image: profile.jpg
 about:
   template: solana
   links:
@@ -13,6 +12,7 @@ about:
 
 What Can You Do With AI? Let's Find Out. By Raymond Liu Ao. 
 
+image: profile.jpg
 ## Raymond Liu Ao
 
 Originally from Lima, Peru, Raymond Liu Ao is a Philosophy, Politics, and Economics student at the University of Pennsylvania. Interested in exploring the uses and implications of AI in daily usage, I will discuss how LLM can help us (or not) in commonly encountered scenarios. 
