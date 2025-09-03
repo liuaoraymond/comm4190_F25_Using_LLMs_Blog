@@ -27,3 +27,41 @@ listing:
   <h1>Let's Find Out</h1>
   <em>Exploring AI in daily life</em>
 </div>
+
+---
+<style>
+.hero-banner {
+  text-align: center;
+  background: url('Images/banner.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 4rem 0;
+  color: white;
+  margin-bottom: 2rem;
+}
+
+/* Dark theme for entire page */
+body, html {
+  background-color: black !important;
+  color: white !important;
+}
+
+/* All text elements white */
+h1, h2, h3, h4, h5, h6, p, div, span {
+  color: white !important;
+}
+
+/* Links light blue */
+a {
+  color: #87CEEB !important;
+}
+
+a:hover {
+  color: #ADD8E6 !important;
+}
+
+/* Move categories down */
+.sidebar {
+  margin-top: 3rem !important;
+}
+</style>
