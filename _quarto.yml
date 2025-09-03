@@ -12,7 +12,10 @@ website:
         href: https://twitter.com
 format:
   html:
-    theme: Brite
+    theme: brite
+        light: brite 
+        dark: solar
+    fontsize: 
     css: styles.css
 
 execute:
