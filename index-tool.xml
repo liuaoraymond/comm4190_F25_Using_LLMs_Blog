@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>What Can You Do With AI?</title>
+<link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/#category=tool</link>
+<atom:link href="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/index-tool.xml" rel="self" type="application/rss+xml"/>
+<description>Let&#39;s Find Out</description>
+<generator>quarto-1.7.34</generator>
+<lastBuildDate>Wed, 03 Sep 2025 17:13:46 GMT</lastBuildDate>
+</channel>
+</rss>
