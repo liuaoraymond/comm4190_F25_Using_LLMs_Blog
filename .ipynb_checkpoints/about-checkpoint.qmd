@@ -1,0 +1,8 @@
+---
+title: About
+image: profile.jpg
+about:
+  template: jolla
+---
+
+What Can You Do With AI? Let's Find Out. 
