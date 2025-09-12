@@ -2,8 +2,9 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/002_AI_Dos_And_Donts/index.html",
-      "/posts/001_AI_Daily_Guide/index.html"
+      "/posts/002_AI_Dos_And_Donts/002.html",
+      "/posts/001_AI_Daily_Guide/001.html",
+      "/posts/000_How_Does_AI_Really_Work/000.html"
     ]
   }
 ]

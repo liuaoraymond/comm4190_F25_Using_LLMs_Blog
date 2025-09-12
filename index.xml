@@ -14,7 +14,7 @@
 <item>
   <title>AI Do’s and Don’ts: Safe and Effective Usage</title>
   <dc:creator>Raymond Liu Ao</dc:creator>
-  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/002_AI_Dos_And_Donts/</link>
+  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/002_AI_Dos_And_Donts/002.html</link>
   <description><![CDATA[ 
 
 
@@ -109,99 +109,445 @@
   <category>AI</category>
   <category>safety</category>
   <category>guidelines</category>
-  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/002_AI_Dos_And_Donts/</guid>
+  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/002_AI_Dos_And_Donts/002.html</guid>
   <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
   <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/002_AI_Dos_And_Donts/ai-safety-guidelines.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>AI Do’s and Don’ts: Safe and Effective Usage</title>
+  <title>5 Ways to Use AI Every Day</title>
   <dc:creator>Raymond Liu Ao</dc:creator>
-  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_AI_Daily_Guide/</link>
+  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_AI_Daily_Guide/001.html</link>
   <description><![CDATA[ 
 
 
 
 
 
-<section id="essential-ai-guidelines" class="level2">
-<h2 class="anchored" data-anchor-id="essential-ai-guidelines">Essential AI Guidelines</h2>
-<p>AI tools are powerful but require careful usage. These guidelines help you maximize benefits while avoiding common pitfalls.</p>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_AI_Daily_Guide/ai-safety-guidelines.jpg" class="img-fluid" alt="AI Safety Guidelines"> <em>Key principles for responsible AI usage</em></p>
+<section id="using-ai-for-daily-tasks" class="level2">
+<h2 class="anchored" data-anchor-id="using-ai-for-daily-tasks">Using AI for Daily Tasks</h2>
+<p>AI tools like ChatGPT and Claude can handle routine tasks that usually take significant time. Here are five practical applications that work reliably.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_AI_Daily_Guide/ai-daily-tasks.jpg" class="img-fluid" alt="AI Daily Tasks"> <em>Common tasks where AI provides immediate value</em></p>
 </section>
-<section id="what-to-do" class="level2">
-<h2 class="anchored" data-anchor-id="what-to-do">What TO Do</h2>
-<section id="verify-important-information" class="level3">
-<h3 class="anchored" data-anchor-id="verify-important-information">✅ Verify Important Information</h3>
-<p>Always fact-check AI outputs for: - Medical or health advice - Financial decisions - Legal matters - Technical specifications - Current events or recent data</p>
-<p>Cross-reference with authoritative sources before acting on AI recommendations.</p>
+<section id="meal-planning-and-recipes" class="level2">
+<h2 class="anchored" data-anchor-id="meal-planning-and-recipes">1. Meal Planning and Recipes</h2>
+<p>Turn ingredients into meal plans instantly.</p>
+<p><strong>Basic ingredient prompt:</strong></p>
+<pre><code>I have chicken breast, rice, and broccoli. 
+Give me 3 different 30-minute meals with instructions.</code></pre>
+<p><strong>Weekly planning prompt:</strong></p>
+<pre><code>Create a 5-day meal plan for 2 people, $60 budget. 
+Include grocery list organized by store section.</code></pre>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_AI_Daily_Guide/ai-meal-planning.jpg" class="img-fluid" alt="AI Meal Planning"> <em>AI generates recipes based on available ingredients and dietary preferences</em></p>
+<p>AI handles dietary restrictions, cooking time constraints, and budget limitations effectively. The grocery lists are particularly useful since they organize items by store layout.</p>
 </section>
-<section id="be-specific-in-your-prompts" class="level3">
-<h3 class="anchored" data-anchor-id="be-specific-in-your-prompts">✅ Be Specific in Your Prompts</h3>
-<p><strong>Instead of:</strong> “Help me with my presentation” <strong>Use:</strong> “Create an outline for a 10-minute sales presentation to executives about Q3 revenue growth”</p>
-<p>Specific prompts produce more useful results.</p>
+<section id="email-and-message-writing" class="level2">
+<h2 class="anchored" data-anchor-id="email-and-message-writing">2. Email and Message Writing</h2>
+<p>Improve clarity and tone in professional communication.</p>
+<p><strong>Email revision prompt:</strong></p>
+<pre><code>Make this email more professional and concise:
+[paste your draft]</code></pre>
+<p><strong>Difficult conversation prompt:</strong></p>
+<pre><code>Help me write a polite but firm email declining this request:
+[explain situation]</code></pre>
+<p><strong>Meeting follow-up prompt:</strong></p>
+<pre><code>Draft a follow-up email summarizing these meeting points:
+[list key decisions and action items]</code></pre>
+<p>This works for text messages, LinkedIn messages, and any written communication where tone matters.</p>
 </section>
-<section id="use-ai-for-brainstorming-and-drafts" class="level3">
-<h3 class="anchored" data-anchor-id="use-ai-for-brainstorming-and-drafts">✅ Use AI for Brainstorming and Drafts</h3>
-<p>AI excels at: - Generating initial ideas - Creating first drafts - Organizing thoughts - Providing alternative perspectives</p>
-<p>Use AI output as a starting point, not a final product.</p>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_AI_Daily_Guide/ai-workflow-diagram.jpg" class="img-fluid" alt="AI Workflow Best Practices"> <em>Proper workflow: AI assists, human validates and refines</em></p>
+<section id="quick-learning-and-research" class="level2">
+<h2 class="anchored" data-anchor-id="quick-learning-and-research">3. Quick Learning and Research</h2>
+<p>Get structured explanations on unfamiliar topics.</p>
+<p><strong>Concept explanation prompt:</strong></p>
+<pre><code>Explain [topic] in simple terms, then give me 
+5 follow-up questions to test my understanding.</code></pre>
+<p><strong>Skill learning prompt:</strong></p>
+<pre><code>I need to learn Excel pivot tables for work. 
+Give me a step-by-step tutorial focusing on the most practical features.</code></pre>
+<p><strong>Research synthesis prompt:</strong></p>
+<pre><code>Compare the top 3 options for [product/service] 
+with pros and cons for each.</code></pre>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_AI_Daily_Guide/ai-learning-interface.jpg" class="img-fluid" alt="AI Learning Assistant"> <em>AI breaks down complex topics into manageable learning steps</em></p>
+<p>AI excels at creating structured learning paths and synthesizing information from multiple angles.</p>
 </section>
-<section id="maintain-human-judgment" class="level3">
-<h3 class="anchored" data-anchor-id="maintain-human-judgment">✅ Maintain Human Judgment</h3>
-<p>Keep human oversight for: - Final decision-making - Quality assessment - Ethical considerations - Context that AI might miss</p>
+<section id="travel-and-event-planning" class="level2">
+<h2 class="anchored" data-anchor-id="travel-and-event-planning">4. Travel and Event Planning</h2>
+<p>Generate detailed itineraries and logistics.</p>
+<p><strong>Trip planning prompt:</strong></p>
+<pre><code>Plan a 3-day weekend trip to [destination] for [number] people 
+with a $[amount] budget. Include transportation, accommodation, 
+and daily activities.</code></pre>
+<p><strong>Local exploration prompt:</strong></p>
+<pre><code>What are 5 lesser-known attractions in [city] 
+that locals recommend?</code></pre>
+<p><strong>Event planning prompt:</strong></p>
+<pre><code>Create a timeline and checklist for planning a 
+[birthday party/dinner party/work event] for [number] people.</code></pre>
+<p>AI handles multiple constraints simultaneously - budget, time, preferences, and logistics.</p>
 </section>
-<section id="ask-follow-up-questions" class="level3">
-<h3 class="anchored" data-anchor-id="ask-follow-up-questions">✅ Ask Follow-Up Questions</h3>
-<p>Improve results by asking: - “Can you explain this differently?” - “What are potential problems with this approach?” - “Give me three alternatives” - “Make this more specific”</p>
+<section id="home-management-and-finances" class="level2">
+<h2 class="anchored" data-anchor-id="home-management-and-finances">5. Home Management and Finances</h2>
+<p>Get practical advice for household and money management.</p>
+<p><strong>Home maintenance prompt:</strong></p>
+<pre><code>My [appliance/fixture] is [problem description]. 
+Walk me through troubleshooting steps from simple to complex.</code></pre>
+<p><strong>Budget planning prompt:</strong></p>
+<pre><code>I make $[amount] monthly, fixed expenses are $[amount]. 
+Create a realistic budget with savings and discretionary spending.</code></pre>
+<p><strong>Purchase decision prompt:</strong></p>
+<pre><code>I'm considering buying [item] for [purpose]. 
+What factors should I evaluate? Create a decision framework.</code></pre>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_AI_Daily_Guide/ai-budget-planning.jpg" class="img-fluid" alt="AI Home Finance"> <em>AI provides structured approaches to financial and household decisions</em></p>
+<p>These applications work because AI can process multiple variables and provide step-by-step guidance for complex decisions.</p>
+</section>
+<section id="implementation-notes" class="level2">
+<h2 class="anchored" data-anchor-id="implementation-notes">Implementation Notes</h2>
+<p><strong>Prompt specificity matters.</strong> Include relevant details like budget, timeframe, number of people, and specific constraints.</p>
+<p><strong>Follow-up questions improve results.</strong> Ask for alternatives, simplifications, or additional detail as needed.</p>
+<p><strong>Save effective prompts.</strong> Keep a note file with prompts that work well for repeated use.</p>
+<p>These five applications cover the most common daily planning and decision-making tasks. Each provides immediate time savings and often produces better results than manual research.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>AI</category>
+  <category>productivity</category>
+  <category>tutorial</category>
+  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_AI_Daily_Guide/001.html</guid>
+  <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_AI_Daily_Guide/ai-daily-tasks.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>How AI Systems Work: A Technical Overview</title>
+  <dc:creator>Raymond Liu Ao</dc:creator>
+  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_How_Does_AI_Really_Work/000.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="understanding-modern-ai-systems" class="level2">
+<h2 class="anchored" data-anchor-id="understanding-modern-ai-systems">Understanding Modern AI Systems</h2>
+<p>Artificial intelligence systems like ChatGPT and Claude can engage in conversations, solve problems, and generate content. However, their underlying mechanisms are fundamentally different from human cognition.</p>
+<p>These systems operate as sophisticated pattern recognition and prediction engines. While they can produce human-like responses, they function by identifying statistical patterns in data rather than developing conceptual understanding.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_How_Does_AI_Really_Work/neural-network-brain.jpg" class="img-fluid" alt="Neural Network vs Brain"> <em>AI neural networks are inspired by brain structure but operate through different mechanisms</em></p>
+<blockquote class="blockquote">
+<p><strong>Key Question:</strong> How do statistical pattern-matching systems produce seemingly intelligent behavior?</p>
+</blockquote>
+</section>
+<section id="core-architecture-prediction-systems" class="level2">
+<h2 class="anchored" data-anchor-id="core-architecture-prediction-systems">Core Architecture: Prediction Systems</h2>
+<p>Modern AI systems solve a fundamental prediction problem: given an input, determine the most statistically likely output. This applies whether predicting the next word in text, pixels in an image, or moves in a game.</p>
+<section id="transformer-architecture" class="level3">
+<h3 class="anchored" data-anchor-id="transformer-architecture">Transformer Architecture</h3>
+<p>Current large language models like GPT-4 and Claude use transformer architecture:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># Simplified transformer process</span></span>
+<span id="cb1-2"><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">def</span> transformer_prediction(input_text):</span>
+<span id="cb1-3">    tokens <span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span> tokenize(input_text)  <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># Convert text to processable units</span></span>
+<span id="cb1-4">    embeddings <span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span> convert_to_vectors(tokens)  <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># Map to numerical representations</span></span>
+<span id="cb1-5">    </span>
+<span id="cb1-6">    <span class="cf" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">for</span> layer <span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">in</span> neural_layers:</span>
+<span id="cb1-7">        embeddings <span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span> attention_mechanism(embeddings)  <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># Identify relationships</span></span>
+<span id="cb1-8">        embeddings <span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span> feed_forward(embeddings)  <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># Process patterns</span></span>
+<span id="cb1-9">    </span>
+<span id="cb1-10">    <span class="cf" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">return</span> predict_next_token(embeddings)  <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># Generate most likely continuation</span></span></code></pre></div></div>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_How_Does_AI_Really_Work/transformer-architecture.jpg" class="img-fluid" alt="Transformer Architecture"> <em>Transformer architecture with attention and processing layers</em></p>
+<p>Modern systems operate at significant scale. GPT-3 contains 175 billion parameters trained on 45TB of text data. GPT-4 is estimated to exceed 1 trillion parameters with correspondingly higher computational requirements.</p>
+</section>
+<section id="attention-mechanisms" class="level3">
+<h3 class="anchored" data-anchor-id="attention-mechanisms">Attention Mechanisms</h3>
+<p>The attention mechanism enables models to focus selectively on different input elements when making predictions.</p>
+<p><strong>Example:</strong> “The cat sat on the mat because it was comfortable.”</p>
+<p>When determining what “it” refers to, the attention mechanism assigns weights: - “cat” (high attention - 0.7) - “mat” (medium attention - 0.2) - “sat” (low attention - 0.1)</p>
+<p>This mechanism allows processing of relationships between distant elements in sequences.</p>
 </section>
 </section>
-<section id="what-not-to-do" class="level2">
-<h2 class="anchored" data-anchor-id="what-not-to-do">What NOT to Do</h2>
-<section id="dont-share-sensitive-information" class="level3">
-<h3 class="anchored" data-anchor-id="dont-share-sensitive-information">❌ Don’t Share Sensitive Information</h3>
-<p>Never input: - Passwords or login credentials - Social Security numbers - Credit card details - Proprietary business information - Personal addresses or phone numbers - Private family details</p>
-<p>Assume all AI conversations could be stored or accessed by others.</p>
+<section id="training-process" class="level2">
+<h2 class="anchored" data-anchor-id="training-process">Training Process</h2>
+<p>AI system development occurs through structured training phases that determine capabilities and limitations.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_How_Does_AI_Really_Work/ai-training-process.jpg" class="img-fluid" alt="AI Training Process"> <em>Complete pipeline from data collection to deployed system</em></p>
+<section id="phase-1-pre-training" class="level3">
+<h3 class="anchored" data-anchor-id="phase-1-pre-training">Phase 1: Pre-training</h3>
+<p>Systems learn from large text datasets through next-token prediction:</p>
+<ol type="1">
+<li><strong>Data Collection</strong>: Process text from websites, books, and articles</li>
+<li><strong>Tokenization</strong>: Convert text to discrete units for processing</li>
+<li><strong>Prediction Training</strong>: Train models to predict missing tokens in sequences</li>
+<li><strong>Parameter Adjustment</strong>: Iteratively modify billions of parameters based on prediction accuracy</li>
+</ol>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># Simplified training loop</span></span>
+<span id="cb2-2"><span class="cf" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">for</span> epoch <span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">in</span> <span class="bu" style="color: null;
+background-color: null;
+font-style: inherit;">range</span>(many_epochs):</span>
+<span id="cb2-3">    <span class="cf" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">for</span> text_chunk <span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">in</span> massive_dataset:</span>
+<span id="cb2-4">        input_tokens <span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span> text_chunk[:<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">-</span><span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1</span>]  <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># Input sequence</span></span>
+<span id="cb2-5">        target_token <span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span> text_chunk[<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">-</span><span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1</span>]   <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># Target prediction</span></span>
+<span id="cb2-6">        </span>
+<span id="cb2-7">        prediction <span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span> model(input_tokens)</span>
+<span id="cb2-8">        loss <span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span> calculate_error(prediction, target_token)</span>
+<span id="cb2-9">        </span>
+<span id="cb2-10">        <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># Update model parameters</span></span>
+<span id="cb2-11">        model.update_weights(loss.gradient())</span></code></pre></div></div>
 </section>
-<section id="dont-rely-on-ai-for-critical-decisions" class="level3">
-<h3 class="anchored" data-anchor-id="dont-rely-on-ai-for-critical-decisions">❌ Don’t Rely on AI for Critical Decisions</h3>
-<p>Avoid using AI alone for: - Medical diagnoses or treatment - Legal advice or document preparation - Financial investment decisions - Safety-critical calculations - Emergency situations</p>
-<p>Consult qualified professionals for these matters.</p>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_AI_Daily_Guide/ai-limitations-chart.jpg" class="img-fluid" alt="AI Limitations Warning"> <em>Areas where AI should not be the primary decision maker</em></p>
-</section>
-<section id="dont-assume-ai-is-always-accurate" class="level3">
-<h3 class="anchored" data-anchor-id="dont-assume-ai-is-always-accurate">❌ Don’t Assume AI is Always Accurate</h3>
-<p>AI can produce: - Outdated information - Factual errors - Biased responses - Plausible-sounding but incorrect details</p>
-<p>Especially problematic for recent events or specialized technical information.</p>
-</section>
-<section id="dont-use-ai-for-harmful-purposes" class="level3">
-<h3 class="anchored" data-anchor-id="dont-use-ai-for-harmful-purposes">❌ Don’t Use AI for Harmful Purposes</h3>
-<p>Avoid requesting: - Misleading or false content - Harassment or threatening messages - Plagiarism or academic dishonesty - Illegal activity guidance - Discriminatory content</p>
-</section>
-<section id="dont-ignore-context-limitations" class="level3">
-<h3 class="anchored" data-anchor-id="dont-ignore-context-limitations">❌ Don’t Ignore Context Limitations</h3>
-<p>AI doesn’t understand: - Your full personal situation - Unspoken cultural context - Real-time environmental factors - Emotional nuances</p>
-<p>Provide necessary context explicitly in your prompts.</p>
+<section id="phase-2-fine-tuning" class="level3">
+<h3 class="anchored" data-anchor-id="phase-2-fine-tuning">Phase 2: Fine-tuning</h3>
+<p>Pre-trained models are refined for specific applications:</p>
+<ul>
+<li><strong>Supervised Fine-tuning</strong>: Training on curated question-answer pairs</li>
+<li><strong>Reinforcement Learning from Human Feedback (RLHF)</strong>: Using human preferences to shape responses</li>
+<li><strong>Safety Training</strong>: Implementing guidelines to avoid harmful outputs</li>
+</ul>
+<p>This process transforms basic text predictors into conversational assistants.</p>
 </section>
 </section>
-<section id="implementation-strategy" class="level2">
-<h2 class="anchored" data-anchor-id="implementation-strategy">Implementation Strategy</h2>
-<section id="start-small" class="level3">
-<h3 class="anchored" data-anchor-id="start-small">Start Small</h3>
-<p>Begin with low-stakes tasks like email drafting or meal planning before using AI for important projects.</p>
+<section id="emergent-capabilities" class="level2">
+<h2 class="anchored" data-anchor-id="emergent-capabilities">Emergent Capabilities</h2>
+<p>Large-scale training produces capabilities that weren’t explicitly programmed. These emergent abilities arise from complex interactions between simple components.</p>
+<section id="examples-of-emergence" class="level3">
+<h3 class="anchored" data-anchor-id="examples-of-emergence">Examples of Emergence</h3>
+<p>As model size increases, new capabilities develop:</p>
+<p><strong>Chain-of-Thought Reasoning</strong>: Models develop step-by-step problem-solving approaches without explicit training on this strategy.</p>
+<p><strong>In-Context Learning</strong>: Systems can perform new tasks based on examples in prompts without additional training.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3" style="background: #f1f3f5;"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb3-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># Example of in-context learning</span></span>
+<span id="cb3-2">prompt <span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"""</span></span>
+<span id="cb3-3"><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">Translate English to French:</span></span>
+<span id="cb3-4"><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">Hello → Bonjour</span></span>
+<span id="cb3-5"><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">Goodbye → Au revoir</span></span>
+<span id="cb3-6"><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">Thank you → Merci</span></span>
+<span id="cb3-7"><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">Good morning → </span></span>
+<span id="cb3-8"><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"""</span></span>
+<span id="cb3-9"></span>
+<span id="cb3-10"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># Model produces "Bonjour" despite no explicit</span></span>
+<span id="cb3-11"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># training on this translation task</span></span></code></pre></div></div>
+<p><strong>Cross-Lingual Transfer</strong>: Models trained primarily on English can operate effectively in other languages.</p>
+<p>The mechanisms underlying emergence remain an active research area, with theories including phase transitions, increased representational capacity, and pattern recognition thresholds.</p>
 </section>
-<section id="build-verification-habits" class="level3">
-<h3 class="anchored" data-anchor-id="build-verification-habits">Build Verification Habits</h3>
-<p>Develop a routine of checking AI outputs against reliable sources.</p>
 </section>
-<section id="keep-learning" class="level3">
-<h3 class="anchored" data-anchor-id="keep-learning">Keep Learning</h3>
-<p>AI capabilities and limitations evolve. Stay informed about updates and new research.</p>
+<section id="system-limitations" class="level2">
+<h2 class="anchored" data-anchor-id="system-limitations">System Limitations</h2>
+<p>Current AI systems have several fundamental constraints that stem from their statistical architecture:</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_How_Does_AI_Really_Work/ai-limitations-chart.jpg" class="img-fluid" alt="AI Limitations Chart"> <em>Overview of AI system capabilities and constraints</em></p>
+<section id="pattern-matching-vs.-understanding" class="level3">
+<h3 class="anchored" data-anchor-id="pattern-matching-vs.-understanding">Pattern Matching vs.&nbsp;Understanding</h3>
+<p>AI systems process statistical relationships in symbols rather than developing conceptual understanding. They can accurately reproduce information without grasping underlying mechanisms.</p>
+<p><strong>Example</strong>: A system can state that “water boils at 100°C” without understanding molecular behavior, phase transitions, or the physical processes involved.</p>
 </section>
-<section id="document-what-works" class="level3">
-<h3 class="anchored" data-anchor-id="document-what-works">Document What Works</h3>
-<p>Save effective prompts and note which applications produce reliable results for your needs.</p>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_AI_Daily_Guide/ai-integration-steps.jpg" class="img-fluid" alt="AI Integration Roadmap"> <em>Progressive approach to integrating AI into your workflow</em></p>
-<p>Following these guidelines ensures you gain AI’s benefits while avoiding common mistakes that can lead to poor decisions or security issues.</p>
+<section id="output-generation-under-uncertainty" class="level3">
+<h3 class="anchored" data-anchor-id="output-generation-under-uncertainty">Output Generation Under Uncertainty</h3>
+<p>Systems are designed to produce responses even when lacking relevant information, leading to plausible but potentially inaccurate outputs.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4" style="background: #f1f3f5;"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb4-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># Simplified response generation</span></span>
+<span id="cb4-2"><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">def</span> generate_response(query):</span>
+<span id="cb4-3">    <span class="cf" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">if</span> confidence_score <span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">&gt;</span> threshold:</span>
+<span id="cb4-4">        <span class="cf" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">return</span> retrieve_known_information(query)</span>
+<span id="cb4-5">    <span class="cf" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">else</span>:</span>
+<span id="cb4-6">        <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># System still generates output</span></span>
+<span id="cb4-7">        <span class="cf" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">return</span> generate_plausible_response(query)</span></code></pre></div></div>
+</section>
+<section id="training-data-constraints" class="level3">
+<h3 class="anchored" data-anchor-id="training-data-constraints">Training Data Constraints</h3>
+<p>Models are limited by their training data cutoff and cannot incorporate new information without retraining.</p>
+</section>
+<section id="memory-limitations" class="level3">
+<h3 class="anchored" data-anchor-id="memory-limitations">Memory Limitations</h3>
+<p>Current systems can process limited context windows (typically 4,000-128,000 tokens) with no persistent memory between conversations.</p>
+</section>
+<section id="correlation-vs.-causation" class="level3">
+<h3 class="anchored" data-anchor-id="correlation-vs.-causation">Correlation vs.&nbsp;Causation</h3>
+<p>Systems excel at identifying statistical correlations but have limited understanding of causal relationships. They may recognize that umbrella sales correlate with rain without understanding the causal mechanism.</p>
+</section>
+</section>
+<section id="practical-implications" class="level2">
+<h2 class="anchored" data-anchor-id="practical-implications">Practical Implications</h2>
+<p>Understanding AI architecture has important implications for effective use:</p>
+<section id="system-strengths" class="level3">
+<h3 class="anchored" data-anchor-id="system-strengths">System Strengths</h3>
+<ul>
+<li>Pattern recognition and text generation capabilities</li>
+<li>Rapid processing of large information sets</li>
+<li>Accessible interface for complex tasks</li>
+<li>Consistent performance within training domains</li>
+</ul>
+</section>
+<section id="appropriate-applications" class="level3">
+<h3 class="anchored" data-anchor-id="appropriate-applications">Appropriate Applications</h3>
+<ul>
+<li>Content drafting and editing</li>
+<li>Information synthesis from known sources</li>
+<li>Code generation and debugging assistance</li>
+<li>Language translation</li>
+<li>Creative brainstorming</li>
+</ul>
+</section>
+<section id="best-practices" class="level3">
+<h3 class="anchored" data-anchor-id="best-practices">Best Practices</h3>
+<ol type="1">
+<li><strong>Verify Important Information</strong>: Fact-check outputs for critical applications</li>
+<li><strong>Understand Limitations</strong>: Recognize domain constraints and knowledge cutoffs</li>
+<li><strong>Maintain Human Oversight</strong>: Keep humans involved in important decisions</li>
+<li><strong>Recognize Bias</strong>: Be aware that systems reflect training data biases</li>
+<li><strong>Use as Tools</strong>: Apply systems as analytical instruments rather than authoritative sources</li>
+</ol>
+</section>
+</section>
+<section id="future-development" class="level2">
+<h2 class="anchored" data-anchor-id="future-development">Future Development</h2>
+<p>Current AI systems represent early implementations of statistical learning approaches. Several research directions may expand capabilities:</p>
+<section id="near-term-developments-1-3-years" class="level3">
+<h3 class="anchored" data-anchor-id="near-term-developments-1-3-years">Near-Term Developments (1-3 years)</h3>
+<ul>
+<li>Multimodal systems integrating text, images, audio, and video</li>
+<li>Extended context windows for longer conversations and documents</li>
+<li>Improved reasoning and problem-solving capabilities</li>
+<li>Specialized models optimized for specific domains</li>
+</ul>
+</section>
+<section id="long-term-research-areas-10-years" class="level3">
+<h3 class="anchored" data-anchor-id="long-term-research-areas-10-years">Long-Term Research Areas (10+ years)</h3>
+<ul>
+<li>Artificial General Intelligence research</li>
+<li>Questions about machine consciousness and subjective experience</li>
+<li>AI alignment and safety considerations</li>
+</ul>
+</section>
+<section id="active-research-questions" class="level3">
+<h3 class="anchored" data-anchor-id="active-research-questions">Active Research Questions</h3>
+<p>Researchers are investigating fundamental questions:</p>
+<ul>
+<li><strong>Scaling Laws</strong>: Relationships between model size, data, and capabilities</li>
+<li><strong>Emergence Mechanisms</strong>: Why new abilities appear at certain scales</li>
+<li><strong>Alignment</strong>: Ensuring AI systems operate according to intended objectives</li>
+<li><strong>Interpretability</strong>: Understanding internal model representations and processes</li>
+</ul>
+</section>
+</section>
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>Modern AI systems represent sophisticated statistical engines that process patterns in data to generate human-like outputs. While they demonstrate impressive capabilities, they operate through pattern matching rather than conceptual understanding.</p>
+<section id="key-technical-points" class="level3">
+<h3 class="anchored" data-anchor-id="key-technical-points">Key Technical Points</h3>
+<p>Current AI systems achieve intelligent-seeming behavior through statistical pattern processing rather than understanding. This approach has several implications:</p>
+<ul>
+<li><strong>For Users</strong>: Understanding system strengths and limitations enables more effective application</li>
+<li><strong>For Organizations</strong>: Appropriate use requires human oversight and verification processes</li>
+<li><strong>For Society</strong>: New frameworks are needed for evaluating machine capabilities and limitations</li>
+</ul>
+<p>Statistical pattern matching at scale produces sophisticated behavior, suggesting that aspects of intelligence may be more computational than previously understood.</p>
+<p>As these systems become more prevalent, understanding their statistical nature becomes increasingly important for effective implementation. The technology continues evolving rapidly, with ongoing research addressing questions about scaling, emergence, and alignment with human objectives.</p>
+<p>The field represents significant progress in automated pattern recognition and generation, with continued development likely to expand capabilities while maintaining the fundamental statistical architecture.</p>
+<hr>
+<p><strong>Understanding the technical foundations of AI systems helps inform appropriate use and realistic expectations about current capabilities.</strong></p>
 
 
 </section>
@@ -209,11 +555,11 @@
 
  ]]></description>
   <category>AI</category>
-  <category>safety</category>
-  <category>guidelines</category>
-  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_AI_Daily_Guide/</guid>
-  <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
-  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_AI_Daily_Guide/ai-safety-guidelines.jpg" medium="image" type="image/jpeg"/>
+  <category>deep-dive</category>
+  <category>technology</category>
+  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_How_Does_AI_Really_Work/000.html</guid>
+  <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_How_Does_AI_Really_Work/neural-network-brain.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

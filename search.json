@@ -4,77 +4,161 @@
     "href": "index.html",
     "title": "What Can You Do With AI",
     "section": "",
-    "text": "Let’s Find Out\n\nExploring AI in daily life\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAI Do’s and Don’ts: Safe and Effective Usage\n\n\n\nAI\n\nsafety\n\nguidelines\n\n\n\nEssential guidelines for using AI tools responsibly and effectively\n\n\n\n\n\nSep 10, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Do’s and Don’ts: Safe and Effective Usage\n\n\n\nAI\n\nsafety\n\nguidelines\n\n\n\nEssential guidelines for using AI tools responsibly and effectively\n\n\n\n\n\nSep 5, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\nNo matching items"
+    "text": "Let’s Find Out\n\nExploring AI in daily life\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAI Do’s and Don’ts: Safe and Effective Usage\n\n\n\nAI\n\nsafety\n\nguidelines\n\n\n\nEssential guidelines for using AI tools responsibly and effectively\n\n\n\n\n\nSep 10, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\n5 Ways to Use AI Every Day\n\n\n\nAI\n\nproductivity\n\ntutorial\n\n\n\nPractical AI applications that save time on common daily tasks\n\n\n\n\n\nSep 5, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nHow AI Systems Work: A Technical Overview\n\n\n\nAI\n\ndeep-dive\n\ntechnology\n\n\n\nUnderstanding the mechanics and architecture of modern artificial intelligence systems\n\n\n\n\n\nSep 3, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/002_AI_Dos_And_Donts/index.html",
-    "href": "posts/002_AI_Dos_And_Donts/index.html",
+    "objectID": "posts/000_How_Does_AI_Really_Work/000.html",
+    "href": "posts/000_How_Does_AI_Really_Work/000.html",
+    "title": "How AI Systems Work: A Technical Overview",
+    "section": "",
+    "text": "Artificial intelligence systems like ChatGPT and Claude can engage in conversations, solve problems, and generate content. However, their underlying mechanisms are fundamentally different from human cognition.\nThese systems operate as sophisticated pattern recognition and prediction engines. While they can produce human-like responses, they function by identifying statistical patterns in data rather than developing conceptual understanding.\n AI neural networks are inspired by brain structure but operate through different mechanisms\n\nKey Question: How do statistical pattern-matching systems produce seemingly intelligent behavior?"
+  },
+  {
+    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#understanding-modern-ai-systems",
+    "href": "posts/000_How_Does_AI_Really_Work/000.html#understanding-modern-ai-systems",
+    "title": "How AI Systems Work: A Technical Overview",
+    "section": "",
+    "text": "Artificial intelligence systems like ChatGPT and Claude can engage in conversations, solve problems, and generate content. However, their underlying mechanisms are fundamentally different from human cognition.\nThese systems operate as sophisticated pattern recognition and prediction engines. While they can produce human-like responses, they function by identifying statistical patterns in data rather than developing conceptual understanding.\n AI neural networks are inspired by brain structure but operate through different mechanisms\n\nKey Question: How do statistical pattern-matching systems produce seemingly intelligent behavior?"
+  },
+  {
+    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#core-architecture-prediction-systems",
+    "href": "posts/000_How_Does_AI_Really_Work/000.html#core-architecture-prediction-systems",
+    "title": "How AI Systems Work: A Technical Overview",
+    "section": "Core Architecture: Prediction Systems",
+    "text": "Core Architecture: Prediction Systems\nModern AI systems solve a fundamental prediction problem: given an input, determine the most statistically likely output. This applies whether predicting the next word in text, pixels in an image, or moves in a game.\n\nTransformer Architecture\nCurrent large language models like GPT-4 and Claude use transformer architecture:\n# Simplified transformer process\ndef transformer_prediction(input_text):\n    tokens = tokenize(input_text)  # Convert text to processable units\n    embeddings = convert_to_vectors(tokens)  # Map to numerical representations\n    \n    for layer in neural_layers:\n        embeddings = attention_mechanism(embeddings)  # Identify relationships\n        embeddings = feed_forward(embeddings)  # Process patterns\n    \n    return predict_next_token(embeddings)  # Generate most likely continuation\n Transformer architecture with attention and processing layers\nModern systems operate at significant scale. GPT-3 contains 175 billion parameters trained on 45TB of text data. GPT-4 is estimated to exceed 1 trillion parameters with correspondingly higher computational requirements.\n\n\nAttention Mechanisms\nThe attention mechanism enables models to focus selectively on different input elements when making predictions.\nExample: “The cat sat on the mat because it was comfortable.”\nWhen determining what “it” refers to, the attention mechanism assigns weights: - “cat” (high attention - 0.7) - “mat” (medium attention - 0.2) - “sat” (low attention - 0.1)\nThis mechanism allows processing of relationships between distant elements in sequences."
+  },
+  {
+    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#training-process",
+    "href": "posts/000_How_Does_AI_Really_Work/000.html#training-process",
+    "title": "How AI Systems Work: A Technical Overview",
+    "section": "Training Process",
+    "text": "Training Process\nAI system development occurs through structured training phases that determine capabilities and limitations.\n Complete pipeline from data collection to deployed system\n\nPhase 1: Pre-training\nSystems learn from large text datasets through next-token prediction:\n\nData Collection: Process text from websites, books, and articles\nTokenization: Convert text to discrete units for processing\nPrediction Training: Train models to predict missing tokens in sequences\nParameter Adjustment: Iteratively modify billions of parameters based on prediction accuracy\n\n# Simplified training loop\nfor epoch in range(many_epochs):\n    for text_chunk in massive_dataset:\n        input_tokens = text_chunk[:-1]  # Input sequence\n        target_token = text_chunk[-1]   # Target prediction\n        \n        prediction = model(input_tokens)\n        loss = calculate_error(prediction, target_token)\n        \n        # Update model parameters\n        model.update_weights(loss.gradient())\n\n\nPhase 2: Fine-tuning\nPre-trained models are refined for specific applications:\n\nSupervised Fine-tuning: Training on curated question-answer pairs\nReinforcement Learning from Human Feedback (RLHF): Using human preferences to shape responses\nSafety Training: Implementing guidelines to avoid harmful outputs\n\nThis process transforms basic text predictors into conversational assistants."
+  },
+  {
+    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#emergent-capabilities",
+    "href": "posts/000_How_Does_AI_Really_Work/000.html#emergent-capabilities",
+    "title": "How AI Systems Work: A Technical Overview",
+    "section": "Emergent Capabilities",
+    "text": "Emergent Capabilities\nLarge-scale training produces capabilities that weren’t explicitly programmed. These emergent abilities arise from complex interactions between simple components.\n\nExamples of Emergence\nAs model size increases, new capabilities develop:\nChain-of-Thought Reasoning: Models develop step-by-step problem-solving approaches without explicit training on this strategy.\nIn-Context Learning: Systems can perform new tasks based on examples in prompts without additional training.\n# Example of in-context learning\nprompt = \"\"\"\nTranslate English to French:\nHello → Bonjour\nGoodbye → Au revoir\nThank you → Merci\nGood morning → \n\"\"\"\n\n# Model produces \"Bonjour\" despite no explicit\n# training on this translation task\nCross-Lingual Transfer: Models trained primarily on English can operate effectively in other languages.\nThe mechanisms underlying emergence remain an active research area, with theories including phase transitions, increased representational capacity, and pattern recognition thresholds."
+  },
+  {
+    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#system-limitations",
+    "href": "posts/000_How_Does_AI_Really_Work/000.html#system-limitations",
+    "title": "How AI Systems Work: A Technical Overview",
+    "section": "System Limitations",
+    "text": "System Limitations\nCurrent AI systems have several fundamental constraints that stem from their statistical architecture:\n Overview of AI system capabilities and constraints\n\nPattern Matching vs. Understanding\nAI systems process statistical relationships in symbols rather than developing conceptual understanding. They can accurately reproduce information without grasping underlying mechanisms.\nExample: A system can state that “water boils at 100°C” without understanding molecular behavior, phase transitions, or the physical processes involved.\n\n\nOutput Generation Under Uncertainty\nSystems are designed to produce responses even when lacking relevant information, leading to plausible but potentially inaccurate outputs.\n# Simplified response generation\ndef generate_response(query):\n    if confidence_score &gt; threshold:\n        return retrieve_known_information(query)\n    else:\n        # System still generates output\n        return generate_plausible_response(query)\n\n\nTraining Data Constraints\nModels are limited by their training data cutoff and cannot incorporate new information without retraining.\n\n\nMemory Limitations\nCurrent systems can process limited context windows (typically 4,000-128,000 tokens) with no persistent memory between conversations.\n\n\nCorrelation vs. Causation\nSystems excel at identifying statistical correlations but have limited understanding of causal relationships. They may recognize that umbrella sales correlate with rain without understanding the causal mechanism."
+  },
+  {
+    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#practical-implications",
+    "href": "posts/000_How_Does_AI_Really_Work/000.html#practical-implications",
+    "title": "How AI Systems Work: A Technical Overview",
+    "section": "Practical Implications",
+    "text": "Practical Implications\nUnderstanding AI architecture has important implications for effective use:\n\nSystem Strengths\n\nPattern recognition and text generation capabilities\nRapid processing of large information sets\nAccessible interface for complex tasks\nConsistent performance within training domains\n\n\n\nAppropriate Applications\n\nContent drafting and editing\nInformation synthesis from known sources\nCode generation and debugging assistance\nLanguage translation\nCreative brainstorming\n\n\n\nBest Practices\n\nVerify Important Information: Fact-check outputs for critical applications\nUnderstand Limitations: Recognize domain constraints and knowledge cutoffs\nMaintain Human Oversight: Keep humans involved in important decisions\nRecognize Bias: Be aware that systems reflect training data biases\nUse as Tools: Apply systems as analytical instruments rather than authoritative sources"
+  },
+  {
+    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#future-development",
+    "href": "posts/000_How_Does_AI_Really_Work/000.html#future-development",
+    "title": "How AI Systems Work: A Technical Overview",
+    "section": "Future Development",
+    "text": "Future Development\nCurrent AI systems represent early implementations of statistical learning approaches. Several research directions may expand capabilities:\n\nNear-Term Developments (1-3 years)\n\nMultimodal systems integrating text, images, audio, and video\nExtended context windows for longer conversations and documents\nImproved reasoning and problem-solving capabilities\nSpecialized models optimized for specific domains\n\n\n\nLong-Term Research Areas (10+ years)\n\nArtificial General Intelligence research\nQuestions about machine consciousness and subjective experience\nAI alignment and safety considerations\n\n\n\nActive Research Questions\nResearchers are investigating fundamental questions:\n\nScaling Laws: Relationships between model size, data, and capabilities\nEmergence Mechanisms: Why new abilities appear at certain scales\nAlignment: Ensuring AI systems operate according to intended objectives\nInterpretability: Understanding internal model representations and processes"
+  },
+  {
+    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#summary",
+    "href": "posts/000_How_Does_AI_Really_Work/000.html#summary",
+    "title": "How AI Systems Work: A Technical Overview",
+    "section": "Summary",
+    "text": "Summary\nModern AI systems represent sophisticated statistical engines that process patterns in data to generate human-like outputs. While they demonstrate impressive capabilities, they operate through pattern matching rather than conceptual understanding.\n\nKey Technical Points\nCurrent AI systems achieve intelligent-seeming behavior through statistical pattern processing rather than understanding. This approach has several implications:\n\nFor Users: Understanding system strengths and limitations enables more effective application\nFor Organizations: Appropriate use requires human oversight and verification processes\nFor Society: New frameworks are needed for evaluating machine capabilities and limitations\n\nStatistical pattern matching at scale produces sophisticated behavior, suggesting that aspects of intelligence may be more computational than previously understood.\nAs these systems become more prevalent, understanding their statistical nature becomes increasingly important for effective implementation. The technology continues evolving rapidly, with ongoing research addressing questions about scaling, emergence, and alignment with human objectives.\nThe field represents significant progress in automated pattern recognition and generation, with continued development likely to expand capabilities while maintaining the fundamental statistical architecture.\n\nUnderstanding the technical foundations of AI systems helps inform appropriate use and realistic expectations about current capabilities."
+  },
+  {
+    "objectID": "posts/001_AI_Daily_Guide/001.html",
+    "href": "posts/001_AI_Daily_Guide/001.html",
+    "title": "5 Ways to Use AI Every Day",
+    "section": "",
+    "text": "AI tools like ChatGPT and Claude can handle routine tasks that usually take significant time. Here are five practical applications that work reliably.\n Common tasks where AI provides immediate value"
+  },
+  {
+    "objectID": "posts/001_AI_Daily_Guide/001.html#using-ai-for-daily-tasks",
+    "href": "posts/001_AI_Daily_Guide/001.html#using-ai-for-daily-tasks",
+    "title": "5 Ways to Use AI Every Day",
+    "section": "",
+    "text": "AI tools like ChatGPT and Claude can handle routine tasks that usually take significant time. Here are five practical applications that work reliably.\n Common tasks where AI provides immediate value"
+  },
+  {
+    "objectID": "posts/001_AI_Daily_Guide/001.html#meal-planning-and-recipes",
+    "href": "posts/001_AI_Daily_Guide/001.html#meal-planning-and-recipes",
+    "title": "5 Ways to Use AI Every Day",
+    "section": "1. Meal Planning and Recipes",
+    "text": "1. Meal Planning and Recipes\nTurn ingredients into meal plans instantly.\nBasic ingredient prompt:\nI have chicken breast, rice, and broccoli. \nGive me 3 different 30-minute meals with instructions.\nWeekly planning prompt:\nCreate a 5-day meal plan for 2 people, $60 budget. \nInclude grocery list organized by store section.\n AI generates recipes based on available ingredients and dietary preferences\nAI handles dietary restrictions, cooking time constraints, and budget limitations effectively. The grocery lists are particularly useful since they organize items by store layout."
+  },
+  {
+    "objectID": "posts/001_AI_Daily_Guide/001.html#email-and-message-writing",
+    "href": "posts/001_AI_Daily_Guide/001.html#email-and-message-writing",
+    "title": "5 Ways to Use AI Every Day",
+    "section": "2. Email and Message Writing",
+    "text": "2. Email and Message Writing\nImprove clarity and tone in professional communication.\nEmail revision prompt:\nMake this email more professional and concise:\n[paste your draft]\nDifficult conversation prompt:\nHelp me write a polite but firm email declining this request:\n[explain situation]\nMeeting follow-up prompt:\nDraft a follow-up email summarizing these meeting points:\n[list key decisions and action items]\nThis works for text messages, LinkedIn messages, and any written communication where tone matters."
+  },
+  {
+    "objectID": "posts/001_AI_Daily_Guide/001.html#quick-learning-and-research",
+    "href": "posts/001_AI_Daily_Guide/001.html#quick-learning-and-research",
+    "title": "5 Ways to Use AI Every Day",
+    "section": "3. Quick Learning and Research",
+    "text": "3. Quick Learning and Research\nGet structured explanations on unfamiliar topics.\nConcept explanation prompt:\nExplain [topic] in simple terms, then give me \n5 follow-up questions to test my understanding.\nSkill learning prompt:\nI need to learn Excel pivot tables for work. \nGive me a step-by-step tutorial focusing on the most practical features.\nResearch synthesis prompt:\nCompare the top 3 options for [product/service] \nwith pros and cons for each.\n AI breaks down complex topics into manageable learning steps\nAI excels at creating structured learning paths and synthesizing information from multiple angles."
+  },
+  {
+    "objectID": "posts/001_AI_Daily_Guide/001.html#travel-and-event-planning",
+    "href": "posts/001_AI_Daily_Guide/001.html#travel-and-event-planning",
+    "title": "5 Ways to Use AI Every Day",
+    "section": "4. Travel and Event Planning",
+    "text": "4. Travel and Event Planning\nGenerate detailed itineraries and logistics.\nTrip planning prompt:\nPlan a 3-day weekend trip to [destination] for [number] people \nwith a $[amount] budget. Include transportation, accommodation, \nand daily activities.\nLocal exploration prompt:\nWhat are 5 lesser-known attractions in [city] \nthat locals recommend?\nEvent planning prompt:\nCreate a timeline and checklist for planning a \n[birthday party/dinner party/work event] for [number] people.\nAI handles multiple constraints simultaneously - budget, time, preferences, and logistics."
+  },
+  {
+    "objectID": "posts/001_AI_Daily_Guide/001.html#home-management-and-finances",
+    "href": "posts/001_AI_Daily_Guide/001.html#home-management-and-finances",
+    "title": "5 Ways to Use AI Every Day",
+    "section": "5. Home Management and Finances",
+    "text": "5. Home Management and Finances\nGet practical advice for household and money management.\nHome maintenance prompt:\nMy [appliance/fixture] is [problem description]. \nWalk me through troubleshooting steps from simple to complex.\nBudget planning prompt:\nI make $[amount] monthly, fixed expenses are $[amount]. \nCreate a realistic budget with savings and discretionary spending.\nPurchase decision prompt:\nI'm considering buying [item] for [purpose]. \nWhat factors should I evaluate? Create a decision framework.\n AI provides structured approaches to financial and household decisions\nThese applications work because AI can process multiple variables and provide step-by-step guidance for complex decisions."
+  },
+  {
+    "objectID": "posts/001_AI_Daily_Guide/001.html#implementation-notes",
+    "href": "posts/001_AI_Daily_Guide/001.html#implementation-notes",
+    "title": "5 Ways to Use AI Every Day",
+    "section": "Implementation Notes",
+    "text": "Implementation Notes\nPrompt specificity matters. Include relevant details like budget, timeframe, number of people, and specific constraints.\nFollow-up questions improve results. Ask for alternatives, simplifications, or additional detail as needed.\nSave effective prompts. Keep a note file with prompts that work well for repeated use.\nThese five applications cover the most common daily planning and decision-making tasks. Each provides immediate time savings and often produces better results than manual research."
+  },
+  {
+    "objectID": "posts/002_AI_Dos_And_Donts/002.html",
+    "href": "posts/002_AI_Dos_And_Donts/002.html",
     "title": "AI Do’s and Don’ts: Safe and Effective Usage",
     "section": "",
     "text": "AI tools are powerful but require careful usage. These guidelines help you maximize benefits while avoiding common pitfalls.\n Key principles for responsible AI usage"
   },
   {
-    "objectID": "posts/002_AI_Dos_And_Donts/index.html#essential-ai-guidelines",
-    "href": "posts/002_AI_Dos_And_Donts/index.html#essential-ai-guidelines",
+    "objectID": "posts/002_AI_Dos_And_Donts/002.html#essential-ai-guidelines",
+    "href": "posts/002_AI_Dos_And_Donts/002.html#essential-ai-guidelines",
     "title": "AI Do’s and Don’ts: Safe and Effective Usage",
     "section": "",
     "text": "AI tools are powerful but require careful usage. These guidelines help you maximize benefits while avoiding common pitfalls.\n Key principles for responsible AI usage"
   },
   {
-    "objectID": "posts/002_AI_Dos_And_Donts/index.html#what-to-do",
-    "href": "posts/002_AI_Dos_And_Donts/index.html#what-to-do",
+    "objectID": "posts/002_AI_Dos_And_Donts/002.html#what-to-do",
+    "href": "posts/002_AI_Dos_And_Donts/002.html#what-to-do",
     "title": "AI Do’s and Don’ts: Safe and Effective Usage",
     "section": "What TO Do",
     "text": "What TO Do\n\n✅ Verify Important Information\nAlways fact-check AI outputs for: - Medical or health advice - Financial decisions - Legal matters - Technical specifications - Current events or recent data\nCross-reference with authoritative sources before acting on AI recommendations.\n\n\n✅ Be Specific in Your Prompts\nInstead of: “Help me with my presentation” Use: “Create an outline for a 10-minute sales presentation to executives about Q3 revenue growth”\nSpecific prompts produce more useful results.\n\n\n✅ Use AI for Brainstorming and Drafts\nAI excels at: - Generating initial ideas - Creating first drafts - Organizing thoughts - Providing alternative perspectives\nUse AI output as a starting point, not a final product.\n Proper workflow: AI assists, human validates and refines\n\n\n✅ Maintain Human Judgment\nKeep human oversight for: - Final decision-making - Quality assessment - Ethical considerations - Context that AI might miss\n\n\n✅ Ask Follow-Up Questions\nImprove results by asking: - “Can you explain this differently?” - “What are potential problems with this approach?” - “Give me three alternatives” - “Make this more specific”"
   },
   {
-    "objectID": "posts/002_AI_Dos_And_Donts/index.html#what-not-to-do",
-    "href": "posts/002_AI_Dos_And_Donts/index.html#what-not-to-do",
+    "objectID": "posts/002_AI_Dos_And_Donts/002.html#what-not-to-do",
+    "href": "posts/002_AI_Dos_And_Donts/002.html#what-not-to-do",
     "title": "AI Do’s and Don’ts: Safe and Effective Usage",
     "section": "What NOT to Do",
     "text": "What NOT to Do\n\n❌ Don’t Share Sensitive Information\nNever input: - Passwords or login credentials - Social Security numbers - Credit card details - Proprietary business information - Personal addresses or phone numbers - Private family details\nAssume all AI conversations could be stored or accessed by others.\n\n\n❌ Don’t Rely on AI for Critical Decisions\nAvoid using AI alone for: - Medical diagnoses or treatment - Legal advice or document preparation - Financial investment decisions - Safety-critical calculations - Emergency situations\nConsult qualified professionals for these matters.\n Areas where AI should not be the primary decision maker\n\n\n❌ Don’t Assume AI is Always Accurate\nAI can produce: - Outdated information - Factual errors - Biased responses - Plausible-sounding but incorrect details\nEspecially problematic for recent events or specialized technical information.\n\n\n❌ Don’t Use AI for Harmful Purposes\nAvoid requesting: - Misleading or false content - Harassment or threatening messages - Plagiarism or academic dishonesty - Illegal activity guidance - Discriminatory content\n\n\n❌ Don’t Ignore Context Limitations\nAI doesn’t understand: - Your full personal situation - Unspoken cultural context - Real-time environmental factors - Emotional nuances\nProvide necessary context explicitly in your prompts."
   },
   {
-    "objectID": "posts/002_AI_Dos_And_Donts/index.html#implementation-strategy",
-    "href": "posts/002_AI_Dos_And_Donts/index.html#implementation-strategy",
+    "objectID": "posts/002_AI_Dos_And_Donts/002.html#implementation-strategy",
+    "href": "posts/002_AI_Dos_And_Donts/002.html#implementation-strategy",
     "title": "AI Do’s and Don’ts: Safe and Effective Usage",
     "section": "Implementation Strategy",
     "text": "Implementation Strategy\n\nStart Small\nBegin with low-stakes tasks like email drafting or meal planning before using AI for important projects.\n\n\nBuild Verification Habits\nDevelop a routine of checking AI outputs against reliable sources.\n\n\nKeep Learning\nAI capabilities and limitations evolve. Stay informed about updates and new research.\n\n\nDocument What Works\nSave effective prompts and note which applications produce reliable results for your needs.\n Use these tips and tricks!\nFollowing these guidelines ensures you gain AI’s benefits while avoiding common mistakes that can lead to poor decisions or security issues."
-  },
-  {
-    "objectID": "posts/001_AI_Daily_Guide/index.html",
-    "href": "posts/001_AI_Daily_Guide/index.html",
-    "title": "AI Do’s and Don’ts: Safe and Effective Usage",
-    "section": "",
-    "text": "AI tools are powerful but require careful usage. These guidelines help you maximize benefits while avoiding common pitfalls.\n Key principles for responsible AI usage"
-  },
-  {
-    "objectID": "posts/001_AI_Daily_Guide/index.html#essential-ai-guidelines",
-    "href": "posts/001_AI_Daily_Guide/index.html#essential-ai-guidelines",
-    "title": "AI Do’s and Don’ts: Safe and Effective Usage",
-    "section": "",
-    "text": "AI tools are powerful but require careful usage. These guidelines help you maximize benefits while avoiding common pitfalls.\n Key principles for responsible AI usage"
-  },
-  {
-    "objectID": "posts/001_AI_Daily_Guide/index.html#what-to-do",
-    "href": "posts/001_AI_Daily_Guide/index.html#what-to-do",
-    "title": "AI Do’s and Don’ts: Safe and Effective Usage",
-    "section": "What TO Do",
-    "text": "What TO Do\n\n✅ Verify Important Information\nAlways fact-check AI outputs for: - Medical or health advice - Financial decisions - Legal matters - Technical specifications - Current events or recent data\nCross-reference with authoritative sources before acting on AI recommendations.\n\n\n✅ Be Specific in Your Prompts\nInstead of: “Help me with my presentation” Use: “Create an outline for a 10-minute sales presentation to executives about Q3 revenue growth”\nSpecific prompts produce more useful results.\n\n\n✅ Use AI for Brainstorming and Drafts\nAI excels at: - Generating initial ideas - Creating first drafts - Organizing thoughts - Providing alternative perspectives\nUse AI output as a starting point, not a final product.\n Proper workflow: AI assists, human validates and refines\n\n\n✅ Maintain Human Judgment\nKeep human oversight for: - Final decision-making - Quality assessment - Ethical considerations - Context that AI might miss\n\n\n✅ Ask Follow-Up Questions\nImprove results by asking: - “Can you explain this differently?” - “What are potential problems with this approach?” - “Give me three alternatives” - “Make this more specific”"
-  },
-  {
-    "objectID": "posts/001_AI_Daily_Guide/index.html#what-not-to-do",
-    "href": "posts/001_AI_Daily_Guide/index.html#what-not-to-do",
-    "title": "AI Do’s and Don’ts: Safe and Effective Usage",
-    "section": "What NOT to Do",
-    "text": "What NOT to Do\n\n❌ Don’t Share Sensitive Information\nNever input: - Passwords or login credentials - Social Security numbers - Credit card details - Proprietary business information - Personal addresses or phone numbers - Private family details\nAssume all AI conversations could be stored or accessed by others.\n\n\n❌ Don’t Rely on AI for Critical Decisions\nAvoid using AI alone for: - Medical diagnoses or treatment - Legal advice or document preparation - Financial investment decisions - Safety-critical calculations - Emergency situations\nConsult qualified professionals for these matters.\n Areas where AI should not be the primary decision maker\n\n\n❌ Don’t Assume AI is Always Accurate\nAI can produce: - Outdated information - Factual errors - Biased responses - Plausible-sounding but incorrect details\nEspecially problematic for recent events or specialized technical information.\n\n\n❌ Don’t Use AI for Harmful Purposes\nAvoid requesting: - Misleading or false content - Harassment or threatening messages - Plagiarism or academic dishonesty - Illegal activity guidance - Discriminatory content\n\n\n❌ Don’t Ignore Context Limitations\nAI doesn’t understand: - Your full personal situation - Unspoken cultural context - Real-time environmental factors - Emotional nuances\nProvide necessary context explicitly in your prompts."
-  },
-  {
-    "objectID": "posts/001_AI_Daily_Guide/index.html#implementation-strategy",
-    "href": "posts/001_AI_Daily_Guide/index.html#implementation-strategy",
-    "title": "AI Do’s and Don’ts: Safe and Effective Usage",
-    "section": "Implementation Strategy",
-    "text": "Implementation Strategy\n\nStart Small\nBegin with low-stakes tasks like email drafting or meal planning before using AI for important projects.\n\n\nBuild Verification Habits\nDevelop a routine of checking AI outputs against reliable sources.\n\n\nKeep Learning\nAI capabilities and limitations evolve. Stay informed about updates and new research.\n\n\nDocument What Works\nSave effective prompts and note which applications produce reliable results for your needs.\n Progressive approach to integrating AI into your workflow\nFollowing these guidelines ensures you gain AI’s benefits while avoiding common mistakes that can lead to poor decisions or security issues."
   },
   {
     "objectID": "about.html",
