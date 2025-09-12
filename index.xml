@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>What Can You Do With AI?</title>
-<link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog_Legacy/</link>
-<atom:link href="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog_Legacy/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/</link>
+<atom:link href="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Let&#39;s Find Out</description>
 <generator>quarto-1.7.34</generator>
 <lastBuildDate>Wed, 03 Sep 2025 00:00:00 GMT</lastBuildDate>
 <item>
   <title>How AI Really Works: Beyond the Magic</title>
   <dc:creator>Raymond Liu Ao</dc:creator>
-  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog_Legacy/posts/000_How_Does_AI_Really_Work/</link>
+  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_How_Does_AI_Really_Work/</link>
   <description><![CDATA[ 
 
 
@@ -25,7 +25,7 @@
 <h2 class="anchored" data-anchor-id="the-great-ai-illusion">The Great AI Illusion</h2>
 <p>Artificial Intelligence feels like magic. You ask ChatGPT a question, and it responds with human-like intelligence. You show DALL-E a text prompt, and it creates art. But here’s the uncomfortable truth: <strong>there’s no actual intelligence happening here</strong>.</p>
 <p>What we call “AI” is really an incredibly sophisticated pattern matching system—one that’s so good at finding and reproducing patterns that it can fool us into thinking it understands. Today, we’re going to pull back the curtain and examine exactly how these systems work.</p>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog_Legacy/posts/000_How_Does_AI_Really_Work/neural-network-brain.jpg" class="img-fluid" alt="Neural Network vs Brain"> <em>AI neural networks mimic brain structure but work very differently under the hood</em></p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_How_Does_AI_Really_Work/neural-network-brain.jpg" class="img-fluid" alt="Neural Network vs Brain"> <em>AI neural networks mimic brain structure but work very differently under the hood</em></p>
 <blockquote class="blockquote">
 <p><strong>Key Question:</strong> If AI doesn’t truly “think,” why does it seem so smart?</p>
 </blockquote>
@@ -78,7 +78,7 @@ font-weight: bold;
 font-style: inherit;">return</span> predict_next_token(embeddings)  <span class="co" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;"># Guess what comes next</span></span></code></pre></div>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog_Legacy/posts/000_How_Does_AI_Really_Work/transformer-architecture.jpg" class="img-fluid" alt="Transformer Architecture"> <em>The transformer architecture that powers modern AI - layers of attention and processing</em></p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_How_Does_AI_Really_Work/transformer-architecture.jpg" class="img-fluid" alt="Transformer Architecture"> <em>The transformer architecture that powers modern AI - layers of attention and processing</em></p>
 <p>The scale of modern AI is staggering. GPT-3 has 175 billion parameters and was trained on 45TB of text data at a cost of around $4.6 million. GPT-4 is estimated to have over 1 trillion parameters with training costs exceeding $60 million.</p>
 </section>
 <section id="the-attention-mechanism-how-ai-focuses" class="level3">
@@ -93,7 +93,7 @@ font-style: inherit;"># Guess what comes next</span></span></code></pre></div>
 <section id="the-training-process-teaching-patterns-at-scale" class="level2">
 <h2 class="anchored" data-anchor-id="the-training-process-teaching-patterns-at-scale">The Training Process: Teaching Patterns at Scale</h2>
 <p>Understanding how AI systems learn is crucial to understanding their capabilities and limitations. The training process happens in distinct phases:</p>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog_Legacy/posts/000_How_Does_AI_Really_Work/ai-training-process.jpg" class="img-fluid" alt="AI Training Process"> <em>The complete pipeline from raw data to deployed AI system</em></p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_How_Does_AI_Really_Work/ai-training-process.jpg" class="img-fluid" alt="AI Training Process"> <em>The complete pipeline from raw data to deployed AI system</em></p>
 <section id="phase-1-pre-training-learning-the-world" class="level3">
 <h3 class="anchored" data-anchor-id="phase-1-pre-training-learning-the-world">Phase 1: Pre-training (Learning the World)</h3>
 <p>Imagine you had to read the entire internet and predict what comes next in every sentence. That’s essentially what happens during pre-training:</p>
@@ -212,7 +212,7 @@ font-style: inherit;"># explicitly trained on this translation task</span></span
 <section id="the-fundamental-limitations-what-ai-cant-do" class="level2">
 <h2 class="anchored" data-anchor-id="the-fundamental-limitations-what-ai-cant-do">The Fundamental Limitations: What AI Can’t Do</h2>
 <p>Despite their impressive capabilities, current AI systems have fundamental limitations that stem from their architecture:</p>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog_Legacy/posts/000_How_Does_AI_Really_Work/ai-limitations-chart.jpg" class="img-fluid" alt="AI Limitations Chart"> <em>Understanding what AI can and cannot reliably do</em></p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_How_Does_AI_Really_Work/ai-limitations-chart.jpg" class="img-fluid" alt="AI Limitations Chart"> <em>Understanding what AI can and cannot reliably do</em></p>
 <section id="no-true-understanding" class="level3">
 <h3 class="anchored" data-anchor-id="no-true-understanding">1. No True Understanding</h3>
 <p>AI systems manipulate symbols without understanding their meaning. They’re like a person who can perfectly reproduce Chinese characters without speaking Chinese.</p>
@@ -350,9 +350,9 @@ font-style: inherit;">return</span> generate_plausible_sounding_answer(query)</s
   <category>AI</category>
   <category>deep-dive</category>
   <category>technology</category>
-  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog_Legacy/posts/000_How_Does_AI_Really_Work/</guid>
+  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_How_Does_AI_Really_Work/</guid>
   <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
-  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog_Legacy/posts/000_How_Does_AI_Really_Work/neural-network-brain.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_How_Does_AI_Really_Work/neural-network-brain.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
