@@ -15,6 +15,27 @@ body, html {
   margin-bottom: 2rem;
 }
 
+/* Add transparent grey overlay to banner */
+.banner {
+    position: relative;
+}
+
+.banner::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.4); /* Dark grey with 40% opacity */
+    z-index: 1;
+}
+
+.banner-content {
+    position: relative;
+    z-index: 2; /* Ensures text appears above the overlay */
+}
+
 /* Change the navbar to medium grey with border */
 .navbar {
   background-color: #6B7280 !important;
@@ -37,6 +58,8 @@ body, html {
 h1, h2, h3, h4, h5, h6, p, div, span, a, .nav-link, .navbar-brand {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
+
+
 
 ---
 
