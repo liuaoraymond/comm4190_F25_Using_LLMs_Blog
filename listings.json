@@ -1,6 +1,9 @@
 [
   {
     "listing": "/index.html",
-    "items": []
+    "items": [
+      "/posts/002_AI_Dos_And_Donts/index.html",
+      "/posts/001_AI_Daily_Guide/index.html"
+    ]
   }
 ]

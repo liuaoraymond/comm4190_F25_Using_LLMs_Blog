@@ -9,7 +9,211 @@
 <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/</link>
 <atom:link href="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Let&#39;s Find Out</description>
-<generator>quarto-1.7.34</generator>
-<lastBuildDate>Fri, 12 Sep 2025 14:15:45 GMT</lastBuildDate>
+<generator>quarto-1.8.24</generator>
+<lastBuildDate>Wed, 10 Sep 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>AI Do’s and Don’ts: Safe and Effective Usage</title>
+  <dc:creator>Raymond Liu Ao</dc:creator>
+  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/002_AI_Dos_And_Donts/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="essential-ai-guidelines" class="level2">
+<h2 class="anchored" data-anchor-id="essential-ai-guidelines">Essential AI Guidelines</h2>
+<p>AI tools are powerful but require careful usage. These guidelines help you maximize benefits while avoiding common pitfalls.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/002_AI_Dos_And_Donts/ai-safety-guidelines.jpg" class="img-fluid" alt="AI Safety Guidelines"> <em>Key principles for responsible AI usage</em></p>
+</section>
+<section id="what-to-do" class="level2">
+<h2 class="anchored" data-anchor-id="what-to-do">What TO Do</h2>
+<section id="verify-important-information" class="level3">
+<h3 class="anchored" data-anchor-id="verify-important-information">✅ Verify Important Information</h3>
+<p>Always fact-check AI outputs for: - Medical or health advice - Financial decisions - Legal matters - Technical specifications - Current events or recent data</p>
+<p>Cross-reference with authoritative sources before acting on AI recommendations.</p>
+</section>
+<section id="be-specific-in-your-prompts" class="level3">
+<h3 class="anchored" data-anchor-id="be-specific-in-your-prompts">✅ Be Specific in Your Prompts</h3>
+<p><strong>Instead of:</strong> “Help me with my presentation” <strong>Use:</strong> “Create an outline for a 10-minute sales presentation to executives about Q3 revenue growth”</p>
+<p>Specific prompts produce more useful results.</p>
+</section>
+<section id="use-ai-for-brainstorming-and-drafts" class="level3">
+<h3 class="anchored" data-anchor-id="use-ai-for-brainstorming-and-drafts">✅ Use AI for Brainstorming and Drafts</h3>
+<p>AI excels at: - Generating initial ideas - Creating first drafts - Organizing thoughts - Providing alternative perspectives</p>
+<p>Use AI output as a starting point, not a final product.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/002_AI_Dos_And_Donts/ai-workflow-diagram.jpg" class="img-fluid" alt="AI Workflow Best Practices"> <em>Proper workflow: AI assists, human validates and refines</em></p>
+</section>
+<section id="maintain-human-judgment" class="level3">
+<h3 class="anchored" data-anchor-id="maintain-human-judgment">✅ Maintain Human Judgment</h3>
+<p>Keep human oversight for: - Final decision-making - Quality assessment - Ethical considerations - Context that AI might miss</p>
+</section>
+<section id="ask-follow-up-questions" class="level3">
+<h3 class="anchored" data-anchor-id="ask-follow-up-questions">✅ Ask Follow-Up Questions</h3>
+<p>Improve results by asking: - “Can you explain this differently?” - “What are potential problems with this approach?” - “Give me three alternatives” - “Make this more specific”</p>
+</section>
+</section>
+<section id="what-not-to-do" class="level2">
+<h2 class="anchored" data-anchor-id="what-not-to-do">What NOT to Do</h2>
+<section id="dont-share-sensitive-information" class="level3">
+<h3 class="anchored" data-anchor-id="dont-share-sensitive-information">❌ Don’t Share Sensitive Information</h3>
+<p>Never input: - Passwords or login credentials - Social Security numbers - Credit card details - Proprietary business information - Personal addresses or phone numbers - Private family details</p>
+<p>Assume all AI conversations could be stored or accessed by others.</p>
+</section>
+<section id="dont-rely-on-ai-for-critical-decisions" class="level3">
+<h3 class="anchored" data-anchor-id="dont-rely-on-ai-for-critical-decisions">❌ Don’t Rely on AI for Critical Decisions</h3>
+<p>Avoid using AI alone for: - Medical diagnoses or treatment - Legal advice or document preparation - Financial investment decisions - Safety-critical calculations - Emergency situations</p>
+<p>Consult qualified professionals for these matters.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/002_AI_Dos_And_Donts/ai-security-risks.jpg" class="img-fluid" alt="AI Limitations Warning"> <em>Areas where AI should not be the primary decision maker</em></p>
+</section>
+<section id="dont-assume-ai-is-always-accurate" class="level3">
+<h3 class="anchored" data-anchor-id="dont-assume-ai-is-always-accurate">❌ Don’t Assume AI is Always Accurate</h3>
+<p>AI can produce: - Outdated information - Factual errors - Biased responses - Plausible-sounding but incorrect details</p>
+<p>Especially problematic for recent events or specialized technical information.</p>
+</section>
+<section id="dont-use-ai-for-harmful-purposes" class="level3">
+<h3 class="anchored" data-anchor-id="dont-use-ai-for-harmful-purposes">❌ Don’t Use AI for Harmful Purposes</h3>
+<p>Avoid requesting: - Misleading or false content - Harassment or threatening messages - Plagiarism or academic dishonesty - Illegal activity guidance - Discriminatory content</p>
+</section>
+<section id="dont-ignore-context-limitations" class="level3">
+<h3 class="anchored" data-anchor-id="dont-ignore-context-limitations">❌ Don’t Ignore Context Limitations</h3>
+<p>AI doesn’t understand: - Your full personal situation - Unspoken cultural context - Real-time environmental factors - Emotional nuances</p>
+<p>Provide necessary context explicitly in your prompts.</p>
+</section>
+</section>
+<section id="implementation-strategy" class="level2">
+<h2 class="anchored" data-anchor-id="implementation-strategy">Implementation Strategy</h2>
+<section id="start-small" class="level3">
+<h3 class="anchored" data-anchor-id="start-small">Start Small</h3>
+<p>Begin with low-stakes tasks like email drafting or meal planning before using AI for important projects.</p>
+</section>
+<section id="build-verification-habits" class="level3">
+<h3 class="anchored" data-anchor-id="build-verification-habits">Build Verification Habits</h3>
+<p>Develop a routine of checking AI outputs against reliable sources.</p>
+</section>
+<section id="keep-learning" class="level3">
+<h3 class="anchored" data-anchor-id="keep-learning">Keep Learning</h3>
+<p>AI capabilities and limitations evolve. Stay informed about updates and new research.</p>
+</section>
+<section id="document-what-works" class="level3">
+<h3 class="anchored" data-anchor-id="document-what-works">Document What Works</h3>
+<p>Save effective prompts and note which applications produce reliable results for your needs.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/002_AI_Dos_And_Donts/ai-usage-tips.jpg" class="img-fluid" alt="AI Usage Tips"> <em>Use these tips and tricks!</em></p>
+<p>Following these guidelines ensures you gain AI’s benefits while avoiding common mistakes that can lead to poor decisions or security issues.</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>AI</category>
+  <category>safety</category>
+  <category>guidelines</category>
+  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/002_AI_Dos_And_Donts/</guid>
+  <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/002_AI_Dos_And_Donts/ai-safety-guidelines.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>AI Do’s and Don’ts: Safe and Effective Usage</title>
+  <dc:creator>Raymond Liu Ao</dc:creator>
+  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_AI_Daily_Guide/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="essential-ai-guidelines" class="level2">
+<h2 class="anchored" data-anchor-id="essential-ai-guidelines">Essential AI Guidelines</h2>
+<p>AI tools are powerful but require careful usage. These guidelines help you maximize benefits while avoiding common pitfalls.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_AI_Daily_Guide/ai-safety-guidelines.jpg" class="img-fluid" alt="AI Safety Guidelines"> <em>Key principles for responsible AI usage</em></p>
+</section>
+<section id="what-to-do" class="level2">
+<h2 class="anchored" data-anchor-id="what-to-do">What TO Do</h2>
+<section id="verify-important-information" class="level3">
+<h3 class="anchored" data-anchor-id="verify-important-information">✅ Verify Important Information</h3>
+<p>Always fact-check AI outputs for: - Medical or health advice - Financial decisions - Legal matters - Technical specifications - Current events or recent data</p>
+<p>Cross-reference with authoritative sources before acting on AI recommendations.</p>
+</section>
+<section id="be-specific-in-your-prompts" class="level3">
+<h3 class="anchored" data-anchor-id="be-specific-in-your-prompts">✅ Be Specific in Your Prompts</h3>
+<p><strong>Instead of:</strong> “Help me with my presentation” <strong>Use:</strong> “Create an outline for a 10-minute sales presentation to executives about Q3 revenue growth”</p>
+<p>Specific prompts produce more useful results.</p>
+</section>
+<section id="use-ai-for-brainstorming-and-drafts" class="level3">
+<h3 class="anchored" data-anchor-id="use-ai-for-brainstorming-and-drafts">✅ Use AI for Brainstorming and Drafts</h3>
+<p>AI excels at: - Generating initial ideas - Creating first drafts - Organizing thoughts - Providing alternative perspectives</p>
+<p>Use AI output as a starting point, not a final product.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_AI_Daily_Guide/ai-workflow-diagram.jpg" class="img-fluid" alt="AI Workflow Best Practices"> <em>Proper workflow: AI assists, human validates and refines</em></p>
+</section>
+<section id="maintain-human-judgment" class="level3">
+<h3 class="anchored" data-anchor-id="maintain-human-judgment">✅ Maintain Human Judgment</h3>
+<p>Keep human oversight for: - Final decision-making - Quality assessment - Ethical considerations - Context that AI might miss</p>
+</section>
+<section id="ask-follow-up-questions" class="level3">
+<h3 class="anchored" data-anchor-id="ask-follow-up-questions">✅ Ask Follow-Up Questions</h3>
+<p>Improve results by asking: - “Can you explain this differently?” - “What are potential problems with this approach?” - “Give me three alternatives” - “Make this more specific”</p>
+</section>
+</section>
+<section id="what-not-to-do" class="level2">
+<h2 class="anchored" data-anchor-id="what-not-to-do">What NOT to Do</h2>
+<section id="dont-share-sensitive-information" class="level3">
+<h3 class="anchored" data-anchor-id="dont-share-sensitive-information">❌ Don’t Share Sensitive Information</h3>
+<p>Never input: - Passwords or login credentials - Social Security numbers - Credit card details - Proprietary business information - Personal addresses or phone numbers - Private family details</p>
+<p>Assume all AI conversations could be stored or accessed by others.</p>
+</section>
+<section id="dont-rely-on-ai-for-critical-decisions" class="level3">
+<h3 class="anchored" data-anchor-id="dont-rely-on-ai-for-critical-decisions">❌ Don’t Rely on AI for Critical Decisions</h3>
+<p>Avoid using AI alone for: - Medical diagnoses or treatment - Legal advice or document preparation - Financial investment decisions - Safety-critical calculations - Emergency situations</p>
+<p>Consult qualified professionals for these matters.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_AI_Daily_Guide/ai-limitations-chart.jpg" class="img-fluid" alt="AI Limitations Warning"> <em>Areas where AI should not be the primary decision maker</em></p>
+</section>
+<section id="dont-assume-ai-is-always-accurate" class="level3">
+<h3 class="anchored" data-anchor-id="dont-assume-ai-is-always-accurate">❌ Don’t Assume AI is Always Accurate</h3>
+<p>AI can produce: - Outdated information - Factual errors - Biased responses - Plausible-sounding but incorrect details</p>
+<p>Especially problematic for recent events or specialized technical information.</p>
+</section>
+<section id="dont-use-ai-for-harmful-purposes" class="level3">
+<h3 class="anchored" data-anchor-id="dont-use-ai-for-harmful-purposes">❌ Don’t Use AI for Harmful Purposes</h3>
+<p>Avoid requesting: - Misleading or false content - Harassment or threatening messages - Plagiarism or academic dishonesty - Illegal activity guidance - Discriminatory content</p>
+</section>
+<section id="dont-ignore-context-limitations" class="level3">
+<h3 class="anchored" data-anchor-id="dont-ignore-context-limitations">❌ Don’t Ignore Context Limitations</h3>
+<p>AI doesn’t understand: - Your full personal situation - Unspoken cultural context - Real-time environmental factors - Emotional nuances</p>
+<p>Provide necessary context explicitly in your prompts.</p>
+</section>
+</section>
+<section id="implementation-strategy" class="level2">
+<h2 class="anchored" data-anchor-id="implementation-strategy">Implementation Strategy</h2>
+<section id="start-small" class="level3">
+<h3 class="anchored" data-anchor-id="start-small">Start Small</h3>
+<p>Begin with low-stakes tasks like email drafting or meal planning before using AI for important projects.</p>
+</section>
+<section id="build-verification-habits" class="level3">
+<h3 class="anchored" data-anchor-id="build-verification-habits">Build Verification Habits</h3>
+<p>Develop a routine of checking AI outputs against reliable sources.</p>
+</section>
+<section id="keep-learning" class="level3">
+<h3 class="anchored" data-anchor-id="keep-learning">Keep Learning</h3>
+<p>AI capabilities and limitations evolve. Stay informed about updates and new research.</p>
+</section>
+<section id="document-what-works" class="level3">
+<h3 class="anchored" data-anchor-id="document-what-works">Document What Works</h3>
+<p>Save effective prompts and note which applications produce reliable results for your needs.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_AI_Daily_Guide/ai-integration-steps.jpg" class="img-fluid" alt="AI Integration Roadmap"> <em>Progressive approach to integrating AI into your workflow</em></p>
+<p>Following these guidelines ensures you gain AI’s benefits while avoiding common mistakes that can lead to poor decisions or security issues.</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>AI</category>
+  <category>safety</category>
+  <category>guidelines</category>
+  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_AI_Daily_Guide/</guid>
+  <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_AI_Daily_Guide/ai-safety-guidelines.jpg" medium="image" type="image/jpeg"/>
+</item>
 </channel>
 </rss>
