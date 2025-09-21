@@ -10,7 +10,163 @@
 <atom:link href="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Let&#39;s Find Out</description>
 <generator>quarto-1.8.24</generator>
-<lastBuildDate>Wed, 10 Sep 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 19 Sep 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>AI Fitness Coaching at Home</title>
+  <dc:creator>Raymond Liu Ao</dc:creator>
+  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/005_AI_Fitness_Coaching_at_Home/005.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="working-out-with-ai-guidance" class="level2">
+<h2 class="anchored" data-anchor-id="working-out-with-ai-guidance">Working Out with AI Guidance</h2>
+<p>I tried the Freeletics app today instead of going to the gym. It uses your phone’s camera to watch your form and give feedback in real time, which felt like having a trainer watching you.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/005_AI_Fitness_Coaching_at_Home/ai-form-analysis.jpg" class="img-fluid" alt="AI Form Analysis"> <em>Smartphone analyzing exercise form with real-time feedback</em></p>
+</section>
+<section id="how-it-works" class="level2">
+<h2 class="anchored" data-anchor-id="how-it-works">How It Works</h2>
+<section id="real-time-form-correction" class="level3">
+<h3 class="anchored" data-anchor-id="real-time-form-correction">Real-Time Form Correction</h3>
+<p>You prop your phone up and the camera tracks your movements. When I was doing squats, it noticed I wasn’t going low enough and told me to “squat deeper” right as I was doing the exercise. It also caught that I was leaning too far forward.</p>
+</section>
+<section id="counts-reps-automatically" class="level3">
+<h3 class="anchored" data-anchor-id="counts-reps-automatically">Counts Reps Automatically</h3>
+<p>The app counts your repetitions so you don’t have to keep track. It only counts reps with proper form, so if your push-up doesn’t go low enough, it won’t count it.</p>
+</section>
+<section id="adjusts-based-on-performance" class="level3">
+<h3 class="anchored" data-anchor-id="adjusts-based-on-performance">Adjusts Based on Performance</h3>
+<p>When I started struggling with burpees halfway through, the app suggested switching to a modified version. It seemed to pick up on the fact that my form was getting sloppy and offered an easier variation.</p>
+</section>
+</section>
+<section id="what-works-well" class="level2">
+<h2 class="anchored" data-anchor-id="what-works-well">What Works Well</h2>
+<section id="form-feedback" class="level3">
+<h3 class="anchored" data-anchor-id="form-feedback">Form Feedback</h3>
+<p>The corrections are actually helpful. It’s like having someone watch you who knows what proper form looks like. Caught several things I didn’t realize I was doing wrong.</p>
+</section>
+<section id="no-equipment-needed" class="level3">
+<h3 class="anchored" data-anchor-id="no-equipment-needed">No Equipment Needed</h3>
+<p>All bodyweight exercises, so you can do it anywhere. The app designs workouts based on what space and time you have available.</p>
+</section>
+<section id="adapts-to-your-level" class="level3">
+<h3 class="anchored" data-anchor-id="adapts-to-your-level">Adapts to Your Level</h3>
+<p>Starts with easier exercises and gradually increases difficulty based on how you perform. If you’re struggling, it scales back. If you’re crushing it, it adds more challenging moves.</p>
+</section>
+<section id="tracks-progress-over-time" class="level3">
+<h3 class="anchored" data-anchor-id="tracks-progress-over-time">Tracks Progress Over Time</h3>
+<p>Keeps track of how many reps you can do and how your form improves. You can see whether you’re getting stronger or if certain exercises are still difficult.</p>
+</section>
+</section>
+<section id="limitations" class="level2">
+<h2 class="anchored" data-anchor-id="limitations">Limitations</h2>
+<section id="camera-angle-matters" class="level3">
+<h3 class="anchored" data-anchor-id="camera-angle-matters">Camera Angle Matters</h3>
+<p>You need to position your phone correctly for it to see your whole body. Took a few tries to get the angle right.</p>
+</section>
+<section id="lighting-requirements" class="level3">
+<h3 class="anchored" data-anchor-id="lighting-requirements">Lighting Requirements</h3>
+<p>Works better in good lighting. Had trouble tracking movements when the room was too dim.</p>
+</section>
+<section id="limited-exercise-types" class="level3">
+<h3 class="anchored" data-anchor-id="limited-exercise-types">Limited Exercise Types</h3>
+<p>Focuses mainly on bodyweight movements. If you want to lift weights or use equipment, you’ll need a different approach.</p>
+</section>
+<section id="not-always-perfect" class="level3">
+<h3 class="anchored" data-anchor-id="not-always-perfect">Not Always Perfect</h3>
+<p>Sometimes misses form issues or gives feedback that doesn’t quite match what you’re doing. Still better than working out with no guidance, but not as precise as a human trainer.</p>
+<p>It’s a solid option for home workouts when you want some structure and feedback. The form correction feature is genuinely useful, especially for exercises you’re not familiar with.</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>AI</category>
+  <category>fitness</category>
+  <category>health</category>
+  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/005_AI_Fitness_Coaching_at_Home/005.html</guid>
+  <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/005_AI_Fitness_Coaching_at_Home/ai-form-analysis.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>AI-Assisted Grocery Shopping and Meal Prep</title>
+  <dc:creator>Raymond Liu Ao</dc:creator>
+  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/004_AI-Assisted_Grocery_Shopping_and_Meal_Prep/004.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="smarter-grocery-shopping" class="level2">
+<h2 class="anchored" data-anchor-id="smarter-grocery-shopping">Smarter Grocery Shopping</h2>
+<p>I tried out the AnyList grocery app today and it’s different from just writing things down on paper. Instead of my usual scattered notes and forgotten items, the app organizes everything and suggests what I might need.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/004_AI-Assisted_Grocery_Shopping_and_Meal_Prep/smart-grocery-list.jpg" class="img-fluid" alt="Smart Grocery List"> <em>AI-generated grocery list organized by store layout</em></p>
+</section>
+<section id="what-it-actually-does" class="level2">
+<h2 class="anchored" data-anchor-id="what-it-actually-does">What It Actually Does</h2>
+<section id="tracks-what-you-need" class="level3">
+<h3 class="anchored" data-anchor-id="tracks-what-you-need">Tracks What You Need</h3>
+<p>The app learns from your purchase history and can predict when you’re running low on regular items. It suggested I needed milk and bread this week before I even thought about it. Not perfect, but surprisingly accurate for staples I buy regularly.</p>
+</section>
+<section id="organizes-by-store-layout" class="level3">
+<h3 class="anchored" data-anchor-id="organizes-by-store-layout">Organizes by Store Layout</h3>
+<p>Instead of jumping around the store, the list is organized by sections - produce, dairy, meat, etc. Some apps even know the specific layout of stores you frequent, so your list follows the actual aisles.</p>
+</section>
+<section id="meal-planning-integration" class="level3">
+<h3 class="anchored" data-anchor-id="meal-planning-integration">Meal Planning Integration</h3>
+<p>You can add meals for the week and it automatically generates ingredient lists. When I planned tacos for Tuesday, it added ground beef, tortillas, and lettuce to my list. It also checked what I already had at home based on recent purchases.</p>
+</section>
+</section>
+<section id="practical-benefits" class="level2">
+<h2 class="anchored" data-anchor-id="practical-benefits">Practical Benefits</h2>
+<section id="less-time-in-store" class="level3">
+<h3 class="anchored" data-anchor-id="less-time-in-store">Less Time in Store</h3>
+<p>Following an organized list means less wandering around looking for items. I’ve noticed my shopping trips are about 15-20 minutes shorter.</p>
+</section>
+<section id="fewer-forgotten-items" class="level3">
+<h3 class="anchored" data-anchor-id="fewer-forgotten-items">Fewer Forgotten Items</h3>
+<p>The app remembers things I consistently buy but often forget to write down, like batteries or cleaning supplies.</p>
+</section>
+<section id="better-meal-planning" class="level3">
+<h3 class="anchored" data-anchor-id="better-meal-planning">Better Meal Planning</h3>
+<p>When you can see ingredient costs upfront, it’s easier to plan meals within budget. The app sometimes suggests cheaper alternatives for expensive items.</p>
+</section>
+<section id="automatic-coupons" class="level3">
+<h3 class="anchored" data-anchor-id="automatic-coupons">Automatic Coupons</h3>
+<p>Many apps integrate with store loyalty programs and apply relevant coupons automatically. I’ve saved money without having to hunt for deals.</p>
+</section>
+</section>
+<section id="what-doesnt-work-perfectly" class="level2">
+<h2 class="anchored" data-anchor-id="what-doesnt-work-perfectly">What Doesn’t Work Perfectly</h2>
+<section id="learning-period" class="level3">
+<h3 class="anchored" data-anchor-id="learning-period">Learning Period</h3>
+<p>It takes a few weeks for the app to understand your shopping patterns. Early suggestions were often wrong.</p>
+</section>
+<section id="store-specific-features" class="level3">
+<h3 class="anchored" data-anchor-id="store-specific-features">Store-Specific Features</h3>
+<p>Advanced features like aisle mapping only work with certain grocery chains. Smaller or independent stores usually don’t have this integration.</p>
+</section>
+<section id="fresh-produce-timing" class="level3">
+<h3 class="anchored" data-anchor-id="fresh-produce-timing">Fresh Produce Timing</h3>
+<p>The AI isn’t great at predicting when you need fresh items since it depends on how quickly you use them.</p>
+<p>Overall, it’s a useful tool that makes grocery shopping more organized. The meal planning aspect is particularly helpful for busy weeks when you need to think ahead. Not essential, but definitely convenient once you get used to it.</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>AI</category>
+  <category>daily-life</category>
+  <category>productivity</category>
+  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/004_AI-Assisted_Grocery_Shopping_and_Meal_Prep/004.html</guid>
+  <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/004_AI-Assisted_Grocery_Shopping_and_Meal_Prep/smart-fridge-inventory.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>AI Do’s and Don’ts: Safe and Effective Usage</title>
   <dc:creator>Raymond Liu Ao</dc:creator>
@@ -560,6 +716,33 @@ font-style: inherit;">return</span> generate_plausible_response(query)</span></c
   <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_How_Does_AI_Really_Work/000.html</guid>
   <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
   <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_How_Does_AI_Really_Work/neural-network-brain.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Using AI for Research</title>
+  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/003_Research_with_Perplexity_AI/003.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>—: "Research with Perplexity AI": "How AI-powered search is changing the way we gather and analyze information": "Raymond Liu Ao": "9/15/2025":- AI- research- productivity: "perplexity-research.jpg"—</p>
+<p>I’ve been trying out Perplexity AI for research tasks lately. It’s different from regular Google searches because it synthesizes information from multiple sources and gives you one coherent answer with citations. <img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/003_Research_with_Perplexity_AI/perplexity-research.jpg" class="img-fluid" alt="Perplexity AI Interface"> <em>Perplexity AI interface showing search results with sources</em></p>
+<section id="how-it-works-getting-information-from-multiple-sourcesof-opening-multiple-tabs-and-reading-through-different-articles-perplexity-pulls-information-from-various-sources-and-combines-it-into-a-single-response.-when-i-was-researching-market-trends-for-a-work-project-i-got-a-summary-that-included-key-points-from-several-industry-reports-all-with-proper-citations.-follow-up-questionscan-ask-follow-up-questions-that-build-on-your-previous-search.-after-asking-about-sustainable-packaging-trends-2025-i-could-continue-with--what-are-the-cost-implications--which-companies-are-leading-this-transition--how-does-this-compare-to-2024-predictionsai-remembers-the-context-so-you-dont-need-to-re-explain-what-youre-looking-for.perplexity-search-resultslive-citations-and-source-integration-in-action" class="level2">
+<h2 class="anchored" data-anchor-id="how-it-works-getting-information-from-multiple-sourcesof-opening-multiple-tabs-and-reading-through-different-articles-perplexity-pulls-information-from-various-sources-and-combines-it-into-a-single-response.-when-i-was-researching-market-trends-for-a-work-project-i-got-a-summary-that-included-key-points-from-several-industry-reports-all-with-proper-citations.-follow-up-questionscan-ask-follow-up-questions-that-build-on-your-previous-search.-after-asking-about-sustainable-packaging-trends-2025-i-could-continue-with--what-are-the-cost-implications--which-companies-are-leading-this-transition--how-does-this-compare-to-2024-predictionsai-remembers-the-context-so-you-dont-need-to-re-explain-what-youre-looking-for.perplexity-search-resultslive-citations-and-source-integration-in-action">How It Works### Getting Information from Multiple Sourcesof opening multiple tabs and reading through different articles, Perplexity pulls information from various sources and combines it into a single response. When I was researching market trends for a work project, I got a summary that included key points from several industry reports, all with proper citations.### Follow-up Questionscan ask follow-up questions that build on your previous search. After asking about "sustainable packaging trends 2025," I could continue with:- "What are the cost implications?"- "Which companies are leading this transition?"- "How does this compare to 2024 predictions?"AI remembers the context, so you don’t need to re-explain what you’re looking for.<img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/003_Research_with_Perplexity_AI/perplexity-citations.jpg" class="img-fluid" alt="Perplexity Search Results">Live citations and source integration in action*</h2>
+</section>
+<section id="when-its-useful-academic-workfor-getting-an-overview-of-research-topics-and-finding-relevant-studies.-helps-identify-whats-already-been-studied-and-where-there-might-be-gaps.-business-researchfor-market-analysis-and-industry-trends.-you-can-ask-specific-questions-and-get-answers-that-draw-from-recent-reports-and-news-sources.-learning-new-topicsyoure-unfamiliar-with-a-subject-it-can-explain-concepts-and-provide-background-without-having-to-piece-together-information-from-multiple-websites.-fact-checkingit-shows-sources-for-each-piece-of-information-its-easier-to-verify-claims-and-see-where-data-comes-from." class="level2">
+<h2 class="anchored" data-anchor-id="when-its-useful-academic-workfor-getting-an-overview-of-research-topics-and-finding-relevant-studies.-helps-identify-whats-already-been-studied-and-where-there-might-be-gaps.-business-researchfor-market-analysis-and-industry-trends.-you-can-ask-specific-questions-and-get-answers-that-draw-from-recent-reports-and-news-sources.-learning-new-topicsyoure-unfamiliar-with-a-subject-it-can-explain-concepts-and-provide-background-without-having-to-piece-together-information-from-multiple-websites.-fact-checkingit-shows-sources-for-each-piece-of-information-its-easier-to-verify-claims-and-see-where-data-comes-from.">When It’s Useful### Academic Workfor getting an overview of research topics and finding relevant studies. Helps identify what’s already been studied and where there might be gaps.### Business Researchfor market analysis and industry trends. You can ask specific questions and get answers that draw from recent reports and news sources.### Learning New Topicsyou’re unfamiliar with a subject, it can explain concepts and provide background without having to piece together information from multiple websites.### Fact-Checkingit shows sources for each piece of information, it’s easier to verify claims and see where data comes from.</h2>
+</section>
+<section id="what-ive-found-saves-timemain-benefit-is-speed.-you-get-the-key-information-faster-since-its-already-compiled-from-multiple-sources.-you-still-need-to-read-the-original-sources-for-details-but-the-initial-overview-is-much-quicker.-clear-sourcespiece-of-information-comes-with-citations-so-you-can-see-exactly-where-it-came-from-and-verify-it-if-needed.-handles-context-wellconversation-aspect-works-better-than-i-expected.-you-can-refine-questions-or-explore-related-topics-without-starting-over.-shows-different-viewpointssources-disagree-it-usually-mentions-the-different-perspectives-rather-than-just-presenting-one-view.s-a-useful-tool-for-the-initial-stages-of-research-when-you-need-to-understand-a-topic-quickly-or-gather-information-from-multiple-sources.-not-a-replacement-for-thorough-research-but-it-does-help-speed-up-the-information-gathering-process." class="level2">
+<h2 class="anchored" data-anchor-id="what-ive-found-saves-timemain-benefit-is-speed.-you-get-the-key-information-faster-since-its-already-compiled-from-multiple-sources.-you-still-need-to-read-the-original-sources-for-details-but-the-initial-overview-is-much-quicker.-clear-sourcespiece-of-information-comes-with-citations-so-you-can-see-exactly-where-it-came-from-and-verify-it-if-needed.-handles-context-wellconversation-aspect-works-better-than-i-expected.-you-can-refine-questions-or-explore-related-topics-without-starting-over.-shows-different-viewpointssources-disagree-it-usually-mentions-the-different-perspectives-rather-than-just-presenting-one-view.s-a-useful-tool-for-the-initial-stages-of-research-when-you-need-to-understand-a-topic-quickly-or-gather-information-from-multiple-sources.-not-a-replacement-for-thorough-research-but-it-does-help-speed-up-the-information-gathering-process.">What I’ve Found### Saves Timemain benefit is speed. You get the key information faster since it’s already compiled from multiple sources. You still need to read the original sources for details, but the initial overview is much quicker.### Clear Sourcespiece of information comes with citations, so you can see exactly where it came from and verify it if needed.### Handles Context Wellconversation aspect works better than I expected. You can refine questions or explore related topics without starting over.### Shows Different Viewpointssources disagree, it usually mentions the different perspectives rather than just presenting one view.’s a useful tool for the initial stages of research when you need to understand a topic quickly or gather information from multiple sources. Not a replacement for thorough research, but it does help speed up the information gathering process.</h2>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/003_Research_with_Perplexity_AI/003.html</guid>
+  <pubDate>Sun, 21 Sep 2025 18:50:59 GMT</pubDate>
 </item>
 </channel>
 </rss>
