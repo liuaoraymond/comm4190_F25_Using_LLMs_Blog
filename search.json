@@ -1,45 +1,199 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "What Can You Do With AI?"
+  },
+  {
+    "objectID": "about.html#section",
+    "href": "about.html#section",
+    "title": "About",
+    "section": "",
+    "text": "What Can You Do With AI?"
+  },
+  {
+    "objectID": "about.html#raymond-liu-ao",
+    "href": "about.html#raymond-liu-ao",
+    "title": "About",
+    "section": "Raymond Liu Ao",
+    "text": "Raymond Liu Ao\nOriginally from Lima, Peru, I am a Philosophy, Politics, and Economics (PPE) student at the University of Pennsylvania. Interested in exploring the uses and implications of AI in daily life, this blog discusses how LLM can help us (or not) in commonly encountered scenarios.\n–"
+  },
+  {
+    "objectID": "posts/002_AI_Dos_And_Donts/002.html",
+    "href": "posts/002_AI_Dos_And_Donts/002.html",
+    "title": "AI Do’s and Don’ts: Safe and Effective Usage",
+    "section": "",
+    "text": "AI tools are powerful but require careful usage. These guidelines help you maximize benefits while avoiding common pitfalls.\n Key principles for responsible AI usage"
+  },
+  {
+    "objectID": "posts/002_AI_Dos_And_Donts/002.html#essential-ai-guidelines",
+    "href": "posts/002_AI_Dos_And_Donts/002.html#essential-ai-guidelines",
+    "title": "AI Do’s and Don’ts: Safe and Effective Usage",
+    "section": "",
+    "text": "AI tools are powerful but require careful usage. These guidelines help you maximize benefits while avoiding common pitfalls.\n Key principles for responsible AI usage"
+  },
+  {
+    "objectID": "posts/002_AI_Dos_And_Donts/002.html#what-to-do",
+    "href": "posts/002_AI_Dos_And_Donts/002.html#what-to-do",
+    "title": "AI Do’s and Don’ts: Safe and Effective Usage",
+    "section": "What TO Do",
+    "text": "What TO Do\n\n✅ Verify Important Information\nAlways fact-check AI outputs for: - Medical or health advice - Financial decisions - Legal matters - Technical specifications - Current events or recent data\nCross-reference with authoritative sources before acting on AI recommendations.\n\n\n✅ Be Specific in Your Prompts\nInstead of: “Help me with my presentation” Use: “Create an outline for a 10-minute sales presentation to executives about Q3 revenue growth”\nSpecific prompts produce more useful results.\n\n\n✅ Use AI for Brainstorming and Drafts\nAI excels at: - Generating initial ideas - Creating first drafts - Organizing thoughts - Providing alternative perspectives\nUse AI output as a starting point, not a final product.\n Proper workflow: AI assists, human validates and refines\n\n\n✅ Maintain Human Judgment\nKeep human oversight for: - Final decision-making - Quality assessment - Ethical considerations - Context that AI might miss\n\n\n✅ Ask Follow-Up Questions\nImprove results by asking: - “Can you explain this differently?” - “What are potential problems with this approach?” - “Give me three alternatives” - “Make this more specific”"
+  },
+  {
+    "objectID": "posts/002_AI_Dos_And_Donts/002.html#what-not-to-do",
+    "href": "posts/002_AI_Dos_And_Donts/002.html#what-not-to-do",
+    "title": "AI Do’s and Don’ts: Safe and Effective Usage",
+    "section": "What NOT to Do",
+    "text": "What NOT to Do\n\n❌ Don’t Share Sensitive Information\nNever input: - Passwords or login credentials - Social Security numbers - Credit card details - Proprietary business information - Personal addresses or phone numbers - Private family details\nAssume all AI conversations could be stored or accessed by others.\n\n\n❌ Don’t Rely on AI for Critical Decisions\nAvoid using AI alone for: - Medical diagnoses or treatment - Legal advice or document preparation - Financial investment decisions - Safety-critical calculations - Emergency situations\nConsult qualified professionals for these matters.\n Areas where AI should not be the primary decision maker\n\n\n❌ Don’t Assume AI is Always Accurate\nAI can produce: - Outdated information - Factual errors - Biased responses - Plausible-sounding but incorrect details\nEspecially problematic for recent events or specialized technical information.\n\n\n❌ Don’t Use AI for Harmful Purposes\nAvoid requesting: - Misleading or false content - Harassment or threatening messages - Plagiarism or academic dishonesty - Illegal activity guidance - Discriminatory content\n\n\n❌ Don’t Ignore Context Limitations\nAI doesn’t understand: - Your full personal situation - Unspoken cultural context - Real-time environmental factors - Emotional nuances\nProvide necessary context explicitly in your prompts."
+  },
+  {
+    "objectID": "posts/002_AI_Dos_And_Donts/002.html#implementation-strategy",
+    "href": "posts/002_AI_Dos_And_Donts/002.html#implementation-strategy",
+    "title": "AI Do’s and Don’ts: Safe and Effective Usage",
+    "section": "Implementation Strategy",
+    "text": "Implementation Strategy\n\nStart Small\nBegin with low-stakes tasks like email drafting or meal planning before using AI for important projects.\n\n\nBuild Verification Habits\nDevelop a routine of checking AI outputs against reliable sources.\n\n\nKeep Learning\nAI capabilities and limitations evolve. Stay informed about updates and new research.\n\n\nDocument What Works\nSave effective prompts and note which applications produce reliable results for your needs.\n Use these tips and tricks!\nFollowing these guidelines ensures you gain AI’s benefits while avoiding common mistakes that can lead to poor decisions or security issues."
+  },
+  {
+    "objectID": "posts/003_Research_with_Perplexity_AI/003.html",
+    "href": "posts/003_Research_with_Perplexity_AI/003.html",
+    "title": "Research with Perplexity AI",
+    "section": "",
+    "text": "I’ve been trying out Perplexity AI for research tasks lately. It’s different from regular Google searches because it synthesizes information from multiple sources and gives you one coherent answer with citations.\n Perplexity AI interface showing search results with sources"
+  },
+  {
+    "objectID": "posts/003_Research_with_Perplexity_AI/003.html#using-ai-for-research",
+    "href": "posts/003_Research_with_Perplexity_AI/003.html#using-ai-for-research",
+    "title": "Research with Perplexity AI",
+    "section": "",
+    "text": "I’ve been trying out Perplexity AI for research tasks lately. It’s different from regular Google searches because it synthesizes information from multiple sources and gives you one coherent answer with citations.\n Perplexity AI interface showing search results with sources"
+  },
+  {
+    "objectID": "posts/003_Research_with_Perplexity_AI/003.html#how-it-works",
+    "href": "posts/003_Research_with_Perplexity_AI/003.html#how-it-works",
+    "title": "Research with Perplexity AI",
+    "section": "How It Works",
+    "text": "How It Works\n\nGetting Information from Multiple Sources\nInstead of opening multiple tabs and reading through different articles, Perplexity pulls information from various sources and combines it into a single response. When I was researching market trends for a work project, I got a summary that included key points from several industry reports, all with proper citations.\n\n\nFollow-up Questions\nYou can ask follow-up questions that build on your previous search. After asking about “sustainable packaging trends 2025,” I could continue with: - “What are the cost implications?” - “Which companies are leading this transition?” - “How does this compare to 2024 predictions?”\nThe AI remembers the context, so you don’t need to re-explain what you’re looking for.\n Live citations and source integration in action"
+  },
+  {
+    "objectID": "posts/003_Research_with_Perplexity_AI/003.html#when-its-useful",
+    "href": "posts/003_Research_with_Perplexity_AI/003.html#when-its-useful",
+    "title": "Research with Perplexity AI",
+    "section": "When It’s Useful",
+    "text": "When It’s Useful\n\nAcademic Work\nGood for getting an overview of research topics and finding relevant studies. Helps identify what’s already been studied and where there might be gaps.\n\n\nBusiness Research\nUseful for market analysis and industry trends. You can ask specific questions and get answers that draw from recent reports and news sources.\n\n\nLearning New Topics\nWhen you’re unfamiliar with a subject, it can explain concepts and provide background without having to piece together information from multiple websites.\n\n\nFact-Checking\nSince it shows sources for each piece of information, it’s easier to verify claims and see where data comes from."
+  },
+  {
+    "objectID": "posts/003_Research_with_Perplexity_AI/003.html#what-ive-found",
+    "href": "posts/003_Research_with_Perplexity_AI/003.html#what-ive-found",
+    "title": "Research with Perplexity AI",
+    "section": "What I’ve Found",
+    "text": "What I’ve Found\n\nSaves Time\nThe main benefit is speed. You get the key information faster since it’s already compiled from multiple sources. You still need to read the original sources for details, but the initial overview is much quicker.\n\n\nClear Sources\nEvery piece of information comes with citations, so you can see exactly where it came from and verify it if needed.\n\n\nHandles Context Well\nThe conversation aspect works better than I expected. You can refine questions or explore related topics without starting over.\n\n\nShows Different Viewpoints\nWhen sources disagree, it usually mentions the different perspectives rather than just presenting one view.\nIt’s a useful tool for the initial stages of research when you need to understand a topic quickly or gather information from multiple sources. Not a replacement for thorough research, but it does help speed up the information gathering process."
+  },
+  {
+    "objectID": "posts/006_Cuzco_Crunch/006.html",
+    "href": "posts/006_Cuzco_Crunch/006.html",
+    "title": "Building a Brand with AI: Cuzco Crunch",
+    "section": "",
+    "text": "Eury and I decided to try building a snack brand called Cuzco Crunch, mostly to see how much of the process we could handle using AI tools. We are just experimenting with what’s possible when you use GPT for everything from naming to packaging concepts.\n Initial logo concepts generated through AI prompting"
+  },
+  {
+    "objectID": "posts/006_Cuzco_Crunch/006.html#creating-a-brand-with-ai",
+    "href": "posts/006_Cuzco_Crunch/006.html#creating-a-brand-with-ai",
+    "title": "Building a Brand with AI: Cuzco Crunch",
+    "section": "",
+    "text": "Eury and I decided to try building a snack brand called Cuzco Crunch, mostly to see how much of the process we could handle using AI tools. We are just experimenting with what’s possible when you use GPT for everything from naming to packaging concepts.\n Initial logo concepts generated through AI prompting"
+  },
+  {
+    "objectID": "posts/006_Cuzco_Crunch/006.html#what-were-using-ai-for",
+    "href": "posts/006_Cuzco_Crunch/006.html#what-were-using-ai-for",
+    "title": "Building a Brand with AI: Cuzco Crunch",
+    "section": "What We’re Using AI For",
+    "text": "What We’re Using AI For\n\nBrand Development\nThe name “Cuzco Crunch” came from asking GPT to suggest names that sounded distinctive but not too weird. We wanted something that hinted at South American flavors without being too on-the-nose. It generated about 30 options and this one felt right.\n\n\nPackaging Design Direction\nWe’re using AI to create mood boards and design concepts. Instead of hiring a designer upfront, we’re generating different packaging styles to see what resonates. The AI helps us think through color schemes, typography, and overall brand personality.\n\n\nMarketing Copy\nProduct descriptions, social media posts, and even this blog post started with AI-generated drafts that we then edited. It’s faster than staring at a blank page, and sometimes the AI suggests angles we wouldn’t have thought of.\n Various packaging design concepts and color schemes"
+  },
+  {
+    "objectID": "posts/006_Cuzco_Crunch/006.html#whats-working-and-what-isnt",
+    "href": "posts/006_Cuzco_Crunch/006.html#whats-working-and-what-isnt",
+    "title": "Building a Brand with AI: Cuzco Crunch",
+    "section": "What’s Working and What Isn’t",
+    "text": "What’s Working and What Isn’t\n\nThe Good Stuff\nSpeed is the biggest advantage. We can iterate on ideas quickly without waiting for external feedback or spending money on design consultations. The AI is also good at generating variations - give it one concept and it’ll produce 10 different takes on it.\n\n\nThe Limitations\nEverything needs human editing. The AI-generated copy often sounds too generic or tries too hard to be clever. Design concepts look decent but lack the subtle details that make professional packaging stand out on shelves.\nAlso, the AI doesn’t understand practical constraints. It’ll suggest elaborate packaging designs that would be expensive to produce or flavors that might not actually taste good together.\n 3D mockups and shelf visualization concepts"
+  },
+  {
+    "objectID": "posts/006_Cuzco_Crunch/006.html#the-reality-check",
+    "href": "posts/006_Cuzco_Crunch/006.html#the-reality-check",
+    "title": "Building a Brand with AI: Cuzco Crunch",
+    "section": "The Reality Check",
+    "text": "The Reality Check\n\nStill Need Real Skills\nAI handles the brainstorming and initial concepts, but you still need to understand branding, know your target market, and make business decisions. It’s a tool, not a replacement for actual knowledge about building a brand.\n\n\nCost vs. Quality Trade-offs\nWe’re probably saving money in the early stages, but there’s a point where you need professional designers and marketers. The question is finding that sweet spot where AI gets you far enough to make informed decisions about what’s worth investing in.\n\n\nLearning Experience\nThe most valuable part has been understanding how much work goes into brand development. Using AI to handle the repetitive parts lets us focus on strategy and decision-making instead of getting stuck on execution details.\nWe’re treating this as an experiment rather than a serious business venture. If Cuzco Crunch turns into something real, great. If not, we’ve learned a lot about using AI for creative projects and brand development."
+  },
+  {
+    "objectID": "posts/000_How_Does_AI_Really_Work/000.html",
+    "href": "posts/000_How_Does_AI_Really_Work/000.html",
+    "title": "How AI Systems Work: A Technical Overview",
+    "section": "",
+    "text": "Artificial intelligence systems like ChatGPT and Claude can engage in conversations, solve problems, and generate content. However, their underlying mechanisms are fundamentally different from human cognition.\nThese systems operate as sophisticated pattern recognition and prediction engines. While they can produce human-like responses, they function by identifying statistical patterns in data rather than developing conceptual understanding.\n AI neural networks are inspired by brain structure but operate through different mechanisms\n\nKey Question: How do statistical pattern-matching systems produce seemingly intelligent behavior?"
+  },
+  {
+    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#understanding-modern-ai-systems",
+    "href": "posts/000_How_Does_AI_Really_Work/000.html#understanding-modern-ai-systems",
+    "title": "How AI Systems Work: A Technical Overview",
+    "section": "",
+    "text": "Artificial intelligence systems like ChatGPT and Claude can engage in conversations, solve problems, and generate content. However, their underlying mechanisms are fundamentally different from human cognition.\nThese systems operate as sophisticated pattern recognition and prediction engines. While they can produce human-like responses, they function by identifying statistical patterns in data rather than developing conceptual understanding.\n AI neural networks are inspired by brain structure but operate through different mechanisms\n\nKey Question: How do statistical pattern-matching systems produce seemingly intelligent behavior?"
+  },
+  {
+    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#core-architecture-prediction-systems",
+    "href": "posts/000_How_Does_AI_Really_Work/000.html#core-architecture-prediction-systems",
+    "title": "How AI Systems Work: A Technical Overview",
+    "section": "Core Architecture: Prediction Systems",
+    "text": "Core Architecture: Prediction Systems\nModern AI systems solve a fundamental prediction problem: given an input, determine the most statistically likely output. This applies whether predicting the next word in text, pixels in an image, or moves in a game.\n\nTransformer Architecture\nCurrent large language models like GPT-4 and Claude use transformer architecture:\n# Simplified transformer process\ndef transformer_prediction(input_text):\n    tokens = tokenize(input_text)  # Convert text to processable units\n    embeddings = convert_to_vectors(tokens)  # Map to numerical representations\n    \n    for layer in neural_layers:\n        embeddings = attention_mechanism(embeddings)  # Identify relationships\n        embeddings = feed_forward(embeddings)  # Process patterns\n    \n    return predict_next_token(embeddings)  # Generate most likely continuation\n Transformer architecture with attention and processing layers\nModern systems operate at significant scale. GPT-3 contains 175 billion parameters trained on 45TB of text data. GPT-4 is estimated to exceed 1 trillion parameters with correspondingly higher computational requirements.\n\n\nAttention Mechanisms\nThe attention mechanism enables models to focus selectively on different input elements when making predictions.\nExample: “The cat sat on the mat because it was comfortable.”\nWhen determining what “it” refers to, the attention mechanism assigns weights: - “cat” (high attention - 0.7) - “mat” (medium attention - 0.2) - “sat” (low attention - 0.1)\nThis mechanism allows processing of relationships between distant elements in sequences."
+  },
+  {
+    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#training-process",
+    "href": "posts/000_How_Does_AI_Really_Work/000.html#training-process",
+    "title": "How AI Systems Work: A Technical Overview",
+    "section": "Training Process",
+    "text": "Training Process\nAI system development occurs through structured training phases that determine capabilities and limitations.\n Complete pipeline from data collection to deployed system\n\nPhase 1: Pre-training\nSystems learn from large text datasets through next-token prediction:\n\nData Collection: Process text from websites, books, and articles\nTokenization: Convert text to discrete units for processing\nPrediction Training: Train models to predict missing tokens in sequences\nParameter Adjustment: Iteratively modify billions of parameters based on prediction accuracy\n\n# Simplified training loop\nfor epoch in range(many_epochs):\n    for text_chunk in massive_dataset:\n        input_tokens = text_chunk[:-1]  # Input sequence\n        target_token = text_chunk[-1]   # Target prediction\n        \n        prediction = model(input_tokens)\n        loss = calculate_error(prediction, target_token)\n        \n        # Update model parameters\n        model.update_weights(loss.gradient())\n\n\nPhase 2: Fine-tuning\nPre-trained models are refined for specific applications:\n\nSupervised Fine-tuning: Training on curated question-answer pairs\nReinforcement Learning from Human Feedback (RLHF): Using human preferences to shape responses\nSafety Training: Implementing guidelines to avoid harmful outputs\n\nThis process transforms basic text predictors into conversational assistants."
+  },
+  {
+    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#emergent-capabilities",
+    "href": "posts/000_How_Does_AI_Really_Work/000.html#emergent-capabilities",
+    "title": "How AI Systems Work: A Technical Overview",
+    "section": "Emergent Capabilities",
+    "text": "Emergent Capabilities\nLarge-scale training produces capabilities that weren’t explicitly programmed. These emergent abilities arise from complex interactions between simple components.\n\nExamples of Emergence\nAs model size increases, new capabilities develop:\nChain-of-Thought Reasoning: Models develop step-by-step problem-solving approaches without explicit training on this strategy.\nIn-Context Learning: Systems can perform new tasks based on examples in prompts without additional training.\n# Example of in-context learning\nprompt = \"\"\"\nTranslate English to French:\nHello → Bonjour\nGoodbye → Au revoir\nThank you → Merci\nGood morning → \n\"\"\"\n\n# Model produces \"Bonjour\" despite no explicit\n# training on this translation task\nCross-Lingual Transfer: Models trained primarily on English can operate effectively in other languages.\nThe mechanisms underlying emergence remain an active research area, with theories including phase transitions, increased representational capacity, and pattern recognition thresholds."
+  },
+  {
+    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#system-limitations",
+    "href": "posts/000_How_Does_AI_Really_Work/000.html#system-limitations",
+    "title": "How AI Systems Work: A Technical Overview",
+    "section": "System Limitations",
+    "text": "System Limitations\nCurrent AI systems have several fundamental constraints that stem from their statistical architecture:\n Overview of AI system capabilities and constraints\n\nPattern Matching vs. Understanding\nAI systems process statistical relationships in symbols rather than developing conceptual understanding. They can accurately reproduce information without grasping underlying mechanisms.\nExample: A system can state that “water boils at 100°C” without understanding molecular behavior, phase transitions, or the physical processes involved.\n\n\nOutput Generation Under Uncertainty\nSystems are designed to produce responses even when lacking relevant information, leading to plausible but potentially inaccurate outputs.\n# Simplified response generation\ndef generate_response(query):\n    if confidence_score &gt; threshold:\n        return retrieve_known_information(query)\n    else:\n        # System still generates output\n        return generate_plausible_response(query)\n\n\nTraining Data Constraints\nModels are limited by their training data cutoff and cannot incorporate new information without retraining.\n\n\nMemory Limitations\nCurrent systems can process limited context windows (typically 4,000-128,000 tokens) with no persistent memory between conversations.\n\n\nCorrelation vs. Causation\nSystems excel at identifying statistical correlations but have limited understanding of causal relationships. They may recognize that umbrella sales correlate with rain without understanding the causal mechanism."
+  },
+  {
+    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#practical-implications",
+    "href": "posts/000_How_Does_AI_Really_Work/000.html#practical-implications",
+    "title": "How AI Systems Work: A Technical Overview",
+    "section": "Practical Implications",
+    "text": "Practical Implications\nUnderstanding AI architecture has important implications for effective use:\n\nSystem Strengths\n\nPattern recognition and text generation capabilities\nRapid processing of large information sets\nAccessible interface for complex tasks\nConsistent performance within training domains\n\n\n\nAppropriate Applications\n\nContent drafting and editing\nInformation synthesis from known sources\nCode generation and debugging assistance\nLanguage translation\nCreative brainstorming\n\n\n\nBest Practices\n\nVerify Important Information: Fact-check outputs for critical applications\nUnderstand Limitations: Recognize domain constraints and knowledge cutoffs\nMaintain Human Oversight: Keep humans involved in important decisions\nRecognize Bias: Be aware that systems reflect training data biases\nUse as Tools: Apply systems as analytical instruments rather than authoritative sources"
+  },
+  {
+    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#future-development",
+    "href": "posts/000_How_Does_AI_Really_Work/000.html#future-development",
+    "title": "How AI Systems Work: A Technical Overview",
+    "section": "Future Development",
+    "text": "Future Development\nCurrent AI systems represent early implementations of statistical learning approaches. Several research directions may expand capabilities:\n\nNear-Term Developments (1-3 years)\n\nMultimodal systems integrating text, images, audio, and video\nExtended context windows for longer conversations and documents\nImproved reasoning and problem-solving capabilities\nSpecialized models optimized for specific domains\n\n\n\nLong-Term Research Areas (10+ years)\n\nArtificial General Intelligence research\nQuestions about machine consciousness and subjective experience\nAI alignment and safety considerations\n\n\n\nActive Research Questions\nResearchers are investigating fundamental questions:\n\nScaling Laws: Relationships between model size, data, and capabilities\nEmergence Mechanisms: Why new abilities appear at certain scales\nAlignment: Ensuring AI systems operate according to intended objectives\nInterpretability: Understanding internal model representations and processes"
+  },
+  {
+    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#summary",
+    "href": "posts/000_How_Does_AI_Really_Work/000.html#summary",
+    "title": "How AI Systems Work: A Technical Overview",
+    "section": "Summary",
+    "text": "Summary\nModern AI systems represent sophisticated statistical engines that process patterns in data to generate human-like outputs. While they demonstrate impressive capabilities, they operate through pattern matching rather than conceptual understanding.\n\nKey Technical Points\nCurrent AI systems achieve intelligent-seeming behavior through statistical pattern processing rather than understanding. This approach has several implications:\n\nFor Users: Understanding system strengths and limitations enables more effective application\nFor Organizations: Appropriate use requires human oversight and verification processes\nFor Society: New frameworks are needed for evaluating machine capabilities and limitations\n\nStatistical pattern matching at scale produces sophisticated behavior, suggesting that aspects of intelligence may be more computational than previously understood.\nAs these systems become more prevalent, understanding their statistical nature becomes increasingly important for effective implementation. The technology continues evolving rapidly, with ongoing research addressing questions about scaling, emergence, and alignment with human objectives.\nThe field represents significant progress in automated pattern recognition and generation, with continued development likely to expand capabilities while maintaining the fundamental statistical architecture.\n\nUnderstanding the technical foundations of AI systems helps inform appropriate use and realistic expectations about current capabilities."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "What Can You Do With AI",
     "section": "",
-    "text": "Let’s Find Out\n\nExploring AI in daily life\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAI Fitness Coaching at Home\n\n\n\nAI\n\nfitness\n\nhealth\n\n\n\nUsing smartphone apps for form correction and personalized workouts\n\n\n\n\n\nSep 19, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI-Assisted Grocery Shopping and Meal Prep\n\n\n\nAI\n\ndaily-life\n\nproductivity\n\n\n\nHow smart apps are making grocery runs more organized and efficient\n\n\n\n\n\nSep 18, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nResearch with Perplexity AI\n\n\n\nAI\n\nresearch\n\nproductivity\n\n\n\nHow AI-powered search is changing the way we gather and analyze information\n\n\n\n\n\nSep 15, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Do’s and Don’ts: Safe and Effective Usage\n\n\n\nAI\n\nsafety\n\nguidelines\n\n\n\nEssential guidelines for using AI tools responsibly and effectively\n\n\n\n\n\nSep 10, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\n5 Ways to Use AI Every Day\n\n\n\nAI\n\nproductivity\n\ntutorial\n\n\n\nPractical AI applications that save time on common daily tasks\n\n\n\n\n\nSep 5, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nHow AI Systems Work: A Technical Overview\n\n\n\nAI\n\ndeep-dive\n\ntechnology\n\n\n\nUnderstanding the mechanics and architecture of modern artificial intelligence systems\n\n\n\n\n\nSep 3, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/005_AI_Fitness_Coaching_at_Home/005.html",
-    "href": "posts/005_AI_Fitness_Coaching_at_Home/005.html",
-    "title": "AI Fitness Coaching at Home",
-    "section": "",
-    "text": "I tried the Freeletics app today instead of going to the gym. It uses your phone’s camera to watch your form and give feedback in real time, which felt like having a trainer watching you.\n Smartphone analyzing exercise form with real-time feedback"
-  },
-  {
-    "objectID": "posts/005_AI_Fitness_Coaching_at_Home/005.html#working-out-with-ai-guidance",
-    "href": "posts/005_AI_Fitness_Coaching_at_Home/005.html#working-out-with-ai-guidance",
-    "title": "AI Fitness Coaching at Home",
-    "section": "",
-    "text": "I tried the Freeletics app today instead of going to the gym. It uses your phone’s camera to watch your form and give feedback in real time, which felt like having a trainer watching you.\n Smartphone analyzing exercise form with real-time feedback"
-  },
-  {
-    "objectID": "posts/005_AI_Fitness_Coaching_at_Home/005.html#how-it-works",
-    "href": "posts/005_AI_Fitness_Coaching_at_Home/005.html#how-it-works",
-    "title": "AI Fitness Coaching at Home",
-    "section": "How It Works",
-    "text": "How It Works\n\nReal-Time Form Correction\nYou prop your phone up and the camera tracks your movements. When I was doing squats, it noticed I wasn’t going low enough and told me to “squat deeper” right as I was doing the exercise. It also caught that I was leaning too far forward.\n\n\nCounts Reps Automatically\nThe app counts your repetitions so you don’t have to keep track. It only counts reps with proper form, so if your push-up doesn’t go low enough, it won’t count it.\n\n\nAdjusts Based on Performance\nWhen I started struggling with burpees halfway through, the app suggested switching to a modified version. It seemed to pick up on the fact that my form was getting sloppy and offered an easier variation."
-  },
-  {
-    "objectID": "posts/005_AI_Fitness_Coaching_at_Home/005.html#what-works-well",
-    "href": "posts/005_AI_Fitness_Coaching_at_Home/005.html#what-works-well",
-    "title": "AI Fitness Coaching at Home",
-    "section": "What Works Well",
-    "text": "What Works Well\n\nForm Feedback\nThe corrections are actually helpful. It’s like having someone watch you who knows what proper form looks like. Caught several things I didn’t realize I was doing wrong.\n\n\nNo Equipment Needed\nAll bodyweight exercises, so you can do it anywhere. The app designs workouts based on what space and time you have available.\n\n\nAdapts to Your Level\nStarts with easier exercises and gradually increases difficulty based on how you perform. If you’re struggling, it scales back. If you’re crushing it, it adds more challenging moves.\n\n\nTracks Progress Over Time\nKeeps track of how many reps you can do and how your form improves. You can see whether you’re getting stronger or if certain exercises are still difficult."
-  },
-  {
-    "objectID": "posts/005_AI_Fitness_Coaching_at_Home/005.html#limitations",
-    "href": "posts/005_AI_Fitness_Coaching_at_Home/005.html#limitations",
-    "title": "AI Fitness Coaching at Home",
-    "section": "Limitations",
-    "text": "Limitations\n\nCamera Angle Matters\nYou need to position your phone correctly for it to see your whole body. Took a few tries to get the angle right.\n\n\nLighting Requirements\nWorks better in good lighting. Had trouble tracking movements when the room was too dim.\n\n\nLimited Exercise Types\nFocuses mainly on bodyweight movements. If you want to lift weights or use equipment, you’ll need a different approach.\n\n\nNot Always Perfect\nSometimes misses form issues or gives feedback that doesn’t quite match what you’re doing. Still better than working out with no guidance, but not as precise as a human trainer.\nIt’s a solid option for home workouts when you want some structure and feedback. The form correction feature is genuinely useful, especially for exercises you’re not familiar with."
+    "text": "Let’s Find Out\n\nExploring AI in daily life\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAI Email Management That Actually Works\n\n\n\nAI\n\nproductivity\n\nemail\n\n\n\nUsing smart filters and auto-responses to handle inbox overload\n\n\n\n\n\nSep 25, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nBuilding a Brand with AI: Cuzco Crunch\n\n\n\nAI\n\nbranding\n\nentrepreneurship\n\n\n\nHow we’re using GPT to create a snack brand from concept to execution\n\n\n\n\n\nSep 23, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Fitness Coaching at Home\n\n\n\nAI\n\nfitness\n\nhealth\n\n\n\nUsing smartphone apps for form correction and personalized workouts\n\n\n\n\n\nSep 19, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI-Assisted Grocery Shopping and Meal Prep\n\n\n\nAI\n\ndaily-life\n\nproductivity\n\n\n\nHow smart apps are making grocery runs more organized and efficient\n\n\n\n\n\nSep 18, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nResearch with Perplexity AI\n\n\n\nAI\n\nresearch\n\nproductivity\n\n\n\nHow AI-powered search is changing the way we gather and analyze information\n\n\n\n\n\nSep 15, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Do’s and Don’ts: Safe and Effective Usage\n\n\n\nAI\n\nsafety\n\nguidelines\n\n\n\nEssential guidelines for using AI tools responsibly and effectively\n\n\n\n\n\nSep 10, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\n5 Ways to Use AI Every Day\n\n\n\nAI\n\nproductivity\n\ntutorial\n\n\n\nPractical AI applications that save time on common daily tasks\n\n\n\n\n\nSep 5, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nHow AI Systems Work: A Technical Overview\n\n\n\nAI\n\ndeep-dive\n\ntechnology\n\n\n\nUnderstanding the mechanics and architecture of modern artificial intelligence systems\n\n\n\n\n\nSep 3, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/004_AI-Assisted_Grocery_Shopping_and_Meal_Prep/004.html",
@@ -133,157 +287,66 @@
     "text": "Implementation Notes\nPrompt specificity matters. Include relevant details like budget, timeframe, number of people, and specific constraints.\nFollow-up questions improve results. Ask for alternatives, simplifications, or additional detail as needed.\nSave effective prompts. Keep a note file with prompts that work well for repeated use.\nThese five applications cover the most common daily planning and decision-making tasks. Each provides immediate time savings and often produces better results than manual research."
   },
   {
-    "objectID": "posts/003_Research_with_Perplexity_AI/003.html",
-    "href": "posts/003_Research_with_Perplexity_AI/003.html",
-    "title": "Research with Perplexity AI",
+    "objectID": "posts/007_/007.html",
+    "href": "posts/007_/007.html",
+    "title": "AI Email Management That Actually Works",
     "section": "",
-    "text": "I’ve been trying out Perplexity AI for research tasks lately. It’s different from regular Google searches because it synthesizes information from multiple sources and gives you one coherent answer with citations.\n Perplexity AI interface showing search results with sources"
+    "text": "I set up SaneBox to manage my email and it’s been running for about a week now. Instead of manually sorting through everything, the AI decides what’s important and what can wait.\n AI automatically categorizing emails by priority level"
   },
   {
-    "objectID": "posts/003_Research_with_Perplexity_AI/003.html#using-ai-for-research",
-    "href": "posts/003_Research_with_Perplexity_AI/003.html#using-ai-for-research",
-    "title": "Research with Perplexity AI",
+    "objectID": "posts/007_/007.html#letting-ai-handle-my-inbox",
+    "href": "posts/007_/007.html#letting-ai-handle-my-inbox",
+    "title": "AI Email Management That Actually Works",
     "section": "",
-    "text": "I’ve been trying out Perplexity AI for research tasks lately. It’s different from regular Google searches because it synthesizes information from multiple sources and gives you one coherent answer with citations.\n Perplexity AI interface showing search results with sources"
+    "text": "I set up SaneBox to manage my email and it’s been running for about a week now. Instead of manually sorting through everything, the AI decides what’s important and what can wait.\n AI automatically categorizing emails by priority level"
   },
   {
-    "objectID": "posts/003_Research_with_Perplexity_AI/003.html#how-it-works",
-    "href": "posts/003_Research_with_Perplexity_AI/003.html#how-it-works",
-    "title": "Research with Perplexity AI",
+    "objectID": "posts/007_/007.html#how-it-sorts-things-out",
+    "href": "posts/007_/007.html#how-it-sorts-things-out",
+    "title": "AI Email Management That Actually Works",
+    "section": "How It Sorts Things Out",
+    "text": "How It Sorts Things Out\n\nPriority Filtering\nSaneBox learns from which emails I actually open and respond to. Work emails from my team get flagged as important, while newsletters and promotional stuff gets moved to a separate folder. It’s not perfect but catches most of the obvious stuff.\n\n\nSmart Scheduling\nGmail’s AI also suggests response times and can schedule emails to send later. I’ve been using it to send emails during business hours even when I’m working late, so I don’t look like I’m always online.\n\n\nQuick Replies\nThe suggested responses are actually useful for simple emails. When someone sends a meeting request, it’ll suggest “Looks good” or “Let me check my calendar” which saves typing the same responses over and over.\n AI-generated reply suggestions for common email types"
+  },
+  {
+    "objectID": "posts/007_/007.html#what-ive-noticed",
+    "href": "posts/007_/007.html#what-ive-noticed",
+    "title": "AI Email Management That Actually Works",
+    "section": "What I’ve Noticed",
+    "text": "What I’ve Noticed\n\nLess Time Sorting\nThe main benefit is spending less time deciding what to read first. Important emails show up in the main inbox, everything else gets organized automatically.\n\n\nFewer Missed Messages\nBefore, urgent emails would get buried under promotional stuff. Now they’re separated, so I’m less likely to miss something important.\n\n\nStill Need to Check\nThe AI sometimes gets it wrong - puts important emails in the low-priority folder or flags spam as urgent. You still need to glance through everything, but it’s more organized.\nIt’s a decent time-saver for people who get a lot of email. Not life-changing, but removes some of the daily friction of inbox management. The filtering works better than I expected, though you need to train it for a few days before it gets your priorities right."
+  },
+  {
+    "objectID": "posts/005_AI_Fitness_Coaching_at_Home/005.html",
+    "href": "posts/005_AI_Fitness_Coaching_at_Home/005.html",
+    "title": "AI Fitness Coaching at Home",
+    "section": "",
+    "text": "I tried the Freeletics app today instead of going to the gym. It uses your phone’s camera to watch your form and give feedback in real time, which felt like having a trainer watching you.\n Smartphone analyzing exercise form with real-time feedback"
+  },
+  {
+    "objectID": "posts/005_AI_Fitness_Coaching_at_Home/005.html#working-out-with-ai-guidance",
+    "href": "posts/005_AI_Fitness_Coaching_at_Home/005.html#working-out-with-ai-guidance",
+    "title": "AI Fitness Coaching at Home",
+    "section": "",
+    "text": "I tried the Freeletics app today instead of going to the gym. It uses your phone’s camera to watch your form and give feedback in real time, which felt like having a trainer watching you.\n Smartphone analyzing exercise form with real-time feedback"
+  },
+  {
+    "objectID": "posts/005_AI_Fitness_Coaching_at_Home/005.html#how-it-works",
+    "href": "posts/005_AI_Fitness_Coaching_at_Home/005.html#how-it-works",
+    "title": "AI Fitness Coaching at Home",
     "section": "How It Works",
-    "text": "How It Works\n\nGetting Information from Multiple Sources\nInstead of opening multiple tabs and reading through different articles, Perplexity pulls information from various sources and combines it into a single response. When I was researching market trends for a work project, I got a summary that included key points from several industry reports, all with proper citations.\n\n\nFollow-up Questions\nYou can ask follow-up questions that build on your previous search. After asking about “sustainable packaging trends 2025,” I could continue with: - “What are the cost implications?” - “Which companies are leading this transition?” - “How does this compare to 2024 predictions?”\nThe AI remembers the context, so you don’t need to re-explain what you’re looking for.\n Live citations and source integration in action"
+    "text": "How It Works\n\nReal-Time Form Correction\nYou prop your phone up and the camera tracks your movements. When I was doing squats, it noticed I wasn’t going low enough and told me to “squat deeper” right as I was doing the exercise. It also caught that I was leaning too far forward.\n\n\nCounts Reps Automatically\nThe app counts your repetitions so you don’t have to keep track. It only counts reps with proper form, so if your push-up doesn’t go low enough, it won’t count it.\n\n\nAdjusts Based on Performance\nWhen I started struggling with burpees halfway through, the app suggested switching to a modified version. It seemed to pick up on the fact that my form was getting sloppy and offered an easier variation."
   },
   {
-    "objectID": "posts/003_Research_with_Perplexity_AI/003.html#when-its-useful",
-    "href": "posts/003_Research_with_Perplexity_AI/003.html#when-its-useful",
-    "title": "Research with Perplexity AI",
-    "section": "When It’s Useful",
-    "text": "When It’s Useful\n\nAcademic Work\nGood for getting an overview of research topics and finding relevant studies. Helps identify what’s already been studied and where there might be gaps.\n\n\nBusiness Research\nUseful for market analysis and industry trends. You can ask specific questions and get answers that draw from recent reports and news sources.\n\n\nLearning New Topics\nWhen you’re unfamiliar with a subject, it can explain concepts and provide background without having to piece together information from multiple websites.\n\n\nFact-Checking\nSince it shows sources for each piece of information, it’s easier to verify claims and see where data comes from."
+    "objectID": "posts/005_AI_Fitness_Coaching_at_Home/005.html#what-works-well",
+    "href": "posts/005_AI_Fitness_Coaching_at_Home/005.html#what-works-well",
+    "title": "AI Fitness Coaching at Home",
+    "section": "What Works Well",
+    "text": "What Works Well\n\nForm Feedback\nThe corrections are actually helpful. It’s like having someone watch you who knows what proper form looks like. Caught several things I didn’t realize I was doing wrong.\n\n\nNo Equipment Needed\nAll bodyweight exercises, so you can do it anywhere. The app designs workouts based on what space and time you have available.\n\n\nAdapts to Your Level\nStarts with easier exercises and gradually increases difficulty based on how you perform. If you’re struggling, it scales back. If you’re crushing it, it adds more challenging moves.\n\n\nTracks Progress Over Time\nKeeps track of how many reps you can do and how your form improves. You can see whether you’re getting stronger or if certain exercises are still difficult."
   },
   {
-    "objectID": "posts/003_Research_with_Perplexity_AI/003.html#what-ive-found",
-    "href": "posts/003_Research_with_Perplexity_AI/003.html#what-ive-found",
-    "title": "Research with Perplexity AI",
-    "section": "What I’ve Found",
-    "text": "What I’ve Found\n\nSaves Time\nThe main benefit is speed. You get the key information faster since it’s already compiled from multiple sources. You still need to read the original sources for details, but the initial overview is much quicker.\n\n\nClear Sources\nEvery piece of information comes with citations, so you can see exactly where it came from and verify it if needed.\n\n\nHandles Context Well\nThe conversation aspect works better than I expected. You can refine questions or explore related topics without starting over.\n\n\nShows Different Viewpoints\nWhen sources disagree, it usually mentions the different perspectives rather than just presenting one view.\nIt’s a useful tool for the initial stages of research when you need to understand a topic quickly or gather information from multiple sources. Not a replacement for thorough research, but it does help speed up the information gathering process."
-  },
-  {
-    "objectID": "posts/002_AI_Dos_And_Donts/002.html",
-    "href": "posts/002_AI_Dos_And_Donts/002.html",
-    "title": "AI Do’s and Don’ts: Safe and Effective Usage",
-    "section": "",
-    "text": "AI tools are powerful but require careful usage. These guidelines help you maximize benefits while avoiding common pitfalls.\n Key principles for responsible AI usage"
-  },
-  {
-    "objectID": "posts/002_AI_Dos_And_Donts/002.html#essential-ai-guidelines",
-    "href": "posts/002_AI_Dos_And_Donts/002.html#essential-ai-guidelines",
-    "title": "AI Do’s and Don’ts: Safe and Effective Usage",
-    "section": "",
-    "text": "AI tools are powerful but require careful usage. These guidelines help you maximize benefits while avoiding common pitfalls.\n Key principles for responsible AI usage"
-  },
-  {
-    "objectID": "posts/002_AI_Dos_And_Donts/002.html#what-to-do",
-    "href": "posts/002_AI_Dos_And_Donts/002.html#what-to-do",
-    "title": "AI Do’s and Don’ts: Safe and Effective Usage",
-    "section": "What TO Do",
-    "text": "What TO Do\n\n✅ Verify Important Information\nAlways fact-check AI outputs for: - Medical or health advice - Financial decisions - Legal matters - Technical specifications - Current events or recent data\nCross-reference with authoritative sources before acting on AI recommendations.\n\n\n✅ Be Specific in Your Prompts\nInstead of: “Help me with my presentation” Use: “Create an outline for a 10-minute sales presentation to executives about Q3 revenue growth”\nSpecific prompts produce more useful results.\n\n\n✅ Use AI for Brainstorming and Drafts\nAI excels at: - Generating initial ideas - Creating first drafts - Organizing thoughts - Providing alternative perspectives\nUse AI output as a starting point, not a final product.\n Proper workflow: AI assists, human validates and refines\n\n\n✅ Maintain Human Judgment\nKeep human oversight for: - Final decision-making - Quality assessment - Ethical considerations - Context that AI might miss\n\n\n✅ Ask Follow-Up Questions\nImprove results by asking: - “Can you explain this differently?” - “What are potential problems with this approach?” - “Give me three alternatives” - “Make this more specific”"
-  },
-  {
-    "objectID": "posts/002_AI_Dos_And_Donts/002.html#what-not-to-do",
-    "href": "posts/002_AI_Dos_And_Donts/002.html#what-not-to-do",
-    "title": "AI Do’s and Don’ts: Safe and Effective Usage",
-    "section": "What NOT to Do",
-    "text": "What NOT to Do\n\n❌ Don’t Share Sensitive Information\nNever input: - Passwords or login credentials - Social Security numbers - Credit card details - Proprietary business information - Personal addresses or phone numbers - Private family details\nAssume all AI conversations could be stored or accessed by others.\n\n\n❌ Don’t Rely on AI for Critical Decisions\nAvoid using AI alone for: - Medical diagnoses or treatment - Legal advice or document preparation - Financial investment decisions - Safety-critical calculations - Emergency situations\nConsult qualified professionals for these matters.\n Areas where AI should not be the primary decision maker\n\n\n❌ Don’t Assume AI is Always Accurate\nAI can produce: - Outdated information - Factual errors - Biased responses - Plausible-sounding but incorrect details\nEspecially problematic for recent events or specialized technical information.\n\n\n❌ Don’t Use AI for Harmful Purposes\nAvoid requesting: - Misleading or false content - Harassment or threatening messages - Plagiarism or academic dishonesty - Illegal activity guidance - Discriminatory content\n\n\n❌ Don’t Ignore Context Limitations\nAI doesn’t understand: - Your full personal situation - Unspoken cultural context - Real-time environmental factors - Emotional nuances\nProvide necessary context explicitly in your prompts."
-  },
-  {
-    "objectID": "posts/002_AI_Dos_And_Donts/002.html#implementation-strategy",
-    "href": "posts/002_AI_Dos_And_Donts/002.html#implementation-strategy",
-    "title": "AI Do’s and Don’ts: Safe and Effective Usage",
-    "section": "Implementation Strategy",
-    "text": "Implementation Strategy\n\nStart Small\nBegin with low-stakes tasks like email drafting or meal planning before using AI for important projects.\n\n\nBuild Verification Habits\nDevelop a routine of checking AI outputs against reliable sources.\n\n\nKeep Learning\nAI capabilities and limitations evolve. Stay informed about updates and new research.\n\n\nDocument What Works\nSave effective prompts and note which applications produce reliable results for your needs.\n Use these tips and tricks!\nFollowing these guidelines ensures you gain AI’s benefits while avoiding common mistakes that can lead to poor decisions or security issues."
-  },
-  {
-    "objectID": "posts/000_How_Does_AI_Really_Work/000.html",
-    "href": "posts/000_How_Does_AI_Really_Work/000.html",
-    "title": "How AI Systems Work: A Technical Overview",
-    "section": "",
-    "text": "Artificial intelligence systems like ChatGPT and Claude can engage in conversations, solve problems, and generate content. However, their underlying mechanisms are fundamentally different from human cognition.\nThese systems operate as sophisticated pattern recognition and prediction engines. While they can produce human-like responses, they function by identifying statistical patterns in data rather than developing conceptual understanding.\n AI neural networks are inspired by brain structure but operate through different mechanisms\n\nKey Question: How do statistical pattern-matching systems produce seemingly intelligent behavior?"
-  },
-  {
-    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#understanding-modern-ai-systems",
-    "href": "posts/000_How_Does_AI_Really_Work/000.html#understanding-modern-ai-systems",
-    "title": "How AI Systems Work: A Technical Overview",
-    "section": "",
-    "text": "Artificial intelligence systems like ChatGPT and Claude can engage in conversations, solve problems, and generate content. However, their underlying mechanisms are fundamentally different from human cognition.\nThese systems operate as sophisticated pattern recognition and prediction engines. While they can produce human-like responses, they function by identifying statistical patterns in data rather than developing conceptual understanding.\n AI neural networks are inspired by brain structure but operate through different mechanisms\n\nKey Question: How do statistical pattern-matching systems produce seemingly intelligent behavior?"
-  },
-  {
-    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#core-architecture-prediction-systems",
-    "href": "posts/000_How_Does_AI_Really_Work/000.html#core-architecture-prediction-systems",
-    "title": "How AI Systems Work: A Technical Overview",
-    "section": "Core Architecture: Prediction Systems",
-    "text": "Core Architecture: Prediction Systems\nModern AI systems solve a fundamental prediction problem: given an input, determine the most statistically likely output. This applies whether predicting the next word in text, pixels in an image, or moves in a game.\n\nTransformer Architecture\nCurrent large language models like GPT-4 and Claude use transformer architecture:\n# Simplified transformer process\ndef transformer_prediction(input_text):\n    tokens = tokenize(input_text)  # Convert text to processable units\n    embeddings = convert_to_vectors(tokens)  # Map to numerical representations\n    \n    for layer in neural_layers:\n        embeddings = attention_mechanism(embeddings)  # Identify relationships\n        embeddings = feed_forward(embeddings)  # Process patterns\n    \n    return predict_next_token(embeddings)  # Generate most likely continuation\n Transformer architecture with attention and processing layers\nModern systems operate at significant scale. GPT-3 contains 175 billion parameters trained on 45TB of text data. GPT-4 is estimated to exceed 1 trillion parameters with correspondingly higher computational requirements.\n\n\nAttention Mechanisms\nThe attention mechanism enables models to focus selectively on different input elements when making predictions.\nExample: “The cat sat on the mat because it was comfortable.”\nWhen determining what “it” refers to, the attention mechanism assigns weights: - “cat” (high attention - 0.7) - “mat” (medium attention - 0.2) - “sat” (low attention - 0.1)\nThis mechanism allows processing of relationships between distant elements in sequences."
-  },
-  {
-    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#training-process",
-    "href": "posts/000_How_Does_AI_Really_Work/000.html#training-process",
-    "title": "How AI Systems Work: A Technical Overview",
-    "section": "Training Process",
-    "text": "Training Process\nAI system development occurs through structured training phases that determine capabilities and limitations.\n Complete pipeline from data collection to deployed system\n\nPhase 1: Pre-training\nSystems learn from large text datasets through next-token prediction:\n\nData Collection: Process text from websites, books, and articles\nTokenization: Convert text to discrete units for processing\nPrediction Training: Train models to predict missing tokens in sequences\nParameter Adjustment: Iteratively modify billions of parameters based on prediction accuracy\n\n# Simplified training loop\nfor epoch in range(many_epochs):\n    for text_chunk in massive_dataset:\n        input_tokens = text_chunk[:-1]  # Input sequence\n        target_token = text_chunk[-1]   # Target prediction\n        \n        prediction = model(input_tokens)\n        loss = calculate_error(prediction, target_token)\n        \n        # Update model parameters\n        model.update_weights(loss.gradient())\n\n\nPhase 2: Fine-tuning\nPre-trained models are refined for specific applications:\n\nSupervised Fine-tuning: Training on curated question-answer pairs\nReinforcement Learning from Human Feedback (RLHF): Using human preferences to shape responses\nSafety Training: Implementing guidelines to avoid harmful outputs\n\nThis process transforms basic text predictors into conversational assistants."
-  },
-  {
-    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#emergent-capabilities",
-    "href": "posts/000_How_Does_AI_Really_Work/000.html#emergent-capabilities",
-    "title": "How AI Systems Work: A Technical Overview",
-    "section": "Emergent Capabilities",
-    "text": "Emergent Capabilities\nLarge-scale training produces capabilities that weren’t explicitly programmed. These emergent abilities arise from complex interactions between simple components.\n\nExamples of Emergence\nAs model size increases, new capabilities develop:\nChain-of-Thought Reasoning: Models develop step-by-step problem-solving approaches without explicit training on this strategy.\nIn-Context Learning: Systems can perform new tasks based on examples in prompts without additional training.\n# Example of in-context learning\nprompt = \"\"\"\nTranslate English to French:\nHello → Bonjour\nGoodbye → Au revoir\nThank you → Merci\nGood morning → \n\"\"\"\n\n# Model produces \"Bonjour\" despite no explicit\n# training on this translation task\nCross-Lingual Transfer: Models trained primarily on English can operate effectively in other languages.\nThe mechanisms underlying emergence remain an active research area, with theories including phase transitions, increased representational capacity, and pattern recognition thresholds."
-  },
-  {
-    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#system-limitations",
-    "href": "posts/000_How_Does_AI_Really_Work/000.html#system-limitations",
-    "title": "How AI Systems Work: A Technical Overview",
-    "section": "System Limitations",
-    "text": "System Limitations\nCurrent AI systems have several fundamental constraints that stem from their statistical architecture:\n Overview of AI system capabilities and constraints\n\nPattern Matching vs. Understanding\nAI systems process statistical relationships in symbols rather than developing conceptual understanding. They can accurately reproduce information without grasping underlying mechanisms.\nExample: A system can state that “water boils at 100°C” without understanding molecular behavior, phase transitions, or the physical processes involved.\n\n\nOutput Generation Under Uncertainty\nSystems are designed to produce responses even when lacking relevant information, leading to plausible but potentially inaccurate outputs.\n# Simplified response generation\ndef generate_response(query):\n    if confidence_score &gt; threshold:\n        return retrieve_known_information(query)\n    else:\n        # System still generates output\n        return generate_plausible_response(query)\n\n\nTraining Data Constraints\nModels are limited by their training data cutoff and cannot incorporate new information without retraining.\n\n\nMemory Limitations\nCurrent systems can process limited context windows (typically 4,000-128,000 tokens) with no persistent memory between conversations.\n\n\nCorrelation vs. Causation\nSystems excel at identifying statistical correlations but have limited understanding of causal relationships. They may recognize that umbrella sales correlate with rain without understanding the causal mechanism."
-  },
-  {
-    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#practical-implications",
-    "href": "posts/000_How_Does_AI_Really_Work/000.html#practical-implications",
-    "title": "How AI Systems Work: A Technical Overview",
-    "section": "Practical Implications",
-    "text": "Practical Implications\nUnderstanding AI architecture has important implications for effective use:\n\nSystem Strengths\n\nPattern recognition and text generation capabilities\nRapid processing of large information sets\nAccessible interface for complex tasks\nConsistent performance within training domains\n\n\n\nAppropriate Applications\n\nContent drafting and editing\nInformation synthesis from known sources\nCode generation and debugging assistance\nLanguage translation\nCreative brainstorming\n\n\n\nBest Practices\n\nVerify Important Information: Fact-check outputs for critical applications\nUnderstand Limitations: Recognize domain constraints and knowledge cutoffs\nMaintain Human Oversight: Keep humans involved in important decisions\nRecognize Bias: Be aware that systems reflect training data biases\nUse as Tools: Apply systems as analytical instruments rather than authoritative sources"
-  },
-  {
-    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#future-development",
-    "href": "posts/000_How_Does_AI_Really_Work/000.html#future-development",
-    "title": "How AI Systems Work: A Technical Overview",
-    "section": "Future Development",
-    "text": "Future Development\nCurrent AI systems represent early implementations of statistical learning approaches. Several research directions may expand capabilities:\n\nNear-Term Developments (1-3 years)\n\nMultimodal systems integrating text, images, audio, and video\nExtended context windows for longer conversations and documents\nImproved reasoning and problem-solving capabilities\nSpecialized models optimized for specific domains\n\n\n\nLong-Term Research Areas (10+ years)\n\nArtificial General Intelligence research\nQuestions about machine consciousness and subjective experience\nAI alignment and safety considerations\n\n\n\nActive Research Questions\nResearchers are investigating fundamental questions:\n\nScaling Laws: Relationships between model size, data, and capabilities\nEmergence Mechanisms: Why new abilities appear at certain scales\nAlignment: Ensuring AI systems operate according to intended objectives\nInterpretability: Understanding internal model representations and processes"
-  },
-  {
-    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#summary",
-    "href": "posts/000_How_Does_AI_Really_Work/000.html#summary",
-    "title": "How AI Systems Work: A Technical Overview",
-    "section": "Summary",
-    "text": "Summary\nModern AI systems represent sophisticated statistical engines that process patterns in data to generate human-like outputs. While they demonstrate impressive capabilities, they operate through pattern matching rather than conceptual understanding.\n\nKey Technical Points\nCurrent AI systems achieve intelligent-seeming behavior through statistical pattern processing rather than understanding. This approach has several implications:\n\nFor Users: Understanding system strengths and limitations enables more effective application\nFor Organizations: Appropriate use requires human oversight and verification processes\nFor Society: New frameworks are needed for evaluating machine capabilities and limitations\n\nStatistical pattern matching at scale produces sophisticated behavior, suggesting that aspects of intelligence may be more computational than previously understood.\nAs these systems become more prevalent, understanding their statistical nature becomes increasingly important for effective implementation. The technology continues evolving rapidly, with ongoing research addressing questions about scaling, emergence, and alignment with human objectives.\nThe field represents significant progress in automated pattern recognition and generation, with continued development likely to expand capabilities while maintaining the fundamental statistical architecture.\n\nUnderstanding the technical foundations of AI systems helps inform appropriate use and realistic expectations about current capabilities."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "What Can You Do With AI?"
-  },
-  {
-    "objectID": "about.html#section",
-    "href": "about.html#section",
-    "title": "About",
-    "section": "",
-    "text": "What Can You Do With AI?"
-  },
-  {
-    "objectID": "about.html#raymond-liu-ao",
-    "href": "about.html#raymond-liu-ao",
-    "title": "About",
-    "section": "Raymond Liu Ao",
-    "text": "Raymond Liu Ao\nOriginally from Lima, Peru, I am a Philosophy, Politics, and Economics (PPE) student at the University of Pennsylvania. Interested in exploring the uses and implications of AI in daily life, this blog discusses how LLM can help us (or not) in commonly encountered scenarios.\n–"
+    "objectID": "posts/005_AI_Fitness_Coaching_at_Home/005.html#limitations",
+    "href": "posts/005_AI_Fitness_Coaching_at_Home/005.html#limitations",
+    "title": "AI Fitness Coaching at Home",
+    "section": "Limitations",
+    "text": "Limitations\n\nCamera Angle Matters\nYou need to position your phone correctly for it to see your whole body. Took a few tries to get the angle right.\n\n\nLighting Requirements\nWorks better in good lighting. Had trouble tracking movements when the room was too dim.\n\n\nLimited Exercise Types\nFocuses mainly on bodyweight movements. If you want to lift weights or use equipment, you’ll need a different approach.\n\n\nNot Always Perfect\nSometimes misses form issues or gives feedback that doesn’t quite match what you’re doing. Still better than working out with no guidance, but not as precise as a human trainer.\nIt’s a solid option for home workouts when you want some structure and feedback. The form correction feature is genuinely useful, especially for exercises you’re not familiar with."
   }
 ]
