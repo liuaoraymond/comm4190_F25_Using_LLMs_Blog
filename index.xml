@@ -10,7 +10,80 @@
 <atom:link href="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Let&#39;s Find Out</description>
 <generator>quarto-1.8.24</generator>
-<lastBuildDate>Thu, 25 Sep 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 27 Sep 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>AI Photo Organization: Finding Pictures I Forgot I Had</title>
+  <dc:creator>Raymond Liu Ao</dc:creator>
+  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/008_ /008.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="searching-through-10000-photos" class="level2">
+<h2 class="anchored" data-anchor-id="searching-through-10000-photos">Searching Through 10,000 Photos</h2>
+<p>I realized I had over 10,000 photos in Google Photos and no way to find specific ones. Today I tried using the AI search features to locate pictures from last year’s vacation, and it actually worked better than expected.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/008_ /ai-photo-search.jpg" class="img-fluid" alt="AI Photo Search"> <em>Google Photos AI recognizing objects, people, and locations</em></p>
+</section>
+<section id="what-the-ai-can-find" class="level2">
+<h2 class="anchored" data-anchor-id="what-the-ai-can-find">What the AI Can Find</h2>
+<section id="object-recognition" class="level3">
+<h3 class="anchored" data-anchor-id="object-recognition">Object Recognition</h3>
+<p>I searched for “pizza” and it found every photo with pizza in it, even ones where pizza was just sitting on a table in the background. Same thing worked for “dog,” “beach,” and “birthday cake.” The AI recognizes way more objects than I expected.</p>
+</section>
+<section id="face-grouping" class="level3">
+<h3 class="anchored" data-anchor-id="face-grouping">Face Grouping</h3>
+<p>Google Photos automatically groups photos by faces, so I can find all pictures of specific people without having to manually tag them. It even recognizes people as they age or in different lighting.</p>
+</section>
+<section id="location-and-time" class="level3">
+<h3 class="anchored" data-anchor-id="location-and-time">Location and Time</h3>
+<p>If you have location data turned on, you can search by place names. I found all my photos from “San Francisco” or “coffee shop” pretty easily. Time-based searches work too - “photos from summer 2024” pulled up the right time period.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/008_ /ai-photo-albums.jpg" class="img-fluid" alt="Auto-Generated Albums"> <em>Automatically created albums based on events and trips</em></p>
+</section>
+</section>
+<section id="automatic-albums" class="level2">
+<h2 class="anchored" data-anchor-id="automatic-albums">Automatic Albums</h2>
+<section id="trip-detection" class="level3">
+<h3 class="anchored" data-anchor-id="trip-detection">Trip Detection</h3>
+<p>The AI creates albums for trips automatically based on location and date patterns. It figured out my weekend in Portland and grouped all those photos together without me doing anything.</p>
+</section>
+<section id="event-recognition" class="level3">
+<h3 class="anchored" data-anchor-id="event-recognition">Event Recognition</h3>
+<p>It also makes albums for things like “Birthday party” or “Graduation” based on the types of photos and timing. Sometimes it gets it wrong - labeled a regular dinner as a “celebration” - but it’s right more often than not.</p>
+</section>
+<section id="people-albums" class="level3">
+<h3 class="anchored" data-anchor-id="people-albums">People Albums</h3>
+<p>Creates collections of photos featuring specific people, which is useful for family pictures or when you want to share photos of someone with them.</p>
+</section>
+</section>
+<section id="limitations" class="level2">
+<h2 class="anchored" data-anchor-id="limitations">Limitations</h2>
+<section id="privacy-concerns" class="level3">
+<h3 class="anchored" data-anchor-id="privacy-concerns">Privacy Concerns</h3>
+<p>All this convenience requires uploading your photos to Google’s servers where they analyze everything. If that bothers you, you can’t really use these features.</p>
+</section>
+<section id="sometimes-too-smart" class="level3">
+<h3 class="anchored" data-anchor-id="sometimes-too-smart">Sometimes Too Smart</h3>
+<p>The AI occasionally creates albums for things that weren’t actually events, or groups random photos together based on superficial similarities.</p>
+</section>
+<section id="search-isnt-perfect" class="level3">
+<h3 class="anchored" data-anchor-id="search-isnt-perfect">Search Isn’t Perfect</h3>
+<p>Complex searches don’t always work. “Photos of John at the beach” might miss some or include wrong results. Simple, single-concept searches work much better.</p>
+<p>It’s genuinely useful for finding old photos you’d never locate otherwise. The search functionality makes having thousands of photos actually manageable instead of just overwhelming.</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>AI</category>
+  <category>photos</category>
+  <category>organization</category>
+  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/008_ /008.html</guid>
+  <pubDate>Sat, 27 Sep 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/008_ /ai-photo-search.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>AI Email Management That Actually Works</title>
   <dc:creator>Raymond Liu Ao</dc:creator>

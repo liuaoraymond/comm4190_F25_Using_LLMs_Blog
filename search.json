@@ -56,74 +56,130 @@
     "text": "Implementation Strategy\n\nStart Small\nBegin with low-stakes tasks like email drafting or meal planning before using AI for important projects.\n\n\nBuild Verification Habits\nDevelop a routine of checking AI outputs against reliable sources.\n\n\nKeep Learning\nAI capabilities and limitations evolve. Stay informed about updates and new research.\n\n\nDocument What Works\nSave effective prompts and note which applications produce reliable results for your needs.\n Use these tips and tricks!\nFollowing these guidelines ensures you gain AI’s benefits while avoiding common mistakes that can lead to poor decisions or security issues."
   },
   {
-    "objectID": "posts/003_Research_with_Perplexity_AI/003.html",
-    "href": "posts/003_Research_with_Perplexity_AI/003.html",
-    "title": "Research with Perplexity AI",
+    "objectID": "posts/007_/007.html",
+    "href": "posts/007_/007.html",
+    "title": "AI Email Management That Actually Works",
     "section": "",
-    "text": "I’ve been trying out Perplexity AI for research tasks lately. It’s different from regular Google searches because it synthesizes information from multiple sources and gives you one coherent answer with citations.\n Perplexity AI interface showing search results with sources"
+    "text": "I set up SaneBox to manage my email and it’s been running for about a week now. Instead of manually sorting through everything, the AI decides what’s important and what can wait.\n AI automatically categorizing emails by priority level"
   },
   {
-    "objectID": "posts/003_Research_with_Perplexity_AI/003.html#using-ai-for-research",
-    "href": "posts/003_Research_with_Perplexity_AI/003.html#using-ai-for-research",
-    "title": "Research with Perplexity AI",
+    "objectID": "posts/007_/007.html#letting-ai-handle-my-inbox",
+    "href": "posts/007_/007.html#letting-ai-handle-my-inbox",
+    "title": "AI Email Management That Actually Works",
     "section": "",
-    "text": "I’ve been trying out Perplexity AI for research tasks lately. It’s different from regular Google searches because it synthesizes information from multiple sources and gives you one coherent answer with citations.\n Perplexity AI interface showing search results with sources"
+    "text": "I set up SaneBox to manage my email and it’s been running for about a week now. Instead of manually sorting through everything, the AI decides what’s important and what can wait.\n AI automatically categorizing emails by priority level"
   },
   {
-    "objectID": "posts/003_Research_with_Perplexity_AI/003.html#how-it-works",
-    "href": "posts/003_Research_with_Perplexity_AI/003.html#how-it-works",
-    "title": "Research with Perplexity AI",
-    "section": "How It Works",
-    "text": "How It Works\n\nGetting Information from Multiple Sources\nInstead of opening multiple tabs and reading through different articles, Perplexity pulls information from various sources and combines it into a single response. When I was researching market trends for a work project, I got a summary that included key points from several industry reports, all with proper citations.\n\n\nFollow-up Questions\nYou can ask follow-up questions that build on your previous search. After asking about “sustainable packaging trends 2025,” I could continue with: - “What are the cost implications?” - “Which companies are leading this transition?” - “How does this compare to 2024 predictions?”\nThe AI remembers the context, so you don’t need to re-explain what you’re looking for.\n Live citations and source integration in action"
+    "objectID": "posts/007_/007.html#how-it-sorts-things-out",
+    "href": "posts/007_/007.html#how-it-sorts-things-out",
+    "title": "AI Email Management That Actually Works",
+    "section": "How It Sorts Things Out",
+    "text": "How It Sorts Things Out\n\nPriority Filtering\nSaneBox learns from which emails I actually open and respond to. Work emails from my team get flagged as important, while newsletters and promotional stuff gets moved to a separate folder. It’s not perfect but catches most of the obvious stuff.\n\n\nSmart Scheduling\nGmail’s AI also suggests response times and can schedule emails to send later. I’ve been using it to send emails during business hours even when I’m working late, so I don’t look like I’m always online.\n\n\nQuick Replies\nThe suggested responses are actually useful for simple emails. When someone sends a meeting request, it’ll suggest “Looks good” or “Let me check my calendar” which saves typing the same responses over and over.\n AI-generated reply suggestions for common email types"
   },
   {
-    "objectID": "posts/003_Research_with_Perplexity_AI/003.html#when-its-useful",
-    "href": "posts/003_Research_with_Perplexity_AI/003.html#when-its-useful",
-    "title": "Research with Perplexity AI",
-    "section": "When It’s Useful",
-    "text": "When It’s Useful\n\nAcademic Work\nGood for getting an overview of research topics and finding relevant studies. Helps identify what’s already been studied and where there might be gaps.\n\n\nBusiness Research\nUseful for market analysis and industry trends. You can ask specific questions and get answers that draw from recent reports and news sources.\n\n\nLearning New Topics\nWhen you’re unfamiliar with a subject, it can explain concepts and provide background without having to piece together information from multiple websites.\n\n\nFact-Checking\nSince it shows sources for each piece of information, it’s easier to verify claims and see where data comes from."
+    "objectID": "posts/007_/007.html#what-ive-noticed",
+    "href": "posts/007_/007.html#what-ive-noticed",
+    "title": "AI Email Management That Actually Works",
+    "section": "What I’ve Noticed",
+    "text": "What I’ve Noticed\n\nLess Time Sorting\nThe main benefit is spending less time deciding what to read first. Important emails show up in the main inbox, everything else gets organized automatically.\n\n\nFewer Missed Messages\nBefore, urgent emails would get buried under promotional stuff. Now they’re separated, so I’m less likely to miss something important.\n\n\nStill Need to Check\nThe AI sometimes gets it wrong - puts important emails in the low-priority folder or flags spam as urgent. You still need to glance through everything, but it’s more organized.\nIt’s a decent time-saver for people who get a lot of email. Not life-changing, but removes some of the daily friction of inbox management. The filtering works better than I expected, though you need to train it for a few days before it gets your priorities right."
   },
   {
-    "objectID": "posts/003_Research_with_Perplexity_AI/003.html#what-ive-found",
-    "href": "posts/003_Research_with_Perplexity_AI/003.html#what-ive-found",
-    "title": "Research with Perplexity AI",
-    "section": "What I’ve Found",
-    "text": "What I’ve Found\n\nSaves Time\nThe main benefit is speed. You get the key information faster since it’s already compiled from multiple sources. You still need to read the original sources for details, but the initial overview is much quicker.\n\n\nClear Sources\nEvery piece of information comes with citations, so you can see exactly where it came from and verify it if needed.\n\n\nHandles Context Well\nThe conversation aspect works better than I expected. You can refine questions or explore related topics without starting over.\n\n\nShows Different Viewpoints\nWhen sources disagree, it usually mentions the different perspectives rather than just presenting one view.\nIt’s a useful tool for the initial stages of research when you need to understand a topic quickly or gather information from multiple sources. Not a replacement for thorough research, but it does help speed up the information gathering process."
-  },
-  {
-    "objectID": "posts/006_Cuzco_Crunch/006.html",
-    "href": "posts/006_Cuzco_Crunch/006.html",
-    "title": "Building a Brand with AI: Cuzco Crunch",
+    "objectID": "posts/001_AI_Daily_Guide/001.html",
+    "href": "posts/001_AI_Daily_Guide/001.html",
+    "title": "5 Ways to Use AI Every Day",
     "section": "",
-    "text": "Eury and I decided to try building a snack brand called Cuzco Crunch, mostly to see how much of the process we could handle using AI tools. We are just experimenting with what’s possible when you use GPT for everything from naming to packaging concepts.\n Initial logo concepts generated through AI prompting"
+    "text": "AI tools like ChatGPT and Claude can handle routine tasks that usually take significant time. Here are five practical applications that work reliably.\n Common tasks where AI provides immediate value"
   },
   {
-    "objectID": "posts/006_Cuzco_Crunch/006.html#creating-a-brand-with-ai",
-    "href": "posts/006_Cuzco_Crunch/006.html#creating-a-brand-with-ai",
-    "title": "Building a Brand with AI: Cuzco Crunch",
+    "objectID": "posts/001_AI_Daily_Guide/001.html#using-ai-for-daily-tasks",
+    "href": "posts/001_AI_Daily_Guide/001.html#using-ai-for-daily-tasks",
+    "title": "5 Ways to Use AI Every Day",
     "section": "",
-    "text": "Eury and I decided to try building a snack brand called Cuzco Crunch, mostly to see how much of the process we could handle using AI tools. We are just experimenting with what’s possible when you use GPT for everything from naming to packaging concepts.\n Initial logo concepts generated through AI prompting"
+    "text": "AI tools like ChatGPT and Claude can handle routine tasks that usually take significant time. Here are five practical applications that work reliably.\n Common tasks where AI provides immediate value"
   },
   {
-    "objectID": "posts/006_Cuzco_Crunch/006.html#what-were-using-ai-for",
-    "href": "posts/006_Cuzco_Crunch/006.html#what-were-using-ai-for",
-    "title": "Building a Brand with AI: Cuzco Crunch",
-    "section": "What We’re Using AI For",
-    "text": "What We’re Using AI For\n\nBrand Development\nThe name “Cuzco Crunch” came from asking GPT to suggest names that sounded distinctive but not too weird. We wanted something that hinted at South American flavors without being too on-the-nose. It generated about 30 options and this one felt right.\n\n\nPackaging Design Direction\nWe’re using AI to create mood boards and design concepts. Instead of hiring a designer upfront, we’re generating different packaging styles to see what resonates. The AI helps us think through color schemes, typography, and overall brand personality.\n\n\nMarketing Copy\nProduct descriptions, social media posts, and even this blog post started with AI-generated drafts that we then edited. It’s faster than staring at a blank page, and sometimes the AI suggests angles we wouldn’t have thought of.\n Various packaging design concepts and color schemes"
+    "objectID": "posts/001_AI_Daily_Guide/001.html#meal-planning-and-recipes",
+    "href": "posts/001_AI_Daily_Guide/001.html#meal-planning-and-recipes",
+    "title": "5 Ways to Use AI Every Day",
+    "section": "1. Meal Planning and Recipes",
+    "text": "1. Meal Planning and Recipes\nTurn ingredients into meal plans instantly.\nBasic ingredient prompt:\nI have chicken breast, rice, and broccoli. \nGive me 3 different 30-minute meals with instructions.\nWeekly planning prompt:\nCreate a 5-day meal plan for 2 people, $60 budget. \nInclude grocery list organized by store section.\n AI generates recipes based on available ingredients and dietary preferences\nAI handles dietary restrictions, cooking time constraints, and budget limitations effectively. The grocery lists are particularly useful since they organize items by store layout."
   },
   {
-    "objectID": "posts/006_Cuzco_Crunch/006.html#whats-working-and-what-isnt",
-    "href": "posts/006_Cuzco_Crunch/006.html#whats-working-and-what-isnt",
-    "title": "Building a Brand with AI: Cuzco Crunch",
-    "section": "What’s Working and What Isn’t",
-    "text": "What’s Working and What Isn’t\n\nThe Good Stuff\nSpeed is the biggest advantage. We can iterate on ideas quickly without waiting for external feedback or spending money on design consultations. The AI is also good at generating variations - give it one concept and it’ll produce 10 different takes on it.\n\n\nThe Limitations\nEverything needs human editing. The AI-generated copy often sounds too generic or tries too hard to be clever. Design concepts look decent but lack the subtle details that make professional packaging stand out on shelves.\nAlso, the AI doesn’t understand practical constraints. It’ll suggest elaborate packaging designs that would be expensive to produce or flavors that might not actually taste good together.\n 3D mockups and shelf visualization concepts"
+    "objectID": "posts/001_AI_Daily_Guide/001.html#email-and-message-writing",
+    "href": "posts/001_AI_Daily_Guide/001.html#email-and-message-writing",
+    "title": "5 Ways to Use AI Every Day",
+    "section": "2. Email and Message Writing",
+    "text": "2. Email and Message Writing\nImprove clarity and tone in professional communication.\nEmail revision prompt:\nMake this email more professional and concise:\n[paste your draft]\nDifficult conversation prompt:\nHelp me write a polite but firm email declining this request:\n[explain situation]\nMeeting follow-up prompt:\nDraft a follow-up email summarizing these meeting points:\n[list key decisions and action items]\nThis works for text messages, LinkedIn messages, and any written communication where tone matters."
   },
   {
-    "objectID": "posts/006_Cuzco_Crunch/006.html#the-reality-check",
-    "href": "posts/006_Cuzco_Crunch/006.html#the-reality-check",
-    "title": "Building a Brand with AI: Cuzco Crunch",
-    "section": "The Reality Check",
-    "text": "The Reality Check\n\nStill Need Real Skills\nAI handles the brainstorming and initial concepts, but you still need to understand branding, know your target market, and make business decisions. It’s a tool, not a replacement for actual knowledge about building a brand.\n\n\nCost vs. Quality Trade-offs\nWe’re probably saving money in the early stages, but there’s a point where you need professional designers and marketers. The question is finding that sweet spot where AI gets you far enough to make informed decisions about what’s worth investing in.\n\n\nLearning Experience\nThe most valuable part has been understanding how much work goes into brand development. Using AI to handle the repetitive parts lets us focus on strategy and decision-making instead of getting stuck on execution details.\nWe’re treating this as an experiment rather than a serious business venture. If Cuzco Crunch turns into something real, great. If not, we’ve learned a lot about using AI for creative projects and brand development."
+    "objectID": "posts/001_AI_Daily_Guide/001.html#quick-learning-and-research",
+    "href": "posts/001_AI_Daily_Guide/001.html#quick-learning-and-research",
+    "title": "5 Ways to Use AI Every Day",
+    "section": "3. Quick Learning and Research",
+    "text": "3. Quick Learning and Research\nGet structured explanations on unfamiliar topics.\nConcept explanation prompt:\nExplain [topic] in simple terms, then give me \n5 follow-up questions to test my understanding.\nSkill learning prompt:\nI need to learn Excel pivot tables for work. \nGive me a step-by-step tutorial focusing on the most practical features.\nResearch synthesis prompt:\nCompare the top 3 options for [product/service] \nwith pros and cons for each.\n AI breaks down complex topics into manageable learning steps\nAI excels at creating structured learning paths and synthesizing information from multiple angles."
+  },
+  {
+    "objectID": "posts/001_AI_Daily_Guide/001.html#travel-and-event-planning",
+    "href": "posts/001_AI_Daily_Guide/001.html#travel-and-event-planning",
+    "title": "5 Ways to Use AI Every Day",
+    "section": "4. Travel and Event Planning",
+    "text": "4. Travel and Event Planning\nGenerate detailed itineraries and logistics.\nTrip planning prompt:\nPlan a 3-day weekend trip to [destination] for [number] people \nwith a $[amount] budget. Include transportation, accommodation, \nand daily activities.\nLocal exploration prompt:\nWhat are 5 lesser-known attractions in [city] \nthat locals recommend?\nEvent planning prompt:\nCreate a timeline and checklist for planning a \n[birthday party/dinner party/work event] for [number] people.\nAI handles multiple constraints simultaneously - budget, time, preferences, and logistics."
+  },
+  {
+    "objectID": "posts/001_AI_Daily_Guide/001.html#home-management-and-finances",
+    "href": "posts/001_AI_Daily_Guide/001.html#home-management-and-finances",
+    "title": "5 Ways to Use AI Every Day",
+    "section": "5. Home Management and Finances",
+    "text": "5. Home Management and Finances\nGet practical advice for household and money management.\nHome maintenance prompt:\nMy [appliance/fixture] is [problem description]. \nWalk me through troubleshooting steps from simple to complex.\nBudget planning prompt:\nI make $[amount] monthly, fixed expenses are $[amount]. \nCreate a realistic budget with savings and discretionary spending.\nPurchase decision prompt:\nI'm considering buying [item] for [purpose]. \nWhat factors should I evaluate? Create a decision framework.\n AI provides structured approaches to financial and household decisions\nThese applications work because AI can process multiple variables and provide step-by-step guidance for complex decisions."
+  },
+  {
+    "objectID": "posts/001_AI_Daily_Guide/001.html#implementation-notes",
+    "href": "posts/001_AI_Daily_Guide/001.html#implementation-notes",
+    "title": "5 Ways to Use AI Every Day",
+    "section": "Implementation Notes",
+    "text": "Implementation Notes\nPrompt specificity matters. Include relevant details like budget, timeframe, number of people, and specific constraints.\nFollow-up questions improve results. Ask for alternatives, simplifications, or additional detail as needed.\nSave effective prompts. Keep a note file with prompts that work well for repeated use.\nThese five applications cover the most common daily planning and decision-making tasks. Each provides immediate time savings and often produces better results than manual research."
+  },
+  {
+    "objectID": "posts/004_AI-Assisted_Grocery_Shopping_and_Meal_Prep/004.html",
+    "href": "posts/004_AI-Assisted_Grocery_Shopping_and_Meal_Prep/004.html",
+    "title": "AI-Assisted Grocery Shopping and Meal Prep",
+    "section": "",
+    "text": "I tried out the AnyList grocery app today and it’s different from just writing things down on paper. Instead of my usual scattered notes and forgotten items, the app organizes everything and suggests what I might need.\n AI-generated grocery list organized by store layout"
+  },
+  {
+    "objectID": "posts/004_AI-Assisted_Grocery_Shopping_and_Meal_Prep/004.html#smarter-grocery-shopping",
+    "href": "posts/004_AI-Assisted_Grocery_Shopping_and_Meal_Prep/004.html#smarter-grocery-shopping",
+    "title": "AI-Assisted Grocery Shopping and Meal Prep",
+    "section": "",
+    "text": "I tried out the AnyList grocery app today and it’s different from just writing things down on paper. Instead of my usual scattered notes and forgotten items, the app organizes everything and suggests what I might need.\n AI-generated grocery list organized by store layout"
+  },
+  {
+    "objectID": "posts/004_AI-Assisted_Grocery_Shopping_and_Meal_Prep/004.html#what-it-actually-does",
+    "href": "posts/004_AI-Assisted_Grocery_Shopping_and_Meal_Prep/004.html#what-it-actually-does",
+    "title": "AI-Assisted Grocery Shopping and Meal Prep",
+    "section": "What It Actually Does",
+    "text": "What It Actually Does\n\nTracks What You Need\nThe app learns from your purchase history and can predict when you’re running low on regular items. It suggested I needed milk and bread this week before I even thought about it. Not perfect, but surprisingly accurate for staples I buy regularly.\n\n\nOrganizes by Store Layout\nInstead of jumping around the store, the list is organized by sections - produce, dairy, meat, etc. Some apps even know the specific layout of stores you frequent, so your list follows the actual aisles.\n\n\nMeal Planning Integration\nYou can add meals for the week and it automatically generates ingredient lists. When I planned tacos for Tuesday, it added ground beef, tortillas, and lettuce to my list. It also checked what I already had at home based on recent purchases."
+  },
+  {
+    "objectID": "posts/004_AI-Assisted_Grocery_Shopping_and_Meal_Prep/004.html#practical-benefits",
+    "href": "posts/004_AI-Assisted_Grocery_Shopping_and_Meal_Prep/004.html#practical-benefits",
+    "title": "AI-Assisted Grocery Shopping and Meal Prep",
+    "section": "Practical Benefits",
+    "text": "Practical Benefits\n\nLess Time in Store\nFollowing an organized list means less wandering around looking for items. I’ve noticed my shopping trips are about 15-20 minutes shorter.\n\n\nFewer Forgotten Items\nThe app remembers things I consistently buy but often forget to write down, like batteries or cleaning supplies.\n\n\nBetter Meal Planning\nWhen you can see ingredient costs upfront, it’s easier to plan meals within budget. The app sometimes suggests cheaper alternatives for expensive items.\n\n\nAutomatic Coupons\nMany apps integrate with store loyalty programs and apply relevant coupons automatically. I’ve saved money without having to hunt for deals."
+  },
+  {
+    "objectID": "posts/004_AI-Assisted_Grocery_Shopping_and_Meal_Prep/004.html#what-doesnt-work-perfectly",
+    "href": "posts/004_AI-Assisted_Grocery_Shopping_and_Meal_Prep/004.html#what-doesnt-work-perfectly",
+    "title": "AI-Assisted Grocery Shopping and Meal Prep",
+    "section": "What Doesn’t Work Perfectly",
+    "text": "What Doesn’t Work Perfectly\n\nLearning Period\nIt takes a few weeks for the app to understand your shopping patterns. Early suggestions were often wrong.\n\n\nStore-Specific Features\nAdvanced features like aisle mapping only work with certain grocery chains. Smaller or independent stores usually don’t have this integration.\n\n\nFresh Produce Timing\nThe AI isn’t great at predicting when you need fresh items since it depends on how quickly you use them.\nOverall, it’s a useful tool that makes grocery shopping more organized. The meal planning aspect is particularly helpful for busy weeks when you need to think ahead. Not essential, but definitely convenient once you get used to it."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "What Can You Do With AI",
+    "section": "",
+    "text": "Let’s Find Out\n\nExploring AI in daily life\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAI Photo Organization: Finding Pictures I Forgot I Had\n\n\n\nAI\n\nphotos\n\norganization\n\n\n\nHow Google Photos AI search helped me rediscover thousands of old photos\n\n\n\n\n\nSep 27, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Email Management That Actually Works\n\n\n\nAI\n\nproductivity\n\nemail\n\n\n\nUsing smart filters and auto-responses to handle inbox overload\n\n\n\n\n\nSep 25, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nBuilding a Brand with AI: Cuzco Crunch\n\n\n\nAI\n\nbranding\n\nentrepreneurship\n\n\n\nHow we’re using GPT to create a snack brand from concept to execution\n\n\n\n\n\nSep 23, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Fitness Coaching at Home\n\n\n\nAI\n\nfitness\n\nhealth\n\n\n\nUsing smartphone apps for form correction and personalized workouts\n\n\n\n\n\nSep 19, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI-Assisted Grocery Shopping and Meal Prep\n\n\n\nAI\n\ndaily-life\n\nproductivity\n\n\n\nHow smart apps are making grocery runs more organized and efficient\n\n\n\n\n\nSep 18, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nResearch with Perplexity AI\n\n\n\nAI\n\nresearch\n\nproductivity\n\n\n\nHow AI-powered search is changing the way we gather and analyze information\n\n\n\n\n\nSep 15, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Do’s and Don’ts: Safe and Effective Usage\n\n\n\nAI\n\nsafety\n\nguidelines\n\n\n\nEssential guidelines for using AI tools responsibly and effectively\n\n\n\n\n\nSep 10, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\n5 Ways to Use AI Every Day\n\n\n\nAI\n\nproductivity\n\ntutorial\n\n\n\nPractical AI applications that save time on common daily tasks\n\n\n\n\n\nSep 5, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nHow AI Systems Work: A Technical Overview\n\n\n\nAI\n\ndeep-dive\n\ntechnology\n\n\n\nUnderstanding the mechanics and architecture of modern artificial intelligence systems\n\n\n\n\n\nSep 3, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/000_How_Does_AI_Really_Work/000.html",
@@ -189,130 +245,109 @@
     "text": "Summary\nModern AI systems represent sophisticated statistical engines that process patterns in data to generate human-like outputs. While they demonstrate impressive capabilities, they operate through pattern matching rather than conceptual understanding.\n\nKey Technical Points\nCurrent AI systems achieve intelligent-seeming behavior through statistical pattern processing rather than understanding. This approach has several implications:\n\nFor Users: Understanding system strengths and limitations enables more effective application\nFor Organizations: Appropriate use requires human oversight and verification processes\nFor Society: New frameworks are needed for evaluating machine capabilities and limitations\n\nStatistical pattern matching at scale produces sophisticated behavior, suggesting that aspects of intelligence may be more computational than previously understood.\nAs these systems become more prevalent, understanding their statistical nature becomes increasingly important for effective implementation. The technology continues evolving rapidly, with ongoing research addressing questions about scaling, emergence, and alignment with human objectives.\nThe field represents significant progress in automated pattern recognition and generation, with continued development likely to expand capabilities while maintaining the fundamental statistical architecture.\n\nUnderstanding the technical foundations of AI systems helps inform appropriate use and realistic expectations about current capabilities."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "What Can You Do With AI",
+    "objectID": "posts/006_Cuzco_Crunch/006.html",
+    "href": "posts/006_Cuzco_Crunch/006.html",
+    "title": "Building a Brand with AI: Cuzco Crunch",
     "section": "",
-    "text": "Let’s Find Out\n\nExploring AI in daily life\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAI Email Management That Actually Works\n\n\n\nAI\n\nproductivity\n\nemail\n\n\n\nUsing smart filters and auto-responses to handle inbox overload\n\n\n\n\n\nSep 25, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nBuilding a Brand with AI: Cuzco Crunch\n\n\n\nAI\n\nbranding\n\nentrepreneurship\n\n\n\nHow we’re using GPT to create a snack brand from concept to execution\n\n\n\n\n\nSep 23, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Fitness Coaching at Home\n\n\n\nAI\n\nfitness\n\nhealth\n\n\n\nUsing smartphone apps for form correction and personalized workouts\n\n\n\n\n\nSep 19, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI-Assisted Grocery Shopping and Meal Prep\n\n\n\nAI\n\ndaily-life\n\nproductivity\n\n\n\nHow smart apps are making grocery runs more organized and efficient\n\n\n\n\n\nSep 18, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nResearch with Perplexity AI\n\n\n\nAI\n\nresearch\n\nproductivity\n\n\n\nHow AI-powered search is changing the way we gather and analyze information\n\n\n\n\n\nSep 15, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Do’s and Don’ts: Safe and Effective Usage\n\n\n\nAI\n\nsafety\n\nguidelines\n\n\n\nEssential guidelines for using AI tools responsibly and effectively\n\n\n\n\n\nSep 10, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\n5 Ways to Use AI Every Day\n\n\n\nAI\n\nproductivity\n\ntutorial\n\n\n\nPractical AI applications that save time on common daily tasks\n\n\n\n\n\nSep 5, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nHow AI Systems Work: A Technical Overview\n\n\n\nAI\n\ndeep-dive\n\ntechnology\n\n\n\nUnderstanding the mechanics and architecture of modern artificial intelligence systems\n\n\n\n\n\nSep 3, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\nNo matching items"
+    "text": "Eury and I decided to try building a snack brand called Cuzco Crunch, mostly to see how much of the process we could handle using AI tools. We are just experimenting with what’s possible when you use GPT for everything from naming to packaging concepts.\n Initial logo concepts generated through AI prompting"
   },
   {
-    "objectID": "posts/004_AI-Assisted_Grocery_Shopping_and_Meal_Prep/004.html",
-    "href": "posts/004_AI-Assisted_Grocery_Shopping_and_Meal_Prep/004.html",
-    "title": "AI-Assisted Grocery Shopping and Meal Prep",
+    "objectID": "posts/006_Cuzco_Crunch/006.html#creating-a-brand-with-ai",
+    "href": "posts/006_Cuzco_Crunch/006.html#creating-a-brand-with-ai",
+    "title": "Building a Brand with AI: Cuzco Crunch",
     "section": "",
-    "text": "I tried out the AnyList grocery app today and it’s different from just writing things down on paper. Instead of my usual scattered notes and forgotten items, the app organizes everything and suggests what I might need.\n AI-generated grocery list organized by store layout"
+    "text": "Eury and I decided to try building a snack brand called Cuzco Crunch, mostly to see how much of the process we could handle using AI tools. We are just experimenting with what’s possible when you use GPT for everything from naming to packaging concepts.\n Initial logo concepts generated through AI prompting"
   },
   {
-    "objectID": "posts/004_AI-Assisted_Grocery_Shopping_and_Meal_Prep/004.html#smarter-grocery-shopping",
-    "href": "posts/004_AI-Assisted_Grocery_Shopping_and_Meal_Prep/004.html#smarter-grocery-shopping",
-    "title": "AI-Assisted Grocery Shopping and Meal Prep",
+    "objectID": "posts/006_Cuzco_Crunch/006.html#what-were-using-ai-for",
+    "href": "posts/006_Cuzco_Crunch/006.html#what-were-using-ai-for",
+    "title": "Building a Brand with AI: Cuzco Crunch",
+    "section": "What We’re Using AI For",
+    "text": "What We’re Using AI For\n\nBrand Development\nThe name “Cuzco Crunch” came from asking GPT to suggest names that sounded distinctive but not too weird. We wanted something that hinted at South American flavors without being too on-the-nose. It generated about 30 options and this one felt right.\n\n\nPackaging Design Direction\nWe’re using AI to create mood boards and design concepts. Instead of hiring a designer upfront, we’re generating different packaging styles to see what resonates. The AI helps us think through color schemes, typography, and overall brand personality.\n\n\nMarketing Copy\nProduct descriptions, social media posts, and even this blog post started with AI-generated drafts that we then edited. It’s faster than staring at a blank page, and sometimes the AI suggests angles we wouldn’t have thought of.\n Various packaging design concepts and color schemes"
+  },
+  {
+    "objectID": "posts/006_Cuzco_Crunch/006.html#whats-working-and-what-isnt",
+    "href": "posts/006_Cuzco_Crunch/006.html#whats-working-and-what-isnt",
+    "title": "Building a Brand with AI: Cuzco Crunch",
+    "section": "What’s Working and What Isn’t",
+    "text": "What’s Working and What Isn’t\n\nThe Good Stuff\nSpeed is the biggest advantage. We can iterate on ideas quickly without waiting for external feedback or spending money on design consultations. The AI is also good at generating variations - give it one concept and it’ll produce 10 different takes on it.\n\n\nThe Limitations\nEverything needs human editing. The AI-generated copy often sounds too generic or tries too hard to be clever. Design concepts look decent but lack the subtle details that make professional packaging stand out on shelves.\nAlso, the AI doesn’t understand practical constraints. It’ll suggest elaborate packaging designs that would be expensive to produce or flavors that might not actually taste good together.\n 3D mockups and shelf visualization concepts"
+  },
+  {
+    "objectID": "posts/006_Cuzco_Crunch/006.html#the-reality-check",
+    "href": "posts/006_Cuzco_Crunch/006.html#the-reality-check",
+    "title": "Building a Brand with AI: Cuzco Crunch",
+    "section": "The Reality Check",
+    "text": "The Reality Check\n\nStill Need Real Skills\nAI handles the brainstorming and initial concepts, but you still need to understand branding, know your target market, and make business decisions. It’s a tool, not a replacement for actual knowledge about building a brand.\n\n\nCost vs. Quality Trade-offs\nWe’re probably saving money in the early stages, but there’s a point where you need professional designers and marketers. The question is finding that sweet spot where AI gets you far enough to make informed decisions about what’s worth investing in.\n\n\nLearning Experience\nThe most valuable part has been understanding how much work goes into brand development. Using AI to handle the repetitive parts lets us focus on strategy and decision-making instead of getting stuck on execution details.\nWe’re treating this as an experiment rather than a serious business venture. If Cuzco Crunch turns into something real, great. If not, we’ve learned a lot about using AI for creative projects and brand development."
+  },
+  {
+    "objectID": "posts/003_Research_with_Perplexity_AI/003.html",
+    "href": "posts/003_Research_with_Perplexity_AI/003.html",
+    "title": "Research with Perplexity AI",
     "section": "",
-    "text": "I tried out the AnyList grocery app today and it’s different from just writing things down on paper. Instead of my usual scattered notes and forgotten items, the app organizes everything and suggests what I might need.\n AI-generated grocery list organized by store layout"
+    "text": "I’ve been trying out Perplexity AI for research tasks lately. It’s different from regular Google searches because it synthesizes information from multiple sources and gives you one coherent answer with citations.\n Perplexity AI interface showing search results with sources"
   },
   {
-    "objectID": "posts/004_AI-Assisted_Grocery_Shopping_and_Meal_Prep/004.html#what-it-actually-does",
-    "href": "posts/004_AI-Assisted_Grocery_Shopping_and_Meal_Prep/004.html#what-it-actually-does",
-    "title": "AI-Assisted Grocery Shopping and Meal Prep",
-    "section": "What It Actually Does",
-    "text": "What It Actually Does\n\nTracks What You Need\nThe app learns from your purchase history and can predict when you’re running low on regular items. It suggested I needed milk and bread this week before I even thought about it. Not perfect, but surprisingly accurate for staples I buy regularly.\n\n\nOrganizes by Store Layout\nInstead of jumping around the store, the list is organized by sections - produce, dairy, meat, etc. Some apps even know the specific layout of stores you frequent, so your list follows the actual aisles.\n\n\nMeal Planning Integration\nYou can add meals for the week and it automatically generates ingredient lists. When I planned tacos for Tuesday, it added ground beef, tortillas, and lettuce to my list. It also checked what I already had at home based on recent purchases."
-  },
-  {
-    "objectID": "posts/004_AI-Assisted_Grocery_Shopping_and_Meal_Prep/004.html#practical-benefits",
-    "href": "posts/004_AI-Assisted_Grocery_Shopping_and_Meal_Prep/004.html#practical-benefits",
-    "title": "AI-Assisted Grocery Shopping and Meal Prep",
-    "section": "Practical Benefits",
-    "text": "Practical Benefits\n\nLess Time in Store\nFollowing an organized list means less wandering around looking for items. I’ve noticed my shopping trips are about 15-20 minutes shorter.\n\n\nFewer Forgotten Items\nThe app remembers things I consistently buy but often forget to write down, like batteries or cleaning supplies.\n\n\nBetter Meal Planning\nWhen you can see ingredient costs upfront, it’s easier to plan meals within budget. The app sometimes suggests cheaper alternatives for expensive items.\n\n\nAutomatic Coupons\nMany apps integrate with store loyalty programs and apply relevant coupons automatically. I’ve saved money without having to hunt for deals."
-  },
-  {
-    "objectID": "posts/004_AI-Assisted_Grocery_Shopping_and_Meal_Prep/004.html#what-doesnt-work-perfectly",
-    "href": "posts/004_AI-Assisted_Grocery_Shopping_and_Meal_Prep/004.html#what-doesnt-work-perfectly",
-    "title": "AI-Assisted Grocery Shopping and Meal Prep",
-    "section": "What Doesn’t Work Perfectly",
-    "text": "What Doesn’t Work Perfectly\n\nLearning Period\nIt takes a few weeks for the app to understand your shopping patterns. Early suggestions were often wrong.\n\n\nStore-Specific Features\nAdvanced features like aisle mapping only work with certain grocery chains. Smaller or independent stores usually don’t have this integration.\n\n\nFresh Produce Timing\nThe AI isn’t great at predicting when you need fresh items since it depends on how quickly you use them.\nOverall, it’s a useful tool that makes grocery shopping more organized. The meal planning aspect is particularly helpful for busy weeks when you need to think ahead. Not essential, but definitely convenient once you get used to it."
-  },
-  {
-    "objectID": "posts/001_AI_Daily_Guide/001.html",
-    "href": "posts/001_AI_Daily_Guide/001.html",
-    "title": "5 Ways to Use AI Every Day",
+    "objectID": "posts/003_Research_with_Perplexity_AI/003.html#using-ai-for-research",
+    "href": "posts/003_Research_with_Perplexity_AI/003.html#using-ai-for-research",
+    "title": "Research with Perplexity AI",
     "section": "",
-    "text": "AI tools like ChatGPT and Claude can handle routine tasks that usually take significant time. Here are five practical applications that work reliably.\n Common tasks where AI provides immediate value"
+    "text": "I’ve been trying out Perplexity AI for research tasks lately. It’s different from regular Google searches because it synthesizes information from multiple sources and gives you one coherent answer with citations.\n Perplexity AI interface showing search results with sources"
   },
   {
-    "objectID": "posts/001_AI_Daily_Guide/001.html#using-ai-for-daily-tasks",
-    "href": "posts/001_AI_Daily_Guide/001.html#using-ai-for-daily-tasks",
-    "title": "5 Ways to Use AI Every Day",
+    "objectID": "posts/003_Research_with_Perplexity_AI/003.html#how-it-works",
+    "href": "posts/003_Research_with_Perplexity_AI/003.html#how-it-works",
+    "title": "Research with Perplexity AI",
+    "section": "How It Works",
+    "text": "How It Works\n\nGetting Information from Multiple Sources\nInstead of opening multiple tabs and reading through different articles, Perplexity pulls information from various sources and combines it into a single response. When I was researching market trends for a work project, I got a summary that included key points from several industry reports, all with proper citations.\n\n\nFollow-up Questions\nYou can ask follow-up questions that build on your previous search. After asking about “sustainable packaging trends 2025,” I could continue with: - “What are the cost implications?” - “Which companies are leading this transition?” - “How does this compare to 2024 predictions?”\nThe AI remembers the context, so you don’t need to re-explain what you’re looking for.\n Live citations and source integration in action"
+  },
+  {
+    "objectID": "posts/003_Research_with_Perplexity_AI/003.html#when-its-useful",
+    "href": "posts/003_Research_with_Perplexity_AI/003.html#when-its-useful",
+    "title": "Research with Perplexity AI",
+    "section": "When It’s Useful",
+    "text": "When It’s Useful\n\nAcademic Work\nGood for getting an overview of research topics and finding relevant studies. Helps identify what’s already been studied and where there might be gaps.\n\n\nBusiness Research\nUseful for market analysis and industry trends. You can ask specific questions and get answers that draw from recent reports and news sources.\n\n\nLearning New Topics\nWhen you’re unfamiliar with a subject, it can explain concepts and provide background without having to piece together information from multiple websites.\n\n\nFact-Checking\nSince it shows sources for each piece of information, it’s easier to verify claims and see where data comes from."
+  },
+  {
+    "objectID": "posts/003_Research_with_Perplexity_AI/003.html#what-ive-found",
+    "href": "posts/003_Research_with_Perplexity_AI/003.html#what-ive-found",
+    "title": "Research with Perplexity AI",
+    "section": "What I’ve Found",
+    "text": "What I’ve Found\n\nSaves Time\nThe main benefit is speed. You get the key information faster since it’s already compiled from multiple sources. You still need to read the original sources for details, but the initial overview is much quicker.\n\n\nClear Sources\nEvery piece of information comes with citations, so you can see exactly where it came from and verify it if needed.\n\n\nHandles Context Well\nThe conversation aspect works better than I expected. You can refine questions or explore related topics without starting over.\n\n\nShows Different Viewpoints\nWhen sources disagree, it usually mentions the different perspectives rather than just presenting one view.\nIt’s a useful tool for the initial stages of research when you need to understand a topic quickly or gather information from multiple sources. Not a replacement for thorough research, but it does help speed up the information gathering process."
+  },
+  {
+    "objectID": "posts/008_ /008.html",
+    "href": "posts/008_ /008.html",
+    "title": "AI Photo Organization: Finding Pictures I Forgot I Had",
     "section": "",
-    "text": "AI tools like ChatGPT and Claude can handle routine tasks that usually take significant time. Here are five practical applications that work reliably.\n Common tasks where AI provides immediate value"
+    "text": "I realized I had over 10,000 photos in Google Photos and no way to find specific ones. Today I tried using the AI search features to locate pictures from last year’s vacation, and it actually worked better than expected.\n Google Photos AI recognizing objects, people, and locations"
   },
   {
-    "objectID": "posts/001_AI_Daily_Guide/001.html#meal-planning-and-recipes",
-    "href": "posts/001_AI_Daily_Guide/001.html#meal-planning-and-recipes",
-    "title": "5 Ways to Use AI Every Day",
-    "section": "1. Meal Planning and Recipes",
-    "text": "1. Meal Planning and Recipes\nTurn ingredients into meal plans instantly.\nBasic ingredient prompt:\nI have chicken breast, rice, and broccoli. \nGive me 3 different 30-minute meals with instructions.\nWeekly planning prompt:\nCreate a 5-day meal plan for 2 people, $60 budget. \nInclude grocery list organized by store section.\n AI generates recipes based on available ingredients and dietary preferences\nAI handles dietary restrictions, cooking time constraints, and budget limitations effectively. The grocery lists are particularly useful since they organize items by store layout."
-  },
-  {
-    "objectID": "posts/001_AI_Daily_Guide/001.html#email-and-message-writing",
-    "href": "posts/001_AI_Daily_Guide/001.html#email-and-message-writing",
-    "title": "5 Ways to Use AI Every Day",
-    "section": "2. Email and Message Writing",
-    "text": "2. Email and Message Writing\nImprove clarity and tone in professional communication.\nEmail revision prompt:\nMake this email more professional and concise:\n[paste your draft]\nDifficult conversation prompt:\nHelp me write a polite but firm email declining this request:\n[explain situation]\nMeeting follow-up prompt:\nDraft a follow-up email summarizing these meeting points:\n[list key decisions and action items]\nThis works for text messages, LinkedIn messages, and any written communication where tone matters."
-  },
-  {
-    "objectID": "posts/001_AI_Daily_Guide/001.html#quick-learning-and-research",
-    "href": "posts/001_AI_Daily_Guide/001.html#quick-learning-and-research",
-    "title": "5 Ways to Use AI Every Day",
-    "section": "3. Quick Learning and Research",
-    "text": "3. Quick Learning and Research\nGet structured explanations on unfamiliar topics.\nConcept explanation prompt:\nExplain [topic] in simple terms, then give me \n5 follow-up questions to test my understanding.\nSkill learning prompt:\nI need to learn Excel pivot tables for work. \nGive me a step-by-step tutorial focusing on the most practical features.\nResearch synthesis prompt:\nCompare the top 3 options for [product/service] \nwith pros and cons for each.\n AI breaks down complex topics into manageable learning steps\nAI excels at creating structured learning paths and synthesizing information from multiple angles."
-  },
-  {
-    "objectID": "posts/001_AI_Daily_Guide/001.html#travel-and-event-planning",
-    "href": "posts/001_AI_Daily_Guide/001.html#travel-and-event-planning",
-    "title": "5 Ways to Use AI Every Day",
-    "section": "4. Travel and Event Planning",
-    "text": "4. Travel and Event Planning\nGenerate detailed itineraries and logistics.\nTrip planning prompt:\nPlan a 3-day weekend trip to [destination] for [number] people \nwith a $[amount] budget. Include transportation, accommodation, \nand daily activities.\nLocal exploration prompt:\nWhat are 5 lesser-known attractions in [city] \nthat locals recommend?\nEvent planning prompt:\nCreate a timeline and checklist for planning a \n[birthday party/dinner party/work event] for [number] people.\nAI handles multiple constraints simultaneously - budget, time, preferences, and logistics."
-  },
-  {
-    "objectID": "posts/001_AI_Daily_Guide/001.html#home-management-and-finances",
-    "href": "posts/001_AI_Daily_Guide/001.html#home-management-and-finances",
-    "title": "5 Ways to Use AI Every Day",
-    "section": "5. Home Management and Finances",
-    "text": "5. Home Management and Finances\nGet practical advice for household and money management.\nHome maintenance prompt:\nMy [appliance/fixture] is [problem description]. \nWalk me through troubleshooting steps from simple to complex.\nBudget planning prompt:\nI make $[amount] monthly, fixed expenses are $[amount]. \nCreate a realistic budget with savings and discretionary spending.\nPurchase decision prompt:\nI'm considering buying [item] for [purpose]. \nWhat factors should I evaluate? Create a decision framework.\n AI provides structured approaches to financial and household decisions\nThese applications work because AI can process multiple variables and provide step-by-step guidance for complex decisions."
-  },
-  {
-    "objectID": "posts/001_AI_Daily_Guide/001.html#implementation-notes",
-    "href": "posts/001_AI_Daily_Guide/001.html#implementation-notes",
-    "title": "5 Ways to Use AI Every Day",
-    "section": "Implementation Notes",
-    "text": "Implementation Notes\nPrompt specificity matters. Include relevant details like budget, timeframe, number of people, and specific constraints.\nFollow-up questions improve results. Ask for alternatives, simplifications, or additional detail as needed.\nSave effective prompts. Keep a note file with prompts that work well for repeated use.\nThese five applications cover the most common daily planning and decision-making tasks. Each provides immediate time savings and often produces better results than manual research."
-  },
-  {
-    "objectID": "posts/007_/007.html",
-    "href": "posts/007_/007.html",
-    "title": "AI Email Management That Actually Works",
+    "objectID": "posts/008_ /008.html#searching-through-10000-photos",
+    "href": "posts/008_ /008.html#searching-through-10000-photos",
+    "title": "AI Photo Organization: Finding Pictures I Forgot I Had",
     "section": "",
-    "text": "I set up SaneBox to manage my email and it’s been running for about a week now. Instead of manually sorting through everything, the AI decides what’s important and what can wait.\n AI automatically categorizing emails by priority level"
+    "text": "I realized I had over 10,000 photos in Google Photos and no way to find specific ones. Today I tried using the AI search features to locate pictures from last year’s vacation, and it actually worked better than expected.\n Google Photos AI recognizing objects, people, and locations"
   },
   {
-    "objectID": "posts/007_/007.html#letting-ai-handle-my-inbox",
-    "href": "posts/007_/007.html#letting-ai-handle-my-inbox",
-    "title": "AI Email Management That Actually Works",
-    "section": "",
-    "text": "I set up SaneBox to manage my email and it’s been running for about a week now. Instead of manually sorting through everything, the AI decides what’s important and what can wait.\n AI automatically categorizing emails by priority level"
+    "objectID": "posts/008_ /008.html#what-the-ai-can-find",
+    "href": "posts/008_ /008.html#what-the-ai-can-find",
+    "title": "AI Photo Organization: Finding Pictures I Forgot I Had",
+    "section": "What the AI Can Find",
+    "text": "What the AI Can Find\n\nObject Recognition\nI searched for “pizza” and it found every photo with pizza in it, even ones where pizza was just sitting on a table in the background. Same thing worked for “dog,” “beach,” and “birthday cake.” The AI recognizes way more objects than I expected.\n\n\nFace Grouping\nGoogle Photos automatically groups photos by faces, so I can find all pictures of specific people without having to manually tag them. It even recognizes people as they age or in different lighting.\n\n\nLocation and Time\nIf you have location data turned on, you can search by place names. I found all my photos from “San Francisco” or “coffee shop” pretty easily. Time-based searches work too - “photos from summer 2024” pulled up the right time period.\n Automatically created albums based on events and trips"
   },
   {
-    "objectID": "posts/007_/007.html#how-it-sorts-things-out",
-    "href": "posts/007_/007.html#how-it-sorts-things-out",
-    "title": "AI Email Management That Actually Works",
-    "section": "How It Sorts Things Out",
-    "text": "How It Sorts Things Out\n\nPriority Filtering\nSaneBox learns from which emails I actually open and respond to. Work emails from my team get flagged as important, while newsletters and promotional stuff gets moved to a separate folder. It’s not perfect but catches most of the obvious stuff.\n\n\nSmart Scheduling\nGmail’s AI also suggests response times and can schedule emails to send later. I’ve been using it to send emails during business hours even when I’m working late, so I don’t look like I’m always online.\n\n\nQuick Replies\nThe suggested responses are actually useful for simple emails. When someone sends a meeting request, it’ll suggest “Looks good” or “Let me check my calendar” which saves typing the same responses over and over.\n AI-generated reply suggestions for common email types"
+    "objectID": "posts/008_ /008.html#automatic-albums",
+    "href": "posts/008_ /008.html#automatic-albums",
+    "title": "AI Photo Organization: Finding Pictures I Forgot I Had",
+    "section": "Automatic Albums",
+    "text": "Automatic Albums\n\nTrip Detection\nThe AI creates albums for trips automatically based on location and date patterns. It figured out my weekend in Portland and grouped all those photos together without me doing anything.\n\n\nEvent Recognition\nIt also makes albums for things like “Birthday party” or “Graduation” based on the types of photos and timing. Sometimes it gets it wrong - labeled a regular dinner as a “celebration” - but it’s right more often than not.\n\n\nPeople Albums\nCreates collections of photos featuring specific people, which is useful for family pictures or when you want to share photos of someone with them."
   },
   {
-    "objectID": "posts/007_/007.html#what-ive-noticed",
-    "href": "posts/007_/007.html#what-ive-noticed",
-    "title": "AI Email Management That Actually Works",
-    "section": "What I’ve Noticed",
-    "text": "What I’ve Noticed\n\nLess Time Sorting\nThe main benefit is spending less time deciding what to read first. Important emails show up in the main inbox, everything else gets organized automatically.\n\n\nFewer Missed Messages\nBefore, urgent emails would get buried under promotional stuff. Now they’re separated, so I’m less likely to miss something important.\n\n\nStill Need to Check\nThe AI sometimes gets it wrong - puts important emails in the low-priority folder or flags spam as urgent. You still need to glance through everything, but it’s more organized.\nIt’s a decent time-saver for people who get a lot of email. Not life-changing, but removes some of the daily friction of inbox management. The filtering works better than I expected, though you need to train it for a few days before it gets your priorities right."
+    "objectID": "posts/008_ /008.html#limitations",
+    "href": "posts/008_ /008.html#limitations",
+    "title": "AI Photo Organization: Finding Pictures I Forgot I Had",
+    "section": "Limitations",
+    "text": "Limitations\n\nPrivacy Concerns\nAll this convenience requires uploading your photos to Google’s servers where they analyze everything. If that bothers you, you can’t really use these features.\n\n\nSometimes Too Smart\nThe AI occasionally creates albums for things that weren’t actually events, or groups random photos together based on superficial similarities.\n\n\nSearch Isn’t Perfect\nComplex searches don’t always work. “Photos of John at the beach” might miss some or include wrong results. Simple, single-concept searches work much better.\nIt’s genuinely useful for finding old photos you’d never locate otherwise. The search functionality makes having thousands of photos actually manageable instead of just overwhelming."
   },
   {
     "objectID": "posts/005_AI_Fitness_Coaching_at_Home/005.html",
