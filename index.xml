@@ -9,8 +9,98 @@
 <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/</link>
 <atom:link href="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Let&#39;s Find Out</description>
-<generator>quarto-1.8.24</generator>
-<lastBuildDate>Sat, 27 Sep 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.25</generator>
+<lastBuildDate>Mon, 29 Sep 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Experimenting with Vibe Creation Using LLMs</title>
+  <dc:creator>Raymond Liu Ao</dc:creator>
+  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/009_/009.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="playing-with-atmospheric-prompting" class="level2">
+<h2 class="anchored" data-anchor-id="playing-with-atmospheric-prompting">Playing with Atmospheric Prompting</h2>
+<p>I’ve been experimenting with what I’m calling “vibe creation” in Claude—essentially asking the LLM to generate or interpret atmospheric descriptions for different contexts. The goal was to see how well these models understand and reproduce subjective, mood-based content rather than factual information.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/009_/vibe-prompting.jpg" class="img-fluid" alt="Vibe Prompting Interface"> <em>Testing different prompts to generate atmospheric descriptions</em></p>
+</section>
+<section id="the-prompts-i-tested" class="level2">
+<h2 class="anchored" data-anchor-id="the-prompts-i-tested">The Prompts I Tested</h2>
+<section id="starting-simple" class="level3">
+<h3 class="anchored" data-anchor-id="starting-simple">Starting Simple</h3>
+<p>My first prompt was straightforward:</p>
+<blockquote class="blockquote">
+<p>“Describe the vibe of a rainy coffee shop at 3pm on a Tuesday”</p>
+</blockquote>
+<p>Claude generated a description that hit the expected notes—muted conversations, steam from coffee cups, the rhythmic sound of rain. It was accurate but generic, the kind of description you’d find in any piece of atmospheric writing.</p>
+</section>
+<section id="adding-specificity" class="level3">
+<h3 class="anchored" data-anchor-id="adding-specificity">Adding Specificity</h3>
+<p>I tried making the prompt more specific:</p>
+<blockquote class="blockquote">
+<p>“Describe the vibe of a college library during finals week at 2am. Include sounds, lighting, and the feeling of collective stress”</p>
+</blockquote>
+<p>This produced better results. The model captured details like the fluorescent lighting, the sound of highlighters on paper, and the “quiet panic” of students. It understood the assignment but still felt somewhat detached—like someone describing a scene they’d read about rather than experienced.</p>
+</section>
+<section id="testing-negative-space" class="level3">
+<h3 class="anchored" data-anchor-id="testing-negative-space">Testing Negative Space</h3>
+<p>Here’s where it got interesting. I asked:</p>
+<blockquote class="blockquote">
+<p>“Describe the vibe of an empty office building at night. Focus on what’s NOT there rather than what is”</p>
+</blockquote>
+<p>Claude struggled more with this. It could describe absence—no people, no noise—but couldn’t quite capture the uncanny feeling of a space designed for activity sitting dormant. The descriptions remained surface-level. The output focused on the lack of meetings, chatter, talk, noise in the office. But it did not capture the liminal-space-like, vast, expansive (almost scary) vibe of an empty office in the way the show Severance, for instance, can.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/009_/vibe-comparison.jpg" class="img-fluid" alt="Vibe Comparison Results"> <em>Comparing outputs from different prompting approaches</em></p>
+</section>
+</section>
+<section id="what-worked-and-what-didnt" class="level2">
+<h2 class="anchored" data-anchor-id="what-worked-and-what-didnt">What Worked and What Didn’t</h2>
+<section id="strengths" class="level3">
+<h3 class="anchored" data-anchor-id="strengths">Strengths</h3>
+<p>The LLM is good at: - Assembling sensory details that conventionally fit a scene - Understanding cultural contexts (“finals week” immediately triggered appropriate stress markers) - Maintaining consistency within a single atmospheric description - Responding to structural prompts (“focus on sounds” vs “focus on lighting”)</p>
+</section>
+<section id="limitations" class="level3">
+<h3 class="anchored" data-anchor-id="limitations">Limitations</h3>
+<p>Where it falls short: - Generating truly novel atmospheric combinations - Capturing subtle emotional undertones that aren’t explicitly named - Moving beyond stereotypical associations (coffee shop = cozy, library = studious) - Understanding the relationship between physical space and psychological state in non-obvious ways</p>
+<p>The model seems to work from a database of common associations rather than synthesizing new atmospheric understanding.</p>
+</section>
+</section>
+<section id="why-this-matters-from-a-skeptical-angle" class="level2">
+<h2 class="anchored" data-anchor-id="why-this-matters-from-a-skeptical-angle">Why This Matters (From a Skeptical Angle)</h2>
+<section id="the-homogenization-problem" class="level3">
+<h3 class="anchored" data-anchor-id="the-homogenization-problem">The Homogenization Problem</h3>
+<p>If everyone starts using LLMs to generate atmospheric descriptions for creative projects, writing, or marketing, we risk creating a feedback loop of averaged-out vibes. The model can only reproduce what it’s seen in training data, which means we get the most statistically likely description of any given mood or setting.</p>
+<p>After all, LLMs tend to regress toward mean responses when generating creative content, potentially flattening the diversity of human expression.</p>
+</section>
+<section id="lost-nuance" class="level3">
+<h3 class="anchored" data-anchor-id="lost-nuance">Lost Nuance</h3>
+<p>Real atmospheric writing comes from personal observation and specific experience. When I asked Claude to describe my college library during finals, it gave me a generic college library experience. It couldn’t know about the specific smell of old heating systems mixed with energy drinks, or the way light reflects off that one weird pillar in the corner.</p>
+</section>
+<section id="useful-but-limited-tool" class="level3">
+<h3 class="anchored" data-anchor-id="useful-but-limited-tool">Useful But Limited Tool</h3>
+<p>This isn’t to say vibe creation with LLMs is useless. It’s good for: - Quick brainstorming when you’re stuck - Getting a baseline description to then personalize - Understanding how certain settings are conventionally described</p>
+<p>But treating it as a replacement for actual observation and personal experience would result in flatter, less distinctive creative work.</p>
+</section>
+</section>
+<section id="final-thoughts" class="level2">
+<h2 class="anchored" data-anchor-id="final-thoughts">Final Thoughts</h2>
+<p>Playing with vibe creation revealed both the capabilities and constraints of current LLMs. They’re sophisticated pattern-matching systems that can assemble convincing atmospheric descriptions from training data, but they lack the experiential knowledge that makes truly evocative writing memorable.</p>
+<p>The exercise reinforced my skepticism about over-relying on these tools for creative work. They’re useful for scaffolding and inspiration, but the most interesting atmospheric details still need to come from human observation and experience.</p>
+<p>For anyone trying similar experiments: push the model toward specificity and unconventional combinations. The more generic your prompt, the more generic your output.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>AI</category>
+  <category>LLM</category>
+  <category>creative</category>
+  <category>claude</category>
+  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/009_/009.html</guid>
+  <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/009_/vibe-prompting.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>AI Photo Organization: Finding Pictures I Forgot I Had</title>
   <dc:creator>Raymond Liu Ao</dc:creator>
