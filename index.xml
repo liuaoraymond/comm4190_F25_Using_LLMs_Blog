@@ -24,7 +24,7 @@
 <section id="testing-products-with-ai-generated-focus-groups" class="level2">
 <h2 class="anchored" data-anchor-id="testing-products-with-ai-generated-focus-groups">Testing Products with AI-Generated Focus Groups</h2>
 <p>For the Cuzco Crunch project, Eury and I needed to test two product concepts before committing to one. Instead of recruiting actual participants for a focus group, we decided to try something experimental: using ChatGPT to simulate a focus group with 10 diverse personas.</p>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/011_/cuzco-crunch-package.jpg" alt="Cuzco Crunch Product" style="max-width: 500px; max-height: 400px; object-fit: cover; object-position: center; display: block; margin: 20px auto;"></p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/011_/cuzco-crunch-package.jpg" alt="Cuzco Crunch Product" style="max-width: 450px; max-height: 300px; object-fit: cover; object-position: center; display: block; margin: 20px auto;"></p>
 <p><em>Cuzco Crunch: Golden plantain slices with Peruvian sal de Maras</em></p>
 </section>
 <section id="the-experimental-design" class="level2">
@@ -33,7 +33,7 @@
 <h3 class="anchored" data-anchor-id="two-products-to-test">Two Products to Test</h3>
 <p><strong>Cuzco Crunch (Product A):</strong> Positioned as premium - golden, ultra-crispy plantain slices with Peruvian sal de Maras for a mineral-salt finish. Natural sweetness from plantain, meant to be versatile. Price: $7 for 1.5 oz.</p>
 <p><strong>Plantain Lite (Product B):</strong> Positioned as everyday - lighter snack with delicate crunch and simple seasoning. Emphasizes convenience and portability. Price: $5 for 1.5 oz.</p>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/011_/plantain-lite-package.jpg" alt="Plantain Lite Product" style="max-width: 400px; display: block; margin: 20px auto;"></p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/011_/plantain-lite-package.jpg" alt="Plantain Lite Product" style="max-width: 500px; max-height: 400px; object-fit: cover; object-position: center; display: block; margin: 20px auto;"></p>
 <p><em>Plantain Lite: A lighter, everyday plantain chip option</em></p>
 </section>
 <section id="creating-10-diverse-personas" class="level3">
