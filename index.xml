@@ -10,7 +10,125 @@
 <atom:link href="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Let&#39;s Find Out</description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Mon, 29 Sep 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 01 Oct 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Using LLMs for Interview Prep</title>
+  <dc:creator>Raymond Liu Ao</dc:creator>
+  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/010_/010.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="building-an-mbb-interview-assistant" class="level2">
+<h2 class="anchored" data-anchor-id="building-an-mbb-interview-assistant">Building an MBB Interview Assistant</h2>
+<p>With consulting recruiting coming up, I built a custom project in Claude to help with case interview prep. The idea was to have a dedicated space where I could practice cases, track my progress, and get feedback—all in one place.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/010_/interview-preparation.jpg" class="img-fluid" alt="Interview Preparation"> <em>Generic stock photo of a professional interview setting</em></p>
+</section>
+<section id="how-the-assistant-works" class="level2">
+<h2 class="anchored" data-anchor-id="how-the-assistant-works">How the Assistant Works</h2>
+<section id="the-setup" class="level3">
+<h3 class="anchored" data-anchor-id="the-setup">The Setup</h3>
+<p>I created a Claude project called “MBB Interview Assistant” with custom instructions:</p>
+<blockquote class="blockquote">
+<p>“You will be hearing inputs from MBB interviews. Your role as my highly-paid MBB tutor is to come up with frameworks. Answer questions quickly and brainstorm potential questions, and then… develop a MECE, MBB approach (case structure).”</p>
+</blockquote>
+<p>The project has become a repository of my case practice—I can see all my past cases listed: UK leisure club market analysis, UK media company revenue challenges, Science magazine revenue decline, Residential cable company alarm services, Kids Place Daycare Capacity Strategy.</p>
+</section>
+<section id="using-the-voice-recording-feature" class="level3">
+<h3 class="anchored" data-anchor-id="using-the-voice-recording-feature">Using the Voice Recording Feature</h3>
+<p>The most useful feature has been Claude’s voice recording capability. I can speak through a case out loud, and it transcribes everything accurately and then provides feedback. This simulates the verbal nature of actual case interviews better than typing.</p>
+<p>For example, when I was working through the UK leisure club case, I could talk through my framework structure verbally, and Claude would follow along and point out gaps in my logic or areas I hadn’t considered.</p>
+</section>
+</section>
+<section id="what-actually-works" class="level2">
+<h2 class="anchored" data-anchor-id="what-actually-works">What Actually Works</h2>
+<section id="case-tracking" class="level3">
+<h3 class="anchored" data-anchor-id="case-tracking">Case Tracking</h3>
+<p>Having all my practice cases in one place is genuinely helpful. I can see which types of cases I’ve worked on and which I need more practice with. The project view shows each case with timestamps, so I can track my prep progress over time.</p>
+</section>
+<section id="framework-development" class="level3">
+<h3 class="anchored" data-anchor-id="framework-development">Framework Development</h3>
+<p>Claude is good at helping me structure MECE (Mutually Exclusive, Collectively Exhaustive) frameworks. When I’m stuck on how to break down a problem, it can suggest logical buckets to organize my thinking.</p>
+<p>For the daycare capacity strategy case, it helped me think through supply-side factors (staffing, facilities, regulations) and demand-side factors (demographics, competition, pricing) in a structured way.</p>
+</section>
+<section id="accurate-transcription" class="level3">
+<h3 class="anchored" data-anchor-id="accurate-transcription">Accurate Transcription</h3>
+<p>The voice recording feature transcribes my verbal case practice accurately. I can review what I actually said rather than what I thought I said, which helps identify verbal tics or unclear explanations.</p>
+</section>
+<section id="quick-feedback" class="level3">
+<h3 class="anchored" data-anchor-id="quick-feedback">Quick Feedback</h3>
+<p>It provides immediate feedback on structural issues—missing elements in my framework, calculations I didn’t account for, or assumptions I should have stated explicitly.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/010_/claude-interview-project.jpg" class="img-fluid" alt="Claude Project Interface"> <em>My MBB Interview Assistant project showing case history and files</em></p>
+</section>
+</section>
+<section id="major-limitations-ive-found" class="level2">
+<h2 class="anchored" data-anchor-id="major-limitations-ive-found">Major Limitations I’ve Found</h2>
+<section id="hallucinations-and-made-up-information" class="level3">
+<h3 class="anchored" data-anchor-id="hallucinations-and-made-up-information">Hallucinations and Made-Up Information</h3>
+<p>This is the biggest problem. Claude sometimes makes up data points or industry facts that sound plausible but aren’t real. In the media company revenue case, it cited specific market statistics that I later couldn’t verify anywhere.</p>
+<p>For interview prep, this is dangerous because you might memorize false information and confidently state it in a real interview. I’ve learned to verify anything that sounds like a specific fact or statistic.</p>
+</section>
+<section id="going-off-topic" class="level3">
+<h3 class="anchored" data-anchor-id="going-off-topic">Going Off Topic</h3>
+<p>Sometimes Claude diverges from the specific case question to discuss tangentially related concepts. When working on the cable company alarm services case, it started explaining general IoT trends instead of focusing on the specific competitive positioning question I was asking about.</p>
+</section>
+<section id="scope-creep" class="level3">
+<h3 class="anchored" data-anchor-id="scope-creep">Scope Creep</h3>
+<p>The AI occasionally suggests frameworks or analyses that are way too broad for a 20-minute case interview. It might recommend conducting customer surveys or building complex financial models—things that wouldn’t be feasible in an actual interview setting.</p>
+</section>
+<section id="weird-or-broken-links" class="level3">
+<h3 class="anchored" data-anchor-id="weird-or-broken-links">Weird or Broken Links</h3>
+<p>When Claude tries to reference sources or suggest additional reading, the links are often fabricated or don’t lead anywhere useful. I’ve clicked on several suggested resources only to find they don’t exist.</p>
+</section>
+<section id="cant-simulate-real-pressure" class="level3">
+<h3 class="anchored" data-anchor-id="cant-simulate-real-pressure">Can’t Simulate Real Pressure</h3>
+<p>The fundamental limitation remains: practicing with an AI in my room doesn’t replicate the pressure of a real interviewer. There’s no one judging my confidence, no awkward silences to manage, no reading of facial expressions.</p>
+<p><a href="https://www.mckinsey.com/careers/interviewing">Research on case interview preparation</a> emphasizes that the interpersonal dynamics and time pressure are critical elements that can only be practiced with real people.</p>
+</section>
+</section>
+<section id="my-actual-approach" class="level2">
+<h2 class="anchored" data-anchor-id="my-actual-approach">My Actual Approach</h2>
+<section id="early-stage-framework-practice" class="level3">
+<h3 class="anchored" data-anchor-id="early-stage-framework-practice">Early-Stage Framework Practice</h3>
+<p>I use the Claude project at the beginning of my prep for each case type. It helps me understand what a good framework looks like and gives me immediate feedback on structural issues.</p>
+</section>
+<section id="verbal-practice-tool" class="level3">
+<h3 class="anchored" data-anchor-id="verbal-practice-tool">Verbal Practice Tool</h3>
+<p>The voice recording feature is useful for getting comfortable speaking through cases out loud. I can practice articulating my thinking without the pressure of another person listening.</p>
+</section>
+<section id="progress-tracking" class="level3">
+<h3 class="anchored" data-anchor-id="progress-tracking">Progress Tracking</h3>
+<p>The project acts as a log of all the cases I’ve practiced. I can see patterns in which types of cases I struggle with and where I need more work.</p>
+</section>
+<section id="always-verify-facts" class="level3">
+<h3 class="anchored" data-anchor-id="always-verify-facts">Always Verify Facts</h3>
+<p>I never trust specific data points or statistics from Claude without verification. If it mentions a market size or industry trend, I look it up independently.</p>
+</section>
+<section id="real-humans-are-essential" class="level3">
+<h3 class="anchored" data-anchor-id="real-humans-are-essential">Real Humans Are Essential</h3>
+<p>After using Claude for initial structure practice, I do the same cases with actual people—friends doing consulting recruiting, career services, or case partners. The AI gets me to baseline competence faster, but real practice is what actually prepares you for the interview dynamic.</p>
+</section>
+</section>
+<section id="final-take" class="level2">
+<h2 class="anchored" data-anchor-id="final-take">Final Take</h2>
+<p>The MBB Interview Assistant project is a useful supplementary tool but comes with significant limitations. It’s good for: - Organizing and tracking case practice - Getting quick structural feedback - Practicing verbal articulation with voice recordings - Understanding framework basics</p>
+<p>But it’s actively harmful if you: - Trust its specific facts without verification - Rely on it as your primary practice method - Follow its suggestions when they’re too broad or impractical - Think it can replace practicing with real people</p>
+<p>The hallucination issue is serious enough that I treat everything Claude says as a suggestion to verify rather than information to memorize. For actual interview prep, the AI is a starting point, not a replacement for traditional practice methods.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>AI</category>
+  <category>LLM</category>
+  <category>professional</category>
+  <category>claude</category>
+  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/010_/010.html</guid>
+  <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/010_/interview-preparation.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Experimenting with Vibe Creation Using LLMs</title>
   <dc:creator>Raymond Liu Ao</dc:creator>
