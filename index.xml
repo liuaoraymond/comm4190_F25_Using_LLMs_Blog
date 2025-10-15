@@ -10,7 +10,156 @@
 <atom:link href="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Let&#39;s Find Out</description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Fri, 03 Oct 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 05 Oct 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Switching from Consulting to Finance Prep with AI</title>
+  <dc:creator>Raymond Liu Ao</dc:creator>
+  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/012_/012.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="pivoting-interview-prep-consulting-to-finance" class="level2">
+<h2 class="anchored" data-anchor-id="pivoting-interview-prep-consulting-to-finance">Pivoting Interview Prep: Consulting to Finance</h2>
+<p>I have an upcoming interview for a Santander CIB Investment Banking Analyst Program, specifically for their DCM (Debt Capital Markets) division. This is different from the consulting interviews I’ve been preparing for—finance interviews require understanding specific firms, technical knowledge about debt markets, and different types of behavioral questions.</p>
+<p>Since I’ve been using AI for consulting prep, I decided to test whether Claude and Perplexity could help me pivot to finance interview preparation.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/012_/claude-finance-research.jpg" alt="Claude Research Interface" style="max-width: 600px; max-height: 350px; object-fit: contain; display: block; margin: 20px auto;"></p>
+<p><em>Claude conducting research on Santander’s DCM business and interview approach</em></p>
+</section>
+<section id="the-prompts-i-used" class="level2">
+<h2 class="anchored" data-anchor-id="the-prompts-i-used">The Prompts I Used</h2>
+<section id="initial-research-request-to-claude" class="level3">
+<h3 class="anchored" data-anchor-id="initial-research-request-to-claude">Initial Research Request to Claude</h3>
+<p>My first prompt:</p>
+<blockquote class="blockquote">
+<p>“First and foremost, I am more so interested in understanding DCM, and potential BEHAVIORAL questions that might arise.</p>
+<p>Why DCM? Why DCM LatAm? Why Santander DCM?</p>
+<p>Use the web to thoroughly search and understand more about the firm, how the firm talks about itself, and what common behavioral questions do they engage with for their IB process.”</p>
+</blockquote>
+<p>Claude responded:</p>
+<blockquote class="blockquote">
+<p>“I’ll conduct thorough research on Santander CIB, their DCM business, and their interview process. Let me search for information about how they present themselves, their Latin America focus, and common interview questions.”</p>
+</blockquote>
+<p>It then ran searches for: - “Santander Corporate Investment Banking DCM” (10 results) - Started searching the web for additional information</p>
+</section>
+<section id="perplexity-deep-dive" class="level3">
+<h3 class="anchored" data-anchor-id="perplexity-deep-dive">Perplexity Deep Dive</h3>
+<p>I also used Perplexity’s research feature with multiple targeted searches:</p>
+<ul>
+<li>“Santander CIB debt capital markets”</li>
+<li>“Santander investment banking culture values”</li>
+<li>“Santander CIB Latin America strategy”</li>
+</ul>
+<p>Perplexity found 20 sources including: - Debt Capital Markets | Santander Corporate &amp; Investment Banking - From personalization to social values: what is shaking up investment [banking] - Macro &amp; Strategy Research - The past, present and future of debt capital markets - [PDF] Culture Report 2019 - Banco Santander - Santander US Capital Markets</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/012_/perplexity-research-results.jpg" alt="Perplexity Research" style="max-width: 600px; max-height: 350px; object-fit: contain; display: block; margin: 20px auto;"></p>
+<p><em>Perplexity gathering and reviewing sources on Santander DCM</em></p>
+</section>
+</section>
+<section id="what-actually-helped" class="level2">
+<h2 class="anchored" data-anchor-id="what-actually-helped">What Actually Helped</h2>
+<section id="firm-specific-research" class="level3">
+<h3 class="anchored" data-anchor-id="firm-specific-research">Firm-Specific Research</h3>
+<p>Both tools pulled relevant information about Santander’s positioning: - Their focus on Latin America markets and how that differentiates them - Recent deals and market activity in DCM - Corporate values and culture statements - Strategic priorities in debt capital markets</p>
+<p>This gave me talking points for “Why Santander” that were specific rather than generic.</p>
+</section>
+<section id="understanding-dcm-vs.-other-ib-divisions" class="level3">
+<h3 class="anchored" data-anchor-id="understanding-dcm-vs.-other-ib-divisions">Understanding DCM vs.&nbsp;Other IB Divisions</h3>
+<p>The AI helped clarify: - What DCM analysts actually do day-to-day - How DCM differs from M&amp;A or equity capital markets - Why someone might choose DCM over other finance paths - Technical concepts I needed to understand (bond pricing, credit ratings, syndication)</p>
+</section>
+<section id="behavioral-question-preparation" class="level3">
+<h3 class="anchored" data-anchor-id="behavioral-question-preparation">Behavioral Question Preparation</h3>
+<p>The tools suggested finance-specific behavioral questions that differ from consulting: - “Walk me through a DCF” (technical behavioral) - “Why debt capital markets vs.&nbsp;other finance roles?” - “How do you handle working with difficult clients on tight deadlines?” - “Tell me about a time you analyzed complex financial information”</p>
+<p>These are different from consulting’s case-focused approach.</p>
+</section>
+<section id="identifying-knowledge-gaps" class="level3">
+<h3 class="anchored" data-anchor-id="identifying-knowledge-gaps">Identifying Knowledge Gaps</h3>
+<p>The research helped me realize what I didn’t know: - Specific debt instruments Santander specializes in - Recent Latin American market trends affecting DCM - Technical terminology I needed to learn - The difference between investment-grade and high-yield debt origination</p>
+</section>
+</section>
+<section id="significant-limitations" class="level2">
+<h2 class="anchored" data-anchor-id="significant-limitations">Significant Limitations</h2>
+<section id="surface-level-firm-knowledge" class="level3">
+<h3 class="anchored" data-anchor-id="surface-level-firm-knowledge">Surface-Level Firm Knowledge</h3>
+<p>The biggest problem: AI gives you the information that’s publicly available on corporate websites and general industry sources. It can’t tell you: - What Santander’s DCM team culture is actually like - Specific deals they’re working on that aren’t public - Internal priorities that aren’t in press releases - What actually impresses their interviewers vs.&nbsp;what sounds good on paper</p>
+<p>According to <a href="https://www.wallstreetoasis.com/forum/investment-banking/interview-prep">Wall Street Oasis research on IB recruiting</a>, the candidates who succeed show knowledge that goes beyond what AI can find—insider perspectives from networking, recent deal gossip, and understanding of team dynamics.</p>
+</section>
+<section id="generic-behavioral-answers" class="level3">
+<h3 class="anchored" data-anchor-id="generic-behavioral-answers">Generic Behavioral Answers</h3>
+<p>When I asked Claude to help refine my answers to “Why DCM?”, it produced polished but generic responses: - “I’m drawn to the analytical rigor of debt markets…” - “The complexity of structuring transactions appeals to me…” - “I want to work at the intersection of capital markets and corporate strategy…”</p>
+<p>These sound like everyone else’s AI-polished answers. The interviewers at Santander have probably heard variations of these from dozens of candidates using similar tools.</p>
+</section>
+<section id="cant-teach-technical-skills" class="level3">
+<h3 class="anchored" data-anchor-id="cant-teach-technical-skills">Can’t Teach Technical Skills</h3>
+<p>AI can explain what a DCF is, but it can’t help you build the muscle memory of actually modeling one under time pressure. It can’t simulate the experience of being asked to walk through a valuation on a whiteboard while someone watches.</p>
+<p><a href="https://mergersandinquisitions.com/investment-banking-interview-questions-and-answers/">Finance interview prep resources</a> emphasize that technical skills require hands-on practice with actual models, not just conceptual understanding.</p>
+</section>
+<section id="outdated-information" class="level3">
+<h3 class="anchored" data-anchor-id="outdated-information">Outdated Information</h3>
+<p>Some of the sources Perplexity pulled were from 2019 (the Culture Report). The finance industry moves quickly—strategies, priorities, and team structures change. Relying on AI-found sources without verifying recency is risky.</p>
+</section>
+<section id="misses-networking-insights" class="level3">
+<h3 class="anchored" data-anchor-id="misses-networking-insights">Misses Networking Insights</h3>
+<p>The most valuable interview prep for finance comes from talking to people who work at the firm or in similar roles. AI can’t replace: - Coffee chats with current Santander analysts - Alumni connections who know the interview process - Understanding what specific interviewers care about - Getting feedback on your story from people in the industry</p>
+</section>
+</section>
+<section id="consulting-prep-vs.-finance-prep-with-ai" class="level2">
+<h2 class="anchored" data-anchor-id="consulting-prep-vs.-finance-prep-with-ai">Consulting Prep vs.&nbsp;Finance Prep with AI</h2>
+<section id="what-transfers" class="level3">
+<h3 class="anchored" data-anchor-id="what-transfers">What Transfers</h3>
+<p>Some aspects of using AI for consulting prep apply to finance: - Organizing practice materials and tracking progress - Getting quick explanations of concepts - Structuring answers using frameworks - Identifying areas where you need more preparation</p>
+</section>
+<section id="whats-different" class="level3">
+<h3 class="anchored" data-anchor-id="whats-different">What’s Different</h3>
+<p>Finance interviews require different AI usage:</p>
+<p><strong>Technical Knowledge:</strong> Consulting is more about frameworks and problem-solving approach. Finance requires specific technical knowledge (financial modeling, valuation methods, market mechanics) that you need to practice hands-on.</p>
+<p><strong>Firm Research:</strong> Consulting firms are more about “fit” and problem-solving ability. Finance firms want to know you understand their specific business lines, recent deals, and market positioning.</p>
+<p><strong>Answer Style:</strong> Consulting wants structured, MECE thinking demonstrated verbally. Finance wants technical competence demonstrated through modeling and concise, confident answers about markets.</p>
+<p><strong>Preparation Balance:</strong> For consulting, AI can handle maybe 40% of prep (frameworks, structure, case types). For finance, it’s more like 20%—you need more hands-on technical practice and human networking.</p>
+</section>
+</section>
+<section id="my-actual-approach" class="level2">
+<h2 class="anchored" data-anchor-id="my-actual-approach">My Actual Approach</h2>
+<section id="using-ai-for-initial-research-phase" class="level3">
+<h3 class="anchored" data-anchor-id="using-ai-for-initial-research-phase">Using AI for Initial Research Phase</h3>
+<p>I’m using Claude and Perplexity to: - Get baseline understanding of Santander’s DCM business - Compile a list of recent deals and market trends - Understand basic DCM technical concepts - Draft initial answers to behavioral questions</p>
+<p>But I treat this as the starting point, not the final product.</p>
+</section>
+<section id="following-up-with-human-sources" class="level3">
+<h3 class="anchored" data-anchor-id="following-up-with-human-sources">Following Up with Human Sources</h3>
+<p>After AI research, I’m: - Reaching out to Santander employees on LinkedIn - Talking to friends in investment banking about DCM - Getting my behavioral answers reviewed by people in finance - Asking specific questions about Santander’s Latin America focus</p>
+</section>
+<section id="technical-skill-building" class="level3">
+<h3 class="anchored" data-anchor-id="technical-skill-building">Technical Skill Building</h3>
+<p>For the technical components, AI isn’t much help. I’m: - Working through actual DCF models - Practicing explaining valuation methods out loud - Reviewing recent debt deals and their structures - Doing mock technical questions with finance friends</p>
+</section>
+<section id="verifying-everything" class="level3">
+<h3 class="anchored" data-anchor-id="verifying-everything">Verifying Everything</h3>
+<p>Any specific fact or claim from AI research, I verify: - Check Santander’s official investor relations materials - Look up recent news about their DCM business - Confirm market trends with multiple sources - Cross-reference technical concepts with textbooks</p>
+<p>The AI can point me toward information, but I don’t trust it without verification.</p>
+</section>
+</section>
+<section id="final-assessment" class="level2">
+<h2 class="anchored" data-anchor-id="final-assessment">Final Assessment</h2>
+<p>Using AI to pivot from consulting to finance interview prep is helpful but limited. It’s good for: - Quick baseline research on the firm and role - Understanding how finance interviews differ from consulting - Getting initial structure for behavioral answers - Identifying what you don’t know</p>
+<p>But it’s insufficient for: - Developing real technical skills - Understanding firm-specific culture and priorities - Creating distinctive, memorable answers - Getting the insider knowledge that networking provides</p>
+<p>Finance interviews, even more than consulting, require human connections and hands-on technical practice. AI can accelerate the research phase, but it can’t replace the core preparation activities that actually matter.</p>
+<p>The risk is thinking that comprehensive AI research is enough. It’s not. The candidates who get offers at places like Santander DCM are the ones who combine efficient research with deep technical preparation and strong industry networks—things AI can’t provide.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>AI</category>
+  <category>LLM</category>
+  <category>professional</category>
+  <category>claude</category>
+  <category>research</category>
+  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/012_/012.html</guid>
+  <pubDate>Sun, 05 Oct 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/012_/claude-finance-research.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Running a Virtual Focus Group with ChatGPT</title>
   <dc:creator>Raymond Liu Ao</dc:creator>
