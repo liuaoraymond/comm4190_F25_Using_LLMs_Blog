@@ -412,7 +412,6 @@
 
  ]]></description>
   <category>AI</category>
-  <category>photos</category>
   <category>organization</category>
   <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/008_ /008.html</guid>
   <pubDate>Sat, 27 Sep 2025 00:00:00 GMT</pubDate>
@@ -471,7 +470,7 @@
  ]]></description>
   <category>AI</category>
   <category>productivity</category>
-  <category>email</category>
+  <category>organization</category>
   <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/007_/007.html</guid>
   <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
   <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/007_/smart-inbox-sorting.jpg" medium="image" type="image/jpeg"/>
@@ -881,8 +880,6 @@
 
  ]]></description>
   <category>AI</category>
-  <category>safety</category>
-  <category>guidelines</category>
   <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/002_AI_Dos_And_Donts/002.html</guid>
   <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
   <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/002_AI_Dos_And_Donts/ai-safety-guidelines.jpg" medium="image" type="image/jpeg"/>
@@ -986,7 +983,6 @@ What factors should I evaluate? Create a decision framework.</code></pre>
  ]]></description>
   <category>AI</category>
   <category>productivity</category>
-  <category>tutorial</category>
   <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_AI_Daily_Guide/001.html</guid>
   <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
   <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_AI_Daily_Guide/ai-daily-tasks.jpg" medium="image" type="image/jpeg"/>
@@ -1329,7 +1325,6 @@ font-style: inherit;">return</span> generate_plausible_response(query)</span></c
 
  ]]></description>
   <category>AI</category>
-  <category>deep-dive</category>
   <category>technology</category>
   <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_How_Does_AI_Really_Work/000.html</guid>
   <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
