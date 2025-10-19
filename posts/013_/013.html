@@ -7,10 +7,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Raymond Liu Ao">
-<meta name="dcterms.date" content="2025-10-01">
-<meta name="description" content="Building an MBB interview assistant with Claude to track cases and practice">
+<meta name="dcterms.date" content="2025-10-09">
+<meta name="description" content="Comparing two Claude sessions learning to cook Lomo Saltado - one structured, one not">
 
-<title>Using LLMs for Interview Prep – What Can You Do With AI?</title>
+<title>Testing AI as a Tutor: Does Prompt Structure Actually Matter? – What Can You Do With AI?</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -125,16 +125,17 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Using LLMs for Interview Prep</h1>
+      <h1 class="title">Testing AI as a Tutor: Does Prompt Structure Actually Matter?</h1>
                   <div>
         <div class="description">
-          Building an MBB interview assistant with Claude to track cases and practice
+          Comparing two Claude sessions learning to cook Lomo Saltado - one structured, one not
         </div>
       </div>
                           <div class="quarto-categories">
-                <div class="quarto-category">AI</div>
+                <div class="quarto-category">research</div>
+                <div class="quarto-category">professional</div>
                 <div class="quarto-category">LLM</div>
-                <div class="quarto-category">entrepreneurship</div>
+                <div class="quarto-category">daily-life</div>
                 <div class="quarto-category">claude</div>
               </div>
                   </div>
@@ -153,7 +154,7 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">October 1, 2025</p>
+        <p class="date">October 9, 2025</p>
       </div>
     </div>
     
@@ -172,103 +173,153 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="building-an-mbb-interview-assistant" class="level2">
-<h2 class="anchored" data-anchor-id="building-an-mbb-interview-assistant">Building an MBB Interview Assistant</h2>
-<p>With consulting recruiting coming up, I built a custom project in Claude to help with case interview prep. The idea was to have a dedicated space where I could practice cases, track my progress, and get feedback—all in one place.</p>
-<p><img src="interview-preparation.jpg" class="img-fluid" alt="Interview Preparation"> <em>Generic stock photo of a professional interview setting</em></p>
+<section id="learning-to-cook-with-ai-an-experiment" class="level2">
+<h2 class="anchored" data-anchor-id="learning-to-cook-with-ai-an-experiment">Learning to Cook with AI: An Experiment</h2>
+<p>I’m Peruvian but never learned to cook Lomo Saltado properly. Living in a college dorm with limited equipment, I decided to use Claude as a tutor to learn. But instead of just asking for help, I ran an experiment: two separate tutoring sessions using different prompting approaches to see if prompt engineering actually makes a difference for learning.</p>
+<p><img src="lomo-saltado-dish.jpg" alt="Lomo Saltado Dish" style="max-width: 450px; max-height: 300px; object-fit: contain; display: block; margin: 20px auto;"></p>
+<p><em>A finished plate of Lomo Saltado - the goal of the tutoring sessions</em></p>
 </section>
-<section id="how-the-assistant-works" class="level2">
-<h2 class="anchored" data-anchor-id="how-the-assistant-works">How the Assistant Works</h2>
-<section id="the-setup" class="level3">
-<h3 class="anchored" data-anchor-id="the-setup">The Setup</h3>
-<p>I created a Claude project called “MBB Interview Assistant” with custom instructions:</p>
+<section id="the-experiment-setup" class="level2">
+<h2 class="anchored" data-anchor-id="the-experiment-setup">The Experiment Setup</h2>
+<section id="session-1-vanilla-claude" class="level3">
+<h3 class="anchored" data-anchor-id="session-1-vanilla-claude">Session 1: Vanilla Claude</h3>
+<p>I started a fresh conversation with no special prompting. Just asked:</p>
 <blockquote class="blockquote">
-<p>“You will be hearing inputs from MBB interviews. Your role as my highly-paid MBB tutor is to come up with frameworks. Answer questions quickly and brainstorm potential questions, and then… develop a MECE, MBB approach (case structure).”</p>
+<p>“I want to learn how to cook Lomo Saltado in my college dorm. Can you teach me?”</p>
 </blockquote>
-<p>The project has become a repository of my case practice—I can see all my past cases listed: UK leisure club market analysis, UK media company revenue challenges, Science magazine revenue decline, Residential cable company alarm services, Kids Place Daycare Capacity Strategy.</p>
+<p>Claude immediately provided a comprehensive ingredient list, equipment needs, and step-by-step instructions. Efficient and informative.</p>
 </section>
-<section id="using-the-voice-recording-feature" class="level3">
-<h3 class="anchored" data-anchor-id="using-the-voice-recording-feature">Using the Voice Recording Feature</h3>
-<p>The most useful feature has been Claude’s voice recording capability. I can speak through a case out loud, and it transcribes everything accurately and then provides feedback. This simulates the verbal nature of actual case interviews better than typing.</p>
-<p>For example, when I was working through the UK leisure club case, I could talk through my framework structure verbally, and Claude would follow along and point out gaps in my logic or areas I hadn’t considered.</p>
-</section>
-</section>
-<section id="what-actually-works" class="level2">
-<h2 class="anchored" data-anchor-id="what-actually-works">What Actually Works</h2>
-<section id="case-tracking" class="level3">
-<h3 class="anchored" data-anchor-id="case-tracking">Case Tracking</h3>
-<p>Having all my practice cases in one place is genuinely helpful. I can see which types of cases I’ve worked on and which I need more practice with. The project view shows each case with timestamps, so I can track my prep progress over time.</p>
-</section>
-<section id="framework-development" class="level3">
-<h3 class="anchored" data-anchor-id="framework-development">Framework Development</h3>
-<p>Claude is good at helping me structure MECE (Mutually Exclusive, Collectively Exhaustive) frameworks. When I’m stuck on how to break down a problem, it can suggest logical buckets to organize my thinking.</p>
-<p>For the daycare capacity strategy case, it helped me think through supply-side factors (staffing, facilities, regulations) and demand-side factors (demographics, competition, pricing) in a structured way.</p>
-</section>
-<section id="accurate-transcription" class="level3">
-<h3 class="anchored" data-anchor-id="accurate-transcription">Accurate Transcription</h3>
-<p>The voice recording feature transcribes my verbal case practice accurately. I can review what I actually said rather than what I thought I said, which helps identify verbal tics or unclear explanations.</p>
-</section>
-<section id="quick-feedback" class="level3">
-<h3 class="anchored" data-anchor-id="quick-feedback">Quick Feedback</h3>
-<p>It provides immediate feedback on structural issues—missing elements in my framework, calculations I didn’t account for, or assumptions I should have stated explicitly.</p>
-<p><img src="claude-interview-project.jpg" class="img-fluid" alt="Claude Project Interface"> <em>My MBB Interview Assistant project showing case history and files</em></p>
+<section id="session-2-structured-tutoring-prompt" class="level3">
+<h3 class="anchored" data-anchor-id="session-2-structured-tutoring-prompt">Session 2: Structured Tutoring Prompt</h3>
+<p>For the second session, I used the <a href="https://www.oneusefulthing.org/p/how-to-use-ai-to-teach">Mollick structured tutoring prompt</a>, which instructs the AI to: - Introduce itself by name - Ask questions one at a time before teaching - Gather information about the student’s prior knowledge - Use leading questions rather than just providing answers - Provide emotional support and encouragement</p>
+<p>The prompt started with:</p>
+<blockquote class="blockquote">
+<p>“You are an upbeat, encouraging tutor who helps students understand concepts by explaining ideas and asking students questions. Start by introducing yourself to the student as their AI-Tutor who is happy to help them with any questions…”</p>
+</blockquote>
+<p>Same question about learning Lomo Saltado, but this time Claude introduced itself as “Alex” and asked about my cooking experience before giving any instructions.</p>
 </section>
 </section>
-<section id="major-limitations-ive-found" class="level2">
-<h2 class="anchored" data-anchor-id="major-limitations-ive-found">Major Limitations I’ve Found</h2>
-<section id="hallucinations-and-made-up-information" class="level3">
-<h3 class="anchored" data-anchor-id="hallucinations-and-made-up-information">Hallucinations and Made-Up Information</h3>
-<p>This is the biggest problem. Claude sometimes makes up data points or industry facts that sound plausible but aren’t real. In the media company revenue case, it cited specific market statistics that I later couldn’t verify anywhere.</p>
-<p>For interview prep, this is dangerous because you might memorize false information and confidently state it in a real interview. I’ve learned to verify anything that sounds like a specific fact or statistic.</p>
+<section id="how-the-sessions-differed" class="level2">
+<h2 class="anchored" data-anchor-id="how-the-sessions-differed">How The Sessions Differed</h2>
+<section id="session-1-information-first" class="level3">
+<h3 class="anchored" data-anchor-id="session-1-information-first">Session 1: Information First</h3>
+<p>Claude immediately delivered: - Complete ingredient list with substitutions - All equipment needed - Step-by-step cooking instructions - Do’s and don’ts - Storage and freezing tips</p>
+<p>It was like reading a very thorough cookbook. Efficient, but I started feeling overwhelmed around the “do’s and don’ts” section because it kept adding more information without checking if I was following along.</p>
+<p>When I asked for a “cookbook style summary” later, it became clear I’d experienced information overload.</p>
 </section>
-<section id="going-off-topic" class="level3">
-<h3 class="anchored" data-anchor-id="going-off-topic">Going Off Topic</h3>
-<p>Sometimes Claude diverges from the specific case question to discuss tangentially related concepts. When working on the cable company alarm services case, it started explaining general IoT trends instead of focusing on the specific competitive positioning question I was asking about.</p>
-</section>
-<section id="scope-creep" class="level3">
-<h3 class="anchored" data-anchor-id="scope-creep">Scope Creep</h3>
-<p>The AI occasionally suggests frameworks or analyses that are way too broad for a 20-minute case interview. It might recommend conducting customer surveys or building complex financial models—things that wouldn’t be feasible in an actual interview setting.</p>
-</section>
-<section id="weird-or-broken-links" class="level3">
-<h3 class="anchored" data-anchor-id="weird-or-broken-links">Weird or Broken Links</h3>
-<p>When Claude tries to reference sources or suggest additional reading, the links are often fabricated or don’t lead anywhere useful. I’ve clicked on several suggested resources only to find they don’t exist.</p>
-</section>
-<section id="cant-simulate-real-pressure" class="level3">
-<h3 class="anchored" data-anchor-id="cant-simulate-real-pressure">Can’t Simulate Real Pressure</h3>
-<p>The fundamental limitation remains: practicing with an AI in my room doesn’t replicate the pressure of a real interviewer. There’s no one judging my confidence, no awkward silences to manage, no reading of facial expressions.</p>
-<p><a href="https://www.mckinsey.com/careers/interviewing">Research on case interview preparation</a> emphasizes that the interpersonal dynamics and time pressure are critical elements that can only be practiced with real people.</p>
+<section id="session-2-questions-first" class="level3">
+<h3 class="anchored" data-anchor-id="session-2-questions-first">Session 2: Questions First</h3>
+<p>Claude asked: - What’s my cooking experience level? - What equipment do I have access to? - What do I already know about Lomo Saltado?</p>
+<p>When I mentioned I’m Peruvian and grew up eating this dish, the whole approach changed. Claude acknowledged my cultural connection, didn’t waste time explaining what Lomo Saltado is, and focused on translating my taste memory into cooking technique.</p>
+<p>The information came in smaller chunks, each followed by a question to check understanding. It felt more like a conversation than a lecture.</p>
+<p><img src="claude-tutoring-interface.jpg" alt="Claude Tutoring Interface" style="max-width: 450px; max-height: 300px; object-fit: contain; display: block; margin: 20px auto;"></p>
+<p><em>Comparing the two Claude tutoring session interfaces</em></p>
 </section>
 </section>
-<section id="my-actual-approach" class="level2">
-<h2 class="anchored" data-anchor-id="my-actual-approach">My Actual Approach</h2>
-<section id="early-stage-framework-practice" class="level3">
-<h3 class="anchored" data-anchor-id="early-stage-framework-practice">Early-Stage Framework Practice</h3>
-<p>I use the Claude project at the beginning of my prep for each case type. It helps me understand what a good framework looks like and gives me immediate feedback on structural issues.</p>
+<section id="when-things-went-wrong" class="level2">
+<h2 class="anchored" data-anchor-id="when-things-went-wrong">When Things Went Wrong</h2>
+<p>I intentionally messed up the recipe in both sessions to see how each tutor would handle mistakes.</p>
+<section id="session-1-response" class="level3">
+<h3 class="anchored" data-anchor-id="session-1-response">Session 1 Response</h3>
+<p>When I said I overcooked the meat, added too much soy sauce, and the tomatoes were mushy, Claude gave practical solutions: - Slice overcooked meat thinner - Balance soy sauce with vinegar and sugar - Remove mushy tomatoes and add fresh ones</p>
+<p>Organized by problem, very solution-focused. It worked, but felt clinical.</p>
+<p>At one point I got frustrated and said “I do NOT want to try again tomorrow. I want to DO IT NOW.” The tutor went into emergency rescue mode, which helped but didn’t address the emotional crisis.</p>
 </section>
-<section id="verbal-practice-tool" class="level3">
-<h3 class="anchored" data-anchor-id="verbal-practice-tool">Verbal Practice Tool</h3>
-<p>The voice recording feature is useful for getting comfortable speaking through cases out loud. I can practice articulating my thinking without the pressure of another person listening.</p>
-</section>
-<section id="progress-tracking" class="level3">
-<h3 class="anchored" data-anchor-id="progress-tracking">Progress Tracking</h3>
-<p>The project acts as a log of all the cases I’ve practiced. I can see patterns in which types of cases I struggle with and where I need more work.</p>
-</section>
-<section id="always-verify-facts" class="level3">
-<h3 class="anchored" data-anchor-id="always-verify-facts">Always Verify Facts</h3>
-<p>I never trust specific data points or statistics from Claude without verification. If it mentions a market size or industry trend, I look it up independently.</p>
-</section>
-<section id="real-humans-are-essential" class="level3">
-<h3 class="anchored" data-anchor-id="real-humans-are-essential">Real Humans Are Essential</h3>
-<p>After using Claude for initial structure practice, I do the same cases with actual people—friends doing consulting recruiting, career services, or case partners. The AI gets me to baseline competence faster, but real practice is what actually prepares you for the interview dynamic.</p>
+<section id="session-2-response" class="level3">
+<h3 class="anchored" data-anchor-id="session-2-response">Session 2 Response</h3>
+<p>When I introduced the same problems, Claude started with:</p>
+<blockquote class="blockquote">
+<p>“Don’t panic! This is totally normal when learning, and yes, we can salvage this!”</p>
+</blockquote>
+<p>Then provided the same practical solutions, but added:</p>
+<blockquote class="blockquote">
+<p>“Remember: Even ‘mistakes’ can taste good, and every Peruvian abuela had to start somewhere!”</p>
+</blockquote>
+<p>This was culturally resonant and emotionally supportive. The solutions were similar, but the tone acknowledged that learning involves struggle, not just technical problem-solving.</p>
+<p>I didn’t have the same emotional breakdown in Session 2. The earlier relationship-building (validation, personalization) seemed to prevent it.</p>
 </section>
 </section>
-<section id="final-take" class="level2">
-<h2 class="anchored" data-anchor-id="final-take">Final Take</h2>
-<p>The MBB Interview Assistant project is a useful supplementary tool but comes with significant limitations. It’s good for: - Organizing and tracking case practice - Getting quick structural feedback - Practicing verbal articulation with voice recordings - Understanding framework basics</p>
-<p>But it’s actively harmful if you: - Trust its specific facts without verification - Rely on it as your primary practice method - Follow its suggestions when they’re too broad or impractical - Think it can replace practicing with real people</p>
-<p>The hallucination issue is serious enough that I treat everything Claude says as a suggestion to verify rather than information to memorize. For actual interview prep, the AI is a starting point, not a replacement for traditional practice methods.</p>
+<section id="the-final-cookbook-recipes" class="level2">
+<h2 class="anchored" data-anchor-id="the-final-cookbook-recipes">The Final Cookbook Recipes</h2>
+<p>Both sessions ended with me asking for a clean cookbook-style recipe.</p>
+<section id="session-1-recipe" class="level3">
+<h3 class="anchored" data-anchor-id="session-1-recipe">Session 1 Recipe</h3>
+<ul>
+<li>Heavy use of emoji headers (🥩, 🍅, ⏰)</li>
+<li>Multiple subsections: Equipment, Ingredients, Shortcuts, Steps, Money-Saving Tips, Dorm Hacks, Storage</li>
+<li>Comprehensive resource document</li>
+<li>Generic college student advice</li>
+</ul>
+</section>
+<section id="session-2-recipe" class="level3">
+<h3 class="anchored" data-anchor-id="session-2-recipe">Session 2 Recipe</h3>
+<ul>
+<li>Cleaner visual hierarchy</li>
+<li>Sections: What You’ll Need → Game Plan → Key Success Tips → Storage</li>
+<li>More scannable layout</li>
+<li>Tailored to: college student + new cook + Peruvian heritage + meal prep constraints</li>
+</ul>
+<p>Both recipes are accurate and functional. Session 1 is more comprehensive; Session 2 is more personalized to my specific situation.</p>
+</section>
+</section>
+<section id="what-actually-made-a-difference" class="level2">
+<h2 class="anchored" data-anchor-id="what-actually-made-a-difference">What Actually Made a Difference</h2>
+<section id="the-structured-prompt-won" class="level3">
+<h3 class="anchored" data-anchor-id="the-structured-prompt-won">The Structured Prompt Won</h3>
+<p>Session 2 was the better tutoring experience because:</p>
+<p><strong>Better sequencing:</strong> Asking questions before teaching meant the information was calibrated to what I actually needed, not everything the AI knows about Lomo Saltado.</p>
+<p><strong>Personalization:</strong> Learning I was Peruvian changed how Claude explained things. It connected to my existing knowledge (“You know what it should taste like”) rather than starting from zero.</p>
+<p><strong>Emotional support:</strong> Normalizing mistakes and providing encouragement made me more likely to persist through problems. This matters for skill-building where failure is inevitable.</p>
+<p><strong>Active learning:</strong> Session 2 ended each explanation with a question, forcing me to think rather than passively receive information.</p>
+</section>
+<section id="where-session-1-was-better" class="level3">
+<h3 class="anchored" data-anchor-id="where-session-1-was-better">Where Session 1 Was Better</h3>
+<p><strong>Speed:</strong> If you just want information fast, the vanilla approach delivers immediately without the question-gathering phase.</p>
+<p><strong>Comprehensiveness:</strong> The final recipe from Session 1 had more detail on meal prep, freezing, and storage tips.</p>
+<p><strong>No preamble:</strong> Some people find the “getting to know you” phase of structured tutoring annoying if they just want answers.</p>
+</section>
+</section>
+<section id="does-this-matter-beyond-cooking" class="level2">
+<h2 class="anchored" data-anchor-id="does-this-matter-beyond-cooking">Does This Matter Beyond Cooking?</h2>
+<section id="the-pedagogy-research" class="level3">
+<h3 class="anchored" data-anchor-id="the-pedagogy-research">The Pedagogy Research</h3>
+<p>The structured prompt approach aligns with established learning science. According to <a href="https://www.oneusefulthing.org/p/what-ai-can-do-with-a-toolbox-tutoring">research on effective tutoring</a>, good tutoring involves: - Assessing prior knowledge before teaching - Providing scaffolded support - Using questions to promote active learning - Giving emotional encouragement alongside technical help</p>
+<p>These aren’t AI-specific insights—they’re how human tutoring works best too.</p>
+</section>
+<section id="the-limitations" class="level3">
+<h3 class="anchored" data-anchor-id="the-limitations">The Limitations</h3>
+<p>Even with perfect prompting, AI tutoring has constraints:</p>
+<p><strong>Can’t taste your food:</strong> Claude couldn’t tell me if my Lomo Saltado actually tasted right. I had to rely on my own judgment.</p>
+<p><strong>Can’t see your technique:</strong> When I said the meat was overcooked, Claude couldn’t see whether I was cutting it correctly or using too high heat. The advice was generic.</p>
+<p><strong>Can’t adapt in real-time:</strong> A human tutor watching me cook would catch mistakes as they happen. AI only responds to what I describe.</p>
+<p><strong>Generic cultural knowledge:</strong> Session 2’s cultural references (“Peruvian abuela”) were sweet but generic. It didn’t know my actual family’s cooking style or regional variations.</p>
+</section>
+<section id="when-structured-prompting-matters-most" class="level3">
+<h3 class="anchored" data-anchor-id="when-structured-prompting-matters-most">When Structured Prompting Matters Most</h3>
+<p>The prompt engineering made the biggest difference when: - Learning something new (not just looking up facts) - Dealing with frustration or mistakes - Needing personalized guidance - Building skills through practice</p>
+<p>For quick information retrieval, vanilla Claude is probably fine. For actual learning, structure helps.</p>
+</section>
+</section>
+<section id="what-i-learned" class="level2">
+<h2 class="anchored" data-anchor-id="what-i-learned">What I Learned</h2>
+<section id="about-ai-tutoring" class="level3">
+<h3 class="anchored" data-anchor-id="about-ai-tutoring">About AI Tutoring</h3>
+<p>Prompt engineering isn’t just theoretical optimization—it genuinely changed my learning experience. The structured prompt created better dialogue, personalization, and emotional support.</p>
+<p>But even good prompting has limits. AI tutoring works best for knowledge-based learning where you can verify results yourself. For physical skills like cooking, you still need to trust your own judgment about the outcome.</p>
+</section>
+<section id="about-learning-lomo-saltado" class="level3">
+<h3 class="anchored" data-anchor-id="about-learning-lomo-saltado">About Learning Lomo Saltado</h3>
+<p>I actually cooked it. Both sessions gave me functional recipes, but Session 2’s emotional support made me more willing to try despite knowing I’d probably mess up.</p>
+<p>The AI was right about one thing: even mistakes taste pretty good, and you learn by doing.</p>
+</section>
+<section id="about-prompt-design" class="level3">
+<h3 class="anchored" data-anchor-id="about-prompt-design">About Prompt Design</h3>
+<p>Good tutoring prompts should include: - Instructions to gather context before teaching - One-question-at-a-time pacing - Emotional scaffolding for when things go wrong - Requirements to keep students actively thinking</p>
+<p>These aren’t complex AI techniques—they’re just principles of good teaching, codified for an AI to follow.</p>
+<p>If you’re using AI to learn something practical, take five minutes to set up a proper tutoring prompt. The difference is real.</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
