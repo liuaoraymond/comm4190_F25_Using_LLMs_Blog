@@ -1,115 +1,136 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "What Can You Do With AI",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Let’s Find Out\n\nExploring AI in daily life\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTesting AI as a Tutor: Does Prompt Structure Actually Matter?\n\n\n\nresearch\n\nprofessional\n\nLLM\n\ndaily-life\n\nclaude\n\n\n\nComparing two Claude sessions learning to cook Lomo Saltado - one structured, one not\n\n\n\n\n\nOct 9, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nSwitching from Consulting to Finance Prep with AI\n\n\n\nAI\n\nLLM\n\nprofessional\n\nclaude\n\nresearch\n\n\n\nUsing Claude and Perplexity to prepare for investment banking interviews\n\n\n\n\n\nOct 5, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nRunning a Virtual Focus Group with ChatGPT\n\n\n\nbranding\n\nLLM\n\nentrepreneurship\n\ncreative\n\n\n\nTesting Cuzco Crunch products using AI-generated personas and experimental design\n\n\n\n\n\nOct 3, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nUsing LLMs for Interview Prep\n\n\n\nAI\n\nLLM\n\nentrepreneurship\n\nclaude\n\n\n\nBuilding an MBB interview assistant with Claude to track cases and practice\n\n\n\n\n\nOct 1, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nExperimenting with Vibe Creation Using LLMs\n\n\n\nAI\n\nLLM\n\ncreative\n\nclaude\n\n\n\nTesting how language models interpret and generate atmospheric descriptions\n\n\n\n\n\nSep 29, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Photo Organization: Finding Pictures I Forgot I Had\n\n\n\nAI\n\norganization\n\n\n\nHow Google Photos AI search helped me rediscover thousands of old photos\n\n\n\n\n\nSep 27, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Email Management That Actually Works\n\n\n\nAI\n\nproductivity\n\norganization\n\n\n\nUsing smart filters and auto-responses to handle inbox overload\n\n\n\n\n\nSep 25, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nBuilding a Brand with AI: Cuzco Crunch\n\n\n\nAI\n\nbranding\n\nentrepreneurship\n\n\n\nHow we’re using GPT to create a snack brand from concept to execution\n\n\n\n\n\nSep 23, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Fitness Coaching at Home\n\n\n\nAI\n\nfitness\n\nhealth\n\ndaily-life\n\n\n\nUsing smartphone apps for form correction and personalized workouts\n\n\n\n\n\nSep 19, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI-Assisted Grocery Shopping and Meal Prep\n\n\n\nAI\n\ndaily-life\n\nproductivity\n\nhealth\n\ndaily-life\n\n\n\nHow smart apps are making grocery runs more organized and efficient\n\n\n\n\n\nSep 18, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nResearch with Perplexity AI\n\n\n\nAI\n\nresearch\n\nproductivity\n\ntechnology\n\n\n\nHow AI-powered search is changing the way we gather and analyze information\n\n\n\n\n\nSep 15, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Do’s and Don’ts: Safe and Effective Usage\n\n\n\nAI\n\n\n\nEssential guidelines for using AI tools responsibly and effectively\n\n\n\n\n\nSep 10, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\n5 Ways to Use AI Every Day\n\n\n\nAI\n\nproductivity\n\n\n\nPractical AI applications that save time on common daily tasks\n\n\n\n\n\nSep 5, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nHow AI Systems Work: A Technical Overview\n\n\n\nAI\n\ntechnology\n\n\n\nUnderstanding the mechanics and architecture of modern artificial intelligence systems\n\n\n\n\n\nSep 3, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\nNo matching items"
+    "text": "What Can You Do With AI?"
   },
   {
-    "objectID": "posts/000_How_Does_AI_Really_Work/000.html",
-    "href": "posts/000_How_Does_AI_Really_Work/000.html",
-    "title": "How AI Systems Work: A Technical Overview",
+    "objectID": "about.html#section",
+    "href": "about.html#section",
+    "title": "About",
     "section": "",
-    "text": "Artificial intelligence systems like ChatGPT and Claude can engage in conversations, solve problems, and generate content. However, their underlying mechanisms are fundamentally different from human cognition.\nThese systems operate as sophisticated pattern recognition and prediction engines. While they can produce human-like responses, they function by identifying statistical patterns in data rather than developing conceptual understanding.\n AI neural networks are inspired by brain structure but operate through different mechanisms\n\nKey Question: How do statistical pattern-matching systems produce seemingly intelligent behavior?"
+    "text": "What Can You Do With AI?"
   },
   {
-    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#understanding-modern-ai-systems",
-    "href": "posts/000_How_Does_AI_Really_Work/000.html#understanding-modern-ai-systems",
-    "title": "How AI Systems Work: A Technical Overview",
+    "objectID": "about.html#raymond-liu-ao",
+    "href": "about.html#raymond-liu-ao",
+    "title": "About",
+    "section": "Raymond Liu Ao",
+    "text": "Raymond Liu Ao\nOriginally from Lima, Peru, I am a Philosophy, Politics, and Economics (PPE) student at the University of Pennsylvania. Interested in exploring the uses and implications of AI in daily life, this blog discusses how LLM can help us (or not) in commonly encountered scenarios.\n–"
+  },
+  {
+    "objectID": "posts/014_/014.html",
+    "href": "posts/014_/014.html",
+    "title": "Superagency Review #1: History Is Written by the Winners",
     "section": "",
-    "text": "Artificial intelligence systems like ChatGPT and Claude can engage in conversations, solve problems, and generate content. However, their underlying mechanisms are fundamentally different from human cognition.\nThese systems operate as sophisticated pattern recognition and prediction engines. While they can produce human-like responses, they function by identifying statistical patterns in data rather than developing conceptual understanding.\n AI neural networks are inspired by brain structure but operate through different mechanisms\n\nKey Question: How do statistical pattern-matching systems produce seemingly intelligent behavior?"
+    "text": "I’m reading Reid Hoffman and Greg Beato’s Superagency: What Could Possibly Go Right with Our AI Future—a book that argues for optimism about generative AI and its potential to enhance human agency. As someone who identifies as a gloomer about AI, I’m approaching this with skepticism but genuine curiosity.\nThis is part 1 of 5 reviews covering the entire book. Pages 1-47: The introduction and framing.\n\nSuperagency by Reid Hoffman and Greg Beato"
   },
   {
-    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#core-architecture-prediction-systems",
-    "href": "posts/000_How_Does_AI_Really_Work/000.html#core-architecture-prediction-systems",
-    "title": "How AI Systems Work: A Technical Overview",
-    "section": "Core Architecture: Prediction Systems",
-    "text": "Core Architecture: Prediction Systems\nModern AI systems solve a fundamental prediction problem: given an input, determine the most statistically likely output. This applies whether predicting the next word in text, pixels in an image, or moves in a game.\n\nTransformer Architecture\nCurrent large language models like GPT-4 and Claude use transformer architecture:\n# Simplified transformer process\ndef transformer_prediction(input_text):\n    tokens = tokenize(input_text)  # Convert text to processable units\n    embeddings = convert_to_vectors(tokens)  # Map to numerical representations\n    \n    for layer in neural_layers:\n        embeddings = attention_mechanism(embeddings)  # Identify relationships\n        embeddings = feed_forward(embeddings)  # Process patterns\n    \n    return predict_next_token(embeddings)  # Generate most likely continuation\n Transformer architecture with attention and processing layers\nModern systems operate at significant scale. GPT-3 contains 175 billion parameters trained on 45TB of text data. GPT-4 is estimated to exceed 1 trillion parameters with correspondingly higher computational requirements.\n\n\nAttention Mechanisms\nThe attention mechanism enables models to focus selectively on different input elements when making predictions.\nExample: “The cat sat on the mat because it was comfortable.”\nWhen determining what “it” refers to, the attention mechanism assigns weights: - “cat” (high attention - 0.7) - “mat” (medium attention - 0.2) - “sat” (low attention - 0.1)\nThis mechanism allows processing of relationships between distant elements in sequences."
-  },
-  {
-    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#training-process",
-    "href": "posts/000_How_Does_AI_Really_Work/000.html#training-process",
-    "title": "How AI Systems Work: A Technical Overview",
-    "section": "Training Process",
-    "text": "Training Process\nAI system development occurs through structured training phases that determine capabilities and limitations.\n Complete pipeline from data collection to deployed system\n\nPhase 1: Pre-training\nSystems learn from large text datasets through next-token prediction:\n\nData Collection: Process text from websites, books, and articles\nTokenization: Convert text to discrete units for processing\nPrediction Training: Train models to predict missing tokens in sequences\nParameter Adjustment: Iteratively modify billions of parameters based on prediction accuracy\n\n# Simplified training loop\nfor epoch in range(many_epochs):\n    for text_chunk in massive_dataset:\n        input_tokens = text_chunk[:-1]  # Input sequence\n        target_token = text_chunk[-1]   # Target prediction\n        \n        prediction = model(input_tokens)\n        loss = calculate_error(prediction, target_token)\n        \n        # Update model parameters\n        model.update_weights(loss.gradient())\n\n\nPhase 2: Fine-tuning\nPre-trained models are refined for specific applications:\n\nSupervised Fine-tuning: Training on curated question-answer pairs\nReinforcement Learning from Human Feedback (RLHF): Using human preferences to shape responses\nSafety Training: Implementing guidelines to avoid harmful outputs\n\nThis process transforms basic text predictors into conversational assistants."
-  },
-  {
-    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#emergent-capabilities",
-    "href": "posts/000_How_Does_AI_Really_Work/000.html#emergent-capabilities",
-    "title": "How AI Systems Work: A Technical Overview",
-    "section": "Emergent Capabilities",
-    "text": "Emergent Capabilities\nLarge-scale training produces capabilities that weren’t explicitly programmed. These emergent abilities arise from complex interactions between simple components.\n\nExamples of Emergence\nAs model size increases, new capabilities develop:\nChain-of-Thought Reasoning: Models develop step-by-step problem-solving approaches without explicit training on this strategy.\nIn-Context Learning: Systems can perform new tasks based on examples in prompts without additional training.\n# Example of in-context learning\nprompt = \"\"\"\nTranslate English to French:\nHello → Bonjour\nGoodbye → Au revoir\nThank you → Merci\nGood morning → \n\"\"\"\n\n# Model produces \"Bonjour\" despite no explicit\n# training on this translation task\nCross-Lingual Transfer: Models trained primarily on English can operate effectively in other languages.\nThe mechanisms underlying emergence remain an active research area, with theories including phase transitions, increased representational capacity, and pattern recognition thresholds."
-  },
-  {
-    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#system-limitations",
-    "href": "posts/000_How_Does_AI_Really_Work/000.html#system-limitations",
-    "title": "How AI Systems Work: A Technical Overview",
-    "section": "System Limitations",
-    "text": "System Limitations\nCurrent AI systems have several fundamental constraints that stem from their statistical architecture:\n Overview of AI system capabilities and constraints\n\nPattern Matching vs. Understanding\nAI systems process statistical relationships in symbols rather than developing conceptual understanding. They can accurately reproduce information without grasping underlying mechanisms.\nExample: A system can state that “water boils at 100°C” without understanding molecular behavior, phase transitions, or the physical processes involved.\n\n\nOutput Generation Under Uncertainty\nSystems are designed to produce responses even when lacking relevant information, leading to plausible but potentially inaccurate outputs.\n# Simplified response generation\ndef generate_response(query):\n    if confidence_score &gt; threshold:\n        return retrieve_known_information(query)\n    else:\n        # System still generates output\n        return generate_plausible_response(query)\n\n\nTraining Data Constraints\nModels are limited by their training data cutoff and cannot incorporate new information without retraining.\n\n\nMemory Limitations\nCurrent systems can process limited context windows (typically 4,000-128,000 tokens) with no persistent memory between conversations.\n\n\nCorrelation vs. Causation\nSystems excel at identifying statistical correlations but have limited understanding of causal relationships. They may recognize that umbrella sales correlate with rain without understanding the causal mechanism."
-  },
-  {
-    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#practical-implications",
-    "href": "posts/000_How_Does_AI_Really_Work/000.html#practical-implications",
-    "title": "How AI Systems Work: A Technical Overview",
-    "section": "Practical Implications",
-    "text": "Practical Implications\nUnderstanding AI architecture has important implications for effective use:\n\nSystem Strengths\n\nPattern recognition and text generation capabilities\nRapid processing of large information sets\nAccessible interface for complex tasks\nConsistent performance within training domains\n\n\n\nAppropriate Applications\n\nContent drafting and editing\nInformation synthesis from known sources\nCode generation and debugging assistance\nLanguage translation\nCreative brainstorming\n\n\n\nBest Practices\n\nVerify Important Information: Fact-check outputs for critical applications\nUnderstand Limitations: Recognize domain constraints and knowledge cutoffs\nMaintain Human Oversight: Keep humans involved in important decisions\nRecognize Bias: Be aware that systems reflect training data biases\nUse as Tools: Apply systems as analytical instruments rather than authoritative sources"
-  },
-  {
-    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#future-development",
-    "href": "posts/000_How_Does_AI_Really_Work/000.html#future-development",
-    "title": "How AI Systems Work: A Technical Overview",
-    "section": "Future Development",
-    "text": "Future Development\nCurrent AI systems represent early implementations of statistical learning approaches. Several research directions may expand capabilities:\n\nNear-Term Developments (1-3 years)\n\nMultimodal systems integrating text, images, audio, and video\nExtended context windows for longer conversations and documents\nImproved reasoning and problem-solving capabilities\nSpecialized models optimized for specific domains\n\n\n\nLong-Term Research Areas (10+ years)\n\nArtificial General Intelligence research\nQuestions about machine consciousness and subjective experience\nAI alignment and safety considerations\n\n\n\nActive Research Questions\nResearchers are investigating fundamental questions:\n\nScaling Laws: Relationships between model size, data, and capabilities\nEmergence Mechanisms: Why new abilities appear at certain scales\nAlignment: Ensuring AI systems operate according to intended objectives\nInterpretability: Understanding internal model representations and processes"
-  },
-  {
-    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#summary",
-    "href": "posts/000_How_Does_AI_Really_Work/000.html#summary",
-    "title": "How AI Systems Work: A Technical Overview",
-    "section": "Summary",
-    "text": "Summary\nModern AI systems represent sophisticated statistical engines that process patterns in data to generate human-like outputs. While they demonstrate impressive capabilities, they operate through pattern matching rather than conceptual understanding.\n\nKey Technical Points\nCurrent AI systems achieve intelligent-seeming behavior through statistical pattern processing rather than understanding. This approach has several implications:\n\nFor Users: Understanding system strengths and limitations enables more effective application\nFor Organizations: Appropriate use requires human oversight and verification processes\nFor Society: New frameworks are needed for evaluating machine capabilities and limitations\n\nStatistical pattern matching at scale produces sophisticated behavior, suggesting that aspects of intelligence may be more computational than previously understood.\nAs these systems become more prevalent, understanding their statistical nature becomes increasingly important for effective implementation. The technology continues evolving rapidly, with ongoing research addressing questions about scaling, emergence, and alignment with human objectives.\nThe field represents significant progress in automated pattern recognition and generation, with continued development likely to expand capabilities while maintaining the fundamental statistical architecture.\n\nUnderstanding the technical foundations of AI systems helps inform appropriate use and realistic expectations about current capabilities."
-  },
-  {
-    "objectID": "posts/009_/009.html",
-    "href": "posts/009_/009.html",
-    "title": "Experimenting with Vibe Creation Using LLMs",
+    "objectID": "posts/014_/014.html#reading-superagency-a-gloomers-perspective",
+    "href": "posts/014_/014.html#reading-superagency-a-gloomers-perspective",
+    "title": "Superagency Review #1: History Is Written by the Winners",
     "section": "",
-    "text": "I’ve been experimenting with what I’m calling “vibe creation” in Claude—essentially asking the LLM to generate or interpret atmospheric descriptions for different contexts. The goal was to see how well these models understand and reproduce subjective, mood-based content rather than factual information.\n Testing different prompts to generate atmospheric descriptions"
+    "text": "I’m reading Reid Hoffman and Greg Beato’s Superagency: What Could Possibly Go Right with Our AI Future—a book that argues for optimism about generative AI and its potential to enhance human agency. As someone who identifies as a gloomer about AI, I’m approaching this with skepticism but genuine curiosity.\nThis is part 1 of 5 reviews covering the entire book. Pages 1-47: The introduction and framing.\n\nSuperagency by Reid Hoffman and Greg Beato"
   },
   {
-    "objectID": "posts/009_/009.html#playing-with-atmospheric-prompting",
-    "href": "posts/009_/009.html#playing-with-atmospheric-prompting",
-    "title": "Experimenting with Vibe Creation Using LLMs",
+    "objectID": "posts/014_/014.html#the-historical-framing-art-luddites-and-printing-presses",
+    "href": "posts/014_/014.html#the-historical-framing-art-luddites-and-printing-presses",
+    "title": "Superagency Review #1: History Is Written by the Winners",
+    "section": "The Historical Framing: Art, Luddites, and Printing Presses",
+    "text": "The Historical Framing: Art, Luddites, and Printing Presses\nThe introduction opens with an interesting historical analogy. Hoffman and Beato walk through past technological disruptions:\nSocrates and Art: Socrates opposed art because it failed to capture the conversational, evolutionary, iterative process of discussion-based learning. Written text was static; dialogue was dynamic.\nThe Luddites: Workers who resisted industrial machinery that threatened their livelihoods and ways of life.\nThe Printing Press: A technology that faced backlash from those who feared the democratization of knowledge.\nThe pattern is clear: history is full of examples of technological backlash. The book frames AI as the latest in this line—another “infrastructural change event” that will transform human capacity and agency.\nI’ll admit, the framing is effective. The core question the book poses is compelling: “Can we continue to maintain control of our lives, and successfully plot our own destinies?” in the age of AI."
+  },
+  {
+    "objectID": "posts/014_/014.html#history-is-written-by-the-winners",
+    "href": "posts/014_/014.html#history-is-written-by-the-winners",
+    "title": "Superagency Review #1: History Is Written by the Winners",
+    "section": "History Is Written by the Winners",
+    "text": "History Is Written by the Winners\nHere’s where my skepticism kicks in.\nYes, all these technological disruptions—art, steam power, the printing press—were consequential and enabled human agency in important ways:\nArt captured feelings, periods, and provided first-hand historical resources.\nSteam power and the Industrial Revolution brought unimaginable productivity and capital accumulation, leading to the consolidation of modern cities.\nThe printing press enabled communication and knowledge dissemination like never before.\nWe’ve all benefited from these major strides, one way or another. But the more closely we examine the nuances of these pivotal moments, the more we realize there’s much more to the story.\nThe problem is that we often focus on the positives—maybe as a sign of human delusion, or a craving to minimize problems. Important details get left behind. History is written by the winners, after all.\n\nThe Industrial Revolution: productivity gains alongside worker displacement"
+  },
+  {
+    "objectID": "posts/014_/014.html#what-the-winners-history-leaves-out",
+    "href": "posts/014_/014.html#what-the-winners-history-leaves-out",
+    "title": "Superagency Review #1: History Is Written by the Winners",
+    "section": "What the Winners’ History Leaves Out",
+    "text": "What the Winners’ History Leaves Out\n\nThe Industrial Revolution’s Dark Side\nThe steam engine and industrialization brought unprecedented productivity. But they also brought: - Brutal working conditions in factories - Child labor - Destruction of artisan crafts and traditional ways of life - Environmental degradation that we’re still dealing with - Massive wealth inequality and the creation of exploitative labor systems\nAccording to historical analysis of the Industrial Revolution, while productivity soared, real wages for workers stagnated or declined for decades. The “winners” who wrote that history were the factory owners and industrialists, not the displaced weavers or child laborers.\n\n\nThe Printing Press and Information Chaos\nThe printing press democratized knowledge—but it also: - Enabled mass propaganda - Facilitated religious wars and sectarian violence - Created information overload that people weren’t equipped to handle - Disrupted existing knowledge gatekeepers (sometimes for good, sometimes not)\nThe Reformation, enabled by printing technology, led to centuries of religious conflict. That’s not in the optimistic framing.\n\n\nThe Luddites Were Right About Some Things\nWe use “Luddite” as an insult for technophobes. But the original Luddites weren’t irrationally afraid of technology—they were skilled workers watching their livelihoods and communities be destroyed by machines that enriched factory owners.\nTheir concerns about who benefits from technological change were valid. The technology did increase productivity, but the gains went to capital owners, not workers. The Luddites lost that fight, so history remembers them as backwards resistors rather than people with legitimate concerns about economic justice."
+  },
+  {
+    "objectID": "posts/014_/014.html#the-agency-question-for-whom",
+    "href": "posts/014_/014.html#the-agency-question-for-whom",
+    "title": "Superagency Review #1: History Is Written by the Winners",
+    "section": "The Agency Question: For Whom?",
+    "text": "The Agency Question: For Whom?\nHoffman and Beato frame AI as an “agency enabler”—technology that will enhance our capacity to “do what we ought to do” and “plot our own destinies.”\nBut here’s the critical question the introduction doesn’t adequately address: Whose agency gets enabled?\n\nTechnology Doesn’t Distribute Benefits Evenly\nPast technological revolutions increased aggregate human capacity and agency. But the distribution was wildly unequal: - Factory owners gained agency; workers often lost autonomy - Landowners who adopted new agricultural tech thrived; tenant farmers were displaced - Early adopters of communication technology gained power; those without access fell further behind\nWhen Hoffman talks about AI enabling “our” agency, who is “we”? Tech founders and investors? Knowledge workers with access to cutting-edge tools? Or also the truck drivers, customer service workers, and radiologists whose jobs might be automated?\n\n\nHave We Forgotten Our Ways of Life?\nEach technological revolution didn’t just change what people could do—it changed how people lived. Industrialization pulled people from rural communities into urban factories. The printing press disrupted oral traditions and face-to-face knowledge transmission.\nSome of these changes were positive. Some represented the loss of valuable ways of life that we can never recover.\nThe introduction’s optimistic framing acknowledges these past disruptions but seems confident that AI will be different—that we can get the benefits without the costs. History suggests otherwise."
+  },
+  {
+    "objectID": "posts/014_/014.html#what-im-looking-for-in-the-rest-of-the-book",
+    "href": "posts/014_/014.html#what-im-looking-for-in-the-rest-of-the-book",
+    "title": "Superagency Review #1: History Is Written by the Winners",
+    "section": "What I’m Looking For in the Rest of the Book",
+    "text": "What I’m Looking For in the Rest of the Book\nThe introduction sets up an optimistic case for AI as an agency enabler, using historical technological disruptions as precedent. The framing is well-done and intellectually honest about past backlash to new technologies.\nBut it seems to brush past the real costs of those past revolutions. The “winners” narrative focuses on aggregate gains while downplaying distributional concerns and the destruction of existing ways of life.\nAs I continue reading, I’m looking for:\nDistributional analysis: Who specifically gains agency from AI, and who loses it?\nCost acknowledgment: What ways of life, skills, or social structures might we lose, and are those losses acceptable?\nPower dynamics: How do we ensure AI benefits are distributed more equitably than past technological revolutions?\nConcrete mechanisms: Not just “AI will enable agency,” but how and for whom specifically?\nThe book asks: “What could possibly go right with our AI future?” But the introduction’s own historical examples suggest we should also ask: “What will go wrong, and for whom?”\nHistory is written by the winners. I’m reading this book to see if Hoffman and Beato can imagine an AI future where there are fewer losers than in past technological revolutions—or if they’re just writing the winners’ narrative before the story has finished."
+  },
+  {
+    "objectID": "posts/014_/014.html#up-next",
+    "href": "posts/014_/014.html#up-next",
+    "title": "Superagency Review #1: History Is Written by the Winners",
+    "section": "Up Next",
+    "text": "Up Next\nReview #2 will cover pages 48-94, where I expect the book to start making its positive case for AI more explicitly. I’ll be watching to see if it addresses the distributional concerns raised by its own historical framing.\nStay tuned."
+  },
+  {
+    "objectID": "posts/012_/012.html",
+    "href": "posts/012_/012.html",
+    "title": "Switching from Consulting to Finance Prep with AI",
     "section": "",
-    "text": "I’ve been experimenting with what I’m calling “vibe creation” in Claude—essentially asking the LLM to generate or interpret atmospheric descriptions for different contexts. The goal was to see how well these models understand and reproduce subjective, mood-based content rather than factual information.\n Testing different prompts to generate atmospheric descriptions"
+    "text": "I have an upcoming interview for a Santander CIB Investment Banking Analyst Program, specifically for their DCM (Debt Capital Markets) division. This is different from the consulting interviews I’ve been preparing for—finance interviews require understanding specific firms, technical knowledge about debt markets, and different types of behavioral questions.\nSince I’ve been using AI for consulting prep, I decided to test whether Claude and Perplexity could help me pivot to finance interview preparation.\n\nClaude conducting research on Santander’s DCM business and interview approach"
   },
   {
-    "objectID": "posts/009_/009.html#the-prompts-i-tested",
-    "href": "posts/009_/009.html#the-prompts-i-tested",
-    "title": "Experimenting with Vibe Creation Using LLMs",
-    "section": "The Prompts I Tested",
-    "text": "The Prompts I Tested\n\nStarting Simple\nMy first prompt was straightforward:\n\n“Describe the vibe of a rainy coffee shop at 3pm on a Tuesday”\n\nClaude generated a description that hit the expected notes—muted conversations, steam from coffee cups, the rhythmic sound of rain. It was accurate but generic, the kind of description you’d find in any piece of atmospheric writing.\n\n\nAdding Specificity\nI tried making the prompt more specific:\n\n“Describe the vibe of a college library during finals week at 2am. Include sounds, lighting, and the feeling of collective stress”\n\nThis produced better results. The model captured details like the fluorescent lighting, the sound of highlighters on paper, and the “quiet panic” of students. It understood the assignment but still felt somewhat detached—like someone describing a scene they’d read about rather than experienced.\n\n\nTesting Negative Space\nHere’s where it got interesting. I asked:\n\n“Describe the vibe of an empty office building at night. Focus on what’s NOT there rather than what is”\n\nClaude struggled more with this. It could describe absence—no people, no noise—but couldn’t quite capture the uncanny feeling of a space designed for activity sitting dormant. The descriptions remained surface-level. The output focused on the lack of meetings, chatter, talk, noise in the office. But it did not capture the liminal-space-like, vast, expansive (almost scary) vibe of an empty office in the way the show Severance, for instance, can.\n Comparing outputs from different prompting approaches"
+    "objectID": "posts/012_/012.html#pivoting-interview-prep-consulting-to-finance",
+    "href": "posts/012_/012.html#pivoting-interview-prep-consulting-to-finance",
+    "title": "Switching from Consulting to Finance Prep with AI",
+    "section": "",
+    "text": "I have an upcoming interview for a Santander CIB Investment Banking Analyst Program, specifically for their DCM (Debt Capital Markets) division. This is different from the consulting interviews I’ve been preparing for—finance interviews require understanding specific firms, technical knowledge about debt markets, and different types of behavioral questions.\nSince I’ve been using AI for consulting prep, I decided to test whether Claude and Perplexity could help me pivot to finance interview preparation.\n\nClaude conducting research on Santander’s DCM business and interview approach"
   },
   {
-    "objectID": "posts/009_/009.html#what-worked-and-what-didnt",
-    "href": "posts/009_/009.html#what-worked-and-what-didnt",
-    "title": "Experimenting with Vibe Creation Using LLMs",
-    "section": "What Worked and What Didn’t",
-    "text": "What Worked and What Didn’t\n\nStrengths\nThe LLM is good at: - Assembling sensory details that conventionally fit a scene - Understanding cultural contexts (“finals week” immediately triggered appropriate stress markers) - Maintaining consistency within a single atmospheric description - Responding to structural prompts (“focus on sounds” vs “focus on lighting”)\n\n\nLimitations\nWhere it falls short: - Generating truly novel atmospheric combinations - Capturing subtle emotional undertones that aren’t explicitly named - Moving beyond stereotypical associations (coffee shop = cozy, library = studious) - Understanding the relationship between physical space and psychological state in non-obvious ways\nThe model seems to work from a database of common associations rather than synthesizing new atmospheric understanding."
+    "objectID": "posts/012_/012.html#the-prompts-i-used",
+    "href": "posts/012_/012.html#the-prompts-i-used",
+    "title": "Switching from Consulting to Finance Prep with AI",
+    "section": "The Prompts I Used",
+    "text": "The Prompts I Used\n\nInitial Research Request to Claude\nMy first prompt:\n\n“First and foremost, I am more so interested in understanding DCM, and potential BEHAVIORAL questions that might arise.\nWhy DCM? Why DCM LatAm? Why Santander DCM?\nUse the web to thoroughly search and understand more about the firm, how the firm talks about itself, and what common behavioral questions do they engage with for their IB process.”\n\nClaude responded:\n\n“I’ll conduct thorough research on Santander CIB, their DCM business, and their interview process. Let me search for information about how they present themselves, their Latin America focus, and common interview questions.”\n\nIt then ran searches for: - “Santander Corporate Investment Banking DCM” (10 results) - Started searching the web for additional information\n\n\nPerplexity Deep Dive\nI also used Perplexity’s research feature with multiple targeted searches:\n\n“Santander CIB debt capital markets”\n“Santander investment banking culture values”\n“Santander CIB Latin America strategy”\n\nPerplexity Research tool found 128 sources including: - Debt Capital Markets | Santander Corporate & Investment Banking - From personalization to social values: what is shaking up investment [banking] - Macro & Strategy Research - The past, present and future of debt capital markets - [PDF] Culture Report 2019 - Banco Santander - Santander US Capital Markets\n\nPerplexity gathering and reviewing sources on Santander DCM"
   },
   {
-    "objectID": "posts/009_/009.html#why-this-matters-from-a-skeptical-angle",
-    "href": "posts/009_/009.html#why-this-matters-from-a-skeptical-angle",
-    "title": "Experimenting with Vibe Creation Using LLMs",
-    "section": "Why This Matters (From a Skeptical Angle)",
-    "text": "Why This Matters (From a Skeptical Angle)\n\nThe Homogenization Problem\nIf everyone starts using LLMs to generate atmospheric descriptions for creative projects, writing, or marketing, we risk creating a feedback loop of averaged-out vibes. The model can only reproduce what it’s seen in training data, which means we get the most statistically likely description of any given mood or setting.\nAfter all, LLMs tend to regress toward mean responses when generating creative content, potentially flattening the diversity of human expression.\n\n\nLost Nuance\nReal atmospheric writing comes from personal observation and specific experience. When I asked Claude to describe my college library during finals, it gave me a generic college library experience. It couldn’t know about the specific smell of old heating systems mixed with energy drinks, or the way light reflects off that one weird pillar in the corner.\n\n\nUseful But Limited Tool\nThis isn’t to say vibe creation with LLMs is useless. It’s good for: - Quick brainstorming when you’re stuck - Getting a baseline description to then personalize - Understanding how certain settings are conventionally described\nBut treating it as a replacement for actual observation and personal experience would result in flatter, less distinctive creative work."
+    "objectID": "posts/012_/012.html#what-actually-helped",
+    "href": "posts/012_/012.html#what-actually-helped",
+    "title": "Switching from Consulting to Finance Prep with AI",
+    "section": "What Actually Helped",
+    "text": "What Actually Helped\n\nFirm-Specific Research\nBoth tools pulled relevant information about Santander’s positioning: - Their focus on Latin America markets and how that differentiates them - Recent deals and market activity in DCM - Corporate values and culture statements - Strategic priorities in debt capital markets\nThis gave me talking points for “Why Santander” that were specific rather than generic.\n\n\nUnderstanding DCM vs. Other IB Divisions\nThe AI helped clarify: - What DCM analysts actually do day-to-day - How DCM differs from M&A or equity capital markets - Why someone might choose DCM over other finance paths - Technical concepts I needed to understand (bond pricing, credit ratings, syndication)\n\n\nBehavioral Question Preparation\nThe tools suggested finance-specific behavioral questions that differ from consulting: - “Walk me through a DCF” (technical behavioral) - “Why debt capital markets vs. other finance roles?” - “How do you handle working with difficult clients on tight deadlines?” - “Tell me about a time you analyzed complex financial information”\nThese are different from consulting’s case-focused approach.\n\n\nIdentifying Knowledge Gaps\nThe research helped me realize what I didn’t know: - Specific debt instruments Santander specializes in - Recent Latin American market trends affecting DCM - Technical terminology I needed to learn - The difference between investment-grade and high-yield debt origination"
   },
   {
-    "objectID": "posts/009_/009.html#final-thoughts",
-    "href": "posts/009_/009.html#final-thoughts",
-    "title": "Experimenting with Vibe Creation Using LLMs",
-    "section": "Final Thoughts",
-    "text": "Final Thoughts\nPlaying with vibe creation revealed both the capabilities and constraints of current LLMs. They’re sophisticated pattern-matching systems that can assemble convincing atmospheric descriptions from training data, but they lack the experiential knowledge that makes truly evocative writing memorable.\nThe exercise reinforced my skepticism about over-relying on these tools for creative work. They’re useful for scaffolding and inspiration, but the most interesting atmospheric details still need to come from human observation and experience.\nFor anyone trying similar experiments: push the model toward specificity and unconventional combinations. The more generic your prompt, the more generic your output."
+    "objectID": "posts/012_/012.html#significant-limitations",
+    "href": "posts/012_/012.html#significant-limitations",
+    "title": "Switching from Consulting to Finance Prep with AI",
+    "section": "Significant Limitations",
+    "text": "Significant Limitations\n\nSurface-Level Firm Knowledge\nThe biggest problem: AI gives you the information that’s publicly available on corporate websites and general industry sources. It can’t tell you: - What Santander’s DCM team culture is actually like - Specific deals they’re working on that aren’t public - Internal priorities that aren’t in press releases - What actually impresses their interviewers vs. what sounds good on paper\nAccording to Wall Street Oasis research on IB recruiting, the candidates who succeed show knowledge that goes beyond what AI can find—insider perspectives from networking, recent deal gossip, and understanding of team dynamics.\n\n\nGeneric Behavioral Answers\nWhen I asked Claude to help refine my answers to “Why DCM?”, it produced polished but generic responses: - “I’m drawn to the analytical rigor of debt markets…” - “The complexity of structuring transactions appeals to me…” - “I want to work at the intersection of capital markets and corporate strategy…”\nThese sound like everyone else’s AI-polished answers. The interviewers at Santander have probably heard variations of these from dozens of candidates using similar tools.\n\n\nCan’t Teach Technical Skills\nAI can explain what a DCF is, but it can’t help you build the muscle memory of actually modeling one under time pressure. It can’t simulate the experience of being asked to walk through a valuation on a whiteboard while someone watches.\nFinance interview prep resources emphasize that technical skills require hands-on practice with actual models, not just conceptual understanding.\n\n\nOutdated Information\nSome of the sources Perplexity pulled were from 2019 (the Culture Report). The finance industry moves quickly—strategies, priorities, and team structures change. Relying on AI-found sources without verifying recency is risky.\n\n\nMisses Networking Insights\nThe most valuable interview prep for finance comes from talking to people who work at the firm or in similar roles. AI can’t replace: - Coffee chats with current Santander analysts - Alumni connections who know the interview process - Understanding what specific interviewers care about - Getting feedback on your story from people in the industry"
+  },
+  {
+    "objectID": "posts/012_/012.html#consulting-prep-vs.-finance-prep-with-ai",
+    "href": "posts/012_/012.html#consulting-prep-vs.-finance-prep-with-ai",
+    "title": "Switching from Consulting to Finance Prep with AI",
+    "section": "Consulting Prep vs. Finance Prep with AI",
+    "text": "Consulting Prep vs. Finance Prep with AI\n\nWhat Transfers\nSome aspects of using AI for consulting prep apply to finance: - Organizing practice materials and tracking progress - Getting quick explanations of concepts - Structuring answers using frameworks - Identifying areas where you need more preparation\n\n\nWhat’s Different\nFinance interviews require different AI usage:\nTechnical Knowledge: Consulting is more about frameworks and problem-solving approach. Finance requires specific technical knowledge (financial modeling, valuation methods, market mechanics) that you need to practice hands-on.\nFirm Research: Consulting firms are more about “fit” and problem-solving ability. Finance firms want to know you understand their specific business lines, recent deals, and market positioning.\nAnswer Style: Consulting wants structured, MECE thinking demonstrated verbally. Finance wants technical competence demonstrated through modeling and concise, confident answers about markets.\nPreparation Balance: For consulting, AI can handle maybe 40% of prep (frameworks, structure, case types). For finance, it’s more like 20%, you need more hands-on technical practice and human networking."
+  },
+  {
+    "objectID": "posts/012_/012.html#my-actual-approach",
+    "href": "posts/012_/012.html#my-actual-approach",
+    "title": "Switching from Consulting to Finance Prep with AI",
+    "section": "My Actual Approach",
+    "text": "My Actual Approach\n\nUsing AI for Initial Research Phase\nI’m using Claude and Perplexity to: - Get baseline understanding of Santander’s DCM business - Compile a list of recent deals and market trends - Understand basic DCM technical concepts - Draft initial answers to behavioral questions\nBut I treat this as the starting point, not the final product.\n\n\nFollowing Up with Human Sources\nAfter AI research, I’m: - Reaching out to Santander employees on LinkedIn - Talking to friends in investment banking about DCM - Getting my behavioral answers reviewed by people in finance - Asking specific questions about Santander’s Latin America focus\n\n\nTechnical Skill Building\nFor the technical components, AI isn’t much help. I’m: - Working through actual DCF models - Practicing explaining valuation methods out loud - Reviewing recent debt deals and their structures - Doing mock technical questions with finance friends\n\n\nVerifying Everything\nAny specific fact or claim from AI research, I verify: - Check Santander’s official investor relations materials - Look up recent news about their DCM business - Confirm market trends with multiple sources - Cross-reference technical concepts with textbooks\nThe AI can point me toward information, but I don’t trust it without verification."
+  },
+  {
+    "objectID": "posts/012_/012.html#final-assessment",
+    "href": "posts/012_/012.html#final-assessment",
+    "title": "Switching from Consulting to Finance Prep with AI",
+    "section": "Final Assessment",
+    "text": "Final Assessment\nUsing AI to pivot from consulting to finance interview prep is helpful but limited. It’s good for: - Quick baseline research on the firm and role - Understanding how finance interviews differ from consulting - Getting initial structure for behavioral answers - Identifying what you don’t know\nBut it’s insufficient for: - Developing real technical skills - Understanding firm-specific culture and priorities - Creating distinctive, memorable answers - Getting the insider knowledge that networking provides\nFinance interviews, even more than consulting, require human connections and hands-on technical practice. AI can accelerate the research phase, but it can’t replace the core preparation activities that actually matter.\nThe risk is thinking that comprehensive AI research is enough. It’s not. The candidates who get offers at places like Santander DCM are the ones who combine efficient research with deep technical preparation and strong industry networks—things AI can’t provide."
   },
   {
     "objectID": "posts/008_ /008.html",
@@ -182,6 +203,216 @@
     "text": "What I’ve Found\n\nSaves Time\nThe main benefit is speed. You get the key information faster since it’s already compiled from multiple sources. You still need to read the original sources for details, but the initial overview is much quicker.\n\n\nClear Sources\nEvery piece of information comes with citations, so you can see exactly where it came from and verify it if needed.\n\n\nHandles Context Well\nThe conversation aspect works better than I expected. You can refine questions or explore related topics without starting over.\n\n\nShows Different Viewpoints\nWhen sources disagree, it usually mentions the different perspectives rather than just presenting one view.\nIt’s a useful tool for the initial stages of research when you need to understand a topic quickly or gather information from multiple sources. Not a replacement for thorough research, but it does help speed up the information gathering process."
   },
   {
+    "objectID": "posts/006_Cuzco_Crunch/006.html",
+    "href": "posts/006_Cuzco_Crunch/006.html",
+    "title": "Building a Brand with AI: Cuzco Crunch",
+    "section": "",
+    "text": "Eury and I decided to try building a snack brand called Cuzco Crunch, mostly to see how much of the process we could handle using AI tools. We are just experimenting with what’s possible when you use GPT for everything from naming to packaging concepts.\n Initial logo concepts generated through AI prompting"
+  },
+  {
+    "objectID": "posts/006_Cuzco_Crunch/006.html#creating-a-brand-with-ai",
+    "href": "posts/006_Cuzco_Crunch/006.html#creating-a-brand-with-ai",
+    "title": "Building a Brand with AI: Cuzco Crunch",
+    "section": "",
+    "text": "Eury and I decided to try building a snack brand called Cuzco Crunch, mostly to see how much of the process we could handle using AI tools. We are just experimenting with what’s possible when you use GPT for everything from naming to packaging concepts.\n Initial logo concepts generated through AI prompting"
+  },
+  {
+    "objectID": "posts/006_Cuzco_Crunch/006.html#what-were-using-ai-for",
+    "href": "posts/006_Cuzco_Crunch/006.html#what-were-using-ai-for",
+    "title": "Building a Brand with AI: Cuzco Crunch",
+    "section": "What We’re Using AI For",
+    "text": "What We’re Using AI For\n\nBrand Development\nThe name “Cuzco Crunch” came from asking GPT to suggest names that sounded distinctive but not too weird. We wanted something that hinted at South American flavors without being too on-the-nose. It generated about 30 options and this one felt right.\n\n\nPackaging Design Direction\nWe’re using AI to create mood boards and design concepts. Instead of hiring a designer upfront, we’re generating different packaging styles to see what resonates. The AI helps us think through color schemes, typography, and overall brand personality.\n\n\nMarketing Copy\nProduct descriptions, social media posts, and even this blog post started with AI-generated drafts that we then edited. It’s faster than staring at a blank page, and sometimes the AI suggests angles we wouldn’t have thought of.\n Various packaging design concepts and color schemes"
+  },
+  {
+    "objectID": "posts/006_Cuzco_Crunch/006.html#whats-working-and-what-isnt",
+    "href": "posts/006_Cuzco_Crunch/006.html#whats-working-and-what-isnt",
+    "title": "Building a Brand with AI: Cuzco Crunch",
+    "section": "What’s Working and What Isn’t",
+    "text": "What’s Working and What Isn’t\n\nThe Good Stuff\nSpeed is the biggest advantage. We can iterate on ideas quickly without waiting for external feedback or spending money on design consultations. The AI is also good at generating variations - give it one concept and it’ll produce 10 different takes on it.\n\n\nThe Limitations\nEverything needs human editing. The AI-generated copy often sounds too generic or tries too hard to be clever. Design concepts look decent but lack the subtle details that make professional packaging stand out on shelves.\nAlso, the AI doesn’t understand practical constraints. It’ll suggest elaborate packaging designs that would be expensive to produce or flavors that might not actually taste good together.\n 3D mockups and shelf visualization concepts"
+  },
+  {
+    "objectID": "posts/006_Cuzco_Crunch/006.html#the-reality-check",
+    "href": "posts/006_Cuzco_Crunch/006.html#the-reality-check",
+    "title": "Building a Brand with AI: Cuzco Crunch",
+    "section": "The Reality Check",
+    "text": "The Reality Check\n\nStill Need Real Skills\nAI handles the brainstorming and initial concepts, but you still need to understand branding, know your target market, and make business decisions. It’s a tool, not a replacement for actual knowledge about building a brand.\n\n\nCost vs. Quality Trade-offs\nWe’re probably saving money in the early stages, but there’s a point where you need professional designers and marketers. The question is finding that sweet spot where AI gets you far enough to make informed decisions about what’s worth investing in.\n\n\nLearning Experience\nThe most valuable part has been understanding how much work goes into brand development. Using AI to handle the repetitive parts lets us focus on strategy and decision-making instead of getting stuck on execution details.\nWe’re treating this as an experiment rather than a serious business venture. If Cuzco Crunch turns into something real, great. If not, we’ve learned a lot about using AI for creative projects and brand development."
+  },
+  {
+    "objectID": "posts/010_/010.html",
+    "href": "posts/010_/010.html",
+    "title": "Using LLMs for Interview Prep",
+    "section": "",
+    "text": "With consulting recruiting coming up, I built a custom project in Claude to help with case interview prep. The idea was to have a dedicated space where I could practice cases, track my progress, and get feedback—all in one place.\n Generic stock photo of a professional interview setting"
+  },
+  {
+    "objectID": "posts/010_/010.html#building-an-mbb-interview-assistant",
+    "href": "posts/010_/010.html#building-an-mbb-interview-assistant",
+    "title": "Using LLMs for Interview Prep",
+    "section": "",
+    "text": "With consulting recruiting coming up, I built a custom project in Claude to help with case interview prep. The idea was to have a dedicated space where I could practice cases, track my progress, and get feedback—all in one place.\n Generic stock photo of a professional interview setting"
+  },
+  {
+    "objectID": "posts/010_/010.html#how-the-assistant-works",
+    "href": "posts/010_/010.html#how-the-assistant-works",
+    "title": "Using LLMs for Interview Prep",
+    "section": "How the Assistant Works",
+    "text": "How the Assistant Works\n\nThe Setup\nI created a Claude project called “MBB Interview Assistant” with custom instructions:\n\n“You will be hearing inputs from MBB interviews. Your role as my highly-paid MBB tutor is to come up with frameworks. Answer questions quickly and brainstorm potential questions, and then… develop a MECE, MBB approach (case structure).”\n\nThe project has become a repository of my case practice—I can see all my past cases listed: UK leisure club market analysis, UK media company revenue challenges, Science magazine revenue decline, Residential cable company alarm services, Kids Place Daycare Capacity Strategy.\n\n\nUsing the Voice Recording Feature\nThe most useful feature has been Claude’s voice recording capability. I can speak through a case out loud, and it transcribes everything accurately and then provides feedback. This simulates the verbal nature of actual case interviews better than typing.\nFor example, when I was working through the UK leisure club case, I could talk through my framework structure verbally, and Claude would follow along and point out gaps in my logic or areas I hadn’t considered."
+  },
+  {
+    "objectID": "posts/010_/010.html#what-actually-works",
+    "href": "posts/010_/010.html#what-actually-works",
+    "title": "Using LLMs for Interview Prep",
+    "section": "What Actually Works",
+    "text": "What Actually Works\n\nCase Tracking\nHaving all my practice cases in one place is genuinely helpful. I can see which types of cases I’ve worked on and which I need more practice with. The project view shows each case with timestamps, so I can track my prep progress over time.\n\n\nFramework Development\nClaude is good at helping me structure MECE (Mutually Exclusive, Collectively Exhaustive) frameworks. When I’m stuck on how to break down a problem, it can suggest logical buckets to organize my thinking.\nFor the daycare capacity strategy case, it helped me think through supply-side factors (staffing, facilities, regulations) and demand-side factors (demographics, competition, pricing) in a structured way.\n\n\nAccurate Transcription\nThe voice recording feature transcribes my verbal case practice accurately. I can review what I actually said rather than what I thought I said, which helps identify verbal tics or unclear explanations.\n\n\nQuick Feedback\nIt provides immediate feedback on structural issues—missing elements in my framework, calculations I didn’t account for, or assumptions I should have stated explicitly.\n My MBB Interview Assistant project showing case history and files"
+  },
+  {
+    "objectID": "posts/010_/010.html#major-limitations-ive-found",
+    "href": "posts/010_/010.html#major-limitations-ive-found",
+    "title": "Using LLMs for Interview Prep",
+    "section": "Major Limitations I’ve Found",
+    "text": "Major Limitations I’ve Found\n\nHallucinations and Made-Up Information\nThis is the biggest problem. Claude sometimes makes up data points or industry facts that sound plausible but aren’t real. In the media company revenue case, it cited specific market statistics that I later couldn’t verify anywhere.\nFor interview prep, this is dangerous because you might memorize false information and confidently state it in a real interview. I’ve learned to verify anything that sounds like a specific fact or statistic.\n\n\nGoing Off Topic\nSometimes Claude diverges from the specific case question to discuss tangentially related concepts. When working on the cable company alarm services case, it started explaining general IoT trends instead of focusing on the specific competitive positioning question I was asking about.\n\n\nScope Creep\nThe AI occasionally suggests frameworks or analyses that are way too broad for a 20-minute case interview. It might recommend conducting customer surveys or building complex financial models—things that wouldn’t be feasible in an actual interview setting.\n\n\nWeird or Broken Links\nWhen Claude tries to reference sources or suggest additional reading, the links are often fabricated or don’t lead anywhere useful. I’ve clicked on several suggested resources only to find they don’t exist.\n\n\nCan’t Simulate Real Pressure\nThe fundamental limitation remains: practicing with an AI in my room doesn’t replicate the pressure of a real interviewer. There’s no one judging my confidence, no awkward silences to manage, no reading of facial expressions.\nResearch on case interview preparation emphasizes that the interpersonal dynamics and time pressure are critical elements that can only be practiced with real people."
+  },
+  {
+    "objectID": "posts/010_/010.html#my-actual-approach",
+    "href": "posts/010_/010.html#my-actual-approach",
+    "title": "Using LLMs for Interview Prep",
+    "section": "My Actual Approach",
+    "text": "My Actual Approach\n\nEarly-Stage Framework Practice\nI use the Claude project at the beginning of my prep for each case type. It helps me understand what a good framework looks like and gives me immediate feedback on structural issues.\n\n\nVerbal Practice Tool\nThe voice recording feature is useful for getting comfortable speaking through cases out loud. I can practice articulating my thinking without the pressure of another person listening.\n\n\nProgress Tracking\nThe project acts as a log of all the cases I’ve practiced. I can see patterns in which types of cases I struggle with and where I need more work.\n\n\nAlways Verify Facts\nI never trust specific data points or statistics from Claude without verification. If it mentions a market size or industry trend, I look it up independently.\n\n\nReal Humans Are Essential\nAfter using Claude for initial structure practice, I do the same cases with actual people—friends doing consulting recruiting, career services, or case partners. The AI gets me to baseline competence faster, but real practice is what actually prepares you for the interview dynamic."
+  },
+  {
+    "objectID": "posts/010_/010.html#final-take",
+    "href": "posts/010_/010.html#final-take",
+    "title": "Using LLMs for Interview Prep",
+    "section": "Final Take",
+    "text": "Final Take\nThe MBB Interview Assistant project is a useful supplementary tool but comes with significant limitations. It’s good for: - Organizing and tracking case practice - Getting quick structural feedback - Practicing verbal articulation with voice recordings - Understanding framework basics\nBut it’s actively harmful if you: - Trust its specific facts without verification - Rely on it as your primary practice method - Follow its suggestions when they’re too broad or impractical - Think it can replace practicing with real people\nThe hallucination issue is serious enough that I treat everything Claude says as a suggestion to verify rather than information to memorize. For actual interview prep, the AI is a starting point, not a replacement for traditional practice methods."
+  },
+  {
+    "objectID": "posts/000_How_Does_AI_Really_Work/000.html",
+    "href": "posts/000_How_Does_AI_Really_Work/000.html",
+    "title": "How AI Systems Work: A Technical Overview",
+    "section": "",
+    "text": "Artificial intelligence systems like ChatGPT and Claude can engage in conversations, solve problems, and generate content. However, their underlying mechanisms are fundamentally different from human cognition.\nThese systems operate as sophisticated pattern recognition and prediction engines. While they can produce human-like responses, they function by identifying statistical patterns in data rather than developing conceptual understanding.\n AI neural networks are inspired by brain structure but operate through different mechanisms\n\nKey Question: How do statistical pattern-matching systems produce seemingly intelligent behavior?"
+  },
+  {
+    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#understanding-modern-ai-systems",
+    "href": "posts/000_How_Does_AI_Really_Work/000.html#understanding-modern-ai-systems",
+    "title": "How AI Systems Work: A Technical Overview",
+    "section": "",
+    "text": "Artificial intelligence systems like ChatGPT and Claude can engage in conversations, solve problems, and generate content. However, their underlying mechanisms are fundamentally different from human cognition.\nThese systems operate as sophisticated pattern recognition and prediction engines. While they can produce human-like responses, they function by identifying statistical patterns in data rather than developing conceptual understanding.\n AI neural networks are inspired by brain structure but operate through different mechanisms\n\nKey Question: How do statistical pattern-matching systems produce seemingly intelligent behavior?"
+  },
+  {
+    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#core-architecture-prediction-systems",
+    "href": "posts/000_How_Does_AI_Really_Work/000.html#core-architecture-prediction-systems",
+    "title": "How AI Systems Work: A Technical Overview",
+    "section": "Core Architecture: Prediction Systems",
+    "text": "Core Architecture: Prediction Systems\nModern AI systems solve a fundamental prediction problem: given an input, determine the most statistically likely output. This applies whether predicting the next word in text, pixels in an image, or moves in a game.\n\nTransformer Architecture\nCurrent large language models like GPT-4 and Claude use transformer architecture:\n# Simplified transformer process\ndef transformer_prediction(input_text):\n    tokens = tokenize(input_text)  # Convert text to processable units\n    embeddings = convert_to_vectors(tokens)  # Map to numerical representations\n    \n    for layer in neural_layers:\n        embeddings = attention_mechanism(embeddings)  # Identify relationships\n        embeddings = feed_forward(embeddings)  # Process patterns\n    \n    return predict_next_token(embeddings)  # Generate most likely continuation\n Transformer architecture with attention and processing layers\nModern systems operate at significant scale. GPT-3 contains 175 billion parameters trained on 45TB of text data. GPT-4 is estimated to exceed 1 trillion parameters with correspondingly higher computational requirements.\n\n\nAttention Mechanisms\nThe attention mechanism enables models to focus selectively on different input elements when making predictions.\nExample: “The cat sat on the mat because it was comfortable.”\nWhen determining what “it” refers to, the attention mechanism assigns weights: - “cat” (high attention - 0.7) - “mat” (medium attention - 0.2) - “sat” (low attention - 0.1)\nThis mechanism allows processing of relationships between distant elements in sequences."
+  },
+  {
+    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#training-process",
+    "href": "posts/000_How_Does_AI_Really_Work/000.html#training-process",
+    "title": "How AI Systems Work: A Technical Overview",
+    "section": "Training Process",
+    "text": "Training Process\nAI system development occurs through structured training phases that determine capabilities and limitations.\n Complete pipeline from data collection to deployed system\n\nPhase 1: Pre-training\nSystems learn from large text datasets through next-token prediction:\n\nData Collection: Process text from websites, books, and articles\nTokenization: Convert text to discrete units for processing\nPrediction Training: Train models to predict missing tokens in sequences\nParameter Adjustment: Iteratively modify billions of parameters based on prediction accuracy\n\n# Simplified training loop\nfor epoch in range(many_epochs):\n    for text_chunk in massive_dataset:\n        input_tokens = text_chunk[:-1]  # Input sequence\n        target_token = text_chunk[-1]   # Target prediction\n        \n        prediction = model(input_tokens)\n        loss = calculate_error(prediction, target_token)\n        \n        # Update model parameters\n        model.update_weights(loss.gradient())\n\n\nPhase 2: Fine-tuning\nPre-trained models are refined for specific applications:\n\nSupervised Fine-tuning: Training on curated question-answer pairs\nReinforcement Learning from Human Feedback (RLHF): Using human preferences to shape responses\nSafety Training: Implementing guidelines to avoid harmful outputs\n\nThis process transforms basic text predictors into conversational assistants."
+  },
+  {
+    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#emergent-capabilities",
+    "href": "posts/000_How_Does_AI_Really_Work/000.html#emergent-capabilities",
+    "title": "How AI Systems Work: A Technical Overview",
+    "section": "Emergent Capabilities",
+    "text": "Emergent Capabilities\nLarge-scale training produces capabilities that weren’t explicitly programmed. These emergent abilities arise from complex interactions between simple components.\n\nExamples of Emergence\nAs model size increases, new capabilities develop:\nChain-of-Thought Reasoning: Models develop step-by-step problem-solving approaches without explicit training on this strategy.\nIn-Context Learning: Systems can perform new tasks based on examples in prompts without additional training.\n# Example of in-context learning\nprompt = \"\"\"\nTranslate English to French:\nHello → Bonjour\nGoodbye → Au revoir\nThank you → Merci\nGood morning → \n\"\"\"\n\n# Model produces \"Bonjour\" despite no explicit\n# training on this translation task\nCross-Lingual Transfer: Models trained primarily on English can operate effectively in other languages.\nThe mechanisms underlying emergence remain an active research area, with theories including phase transitions, increased representational capacity, and pattern recognition thresholds."
+  },
+  {
+    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#system-limitations",
+    "href": "posts/000_How_Does_AI_Really_Work/000.html#system-limitations",
+    "title": "How AI Systems Work: A Technical Overview",
+    "section": "System Limitations",
+    "text": "System Limitations\nCurrent AI systems have several fundamental constraints that stem from their statistical architecture:\n Overview of AI system capabilities and constraints\n\nPattern Matching vs. Understanding\nAI systems process statistical relationships in symbols rather than developing conceptual understanding. They can accurately reproduce information without grasping underlying mechanisms.\nExample: A system can state that “water boils at 100°C” without understanding molecular behavior, phase transitions, or the physical processes involved.\n\n\nOutput Generation Under Uncertainty\nSystems are designed to produce responses even when lacking relevant information, leading to plausible but potentially inaccurate outputs.\n# Simplified response generation\ndef generate_response(query):\n    if confidence_score &gt; threshold:\n        return retrieve_known_information(query)\n    else:\n        # System still generates output\n        return generate_plausible_response(query)\n\n\nTraining Data Constraints\nModels are limited by their training data cutoff and cannot incorporate new information without retraining.\n\n\nMemory Limitations\nCurrent systems can process limited context windows (typically 4,000-128,000 tokens) with no persistent memory between conversations.\n\n\nCorrelation vs. Causation\nSystems excel at identifying statistical correlations but have limited understanding of causal relationships. They may recognize that umbrella sales correlate with rain without understanding the causal mechanism."
+  },
+  {
+    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#practical-implications",
+    "href": "posts/000_How_Does_AI_Really_Work/000.html#practical-implications",
+    "title": "How AI Systems Work: A Technical Overview",
+    "section": "Practical Implications",
+    "text": "Practical Implications\nUnderstanding AI architecture has important implications for effective use:\n\nSystem Strengths\n\nPattern recognition and text generation capabilities\nRapid processing of large information sets\nAccessible interface for complex tasks\nConsistent performance within training domains\n\n\n\nAppropriate Applications\n\nContent drafting and editing\nInformation synthesis from known sources\nCode generation and debugging assistance\nLanguage translation\nCreative brainstorming\n\n\n\nBest Practices\n\nVerify Important Information: Fact-check outputs for critical applications\nUnderstand Limitations: Recognize domain constraints and knowledge cutoffs\nMaintain Human Oversight: Keep humans involved in important decisions\nRecognize Bias: Be aware that systems reflect training data biases\nUse as Tools: Apply systems as analytical instruments rather than authoritative sources"
+  },
+  {
+    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#future-development",
+    "href": "posts/000_How_Does_AI_Really_Work/000.html#future-development",
+    "title": "How AI Systems Work: A Technical Overview",
+    "section": "Future Development",
+    "text": "Future Development\nCurrent AI systems represent early implementations of statistical learning approaches. Several research directions may expand capabilities:\n\nNear-Term Developments (1-3 years)\n\nMultimodal systems integrating text, images, audio, and video\nExtended context windows for longer conversations and documents\nImproved reasoning and problem-solving capabilities\nSpecialized models optimized for specific domains\n\n\n\nLong-Term Research Areas (10+ years)\n\nArtificial General Intelligence research\nQuestions about machine consciousness and subjective experience\nAI alignment and safety considerations\n\n\n\nActive Research Questions\nResearchers are investigating fundamental questions:\n\nScaling Laws: Relationships between model size, data, and capabilities\nEmergence Mechanisms: Why new abilities appear at certain scales\nAlignment: Ensuring AI systems operate according to intended objectives\nInterpretability: Understanding internal model representations and processes"
+  },
+  {
+    "objectID": "posts/000_How_Does_AI_Really_Work/000.html#summary",
+    "href": "posts/000_How_Does_AI_Really_Work/000.html#summary",
+    "title": "How AI Systems Work: A Technical Overview",
+    "section": "Summary",
+    "text": "Summary\nModern AI systems represent sophisticated statistical engines that process patterns in data to generate human-like outputs. While they demonstrate impressive capabilities, they operate through pattern matching rather than conceptual understanding.\n\nKey Technical Points\nCurrent AI systems achieve intelligent-seeming behavior through statistical pattern processing rather than understanding. This approach has several implications:\n\nFor Users: Understanding system strengths and limitations enables more effective application\nFor Organizations: Appropriate use requires human oversight and verification processes\nFor Society: New frameworks are needed for evaluating machine capabilities and limitations\n\nStatistical pattern matching at scale produces sophisticated behavior, suggesting that aspects of intelligence may be more computational than previously understood.\nAs these systems become more prevalent, understanding their statistical nature becomes increasingly important for effective implementation. The technology continues evolving rapidly, with ongoing research addressing questions about scaling, emergence, and alignment with human objectives.\nThe field represents significant progress in automated pattern recognition and generation, with continued development likely to expand capabilities while maintaining the fundamental statistical architecture.\n\nUnderstanding the technical foundations of AI systems helps inform appropriate use and realistic expectations about current capabilities."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "What Can You Do With AI",
+    "section": "",
+    "text": "Let’s Find Out\n\nExploring AI in daily life\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSuperagency Review #1: History Is Written by the Winners\n\n\n\nAI\n\nbook-review\n\nskeptical\n\nresearch\n\n\n\nReading Reid Hoffman’s optimistic AI book from a skeptical perspective - Part 1\n\n\n\n\n\nOct 11, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nTesting AI as a Tutor: Does Prompt Structure Actually Matter?\n\n\n\nresearch\n\nprofessional\n\nLLM\n\ndaily-life\n\nclaude\n\n\n\nComparing two Claude sessions learning to cook Lomo Saltado - one structured, one not\n\n\n\n\n\nOct 9, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nSwitching from Consulting to Finance Prep with AI\n\n\n\nAI\n\nLLM\n\nprofessional\n\nclaude\n\nresearch\n\n\n\nUsing Claude and Perplexity to prepare for investment banking interviews\n\n\n\n\n\nOct 5, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nRunning a Virtual Focus Group with ChatGPT\n\n\n\nbranding\n\nLLM\n\nentrepreneurship\n\ncreative\n\n\n\nTesting Cuzco Crunch products using AI-generated personas and experimental design\n\n\n\n\n\nOct 3, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nUsing LLMs for Interview Prep\n\n\n\nAI\n\nLLM\n\nentrepreneurship\n\nclaude\n\n\n\nBuilding an MBB interview assistant with Claude to track cases and practice\n\n\n\n\n\nOct 1, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nExperimenting with Vibe Creation Using LLMs\n\n\n\nAI\n\nLLM\n\ncreative\n\nclaude\n\n\n\nTesting how language models interpret and generate atmospheric descriptions\n\n\n\n\n\nSep 29, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Photo Organization: Finding Pictures I Forgot I Had\n\n\n\nAI\n\norganization\n\n\n\nHow Google Photos AI search helped me rediscover thousands of old photos\n\n\n\n\n\nSep 27, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Email Management That Actually Works\n\n\n\nAI\n\nproductivity\n\norganization\n\n\n\nUsing smart filters and auto-responses to handle inbox overload\n\n\n\n\n\nSep 25, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nBuilding a Brand with AI: Cuzco Crunch\n\n\n\nAI\n\nbranding\n\nentrepreneurship\n\n\n\nHow we’re using GPT to create a snack brand from concept to execution\n\n\n\n\n\nSep 23, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Fitness Coaching at Home\n\n\n\nAI\n\nfitness\n\nhealth\n\ndaily-life\n\n\n\nUsing smartphone apps for form correction and personalized workouts\n\n\n\n\n\nSep 19, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI-Assisted Grocery Shopping and Meal Prep\n\n\n\nAI\n\ndaily-life\n\nproductivity\n\nhealth\n\ndaily-life\n\n\n\nHow smart apps are making grocery runs more organized and efficient\n\n\n\n\n\nSep 18, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nResearch with Perplexity AI\n\n\n\nAI\n\nresearch\n\nproductivity\n\ntechnology\n\n\n\nHow AI-powered search is changing the way we gather and analyze information\n\n\n\n\n\nSep 15, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Do’s and Don’ts: Safe and Effective Usage\n\n\n\nAI\n\n\n\nEssential guidelines for using AI tools responsibly and effectively\n\n\n\n\n\nSep 10, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\n5 Ways to Use AI Every Day\n\n\n\nAI\n\nproductivity\n\n\n\nPractical AI applications that save time on common daily tasks\n\n\n\n\n\nSep 5, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nHow AI Systems Work: A Technical Overview\n\n\n\nAI\n\ntechnology\n\n\n\nUnderstanding the mechanics and architecture of modern artificial intelligence systems\n\n\n\n\n\nSep 3, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/011_/011.html",
+    "href": "posts/011_/011.html",
+    "title": "Running a Virtual Focus Group with ChatGPT",
+    "section": "",
+    "text": "For the Cuzco Crunch project, Eury and I needed to test two product concepts before committing to one. Instead of recruiting actual participants for a focus group, we decided to try something experimental: using ChatGPT to simulate a focus group with 10 diverse personas.\n\nCuzco Crunch: Golden plantain slices with Peruvian sal de Maras"
+  },
+  {
+    "objectID": "posts/011_/011.html#testing-products-with-ai-generated-focus-groups",
+    "href": "posts/011_/011.html#testing-products-with-ai-generated-focus-groups",
+    "title": "Running a Virtual Focus Group with ChatGPT",
+    "section": "",
+    "text": "For the Cuzco Crunch project, Eury and I needed to test two product concepts before committing to one. Instead of recruiting actual participants for a focus group, we decided to try something experimental: using ChatGPT to simulate a focus group with 10 diverse personas.\n\nCuzco Crunch: Golden plantain slices with Peruvian sal de Maras"
+  },
+  {
+    "objectID": "posts/011_/011.html#the-experimental-design",
+    "href": "posts/011_/011.html#the-experimental-design",
+    "title": "Running a Virtual Focus Group with ChatGPT",
+    "section": "The Experimental Design",
+    "text": "The Experimental Design\n\nTwo Products to Test\nCuzco Crunch (Product A): Positioned as premium - golden, ultra-crispy plantain slices with Peruvian sal de Maras for a mineral-salt finish. Natural sweetness from plantain, meant to be versatile. Price: $7 for 1.5 oz.\nPlantain Lite (Product B): Positioned as everyday - lighter snack with delicate crunch and simple seasoning. Emphasizes convenience and portability. Price: $5 for 1.5 oz.\n\nPlantain Lite: A lighter, everyday plantain chip option\n\n\nCreating 10 Diverse Personas\nWe built personas across multiple demographic dimensions: - Gender: Male/Female - Age ranges: 18-25, 26-33, 34-41, 42-50 - Health conditions: Hypertension, obesity, heart disease, asthma, food allergies, digestive issues, or none - Ethnicity: Latino or Not Latino - Location: Urban, suburban, or rural\nExamples included: - Young urban health-conscious Latina (18-25, no health conditions) - Middle-aged suburban Latino managing hypertension (42-50) - Young urban non-Latino with food allergies (26-33, gluten/dairy/nuts) - Middle-aged rural non-Latino with obesity (34-41) - Middle-aged rural Latina with multiple conditions (42-50, hypertension + obesity)\nThe goal was to represent our potential target segments and see how different audiences responded to each product."
+  },
+  {
+    "objectID": "posts/011_/011.html#the-calibrated-survey",
+    "href": "posts/011_/011.html#the-calibrated-survey",
+    "title": "Running a Virtual Focus Group with ChatGPT",
+    "section": "The Calibrated Survey",
+    "text": "The Calibrated Survey\n\nStarting with a Benchmark\nWe calibrated responses by having participants rate Lay’s Classic Potato Chips first as a reference point. This gave us a common baseline to compare against: - 1 = Unacceptable, wouldn’t eat even if free - 3 = Acceptable/Average, meets basic expectations - 5 = Excellent, exceeds expectations\n\n\nComprehensive Rating Categories\nThe survey covered:\nA. Overall Satisfaction (quality, purchase intent, recommendation likelihood)\nB. Taste & Flavor (overall taste, flavor intensity, saltiness, naturalness, aftertaste)\nC. Texture & Physical Quality (crunchiness, thickness, consistency, oiliness, freshness)\nD. Visual Appeal (appearance, color, uniformity, packaging appeal, information clarity)\nE. Value & Competitive Positioning (value for money, price sensitivity, preference vs potato chips and competitors)\nF. Product Attributes (uniqueness, healthiness, suitability for guests, meeting expectations)\nG. Usage Context (purchase frequency, consumption occasions)\nEach persona rated 33 quantitative questions plus provided qualitative feedback on likes, improvements, and how they’d describe the product."
+  },
+  {
+    "objectID": "posts/011_/011.html#what-we-learned-from-the-exercise",
+    "href": "posts/011_/011.html#what-we-learned-from-the-exercise",
+    "title": "Running a Virtual Focus Group with ChatGPT",
+    "section": "What We Learned from the Exercise",
+    "text": "What We Learned from the Exercise\n\nAI Can Generate Plausible Responses\nChatGPT was surprisingly good at maintaining consistent personas. The middle-aged rural Latina with hypertension and obesity consistently flagged sodium concerns and price sensitivity across multiple questions. The young urban health-conscious Latina responded positively to premium positioning and cultural connection.\nThe personas felt internally coherent - their ratings for saltiness, healthiness, and value aligned with their demographic profiles and stated health concerns.\n\n\nBut It’s Still Simulated Data\nThe fundamental limitation: these aren’t real taste preferences. The AI is generating statistically plausible responses based on stereotypical associations between demographics and preferences.\nFor example, it “knows” that someone with hypertension should care about sodium, so it rates accordingly. But it can’t actually tell us if our specific salt level tastes good or if the Peruvian sal de Maras provides a noticeably different experience.\n\n\nUseful for Initial Direction\nWhere this exercise helped: - Identifying which demographic segments might prefer premium vs everyday positioning - Spotting potential concerns (price sensitivity in rural markets, sodium levels for health-conscious segments) - Practicing survey design before using it with real participants - Understanding how different personas might prioritize different product attributes"
+  },
+  {
+    "objectID": "posts/011_/011.html#serious-limitations",
+    "href": "posts/011_/011.html#serious-limitations",
+    "title": "Running a Virtual Focus Group with ChatGPT",
+    "section": "Serious Limitations",
+    "text": "Serious Limitations\n\nNo Actual Sensory Experience\nThe biggest problem: ChatGPT hasn’t tasted anything. It can’t tell us if our plantain chips are actually crunchy, if the salt level is genuinely balanced, or if the flavor profile works.\nAll taste-related responses are based on generic associations (“premium plantain chips should be crunchier,” “simple seasoning means less salty”). These might not match reality.\n\n\nReinforces Stereotypes\nThe AI generates responses based on demographic patterns it learned from training data. This means it might reproduce stereotypical assumptions rather than capturing actual individual preferences.\nA real 42-year-old Latino with hypertension might not care about sodium as much as the persona suggests, or might have completely different taste preferences than “typical” for that demographic.\n\n\nCan’t Capture Real Market Dynamics\nThings the simulation can’t tell us: - Whether people would actually notice our product on shelves - If the packaging design triggers emotional responses - Whether word-of-mouth would happen organically - If there are unexpected use cases we haven’t considered - How brand perception builds over time\n\n\nThe Validation Problem\nWe built in validation checks (questions 31-33) to catch inconsistent rating patterns. But when the AI is generating all responses, it’s just validating its own internal consistency, not actual human behavior.\nAccording to research on AI-generated synthetic data, using LLM outputs as substitutes for human research data can introduce systematic biases that aren’t immediately obvious."
+  },
+  {
+    "objectID": "posts/011_/011.html#how-were-actually-using-this",
+    "href": "posts/011_/011.html#how-were-actually-using-this",
+    "title": "Running a Virtual Focus Group with ChatGPT",
+    "section": "How We’re Actually Using This",
+    "text": "How We’re Actually Using This\n\nInitial Hypothesis Testing\nThe AI focus group helped us form hypotheses about product positioning: - Cuzco Crunch might appeal more to urban health-conscious consumers willing to pay premium - Plantain Lite could work better for price-sensitive families and convenience-focused shoppers - Both products might face sodium concerns from health-conscious segments\nBut these are just hypotheses that need real validation.\n\n\nSurvey Design Practice\nBuilding the comprehensive survey instrument was valuable. We learned: - Which questions provide useful differentiation - How to structure rating scales with proper calibration - What validation checks to include - Which demographic factors might matter most\nThe survey itself is now ready to use with actual participants.\n\n\nNext Steps with Real People\nWe’re not making product decisions based on AI responses. The plan is: 1. Use the survey with real taste testers 2. Compare actual results to AI predictions 3. Identify where AI assumptions were wrong 4. Make product decisions based on real preferences\nThe AI exercise was a dress rehearsal, not the actual performance."
+  },
+  {
+    "objectID": "posts/011_/011.html#final-thoughts",
+    "href": "posts/011_/011.html#final-thoughts",
+    "title": "Running a Virtual Focus Group with ChatGPT",
+    "section": "Final Thoughts",
+    "text": "Final Thoughts\nRunning a virtual focus group with AI personas was an interesting experiment in using LLMs for product development. It’s useful for: - Rapid hypothesis generation - Testing survey instruments - Exploring how different demographic segments might respond - Practicing market research methodologies\nBut it’s dangerous if you: - Trust the responses as actual market data - Skip real human testing because “we already did AI testing” - Make product decisions based on simulated preferences - Assume the AI understands nuanced taste experiences\nFor Cuzco Crunch, this exercise helped us structure our research approach and form initial hypotheses. But we’re clear that actual product validation requires real people tasting real chips. The AI can simulate responses, but it can’t simulate whether our plantain chips actually taste good."
+  },
+  {
     "objectID": "posts/013_/013.html",
     "href": "posts/013_/013.html",
     "title": "Testing AI as a Tutor: Does Prompt Structure Actually Matter?",
@@ -245,251 +476,6 @@
     "text": "What I Learned\n\nAbout AI Tutoring\nPrompt engineering isn’t just theoretical optimization—it genuinely changed my learning experience. The structured prompt created better dialogue, personalization, and emotional support.\nBut even good prompting has limits. AI tutoring works best for knowledge-based learning where you can verify results yourself. For physical skills like cooking, you still need to trust your own judgment about the outcome.\n\n\nAbout Learning Lomo Saltado\nI actually cooked it. Both sessions gave me functional recipes, but Session 2’s emotional support made me more willing to try despite knowing I’d probably mess up.\nThe AI was right about one thing: even mistakes taste pretty good, and you learn by doing.\n\n\nAbout Prompt Design\nGood tutoring prompts should include: - Instructions to gather context before teaching - One-question-at-a-time pacing - Emotional scaffolding for when things go wrong - Requirements to keep students actively thinking\nThese aren’t complex AI techniques—they’re just principles of good teaching, codified for an AI to follow.\nIf you’re using AI to learn something practical, take five minutes to set up a proper tutoring prompt. The difference is real."
   },
   {
-    "objectID": "posts/011_/011.html",
-    "href": "posts/011_/011.html",
-    "title": "Running a Virtual Focus Group with ChatGPT",
-    "section": "",
-    "text": "For the Cuzco Crunch project, Eury and I needed to test two product concepts before committing to one. Instead of recruiting actual participants for a focus group, we decided to try something experimental: using ChatGPT to simulate a focus group with 10 diverse personas.\n\nCuzco Crunch: Golden plantain slices with Peruvian sal de Maras"
-  },
-  {
-    "objectID": "posts/011_/011.html#testing-products-with-ai-generated-focus-groups",
-    "href": "posts/011_/011.html#testing-products-with-ai-generated-focus-groups",
-    "title": "Running a Virtual Focus Group with ChatGPT",
-    "section": "",
-    "text": "For the Cuzco Crunch project, Eury and I needed to test two product concepts before committing to one. Instead of recruiting actual participants for a focus group, we decided to try something experimental: using ChatGPT to simulate a focus group with 10 diverse personas.\n\nCuzco Crunch: Golden plantain slices with Peruvian sal de Maras"
-  },
-  {
-    "objectID": "posts/011_/011.html#the-experimental-design",
-    "href": "posts/011_/011.html#the-experimental-design",
-    "title": "Running a Virtual Focus Group with ChatGPT",
-    "section": "The Experimental Design",
-    "text": "The Experimental Design\n\nTwo Products to Test\nCuzco Crunch (Product A): Positioned as premium - golden, ultra-crispy plantain slices with Peruvian sal de Maras for a mineral-salt finish. Natural sweetness from plantain, meant to be versatile. Price: $7 for 1.5 oz.\nPlantain Lite (Product B): Positioned as everyday - lighter snack with delicate crunch and simple seasoning. Emphasizes convenience and portability. Price: $5 for 1.5 oz.\n\nPlantain Lite: A lighter, everyday plantain chip option\n\n\nCreating 10 Diverse Personas\nWe built personas across multiple demographic dimensions: - Gender: Male/Female - Age ranges: 18-25, 26-33, 34-41, 42-50 - Health conditions: Hypertension, obesity, heart disease, asthma, food allergies, digestive issues, or none - Ethnicity: Latino or Not Latino - Location: Urban, suburban, or rural\nExamples included: - Young urban health-conscious Latina (18-25, no health conditions) - Middle-aged suburban Latino managing hypertension (42-50) - Young urban non-Latino with food allergies (26-33, gluten/dairy/nuts) - Middle-aged rural non-Latino with obesity (34-41) - Middle-aged rural Latina with multiple conditions (42-50, hypertension + obesity)\nThe goal was to represent our potential target segments and see how different audiences responded to each product."
-  },
-  {
-    "objectID": "posts/011_/011.html#the-calibrated-survey",
-    "href": "posts/011_/011.html#the-calibrated-survey",
-    "title": "Running a Virtual Focus Group with ChatGPT",
-    "section": "The Calibrated Survey",
-    "text": "The Calibrated Survey\n\nStarting with a Benchmark\nWe calibrated responses by having participants rate Lay’s Classic Potato Chips first as a reference point. This gave us a common baseline to compare against: - 1 = Unacceptable, wouldn’t eat even if free - 3 = Acceptable/Average, meets basic expectations - 5 = Excellent, exceeds expectations\n\n\nComprehensive Rating Categories\nThe survey covered:\nA. Overall Satisfaction (quality, purchase intent, recommendation likelihood)\nB. Taste & Flavor (overall taste, flavor intensity, saltiness, naturalness, aftertaste)\nC. Texture & Physical Quality (crunchiness, thickness, consistency, oiliness, freshness)\nD. Visual Appeal (appearance, color, uniformity, packaging appeal, information clarity)\nE. Value & Competitive Positioning (value for money, price sensitivity, preference vs potato chips and competitors)\nF. Product Attributes (uniqueness, healthiness, suitability for guests, meeting expectations)\nG. Usage Context (purchase frequency, consumption occasions)\nEach persona rated 33 quantitative questions plus provided qualitative feedback on likes, improvements, and how they’d describe the product."
-  },
-  {
-    "objectID": "posts/011_/011.html#what-we-learned-from-the-exercise",
-    "href": "posts/011_/011.html#what-we-learned-from-the-exercise",
-    "title": "Running a Virtual Focus Group with ChatGPT",
-    "section": "What We Learned from the Exercise",
-    "text": "What We Learned from the Exercise\n\nAI Can Generate Plausible Responses\nChatGPT was surprisingly good at maintaining consistent personas. The middle-aged rural Latina with hypertension and obesity consistently flagged sodium concerns and price sensitivity across multiple questions. The young urban health-conscious Latina responded positively to premium positioning and cultural connection.\nThe personas felt internally coherent - their ratings for saltiness, healthiness, and value aligned with their demographic profiles and stated health concerns.\n\n\nBut It’s Still Simulated Data\nThe fundamental limitation: these aren’t real taste preferences. The AI is generating statistically plausible responses based on stereotypical associations between demographics and preferences.\nFor example, it “knows” that someone with hypertension should care about sodium, so it rates accordingly. But it can’t actually tell us if our specific salt level tastes good or if the Peruvian sal de Maras provides a noticeably different experience.\n\n\nUseful for Initial Direction\nWhere this exercise helped: - Identifying which demographic segments might prefer premium vs everyday positioning - Spotting potential concerns (price sensitivity in rural markets, sodium levels for health-conscious segments) - Practicing survey design before using it with real participants - Understanding how different personas might prioritize different product attributes"
-  },
-  {
-    "objectID": "posts/011_/011.html#serious-limitations",
-    "href": "posts/011_/011.html#serious-limitations",
-    "title": "Running a Virtual Focus Group with ChatGPT",
-    "section": "Serious Limitations",
-    "text": "Serious Limitations\n\nNo Actual Sensory Experience\nThe biggest problem: ChatGPT hasn’t tasted anything. It can’t tell us if our plantain chips are actually crunchy, if the salt level is genuinely balanced, or if the flavor profile works.\nAll taste-related responses are based on generic associations (“premium plantain chips should be crunchier,” “simple seasoning means less salty”). These might not match reality.\n\n\nReinforces Stereotypes\nThe AI generates responses based on demographic patterns it learned from training data. This means it might reproduce stereotypical assumptions rather than capturing actual individual preferences.\nA real 42-year-old Latino with hypertension might not care about sodium as much as the persona suggests, or might have completely different taste preferences than “typical” for that demographic.\n\n\nCan’t Capture Real Market Dynamics\nThings the simulation can’t tell us: - Whether people would actually notice our product on shelves - If the packaging design triggers emotional responses - Whether word-of-mouth would happen organically - If there are unexpected use cases we haven’t considered - How brand perception builds over time\n\n\nThe Validation Problem\nWe built in validation checks (questions 31-33) to catch inconsistent rating patterns. But when the AI is generating all responses, it’s just validating its own internal consistency, not actual human behavior.\nAccording to research on AI-generated synthetic data, using LLM outputs as substitutes for human research data can introduce systematic biases that aren’t immediately obvious."
-  },
-  {
-    "objectID": "posts/011_/011.html#how-were-actually-using-this",
-    "href": "posts/011_/011.html#how-were-actually-using-this",
-    "title": "Running a Virtual Focus Group with ChatGPT",
-    "section": "How We’re Actually Using This",
-    "text": "How We’re Actually Using This\n\nInitial Hypothesis Testing\nThe AI focus group helped us form hypotheses about product positioning: - Cuzco Crunch might appeal more to urban health-conscious consumers willing to pay premium - Plantain Lite could work better for price-sensitive families and convenience-focused shoppers - Both products might face sodium concerns from health-conscious segments\nBut these are just hypotheses that need real validation.\n\n\nSurvey Design Practice\nBuilding the comprehensive survey instrument was valuable. We learned: - Which questions provide useful differentiation - How to structure rating scales with proper calibration - What validation checks to include - Which demographic factors might matter most\nThe survey itself is now ready to use with actual participants.\n\n\nNext Steps with Real People\nWe’re not making product decisions based on AI responses. The plan is: 1. Use the survey with real taste testers 2. Compare actual results to AI predictions 3. Identify where AI assumptions were wrong 4. Make product decisions based on real preferences\nThe AI exercise was a dress rehearsal, not the actual performance."
-  },
-  {
-    "objectID": "posts/011_/011.html#final-thoughts",
-    "href": "posts/011_/011.html#final-thoughts",
-    "title": "Running a Virtual Focus Group with ChatGPT",
-    "section": "Final Thoughts",
-    "text": "Final Thoughts\nRunning a virtual focus group with AI personas was an interesting experiment in using LLMs for product development. It’s useful for: - Rapid hypothesis generation - Testing survey instruments - Exploring how different demographic segments might respond - Practicing market research methodologies\nBut it’s dangerous if you: - Trust the responses as actual market data - Skip real human testing because “we already did AI testing” - Make product decisions based on simulated preferences - Assume the AI understands nuanced taste experiences\nFor Cuzco Crunch, this exercise helped us structure our research approach and form initial hypotheses. But we’re clear that actual product validation requires real people tasting real chips. The AI can simulate responses, but it can’t simulate whether our plantain chips actually taste good."
-  },
-  {
-    "objectID": "posts/007_/007.html",
-    "href": "posts/007_/007.html",
-    "title": "AI Email Management That Actually Works",
-    "section": "",
-    "text": "I set up SaneBox to manage my email and it’s been running for about a week now. Instead of manually sorting through everything, the AI decides what’s important and what can wait.\n AI automatically categorizing emails by priority level"
-  },
-  {
-    "objectID": "posts/007_/007.html#letting-ai-handle-my-inbox",
-    "href": "posts/007_/007.html#letting-ai-handle-my-inbox",
-    "title": "AI Email Management That Actually Works",
-    "section": "",
-    "text": "I set up SaneBox to manage my email and it’s been running for about a week now. Instead of manually sorting through everything, the AI decides what’s important and what can wait.\n AI automatically categorizing emails by priority level"
-  },
-  {
-    "objectID": "posts/007_/007.html#how-it-sorts-things-out",
-    "href": "posts/007_/007.html#how-it-sorts-things-out",
-    "title": "AI Email Management That Actually Works",
-    "section": "How It Sorts Things Out",
-    "text": "How It Sorts Things Out\n\nPriority Filtering\nSaneBox learns from which emails I actually open and respond to. Work emails from my team get flagged as important, while newsletters and promotional stuff gets moved to a separate folder. It’s not perfect but catches most of the obvious stuff.\n\n\nSmart Scheduling\nGmail’s AI also suggests response times and can schedule emails to send later. I’ve been using it to send emails during business hours even when I’m working late, so I don’t look like I’m always online.\n\n\nQuick Replies\nThe suggested responses are actually useful for simple emails. When someone sends a meeting request, it’ll suggest “Looks good” or “Let me check my calendar” which saves typing the same responses over and over.\n AI-generated reply suggestions for common email types"
-  },
-  {
-    "objectID": "posts/007_/007.html#what-ive-noticed",
-    "href": "posts/007_/007.html#what-ive-noticed",
-    "title": "AI Email Management That Actually Works",
-    "section": "What I’ve Noticed",
-    "text": "What I’ve Noticed\n\nLess Time Sorting\nThe main benefit is spending less time deciding what to read first. Important emails show up in the main inbox, everything else gets organized automatically.\n\n\nFewer Missed Messages\nBefore, urgent emails would get buried under promotional stuff. Now they’re separated, so I’m less likely to miss something important.\n\n\nStill Need to Check\nThe AI sometimes gets it wrong - puts important emails in the low-priority folder or flags spam as urgent. You still need to glance through everything, but it’s more organized.\nIt’s a decent time-saver for people who get a lot of email. Not life-changing, but removes some of the daily friction of inbox management. The filtering works better than I expected, though you need to train it for a few days before it gets your priorities right."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "What Can You Do With AI?"
-  },
-  {
-    "objectID": "about.html#section",
-    "href": "about.html#section",
-    "title": "About",
-    "section": "",
-    "text": "What Can You Do With AI?"
-  },
-  {
-    "objectID": "about.html#raymond-liu-ao",
-    "href": "about.html#raymond-liu-ao",
-    "title": "About",
-    "section": "Raymond Liu Ao",
-    "text": "Raymond Liu Ao\nOriginally from Lima, Peru, I am a Philosophy, Politics, and Economics (PPE) student at the University of Pennsylvania. Interested in exploring the uses and implications of AI in daily life, this blog discusses how LLM can help us (or not) in commonly encountered scenarios.\n–"
-  },
-  {
-    "objectID": "posts/010_/010.html",
-    "href": "posts/010_/010.html",
-    "title": "Using LLMs for Interview Prep",
-    "section": "",
-    "text": "With consulting recruiting coming up, I built a custom project in Claude to help with case interview prep. The idea was to have a dedicated space where I could practice cases, track my progress, and get feedback—all in one place.\n Generic stock photo of a professional interview setting"
-  },
-  {
-    "objectID": "posts/010_/010.html#building-an-mbb-interview-assistant",
-    "href": "posts/010_/010.html#building-an-mbb-interview-assistant",
-    "title": "Using LLMs for Interview Prep",
-    "section": "",
-    "text": "With consulting recruiting coming up, I built a custom project in Claude to help with case interview prep. The idea was to have a dedicated space where I could practice cases, track my progress, and get feedback—all in one place.\n Generic stock photo of a professional interview setting"
-  },
-  {
-    "objectID": "posts/010_/010.html#how-the-assistant-works",
-    "href": "posts/010_/010.html#how-the-assistant-works",
-    "title": "Using LLMs for Interview Prep",
-    "section": "How the Assistant Works",
-    "text": "How the Assistant Works\n\nThe Setup\nI created a Claude project called “MBB Interview Assistant” with custom instructions:\n\n“You will be hearing inputs from MBB interviews. Your role as my highly-paid MBB tutor is to come up with frameworks. Answer questions quickly and brainstorm potential questions, and then… develop a MECE, MBB approach (case structure).”\n\nThe project has become a repository of my case practice—I can see all my past cases listed: UK leisure club market analysis, UK media company revenue challenges, Science magazine revenue decline, Residential cable company alarm services, Kids Place Daycare Capacity Strategy.\n\n\nUsing the Voice Recording Feature\nThe most useful feature has been Claude’s voice recording capability. I can speak through a case out loud, and it transcribes everything accurately and then provides feedback. This simulates the verbal nature of actual case interviews better than typing.\nFor example, when I was working through the UK leisure club case, I could talk through my framework structure verbally, and Claude would follow along and point out gaps in my logic or areas I hadn’t considered."
-  },
-  {
-    "objectID": "posts/010_/010.html#what-actually-works",
-    "href": "posts/010_/010.html#what-actually-works",
-    "title": "Using LLMs for Interview Prep",
-    "section": "What Actually Works",
-    "text": "What Actually Works\n\nCase Tracking\nHaving all my practice cases in one place is genuinely helpful. I can see which types of cases I’ve worked on and which I need more practice with. The project view shows each case with timestamps, so I can track my prep progress over time.\n\n\nFramework Development\nClaude is good at helping me structure MECE (Mutually Exclusive, Collectively Exhaustive) frameworks. When I’m stuck on how to break down a problem, it can suggest logical buckets to organize my thinking.\nFor the daycare capacity strategy case, it helped me think through supply-side factors (staffing, facilities, regulations) and demand-side factors (demographics, competition, pricing) in a structured way.\n\n\nAccurate Transcription\nThe voice recording feature transcribes my verbal case practice accurately. I can review what I actually said rather than what I thought I said, which helps identify verbal tics or unclear explanations.\n\n\nQuick Feedback\nIt provides immediate feedback on structural issues—missing elements in my framework, calculations I didn’t account for, or assumptions I should have stated explicitly.\n My MBB Interview Assistant project showing case history and files"
-  },
-  {
-    "objectID": "posts/010_/010.html#major-limitations-ive-found",
-    "href": "posts/010_/010.html#major-limitations-ive-found",
-    "title": "Using LLMs for Interview Prep",
-    "section": "Major Limitations I’ve Found",
-    "text": "Major Limitations I’ve Found\n\nHallucinations and Made-Up Information\nThis is the biggest problem. Claude sometimes makes up data points or industry facts that sound plausible but aren’t real. In the media company revenue case, it cited specific market statistics that I later couldn’t verify anywhere.\nFor interview prep, this is dangerous because you might memorize false information and confidently state it in a real interview. I’ve learned to verify anything that sounds like a specific fact or statistic.\n\n\nGoing Off Topic\nSometimes Claude diverges from the specific case question to discuss tangentially related concepts. When working on the cable company alarm services case, it started explaining general IoT trends instead of focusing on the specific competitive positioning question I was asking about.\n\n\nScope Creep\nThe AI occasionally suggests frameworks or analyses that are way too broad for a 20-minute case interview. It might recommend conducting customer surveys or building complex financial models—things that wouldn’t be feasible in an actual interview setting.\n\n\nWeird or Broken Links\nWhen Claude tries to reference sources or suggest additional reading, the links are often fabricated or don’t lead anywhere useful. I’ve clicked on several suggested resources only to find they don’t exist.\n\n\nCan’t Simulate Real Pressure\nThe fundamental limitation remains: practicing with an AI in my room doesn’t replicate the pressure of a real interviewer. There’s no one judging my confidence, no awkward silences to manage, no reading of facial expressions.\nResearch on case interview preparation emphasizes that the interpersonal dynamics and time pressure are critical elements that can only be practiced with real people."
-  },
-  {
-    "objectID": "posts/010_/010.html#my-actual-approach",
-    "href": "posts/010_/010.html#my-actual-approach",
-    "title": "Using LLMs for Interview Prep",
-    "section": "My Actual Approach",
-    "text": "My Actual Approach\n\nEarly-Stage Framework Practice\nI use the Claude project at the beginning of my prep for each case type. It helps me understand what a good framework looks like and gives me immediate feedback on structural issues.\n\n\nVerbal Practice Tool\nThe voice recording feature is useful for getting comfortable speaking through cases out loud. I can practice articulating my thinking without the pressure of another person listening.\n\n\nProgress Tracking\nThe project acts as a log of all the cases I’ve practiced. I can see patterns in which types of cases I struggle with and where I need more work.\n\n\nAlways Verify Facts\nI never trust specific data points or statistics from Claude without verification. If it mentions a market size or industry trend, I look it up independently.\n\n\nReal Humans Are Essential\nAfter using Claude for initial structure practice, I do the same cases with actual people—friends doing consulting recruiting, career services, or case partners. The AI gets me to baseline competence faster, but real practice is what actually prepares you for the interview dynamic."
-  },
-  {
-    "objectID": "posts/010_/010.html#final-take",
-    "href": "posts/010_/010.html#final-take",
-    "title": "Using LLMs for Interview Prep",
-    "section": "Final Take",
-    "text": "Final Take\nThe MBB Interview Assistant project is a useful supplementary tool but comes with significant limitations. It’s good for: - Organizing and tracking case practice - Getting quick structural feedback - Practicing verbal articulation with voice recordings - Understanding framework basics\nBut it’s actively harmful if you: - Trust its specific facts without verification - Rely on it as your primary practice method - Follow its suggestions when they’re too broad or impractical - Think it can replace practicing with real people\nThe hallucination issue is serious enough that I treat everything Claude says as a suggestion to verify rather than information to memorize. For actual interview prep, the AI is a starting point, not a replacement for traditional practice methods."
-  },
-  {
-    "objectID": "posts/012_/012.html",
-    "href": "posts/012_/012.html",
-    "title": "Switching from Consulting to Finance Prep with AI",
-    "section": "",
-    "text": "I have an upcoming interview for a Santander CIB Investment Banking Analyst Program, specifically for their DCM (Debt Capital Markets) division. This is different from the consulting interviews I’ve been preparing for—finance interviews require understanding specific firms, technical knowledge about debt markets, and different types of behavioral questions.\nSince I’ve been using AI for consulting prep, I decided to test whether Claude and Perplexity could help me pivot to finance interview preparation.\n\nClaude conducting research on Santander’s DCM business and interview approach"
-  },
-  {
-    "objectID": "posts/012_/012.html#pivoting-interview-prep-consulting-to-finance",
-    "href": "posts/012_/012.html#pivoting-interview-prep-consulting-to-finance",
-    "title": "Switching from Consulting to Finance Prep with AI",
-    "section": "",
-    "text": "I have an upcoming interview for a Santander CIB Investment Banking Analyst Program, specifically for their DCM (Debt Capital Markets) division. This is different from the consulting interviews I’ve been preparing for—finance interviews require understanding specific firms, technical knowledge about debt markets, and different types of behavioral questions.\nSince I’ve been using AI for consulting prep, I decided to test whether Claude and Perplexity could help me pivot to finance interview preparation.\n\nClaude conducting research on Santander’s DCM business and interview approach"
-  },
-  {
-    "objectID": "posts/012_/012.html#the-prompts-i-used",
-    "href": "posts/012_/012.html#the-prompts-i-used",
-    "title": "Switching from Consulting to Finance Prep with AI",
-    "section": "The Prompts I Used",
-    "text": "The Prompts I Used\n\nInitial Research Request to Claude\nMy first prompt:\n\n“First and foremost, I am more so interested in understanding DCM, and potential BEHAVIORAL questions that might arise.\nWhy DCM? Why DCM LatAm? Why Santander DCM?\nUse the web to thoroughly search and understand more about the firm, how the firm talks about itself, and what common behavioral questions do they engage with for their IB process.”\n\nClaude responded:\n\n“I’ll conduct thorough research on Santander CIB, their DCM business, and their interview process. Let me search for information about how they present themselves, their Latin America focus, and common interview questions.”\n\nIt then ran searches for: - “Santander Corporate Investment Banking DCM” (10 results) - Started searching the web for additional information\n\n\nPerplexity Deep Dive\nI also used Perplexity’s research feature with multiple targeted searches:\n\n“Santander CIB debt capital markets”\n“Santander investment banking culture values”\n“Santander CIB Latin America strategy”\n\nPerplexity Research tool found 128 sources including: - Debt Capital Markets | Santander Corporate & Investment Banking - From personalization to social values: what is shaking up investment [banking] - Macro & Strategy Research - The past, present and future of debt capital markets - [PDF] Culture Report 2019 - Banco Santander - Santander US Capital Markets\n\nPerplexity gathering and reviewing sources on Santander DCM"
-  },
-  {
-    "objectID": "posts/012_/012.html#what-actually-helped",
-    "href": "posts/012_/012.html#what-actually-helped",
-    "title": "Switching from Consulting to Finance Prep with AI",
-    "section": "What Actually Helped",
-    "text": "What Actually Helped\n\nFirm-Specific Research\nBoth tools pulled relevant information about Santander’s positioning: - Their focus on Latin America markets and how that differentiates them - Recent deals and market activity in DCM - Corporate values and culture statements - Strategic priorities in debt capital markets\nThis gave me talking points for “Why Santander” that were specific rather than generic.\n\n\nUnderstanding DCM vs. Other IB Divisions\nThe AI helped clarify: - What DCM analysts actually do day-to-day - How DCM differs from M&A or equity capital markets - Why someone might choose DCM over other finance paths - Technical concepts I needed to understand (bond pricing, credit ratings, syndication)\n\n\nBehavioral Question Preparation\nThe tools suggested finance-specific behavioral questions that differ from consulting: - “Walk me through a DCF” (technical behavioral) - “Why debt capital markets vs. other finance roles?” - “How do you handle working with difficult clients on tight deadlines?” - “Tell me about a time you analyzed complex financial information”\nThese are different from consulting’s case-focused approach.\n\n\nIdentifying Knowledge Gaps\nThe research helped me realize what I didn’t know: - Specific debt instruments Santander specializes in - Recent Latin American market trends affecting DCM - Technical terminology I needed to learn - The difference between investment-grade and high-yield debt origination"
-  },
-  {
-    "objectID": "posts/012_/012.html#significant-limitations",
-    "href": "posts/012_/012.html#significant-limitations",
-    "title": "Switching from Consulting to Finance Prep with AI",
-    "section": "Significant Limitations",
-    "text": "Significant Limitations\n\nSurface-Level Firm Knowledge\nThe biggest problem: AI gives you the information that’s publicly available on corporate websites and general industry sources. It can’t tell you: - What Santander’s DCM team culture is actually like - Specific deals they’re working on that aren’t public - Internal priorities that aren’t in press releases - What actually impresses their interviewers vs. what sounds good on paper\nAccording to Wall Street Oasis research on IB recruiting, the candidates who succeed show knowledge that goes beyond what AI can find—insider perspectives from networking, recent deal gossip, and understanding of team dynamics.\n\n\nGeneric Behavioral Answers\nWhen I asked Claude to help refine my answers to “Why DCM?”, it produced polished but generic responses: - “I’m drawn to the analytical rigor of debt markets…” - “The complexity of structuring transactions appeals to me…” - “I want to work at the intersection of capital markets and corporate strategy…”\nThese sound like everyone else’s AI-polished answers. The interviewers at Santander have probably heard variations of these from dozens of candidates using similar tools.\n\n\nCan’t Teach Technical Skills\nAI can explain what a DCF is, but it can’t help you build the muscle memory of actually modeling one under time pressure. It can’t simulate the experience of being asked to walk through a valuation on a whiteboard while someone watches.\nFinance interview prep resources emphasize that technical skills require hands-on practice with actual models, not just conceptual understanding.\n\n\nOutdated Information\nSome of the sources Perplexity pulled were from 2019 (the Culture Report). The finance industry moves quickly—strategies, priorities, and team structures change. Relying on AI-found sources without verifying recency is risky.\n\n\nMisses Networking Insights\nThe most valuable interview prep for finance comes from talking to people who work at the firm or in similar roles. AI can’t replace: - Coffee chats with current Santander analysts - Alumni connections who know the interview process - Understanding what specific interviewers care about - Getting feedback on your story from people in the industry"
-  },
-  {
-    "objectID": "posts/012_/012.html#consulting-prep-vs.-finance-prep-with-ai",
-    "href": "posts/012_/012.html#consulting-prep-vs.-finance-prep-with-ai",
-    "title": "Switching from Consulting to Finance Prep with AI",
-    "section": "Consulting Prep vs. Finance Prep with AI",
-    "text": "Consulting Prep vs. Finance Prep with AI\n\nWhat Transfers\nSome aspects of using AI for consulting prep apply to finance: - Organizing practice materials and tracking progress - Getting quick explanations of concepts - Structuring answers using frameworks - Identifying areas where you need more preparation\n\n\nWhat’s Different\nFinance interviews require different AI usage:\nTechnical Knowledge: Consulting is more about frameworks and problem-solving approach. Finance requires specific technical knowledge (financial modeling, valuation methods, market mechanics) that you need to practice hands-on.\nFirm Research: Consulting firms are more about “fit” and problem-solving ability. Finance firms want to know you understand their specific business lines, recent deals, and market positioning.\nAnswer Style: Consulting wants structured, MECE thinking demonstrated verbally. Finance wants technical competence demonstrated through modeling and concise, confident answers about markets.\nPreparation Balance: For consulting, AI can handle maybe 40% of prep (frameworks, structure, case types). For finance, it’s more like 20%, you need more hands-on technical practice and human networking."
-  },
-  {
-    "objectID": "posts/012_/012.html#my-actual-approach",
-    "href": "posts/012_/012.html#my-actual-approach",
-    "title": "Switching from Consulting to Finance Prep with AI",
-    "section": "My Actual Approach",
-    "text": "My Actual Approach\n\nUsing AI for Initial Research Phase\nI’m using Claude and Perplexity to: - Get baseline understanding of Santander’s DCM business - Compile a list of recent deals and market trends - Understand basic DCM technical concepts - Draft initial answers to behavioral questions\nBut I treat this as the starting point, not the final product.\n\n\nFollowing Up with Human Sources\nAfter AI research, I’m: - Reaching out to Santander employees on LinkedIn - Talking to friends in investment banking about DCM - Getting my behavioral answers reviewed by people in finance - Asking specific questions about Santander’s Latin America focus\n\n\nTechnical Skill Building\nFor the technical components, AI isn’t much help. I’m: - Working through actual DCF models - Practicing explaining valuation methods out loud - Reviewing recent debt deals and their structures - Doing mock technical questions with finance friends\n\n\nVerifying Everything\nAny specific fact or claim from AI research, I verify: - Check Santander’s official investor relations materials - Look up recent news about their DCM business - Confirm market trends with multiple sources - Cross-reference technical concepts with textbooks\nThe AI can point me toward information, but I don’t trust it without verification."
-  },
-  {
-    "objectID": "posts/012_/012.html#final-assessment",
-    "href": "posts/012_/012.html#final-assessment",
-    "title": "Switching from Consulting to Finance Prep with AI",
-    "section": "Final Assessment",
-    "text": "Final Assessment\nUsing AI to pivot from consulting to finance interview prep is helpful but limited. It’s good for: - Quick baseline research on the firm and role - Understanding how finance interviews differ from consulting - Getting initial structure for behavioral answers - Identifying what you don’t know\nBut it’s insufficient for: - Developing real technical skills - Understanding firm-specific culture and priorities - Creating distinctive, memorable answers - Getting the insider knowledge that networking provides\nFinance interviews, even more than consulting, require human connections and hands-on technical practice. AI can accelerate the research phase, but it can’t replace the core preparation activities that actually matter.\nThe risk is thinking that comprehensive AI research is enough. It’s not. The candidates who get offers at places like Santander DCM are the ones who combine efficient research with deep technical preparation and strong industry networks—things AI can’t provide."
-  },
-  {
-    "objectID": "posts/006_Cuzco_Crunch/006.html",
-    "href": "posts/006_Cuzco_Crunch/006.html",
-    "title": "Building a Brand with AI: Cuzco Crunch",
-    "section": "",
-    "text": "Eury and I decided to try building a snack brand called Cuzco Crunch, mostly to see how much of the process we could handle using AI tools. We are just experimenting with what’s possible when you use GPT for everything from naming to packaging concepts.\n Initial logo concepts generated through AI prompting"
-  },
-  {
-    "objectID": "posts/006_Cuzco_Crunch/006.html#creating-a-brand-with-ai",
-    "href": "posts/006_Cuzco_Crunch/006.html#creating-a-brand-with-ai",
-    "title": "Building a Brand with AI: Cuzco Crunch",
-    "section": "",
-    "text": "Eury and I decided to try building a snack brand called Cuzco Crunch, mostly to see how much of the process we could handle using AI tools. We are just experimenting with what’s possible when you use GPT for everything from naming to packaging concepts.\n Initial logo concepts generated through AI prompting"
-  },
-  {
-    "objectID": "posts/006_Cuzco_Crunch/006.html#what-were-using-ai-for",
-    "href": "posts/006_Cuzco_Crunch/006.html#what-were-using-ai-for",
-    "title": "Building a Brand with AI: Cuzco Crunch",
-    "section": "What We’re Using AI For",
-    "text": "What We’re Using AI For\n\nBrand Development\nThe name “Cuzco Crunch” came from asking GPT to suggest names that sounded distinctive but not too weird. We wanted something that hinted at South American flavors without being too on-the-nose. It generated about 30 options and this one felt right.\n\n\nPackaging Design Direction\nWe’re using AI to create mood boards and design concepts. Instead of hiring a designer upfront, we’re generating different packaging styles to see what resonates. The AI helps us think through color schemes, typography, and overall brand personality.\n\n\nMarketing Copy\nProduct descriptions, social media posts, and even this blog post started with AI-generated drafts that we then edited. It’s faster than staring at a blank page, and sometimes the AI suggests angles we wouldn’t have thought of.\n Various packaging design concepts and color schemes"
-  },
-  {
-    "objectID": "posts/006_Cuzco_Crunch/006.html#whats-working-and-what-isnt",
-    "href": "posts/006_Cuzco_Crunch/006.html#whats-working-and-what-isnt",
-    "title": "Building a Brand with AI: Cuzco Crunch",
-    "section": "What’s Working and What Isn’t",
-    "text": "What’s Working and What Isn’t\n\nThe Good Stuff\nSpeed is the biggest advantage. We can iterate on ideas quickly without waiting for external feedback or spending money on design consultations. The AI is also good at generating variations - give it one concept and it’ll produce 10 different takes on it.\n\n\nThe Limitations\nEverything needs human editing. The AI-generated copy often sounds too generic or tries too hard to be clever. Design concepts look decent but lack the subtle details that make professional packaging stand out on shelves.\nAlso, the AI doesn’t understand practical constraints. It’ll suggest elaborate packaging designs that would be expensive to produce or flavors that might not actually taste good together.\n 3D mockups and shelf visualization concepts"
-  },
-  {
-    "objectID": "posts/006_Cuzco_Crunch/006.html#the-reality-check",
-    "href": "posts/006_Cuzco_Crunch/006.html#the-reality-check",
-    "title": "Building a Brand with AI: Cuzco Crunch",
-    "section": "The Reality Check",
-    "text": "The Reality Check\n\nStill Need Real Skills\nAI handles the brainstorming and initial concepts, but you still need to understand branding, know your target market, and make business decisions. It’s a tool, not a replacement for actual knowledge about building a brand.\n\n\nCost vs. Quality Trade-offs\nWe’re probably saving money in the early stages, but there’s a point where you need professional designers and marketers. The question is finding that sweet spot where AI gets you far enough to make informed decisions about what’s worth investing in.\n\n\nLearning Experience\nThe most valuable part has been understanding how much work goes into brand development. Using AI to handle the repetitive parts lets us focus on strategy and decision-making instead of getting stuck on execution details.\nWe’re treating this as an experiment rather than a serious business venture. If Cuzco Crunch turns into something real, great. If not, we’ve learned a lot about using AI for creative projects and brand development."
-  },
-  {
     "objectID": "posts/004_AI-Assisted_Grocery_Shopping_and_Meal_Prep/004.html",
     "href": "posts/004_AI-Assisted_Grocery_Shopping_and_Meal_Prep/004.html",
     "title": "AI-Assisted Grocery Shopping and Meal Prep",
@@ -523,6 +509,132 @@
     "title": "AI-Assisted Grocery Shopping and Meal Prep",
     "section": "What Doesn’t Work Perfectly",
     "text": "What Doesn’t Work Perfectly\n\nLearning Period\nIt takes a few weeks for the app to understand your shopping patterns. Early suggestions were often wrong.\n\n\nStore-Specific Features\nAdvanced features like aisle mapping only work with certain grocery chains. Smaller or independent stores usually don’t have this integration.\n\n\nFresh Produce Timing\nThe AI isn’t great at predicting when you need fresh items since it depends on how quickly you use them.\nOverall, it’s a useful tool that makes grocery shopping more organized. The meal planning aspect is particularly helpful for busy weeks when you need to think ahead. Not essential, but definitely convenient once you get used to it."
+  },
+  {
+    "objectID": "posts/001_AI_Daily_Guide/001.html",
+    "href": "posts/001_AI_Daily_Guide/001.html",
+    "title": "5 Ways to Use AI Every Day",
+    "section": "",
+    "text": "AI tools like ChatGPT and Claude can handle routine tasks that usually take significant time. Here are five practical applications that work reliably.\n Common tasks where AI provides immediate value"
+  },
+  {
+    "objectID": "posts/001_AI_Daily_Guide/001.html#using-ai-for-daily-tasks",
+    "href": "posts/001_AI_Daily_Guide/001.html#using-ai-for-daily-tasks",
+    "title": "5 Ways to Use AI Every Day",
+    "section": "",
+    "text": "AI tools like ChatGPT and Claude can handle routine tasks that usually take significant time. Here are five practical applications that work reliably.\n Common tasks where AI provides immediate value"
+  },
+  {
+    "objectID": "posts/001_AI_Daily_Guide/001.html#meal-planning-and-recipes",
+    "href": "posts/001_AI_Daily_Guide/001.html#meal-planning-and-recipes",
+    "title": "5 Ways to Use AI Every Day",
+    "section": "1. Meal Planning and Recipes",
+    "text": "1. Meal Planning and Recipes\nTurn ingredients into meal plans instantly.\nBasic ingredient prompt:\nI have chicken breast, rice, and broccoli. \nGive me 3 different 30-minute meals with instructions.\nWeekly planning prompt:\nCreate a 5-day meal plan for 2 people, $60 budget. \nInclude grocery list organized by store section.\n AI generates recipes based on available ingredients and dietary preferences\nAI handles dietary restrictions, cooking time constraints, and budget limitations effectively. The grocery lists are particularly useful since they organize items by store layout."
+  },
+  {
+    "objectID": "posts/001_AI_Daily_Guide/001.html#email-and-message-writing",
+    "href": "posts/001_AI_Daily_Guide/001.html#email-and-message-writing",
+    "title": "5 Ways to Use AI Every Day",
+    "section": "2. Email and Message Writing",
+    "text": "2. Email and Message Writing\nImprove clarity and tone in professional communication.\nEmail revision prompt:\nMake this email more professional and concise:\n[paste your draft]\nDifficult conversation prompt:\nHelp me write a polite but firm email declining this request:\n[explain situation]\nMeeting follow-up prompt:\nDraft a follow-up email summarizing these meeting points:\n[list key decisions and action items]\nThis works for text messages, LinkedIn messages, and any written communication where tone matters."
+  },
+  {
+    "objectID": "posts/001_AI_Daily_Guide/001.html#quick-learning-and-research",
+    "href": "posts/001_AI_Daily_Guide/001.html#quick-learning-and-research",
+    "title": "5 Ways to Use AI Every Day",
+    "section": "3. Quick Learning and Research",
+    "text": "3. Quick Learning and Research\nGet structured explanations on unfamiliar topics.\nConcept explanation prompt:\nExplain [topic] in simple terms, then give me \n5 follow-up questions to test my understanding.\nSkill learning prompt:\nI need to learn Excel pivot tables for work. \nGive me a step-by-step tutorial focusing on the most practical features.\nResearch synthesis prompt:\nCompare the top 3 options for [product/service] \nwith pros and cons for each.\n AI breaks down complex topics into manageable learning steps\nAI excels at creating structured learning paths and synthesizing information from multiple angles."
+  },
+  {
+    "objectID": "posts/001_AI_Daily_Guide/001.html#travel-and-event-planning",
+    "href": "posts/001_AI_Daily_Guide/001.html#travel-and-event-planning",
+    "title": "5 Ways to Use AI Every Day",
+    "section": "4. Travel and Event Planning",
+    "text": "4. Travel and Event Planning\nGenerate detailed itineraries and logistics.\nTrip planning prompt:\nPlan a 3-day weekend trip to [destination] for [number] people \nwith a $[amount] budget. Include transportation, accommodation, \nand daily activities.\nLocal exploration prompt:\nWhat are 5 lesser-known attractions in [city] \nthat locals recommend?\nEvent planning prompt:\nCreate a timeline and checklist for planning a \n[birthday party/dinner party/work event] for [number] people.\nAI handles multiple constraints simultaneously - budget, time, preferences, and logistics."
+  },
+  {
+    "objectID": "posts/001_AI_Daily_Guide/001.html#home-management-and-finances",
+    "href": "posts/001_AI_Daily_Guide/001.html#home-management-and-finances",
+    "title": "5 Ways to Use AI Every Day",
+    "section": "5. Home Management and Finances",
+    "text": "5. Home Management and Finances\nGet practical advice for household and money management.\nHome maintenance prompt:\nMy [appliance/fixture] is [problem description]. \nWalk me through troubleshooting steps from simple to complex.\nBudget planning prompt:\nI make $[amount] monthly, fixed expenses are $[amount]. \nCreate a realistic budget with savings and discretionary spending.\nPurchase decision prompt:\nI'm considering buying [item] for [purpose]. \nWhat factors should I evaluate? Create a decision framework.\n AI provides structured approaches to financial and household decisions\nThese applications work because AI can process multiple variables and provide step-by-step guidance for complex decisions."
+  },
+  {
+    "objectID": "posts/001_AI_Daily_Guide/001.html#implementation-notes",
+    "href": "posts/001_AI_Daily_Guide/001.html#implementation-notes",
+    "title": "5 Ways to Use AI Every Day",
+    "section": "Implementation Notes",
+    "text": "Implementation Notes\nPrompt specificity matters. Include relevant details like budget, timeframe, number of people, and specific constraints.\nFollow-up questions improve results. Ask for alternatives, simplifications, or additional detail as needed.\nSave effective prompts. Keep a note file with prompts that work well for repeated use.\nThese five applications cover the most common daily planning and decision-making tasks. Each provides immediate time savings and often produces better results than manual research."
+  },
+  {
+    "objectID": "posts/007_/007.html",
+    "href": "posts/007_/007.html",
+    "title": "AI Email Management That Actually Works",
+    "section": "",
+    "text": "I set up SaneBox to manage my email and it’s been running for about a week now. Instead of manually sorting through everything, the AI decides what’s important and what can wait.\n AI automatically categorizing emails by priority level"
+  },
+  {
+    "objectID": "posts/007_/007.html#letting-ai-handle-my-inbox",
+    "href": "posts/007_/007.html#letting-ai-handle-my-inbox",
+    "title": "AI Email Management That Actually Works",
+    "section": "",
+    "text": "I set up SaneBox to manage my email and it’s been running for about a week now. Instead of manually sorting through everything, the AI decides what’s important and what can wait.\n AI automatically categorizing emails by priority level"
+  },
+  {
+    "objectID": "posts/007_/007.html#how-it-sorts-things-out",
+    "href": "posts/007_/007.html#how-it-sorts-things-out",
+    "title": "AI Email Management That Actually Works",
+    "section": "How It Sorts Things Out",
+    "text": "How It Sorts Things Out\n\nPriority Filtering\nSaneBox learns from which emails I actually open and respond to. Work emails from my team get flagged as important, while newsletters and promotional stuff gets moved to a separate folder. It’s not perfect but catches most of the obvious stuff.\n\n\nSmart Scheduling\nGmail’s AI also suggests response times and can schedule emails to send later. I’ve been using it to send emails during business hours even when I’m working late, so I don’t look like I’m always online.\n\n\nQuick Replies\nThe suggested responses are actually useful for simple emails. When someone sends a meeting request, it’ll suggest “Looks good” or “Let me check my calendar” which saves typing the same responses over and over.\n AI-generated reply suggestions for common email types"
+  },
+  {
+    "objectID": "posts/007_/007.html#what-ive-noticed",
+    "href": "posts/007_/007.html#what-ive-noticed",
+    "title": "AI Email Management That Actually Works",
+    "section": "What I’ve Noticed",
+    "text": "What I’ve Noticed\n\nLess Time Sorting\nThe main benefit is spending less time deciding what to read first. Important emails show up in the main inbox, everything else gets organized automatically.\n\n\nFewer Missed Messages\nBefore, urgent emails would get buried under promotional stuff. Now they’re separated, so I’m less likely to miss something important.\n\n\nStill Need to Check\nThe AI sometimes gets it wrong - puts important emails in the low-priority folder or flags spam as urgent. You still need to glance through everything, but it’s more organized.\nIt’s a decent time-saver for people who get a lot of email. Not life-changing, but removes some of the daily friction of inbox management. The filtering works better than I expected, though you need to train it for a few days before it gets your priorities right."
+  },
+  {
+    "objectID": "posts/009_/009.html",
+    "href": "posts/009_/009.html",
+    "title": "Experimenting with Vibe Creation Using LLMs",
+    "section": "",
+    "text": "I’ve been experimenting with what I’m calling “vibe creation” in Claude—essentially asking the LLM to generate or interpret atmospheric descriptions for different contexts. The goal was to see how well these models understand and reproduce subjective, mood-based content rather than factual information.\n Testing different prompts to generate atmospheric descriptions"
+  },
+  {
+    "objectID": "posts/009_/009.html#playing-with-atmospheric-prompting",
+    "href": "posts/009_/009.html#playing-with-atmospheric-prompting",
+    "title": "Experimenting with Vibe Creation Using LLMs",
+    "section": "",
+    "text": "I’ve been experimenting with what I’m calling “vibe creation” in Claude—essentially asking the LLM to generate or interpret atmospheric descriptions for different contexts. The goal was to see how well these models understand and reproduce subjective, mood-based content rather than factual information.\n Testing different prompts to generate atmospheric descriptions"
+  },
+  {
+    "objectID": "posts/009_/009.html#the-prompts-i-tested",
+    "href": "posts/009_/009.html#the-prompts-i-tested",
+    "title": "Experimenting with Vibe Creation Using LLMs",
+    "section": "The Prompts I Tested",
+    "text": "The Prompts I Tested\n\nStarting Simple\nMy first prompt was straightforward:\n\n“Describe the vibe of a rainy coffee shop at 3pm on a Tuesday”\n\nClaude generated a description that hit the expected notes—muted conversations, steam from coffee cups, the rhythmic sound of rain. It was accurate but generic, the kind of description you’d find in any piece of atmospheric writing.\n\n\nAdding Specificity\nI tried making the prompt more specific:\n\n“Describe the vibe of a college library during finals week at 2am. Include sounds, lighting, and the feeling of collective stress”\n\nThis produced better results. The model captured details like the fluorescent lighting, the sound of highlighters on paper, and the “quiet panic” of students. It understood the assignment but still felt somewhat detached—like someone describing a scene they’d read about rather than experienced.\n\n\nTesting Negative Space\nHere’s where it got interesting. I asked:\n\n“Describe the vibe of an empty office building at night. Focus on what’s NOT there rather than what is”\n\nClaude struggled more with this. It could describe absence—no people, no noise—but couldn’t quite capture the uncanny feeling of a space designed for activity sitting dormant. The descriptions remained surface-level. The output focused on the lack of meetings, chatter, talk, noise in the office. But it did not capture the liminal-space-like, vast, expansive (almost scary) vibe of an empty office in the way the show Severance, for instance, can.\n Comparing outputs from different prompting approaches"
+  },
+  {
+    "objectID": "posts/009_/009.html#what-worked-and-what-didnt",
+    "href": "posts/009_/009.html#what-worked-and-what-didnt",
+    "title": "Experimenting with Vibe Creation Using LLMs",
+    "section": "What Worked and What Didn’t",
+    "text": "What Worked and What Didn’t\n\nStrengths\nThe LLM is good at: - Assembling sensory details that conventionally fit a scene - Understanding cultural contexts (“finals week” immediately triggered appropriate stress markers) - Maintaining consistency within a single atmospheric description - Responding to structural prompts (“focus on sounds” vs “focus on lighting”)\n\n\nLimitations\nWhere it falls short: - Generating truly novel atmospheric combinations - Capturing subtle emotional undertones that aren’t explicitly named - Moving beyond stereotypical associations (coffee shop = cozy, library = studious) - Understanding the relationship between physical space and psychological state in non-obvious ways\nThe model seems to work from a database of common associations rather than synthesizing new atmospheric understanding."
+  },
+  {
+    "objectID": "posts/009_/009.html#why-this-matters-from-a-skeptical-angle",
+    "href": "posts/009_/009.html#why-this-matters-from-a-skeptical-angle",
+    "title": "Experimenting with Vibe Creation Using LLMs",
+    "section": "Why This Matters (From a Skeptical Angle)",
+    "text": "Why This Matters (From a Skeptical Angle)\n\nThe Homogenization Problem\nIf everyone starts using LLMs to generate atmospheric descriptions for creative projects, writing, or marketing, we risk creating a feedback loop of averaged-out vibes. The model can only reproduce what it’s seen in training data, which means we get the most statistically likely description of any given mood or setting.\nAfter all, LLMs tend to regress toward mean responses when generating creative content, potentially flattening the diversity of human expression.\n\n\nLost Nuance\nReal atmospheric writing comes from personal observation and specific experience. When I asked Claude to describe my college library during finals, it gave me a generic college library experience. It couldn’t know about the specific smell of old heating systems mixed with energy drinks, or the way light reflects off that one weird pillar in the corner.\n\n\nUseful But Limited Tool\nThis isn’t to say vibe creation with LLMs is useless. It’s good for: - Quick brainstorming when you’re stuck - Getting a baseline description to then personalize - Understanding how certain settings are conventionally described\nBut treating it as a replacement for actual observation and personal experience would result in flatter, less distinctive creative work."
+  },
+  {
+    "objectID": "posts/009_/009.html#final-thoughts",
+    "href": "posts/009_/009.html#final-thoughts",
+    "title": "Experimenting with Vibe Creation Using LLMs",
+    "section": "Final Thoughts",
+    "text": "Final Thoughts\nPlaying with vibe creation revealed both the capabilities and constraints of current LLMs. They’re sophisticated pattern-matching systems that can assemble convincing atmospheric descriptions from training data, but they lack the experiential knowledge that makes truly evocative writing memorable.\nThe exercise reinforced my skepticism about over-relying on these tools for creative work. They’re useful for scaffolding and inspiration, but the most interesting atmospheric details still need to come from human observation and experience.\nFor anyone trying similar experiments: push the model toward specificity and unconventional combinations. The more generic your prompt, the more generic your output."
   },
   {
     "objectID": "posts/002_AI_Dos_And_Donts/002.html",
@@ -593,61 +705,5 @@
     "title": "AI Fitness Coaching at Home",
     "section": "Limitations",
     "text": "Limitations\n\nCamera Angle Matters\nYou need to position your phone correctly for it to see your whole body. Took a few tries to get the angle right.\n\n\nLighting Requirements\nWorks better in good lighting. Had trouble tracking movements when the room was too dim.\n\n\nLimited Exercise Types\nFocuses mainly on bodyweight movements. If you want to lift weights or use equipment, you’ll need a different approach.\n\n\nNot Always Perfect\nSometimes misses form issues or gives feedback that doesn’t quite match what you’re doing. Still better than working out with no guidance, but not as precise as a human trainer.\nIt’s a solid option for home workouts when you want some structure and feedback. The form correction feature is genuinely useful, especially for exercises you’re not familiar with."
-  },
-  {
-    "objectID": "posts/001_AI_Daily_Guide/001.html",
-    "href": "posts/001_AI_Daily_Guide/001.html",
-    "title": "5 Ways to Use AI Every Day",
-    "section": "",
-    "text": "AI tools like ChatGPT and Claude can handle routine tasks that usually take significant time. Here are five practical applications that work reliably.\n Common tasks where AI provides immediate value"
-  },
-  {
-    "objectID": "posts/001_AI_Daily_Guide/001.html#using-ai-for-daily-tasks",
-    "href": "posts/001_AI_Daily_Guide/001.html#using-ai-for-daily-tasks",
-    "title": "5 Ways to Use AI Every Day",
-    "section": "",
-    "text": "AI tools like ChatGPT and Claude can handle routine tasks that usually take significant time. Here are five practical applications that work reliably.\n Common tasks where AI provides immediate value"
-  },
-  {
-    "objectID": "posts/001_AI_Daily_Guide/001.html#meal-planning-and-recipes",
-    "href": "posts/001_AI_Daily_Guide/001.html#meal-planning-and-recipes",
-    "title": "5 Ways to Use AI Every Day",
-    "section": "1. Meal Planning and Recipes",
-    "text": "1. Meal Planning and Recipes\nTurn ingredients into meal plans instantly.\nBasic ingredient prompt:\nI have chicken breast, rice, and broccoli. \nGive me 3 different 30-minute meals with instructions.\nWeekly planning prompt:\nCreate a 5-day meal plan for 2 people, $60 budget. \nInclude grocery list organized by store section.\n AI generates recipes based on available ingredients and dietary preferences\nAI handles dietary restrictions, cooking time constraints, and budget limitations effectively. The grocery lists are particularly useful since they organize items by store layout."
-  },
-  {
-    "objectID": "posts/001_AI_Daily_Guide/001.html#email-and-message-writing",
-    "href": "posts/001_AI_Daily_Guide/001.html#email-and-message-writing",
-    "title": "5 Ways to Use AI Every Day",
-    "section": "2. Email and Message Writing",
-    "text": "2. Email and Message Writing\nImprove clarity and tone in professional communication.\nEmail revision prompt:\nMake this email more professional and concise:\n[paste your draft]\nDifficult conversation prompt:\nHelp me write a polite but firm email declining this request:\n[explain situation]\nMeeting follow-up prompt:\nDraft a follow-up email summarizing these meeting points:\n[list key decisions and action items]\nThis works for text messages, LinkedIn messages, and any written communication where tone matters."
-  },
-  {
-    "objectID": "posts/001_AI_Daily_Guide/001.html#quick-learning-and-research",
-    "href": "posts/001_AI_Daily_Guide/001.html#quick-learning-and-research",
-    "title": "5 Ways to Use AI Every Day",
-    "section": "3. Quick Learning and Research",
-    "text": "3. Quick Learning and Research\nGet structured explanations on unfamiliar topics.\nConcept explanation prompt:\nExplain [topic] in simple terms, then give me \n5 follow-up questions to test my understanding.\nSkill learning prompt:\nI need to learn Excel pivot tables for work. \nGive me a step-by-step tutorial focusing on the most practical features.\nResearch synthesis prompt:\nCompare the top 3 options for [product/service] \nwith pros and cons for each.\n AI breaks down complex topics into manageable learning steps\nAI excels at creating structured learning paths and synthesizing information from multiple angles."
-  },
-  {
-    "objectID": "posts/001_AI_Daily_Guide/001.html#travel-and-event-planning",
-    "href": "posts/001_AI_Daily_Guide/001.html#travel-and-event-planning",
-    "title": "5 Ways to Use AI Every Day",
-    "section": "4. Travel and Event Planning",
-    "text": "4. Travel and Event Planning\nGenerate detailed itineraries and logistics.\nTrip planning prompt:\nPlan a 3-day weekend trip to [destination] for [number] people \nwith a $[amount] budget. Include transportation, accommodation, \nand daily activities.\nLocal exploration prompt:\nWhat are 5 lesser-known attractions in [city] \nthat locals recommend?\nEvent planning prompt:\nCreate a timeline and checklist for planning a \n[birthday party/dinner party/work event] for [number] people.\nAI handles multiple constraints simultaneously - budget, time, preferences, and logistics."
-  },
-  {
-    "objectID": "posts/001_AI_Daily_Guide/001.html#home-management-and-finances",
-    "href": "posts/001_AI_Daily_Guide/001.html#home-management-and-finances",
-    "title": "5 Ways to Use AI Every Day",
-    "section": "5. Home Management and Finances",
-    "text": "5. Home Management and Finances\nGet practical advice for household and money management.\nHome maintenance prompt:\nMy [appliance/fixture] is [problem description]. \nWalk me through troubleshooting steps from simple to complex.\nBudget planning prompt:\nI make $[amount] monthly, fixed expenses are $[amount]. \nCreate a realistic budget with savings and discretionary spending.\nPurchase decision prompt:\nI'm considering buying [item] for [purpose]. \nWhat factors should I evaluate? Create a decision framework.\n AI provides structured approaches to financial and household decisions\nThese applications work because AI can process multiple variables and provide step-by-step guidance for complex decisions."
-  },
-  {
-    "objectID": "posts/001_AI_Daily_Guide/001.html#implementation-notes",
-    "href": "posts/001_AI_Daily_Guide/001.html#implementation-notes",
-    "title": "5 Ways to Use AI Every Day",
-    "section": "Implementation Notes",
-    "text": "Implementation Notes\nPrompt specificity matters. Include relevant details like budget, timeframe, number of people, and specific constraints.\nFollow-up questions improve results. Ask for alternatives, simplifications, or additional detail as needed.\nSave effective prompts. Keep a note file with prompts that work well for repeated use.\nThese five applications cover the most common daily planning and decision-making tasks. Each provides immediate time savings and often produces better results than manual research."
   }
 ]

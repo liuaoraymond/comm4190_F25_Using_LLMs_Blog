@@ -10,7 +10,108 @@
 <atom:link href="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Let&#39;s Find Out</description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Thu, 09 Oct 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 11 Oct 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Superagency Review #1: History Is Written by the Winners</title>
+  <dc:creator>Raymond Liu Ao</dc:creator>
+  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/014_/014.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="reading-superagency-a-gloomers-perspective" class="level2">
+<h2 class="anchored" data-anchor-id="reading-superagency-a-gloomers-perspective">Reading Superagency: A Gloomer’s Perspective</h2>
+<p>I’m reading Reid Hoffman and Greg Beato’s <a href="https://www.superagency.ai/"><em>Superagency: What Could Possibly Go Right with Our AI Future</em></a>—a book that argues for optimism about generative AI and its potential to enhance human agency. As someone who identifies as a gloomer about AI, I’m approaching this with skepticism but genuine curiosity.</p>
+<p>This is part 1 of 5 reviews covering the entire book. Pages 1-47: The introduction and framing.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/014_/superagency-book-cover.jpg" alt="Superagency Book" style="max-width: 450px; max-height: 300px; object-fit: contain; display: block; margin: 20px auto;"></p>
+<p><em>Superagency by Reid Hoffman and Greg Beato</em></p>
+</section>
+<section id="the-historical-framing-art-luddites-and-printing-presses" class="level2">
+<h2 class="anchored" data-anchor-id="the-historical-framing-art-luddites-and-printing-presses">The Historical Framing: Art, Luddites, and Printing Presses</h2>
+<p>The introduction opens with an interesting historical analogy. Hoffman and Beato walk through past technological disruptions:</p>
+<p><strong>Socrates and Art:</strong> Socrates opposed art because it failed to capture the conversational, evolutionary, iterative process of discussion-based learning. Written text was static; dialogue was dynamic.</p>
+<p><strong>The Luddites:</strong> Workers who resisted industrial machinery that threatened their livelihoods and ways of life.</p>
+<p><strong>The Printing Press:</strong> A technology that faced backlash from those who feared the democratization of knowledge.</p>
+<p>The pattern is clear: history is full of examples of technological backlash. The book frames AI as the latest in this line—another “infrastructural change event” that will transform human capacity and agency.</p>
+<p>I’ll admit, the framing is effective. The core question the book poses is compelling: “Can we continue to maintain control of our lives, and successfully plot our own destinies?” in the age of AI.</p>
+</section>
+<section id="history-is-written-by-the-winners" class="level2">
+<h2 class="anchored" data-anchor-id="history-is-written-by-the-winners">History Is Written by the Winners</h2>
+<p>Here’s where my skepticism kicks in.</p>
+<p>Yes, all these technological disruptions—art, steam power, the printing press—were consequential and enabled human agency in important ways:</p>
+<p><strong>Art</strong> captured feelings, periods, and provided first-hand historical resources.</p>
+<p><strong>Steam power</strong> and the Industrial Revolution brought unimaginable productivity and capital accumulation, leading to the consolidation of modern cities.</p>
+<p><strong>The printing press</strong> enabled communication and knowledge dissemination like never before.</p>
+<p>We’ve all benefited from these major strides, one way or another. But the more closely we examine the nuances of these pivotal moments, the more we realize there’s much more to the story.</p>
+<p>The problem is that we often focus on the positives—maybe as a sign of human delusion, or a craving to minimize problems. Important details get left behind. History is written by the winners, after all.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/014_/industrial-revolution-workers.jpg" alt="Historical Technology Impact" style="max-width: 450px; max-height: 300px; object-fit: contain; display: block; margin: 20px auto;"></p>
+<p><em>The Industrial Revolution: productivity gains alongside worker displacement</em></p>
+</section>
+<section id="what-the-winners-history-leaves-out" class="level2">
+<h2 class="anchored" data-anchor-id="what-the-winners-history-leaves-out">What the Winners’ History Leaves Out</h2>
+<section id="the-industrial-revolutions-dark-side" class="level3">
+<h3 class="anchored" data-anchor-id="the-industrial-revolutions-dark-side">The Industrial Revolution’s Dark Side</h3>
+<p>The steam engine and industrialization brought unprecedented productivity. But they also brought: - Brutal working conditions in factories - Child labor - Destruction of artisan crafts and traditional ways of life - Environmental degradation that we’re still dealing with - Massive wealth inequality and the creation of exploitative labor systems</p>
+<p>According to <a href="https://www.britannica.com/event/Industrial-Revolution">historical analysis of the Industrial Revolution</a>, while productivity soared, real wages for workers stagnated or declined for decades. The “winners” who wrote that history were the factory owners and industrialists, not the displaced weavers or child laborers.</p>
+</section>
+<section id="the-printing-press-and-information-chaos" class="level3">
+<h3 class="anchored" data-anchor-id="the-printing-press-and-information-chaos">The Printing Press and Information Chaos</h3>
+<p>The printing press democratized knowledge—but it also: - Enabled mass propaganda - Facilitated religious wars and sectarian violence - Created information overload that people weren’t equipped to handle - Disrupted existing knowledge gatekeepers (sometimes for good, sometimes not)</p>
+<p>The Reformation, enabled by printing technology, led to centuries of religious conflict. That’s not in the optimistic framing.</p>
+</section>
+<section id="the-luddites-were-right-about-some-things" class="level3">
+<h3 class="anchored" data-anchor-id="the-luddites-were-right-about-some-things">The Luddites Were Right About Some Things</h3>
+<p>We use “Luddite” as an insult for technophobes. But the original Luddites weren’t irrationally afraid of technology—they were skilled workers watching their livelihoods and communities be destroyed by machines that enriched factory owners.</p>
+<p>Their concerns about who benefits from technological change were valid. The technology did increase productivity, but the gains went to capital owners, not workers. The Luddites lost that fight, so history remembers them as backwards resistors rather than people with legitimate concerns about economic justice.</p>
+</section>
+</section>
+<section id="the-agency-question-for-whom" class="level2">
+<h2 class="anchored" data-anchor-id="the-agency-question-for-whom">The Agency Question: For Whom?</h2>
+<p>Hoffman and Beato frame AI as an “agency enabler”—technology that will enhance our capacity to “do what we ought to do” and “plot our own destinies.”</p>
+<p>But here’s the critical question the introduction doesn’t adequately address: <strong>Whose agency gets enabled?</strong></p>
+<section id="technology-doesnt-distribute-benefits-evenly" class="level3">
+<h3 class="anchored" data-anchor-id="technology-doesnt-distribute-benefits-evenly">Technology Doesn’t Distribute Benefits Evenly</h3>
+<p>Past technological revolutions increased <em>aggregate</em> human capacity and agency. But the distribution was wildly unequal: - Factory owners gained agency; workers often lost autonomy - Landowners who adopted new agricultural tech thrived; tenant farmers were displaced - Early adopters of communication technology gained power; those without access fell further behind</p>
+<p>When Hoffman talks about AI enabling “our” agency, who is “we”? Tech founders and investors? Knowledge workers with access to cutting-edge tools? Or also the truck drivers, customer service workers, and radiologists whose jobs might be automated?</p>
+</section>
+<section id="have-we-forgotten-our-ways-of-life" class="level3">
+<h3 class="anchored" data-anchor-id="have-we-forgotten-our-ways-of-life">Have We Forgotten Our Ways of Life?</h3>
+<p>Each technological revolution didn’t just change what people could do—it changed how people lived. Industrialization pulled people from rural communities into urban factories. The printing press disrupted oral traditions and face-to-face knowledge transmission.</p>
+<p>Some of these changes were positive. Some represented the loss of valuable ways of life that we can never recover.</p>
+<p>The introduction’s optimistic framing acknowledges these past disruptions but seems confident that AI will be different—that we can get the benefits without the costs. History suggests otherwise.</p>
+</section>
+</section>
+<section id="what-im-looking-for-in-the-rest-of-the-book" class="level2">
+<h2 class="anchored" data-anchor-id="what-im-looking-for-in-the-rest-of-the-book">What I’m Looking For in the Rest of the Book</h2>
+<p>The introduction sets up an optimistic case for AI as an agency enabler, using historical technological disruptions as precedent. The framing is well-done and intellectually honest about past backlash to new technologies.</p>
+<p>But it seems to brush past the real costs of those past revolutions. The “winners” narrative focuses on aggregate gains while downplaying distributional concerns and the destruction of existing ways of life.</p>
+<p>As I continue reading, I’m looking for:</p>
+<p><strong>Distributional analysis:</strong> Who specifically gains agency from AI, and who loses it?</p>
+<p><strong>Cost acknowledgment:</strong> What ways of life, skills, or social structures might we lose, and are those losses acceptable?</p>
+<p><strong>Power dynamics:</strong> How do we ensure AI benefits are distributed more equitably than past technological revolutions?</p>
+<p><strong>Concrete mechanisms:</strong> Not just “AI will enable agency,” but <em>how</em> and <em>for whom</em> specifically?</p>
+<p>The book asks: “What could possibly go right with our AI future?” But the introduction’s own historical examples suggest we should also ask: “What will go wrong, and for whom?”</p>
+<p>History is written by the winners. I’m reading this book to see if Hoffman and Beato can imagine an AI future where there are fewer losers than in past technological revolutions—or if they’re just writing the winners’ narrative before the story has finished.</p>
+</section>
+<section id="up-next" class="level2">
+<h2 class="anchored" data-anchor-id="up-next">Up Next</h2>
+<p>Review #2 will cover pages 48-94, where I expect the book to start making its positive case for AI more explicitly. I’ll be watching to see if it addresses the distributional concerns raised by its own historical framing.</p>
+<p>Stay tuned.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>AI</category>
+  <category>book-review</category>
+  <category>skeptical</category>
+  <category>research</category>
+  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/014_/014.html</guid>
+  <pubDate>Sat, 11 Oct 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/014_/superagency-book-cover.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Testing AI as a Tutor: Does Prompt Structure Actually Matter?</title>
   <dc:creator>Raymond Liu Ao</dc:creator>
