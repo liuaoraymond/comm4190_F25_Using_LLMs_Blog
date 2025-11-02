@@ -25,7 +25,7 @@
 <h2 class="anchored" data-anchor-id="stress-testing-ai-meditation">Stress Testing AI Meditation</h2>
 <p>School and recruiting have been picking up intensity—midterms, case prep, networking events, finance interviews. I’ve been consistently stressed and not sleeping well. A friend suggested trying Calm, the meditation app that claims to use AI for personalized relaxation.</p>
 <p>I’m skeptical of wellness apps in general, but I figured this was a good test case: if AI personalization works anywhere, it should work when I’m actually stressed and need it. So I signed up for a week to see if the “AI-powered personalization” is real or just marketing.</p>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/016_/meditation-app-interface.jpg" alt="Calm App Interface" style="max-width: 450px; max-height: 300px; object-fit: contain; display: block; margin: 20px auto;"></p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/016_/calm-app-interface.jpg" alt="Calm App Interface" style="max-width: 450px; max-height: 300px; object-fit: contain; display: block; margin: 20px auto;"></p>
 <p><em>Calm’s interface showing meditation recommendations</em></p>
 </section>
 <section id="what-these-apps-claim-to-personalize" class="level2">
@@ -662,7 +662,7 @@
 <li>“Santander investment banking culture values”</li>
 <li>“Santander CIB Latin America strategy”</li>
 </ul>
-<p>Perplexity Research tool found 128 sources including: - Debt Capital Markets | Santander Corporate &amp; Investment Banking - From personalization to social values: what is shaking up investment [banking] - Macro &amp; Strategy Research - The past, present and future of debt capital markets - [PDF] Culture Report 2019 - Banco Santander - Santander US Capital Markets</p>
+<p>Perplexity found 20 sources including: - Debt Capital Markets | Santander Corporate &amp; Investment Banking - From personalization to social values: what is shaking up investment [banking] - Macro &amp; Strategy Research - The past, present and future of debt capital markets - [PDF] Culture Report 2019 - Banco Santander - Santander US Capital Markets</p>
 <p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/012_/perplexity-research-results.jpg" alt="Perplexity Research" style="max-width: 600px; max-height: 350px; object-fit: contain; display: block; margin: 20px auto;"></p>
 <p><em>Perplexity gathering and reviewing sources on Santander DCM</em></p>
 </section>
@@ -693,7 +693,6 @@
 <section id="surface-level-firm-knowledge" class="level3">
 <h3 class="anchored" data-anchor-id="surface-level-firm-knowledge">Surface-Level Firm Knowledge</h3>
 <p>The biggest problem: AI gives you the information that’s publicly available on corporate websites and general industry sources. It can’t tell you: - What Santander’s DCM team culture is actually like - Specific deals they’re working on that aren’t public - Internal priorities that aren’t in press releases - What actually impresses their interviewers vs.&nbsp;what sounds good on paper</p>
-<p>According to <a href="https://www.wallstreetoasis.com/forum/investment-banking/interview-prep">Wall Street Oasis research on IB recruiting</a>, the candidates who succeed show knowledge that goes beyond what AI can find—insider perspectives from networking, recent deal gossip, and understanding of team dynamics.</p>
 </section>
 <section id="generic-behavioral-answers" class="level3">
 <h3 class="anchored" data-anchor-id="generic-behavioral-answers">Generic Behavioral Answers</h3>
@@ -726,7 +725,7 @@
 <p><strong>Technical Knowledge:</strong> Consulting is more about frameworks and problem-solving approach. Finance requires specific technical knowledge (financial modeling, valuation methods, market mechanics) that you need to practice hands-on.</p>
 <p><strong>Firm Research:</strong> Consulting firms are more about “fit” and problem-solving ability. Finance firms want to know you understand their specific business lines, recent deals, and market positioning.</p>
 <p><strong>Answer Style:</strong> Consulting wants structured, MECE thinking demonstrated verbally. Finance wants technical competence demonstrated through modeling and concise, confident answers about markets.</p>
-<p><strong>Preparation Balance:</strong> For consulting, AI can handle maybe 40% of prep (frameworks, structure, case types). For finance, it’s more like 20%, you need more hands-on technical practice and human networking.</p>
+<p><strong>Preparation Balance:</strong> For consulting, AI can handle maybe 40% of prep (frameworks, structure, case types). For finance, it’s more like 20%—you need more hands-on technical practice and human networking.</p>
 </section>
 </section>
 <section id="my-actual-approach" class="level2">
@@ -765,7 +764,7 @@
   <category>LLM</category>
   <category>professional</category>
   <category>claude</category>
-  <category>research</category>
+  <category>perplexity</category>
   <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/012_/012.html</guid>
   <pubDate>Sun, 05 Oct 2025 00:00:00 GMT</pubDate>
   <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/012_/claude-finance-research.jpg" medium="image" type="image/jpeg"/>
