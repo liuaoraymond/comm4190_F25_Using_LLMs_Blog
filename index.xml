@@ -10,7 +10,164 @@
 <atom:link href="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Let&#39;s Find Out</description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Sat, 11 Oct 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 13 Oct 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Using Claude to Synthesize Dense Class Notes</title>
+  <dc:creator>Raymond Liu Ao</dc:creator>
+  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/015_/015.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="drowning-in-dense-class-notes" class="level2">
+<h2 class="anchored" data-anchor-id="drowning-in-dense-class-notes">Drowning in Dense Class Notes</h2>
+<p>I’m taking Human Disease and Evolution this semester, and it’s incredibly note-intensive. Every lecture covers evolutionary biology, epidemiology, pathogen adaptation, and historical case studies—all dense material that builds on previous content. By midterms, I had hundreds of pages of notes with no clear way to study them efficiently.</p>
+<p>I decided to test whether Claude could help synthesize these notes and work as a study partner. Not just summarizing, but actually helping me understand connections and prepare for exams.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/015_/disease-evolution-notes.jpg" alt="Disease Evolution Course Notes" style="max-width: 450px; max-height: 300px; object-fit: contain; display: block; margin: 20px auto;"></p>
+<p><em>Dense notes from Human Disease and Evolution lectures</em></p>
+</section>
+<section id="how-im-using-claude" class="level2">
+<h2 class="anchored" data-anchor-id="how-im-using-claude">How I’m Using Claude</h2>
+<section id="initial-upload-and-organization" class="level3">
+<h3 class="anchored" data-anchor-id="initial-upload-and-organization">Initial Upload and Organization</h3>
+<p>I created a Claude project specifically for the course and uploaded: - Lecture notes from the first 8 weeks - Reading summaries - Professor’s study guide questions - Previous exam questions (from the syllabus)</p>
+<p>Then I asked:</p>
+<blockquote class="blockquote">
+<p>“I’ve uploaded notes from my Human Disease and Evolution course. Help me organize the main themes across lectures and identify connections between topics.”</p>
+</blockquote>
+<p>Claude produced a thematic breakdown: - Evolutionary pressures on pathogens - Host-pathogen coevolution - Historical transitions (hunter-gatherer → agricultural → urban) and disease emergence - Trade-offs in immune response - Case studies (malaria, tuberculosis, influenza)</p>
+<p>This was immediately useful. My notes were chronologically organized by lecture, but the exam tests conceptual understanding across topics.</p>
+</section>
+<section id="synthesizing-across-lectures" class="level3">
+<h3 class="anchored" data-anchor-id="synthesizing-across-lectures">Synthesizing Across Lectures</h3>
+<p>My next prompt:</p>
+<blockquote class="blockquote">
+<p>“We covered malaria in weeks 2, 4, and 7 from different angles. Synthesize all the malaria content into one coherent explanation covering: evolutionary biology, geographic distribution, historical impact, and current challenges.”</p>
+</blockquote>
+<p>Claude pulled information from multiple lecture sets and created a unified overview. This saved me from manually cross-referencing my notes across different weeks.</p>
+</section>
+<section id="generating-practice-questions" class="level3">
+<h3 class="anchored" data-anchor-id="generating-practice-questions">Generating Practice Questions</h3>
+<p>For active recall practice:</p>
+<blockquote class="blockquote">
+<p>“Based on the uploaded notes, generate 10 exam-style questions that test conceptual understanding, not just memorization. Include questions that require applying concepts to new scenarios.”</p>
+</blockquote>
+<p>The questions were decent: - “How would you expect pathogen virulence to evolve in a population with high vs.&nbsp;low host density?” - “Explain why tuberculosis resurged in urban populations during industrialization using evolutionary principles.”</p>
+<p>These forced me to think beyond memorizing facts.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/015_/pathogen-evolution-diagram.jpg" alt="Pathogen Evolution" style="max-width: 450px; max-height: 300px; object-fit: contain; display: block; margin: 20px auto;"></p>
+<p><em>Evolutionary dynamics between hosts and pathogens</em></p>
+</section>
+</section>
+<section id="what-actually-helped" class="level2">
+<h2 class="anchored" data-anchor-id="what-actually-helped">What Actually Helped</h2>
+<section id="finding-connections-i-missed" class="level3">
+<h3 class="anchored" data-anchor-id="finding-connections-i-missed">Finding Connections I Missed</h3>
+<p>Claude identified patterns across lectures that I hadn’t noticed while taking notes in real-time. For example, the concept of “virulence-transmission trade-offs” appeared in multiple contexts (influenza, cholera, malaria), but I’d written it down separately each time without seeing the unifying principle.</p>
+</section>
+<section id="clarifying-confusing-concepts" class="level3">
+<h3 class="anchored" data-anchor-id="clarifying-confusing-concepts">Clarifying Confusing Concepts</h3>
+<p>When I asked:</p>
+<blockquote class="blockquote">
+<p>“I don’t fully understand the relationship between R0 (basic reproduction number) and herd immunity threshold. Explain using the influenza example from my notes.”</p>
+</blockquote>
+<p>Claude broke it down using the specific examples from my lectures, not generic textbook explanations. This was more helpful than Googling because it referenced the actual case studies we’d covered.</p>
+</section>
+<section id="creating-study-guides" class="level3">
+<h3 class="anchored" data-anchor-id="creating-study-guides">Creating Study Guides</h3>
+<p>Instead of re-reading hundreds of pages, I asked:</p>
+<blockquote class="blockquote">
+<p>“Create a two-page study guide covering the five most important concepts from weeks 1-8, with specific examples from the notes.”</p>
+</blockquote>
+<p>The condensed version helped me review quickly before office hours and identify gaps in my understanding.</p>
+</section>
+</section>
+<section id="significant-limitations" class="level2">
+<h2 class="anchored" data-anchor-id="significant-limitations">Significant Limitations</h2>
+<section id="cant-replace-actually-studying" class="level3">
+<h3 class="anchored" data-anchor-id="cant-replace-actually-studying">Can’t Replace Actually Studying</h3>
+<p>The biggest misconception would be thinking Claude can study for you. It can’t.</p>
+<p>When I tried asking Claude to quiz me on material, I noticed I could “cheat” by asking for hints or looking back at its previous responses. The lack of real accountability meant I wasn’t forcing myself to actually retrieve information from memory.</p>
+<p>According to <a href="https://www.retrievalpractice.org/why-it-works">research on active learning</a>, the cognitive struggle of retrieval is what builds long-term retention. AI tools that make information too easy to access can undermine this.</p>
+</section>
+<section id="factual-accuracy-issues" class="level3">
+<h3 class="anchored" data-anchor-id="factual-accuracy-issues">Factual Accuracy Issues</h3>
+<p>Claude occasionally made small errors when synthesizing across notes: - Mixing up dates for historical disease outbreaks - Slightly mischaracterizing which regions certain diseases are endemic to - Conflating similar but distinct evolutionary concepts</p>
+<p>These weren’t obvious hallucinations—they were plausible-sounding errors that I only caught because I’d attended the lectures. If I’d been using Claude to learn new material rather than organize existing notes, I might not have noticed.</p>
+</section>
+<section id="cant-capture-lecture-nuance" class="level3">
+<h3 class="anchored" data-anchor-id="cant-capture-lecture-nuance">Can’t Capture Lecture Nuance</h3>
+<p>My professor emphasizes certain concepts or says “this will be on the exam.” Those verbal cues don’t make it into my typed notes, so Claude can’t prioritize what’s actually important vs.&nbsp;what’s just background information.</p>
+<p>It treats all information in my notes equally, when some concepts are more central than others.</p>
+</section>
+<section id="dependence-risk" class="level3">
+<h3 class="anchored" data-anchor-id="dependence-risk">Dependence Risk</h3>
+<p>There’s a real risk of becoming dependent on AI for synthesis and losing the ability to do it myself. The mental work of organizing information and finding connections is part of learning—offloading that entirely to AI might make me better at using AI but worse at actual thinking.</p>
+<p><a href="https://www.nature.com/articles/s41562-023-01615-5">Research on cognitive offloading to technology</a> suggests that over-reliance on external tools can reduce our own cognitive abilities over time.</p>
+</section>
+</section>
+<section id="is-claude-actually-a-good-study-partner" class="level2">
+<h2 class="anchored" data-anchor-id="is-claude-actually-a-good-study-partner">Is Claude Actually a Good Study Partner?</h2>
+<section id="what-makes-a-good-study-partner" class="level3">
+<h3 class="anchored" data-anchor-id="what-makes-a-good-study-partner">What Makes a Good Study Partner</h3>
+<p>Real study partners: - Challenge your understanding by asking probing questions - Notice when you’re bullshitting and call you out - Have their own understanding that you can compare against - Hold you accountable for actually studying</p>
+<p>Claude does some of this (asking questions, providing alternative explanations) but fails at others (accountability, challenging weak understanding).</p>
+</section>
+<section id="where-it-actually-works" class="level3">
+<h3 class="anchored" data-anchor-id="where-it-actually-works">Where It Actually Works</h3>
+<p>Claude is better described as a “note organization assistant” than a “study partner.” It’s useful for: - Synthesizing large amounts of text quickly - Finding patterns across multiple documents - Generating initial practice questions - Creating structured study guides</p>
+<p>These are valuable, but they’re the preliminary work before actual studying begins.</p>
+</section>
+<section id="the-accountability-gap" class="level3">
+<h3 class="anchored" data-anchor-id="the-accountability-gap">The Accountability Gap</h3>
+<p>The biggest difference between Claude and a human study partner: I can’t fool Claude, but I also can’t fool myself into thinking Claude-assisted studying counts as real studying.</p>
+<p>When I study with friends, the social pressure and explanation requirement force actual learning. With Claude, I can go through the motions of “studying” while not really engaging deeply with the material.</p>
+</section>
+</section>
+<section id="how-im-actually-using-it" class="level2">
+<h2 class="anchored" data-anchor-id="how-im-actually-using-it">How I’m Actually Using It</h2>
+<section id="early-stage-organization-only" class="level3">
+<h3 class="anchored" data-anchor-id="early-stage-organization-only">Early-Stage Organization Only</h3>
+<p>I use Claude at the beginning of my study process: 1. Upload notes after several lectures 2. Get thematic organization and connections 3. Create initial study guide 4. Generate practice questions</p>
+<p>Then I study using traditional methods: spaced repetition flashcards, practice problems without AI help, and study groups with actual humans.</p>
+</section>
+<section id="verification-against-lecture-materials" class="level3">
+<h3 class="anchored" data-anchor-id="verification-against-lecture-materials">Verification Against Lecture Materials</h3>
+<p>Anything Claude synthesizes, I verify against: - Original lecture slides - Textbook readings - Professor’s posted materials</p>
+<p>I don’t trust Claude’s synthesis as the final word—it’s a starting point that I refine.</p>
+</section>
+<section id="using-it-for-weak-areas" class="level3">
+<h3 class="anchored" data-anchor-id="using-it-for-weak-areas">Using It for Weak Areas</h3>
+<p>When I identify concepts I don’t understand well, I ask Claude for additional explanations or examples. But then I test my understanding by explaining it to a friend without AI help.</p>
+</section>
+<section id="real-study-sessions-stay-human" class="level3">
+<h3 class="anchored" data-anchor-id="real-study-sessions-stay-human">Real Study Sessions Stay Human</h3>
+<p>My actual exam prep involves: - Study groups with classmates - Office hours with TA and professor - Practice exams under time pressure - Teaching concepts to others</p>
+<p>Claude handles the logistical grunt work of organizing notes, but learning happens through human interaction and cognitive struggle.</p>
+</section>
+</section>
+<section id="final-assessment" class="level2">
+<h2 class="anchored" data-anchor-id="final-assessment">Final Assessment</h2>
+<p>Using Claude to synthesize dense class notes is genuinely useful for note-intensive courses. It saves time on organization and helps identify connections across material.</p>
+<p>But calling it a “study partner” overstates what it can do. It’s more like a smart organizational tool that can handle the tedious work of cross-referencing and initial synthesis.</p>
+<p>The real learning—deep understanding, retention, application—still requires traditional study methods and human interaction. Claude can make the prep work more efficient, but it can’t replace the cognitive work of actually studying.</p>
+<p>For Human Disease and Evolution specifically, Claude helped me organize a semester’s worth of dense notes into a manageable study plan. But I’m not bringing Claude into the exam room—I need to make sure the knowledge is in my head, not just in my AI assistant’s context window.</p>
+<p>The tool is helpful. But over-relying on it would be a mistake that probably shows up when exam day arrives.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>AI</category>
+  <category>LLM</category>
+  <category>daily-life</category>
+  <category>professional</category>
+  <category>claude</category>
+  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/015_/015.html</guid>
+  <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/015_/disease-evolution-notes.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Superagency Review #1: History Is Written by the Winners</title>
   <dc:creator>Raymond Liu Ao</dc:creator>
