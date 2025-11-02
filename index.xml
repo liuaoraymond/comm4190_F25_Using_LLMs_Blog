@@ -10,7 +10,191 @@
 <atom:link href="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Let&#39;s Find Out</description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Mon, 13 Oct 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 15 Oct 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>AI Meditation Apps: Is the Personalization Real?</title>
+  <dc:creator>Raymond Liu Ao</dc:creator>
+  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/016_/016.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="stress-testing-ai-meditation" class="level2">
+<h2 class="anchored" data-anchor-id="stress-testing-ai-meditation">Stress Testing AI Meditation</h2>
+<p>School and recruiting have been picking up intensity—midterms, case prep, networking events, finance interviews. I’ve been consistently stressed and not sleeping well. A friend suggested trying Calm, the meditation app that claims to use AI for personalized relaxation.</p>
+<p>I’m skeptical of wellness apps in general, but I figured this was a good test case: if AI personalization works anywhere, it should work when I’m actually stressed and need it. So I signed up for a week to see if the “AI-powered personalization” is real or just marketing.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/016_/calm-app-interface.jpg" alt="Calm App Interface" style="max-width: 450px; max-height: 300px; object-fit: contain; display: block; margin: 20px auto;"></p>
+<p><em>Calm’s interface showing meditation recommendations</em></p>
+</section>
+<section id="what-these-apps-claim-to-personalize" class="level2">
+<h2 class="anchored" data-anchor-id="what-these-apps-claim-to-personalize">What These Apps Claim to Personalize</h2>
+<section id="the-ai-features" class="level3">
+<h3 class="anchored" data-anchor-id="the-ai-features">The AI Features</h3>
+<p>According to the app and marketing materials: - <strong>Personalized daily recommendations</strong> based on your stress patterns - <strong>Adaptive session length</strong> that adjusts to your schedule - <strong>Content matching</strong> that learns which meditation styles work best for you - <strong>Check-in analysis</strong> that tracks your emotional state over time - <strong>Smart reminders</strong> that send notifications when you’re most likely to need meditation</p>
+</section>
+<section id="the-setup-process" class="level3">
+<h3 class="anchored" data-anchor-id="the-setup-process">The Setup Process</h3>
+<p>When I first opened the app, it asked: - Why I’m using Calm (options: stress, sleep, focus, anxiety, etc.) - My experience level with meditation (beginner, intermediate, experienced) - What time of day I prefer to meditate - Whether I want daily reminders</p>
+<p>Then it presented a “personalized” home screen with recommended meditations.</p>
+<p>Right away, I’m wondering: is this AI learning, or just a decision tree based on my initial answers?</p>
+</section>
+</section>
+<section id="my-week-of-testing" class="level2">
+<h2 class="anchored" data-anchor-id="my-week-of-testing">My Week of Testing</h2>
+<section id="day-1-2-initial-recommendations" class="level3">
+<h3 class="anchored" data-anchor-id="day-1-2-initial-recommendations">Day 1-2: Initial Recommendations</h3>
+<p>The app recommended: - “Managing Stress” - 10 minute guided meditation - “Calming Anxiety” - 15 minute session - “Sleep Stories” for nighttime</p>
+<p>These matched what I selected during setup (stress management). But they’re also probably what everyone who selects “stress” gets recommended. Nothing personalized yet.</p>
+<p>I tried the 10-minute stress management session. It was fine—standard guided meditation with breathing exercises and body scan. At the end, it asked “How do you feel?” with options: Calm, Relaxed, Same, Restless.</p>
+<p>I selected “Relaxed.” Let’s see if the app learns from this.</p>
+</section>
+<section id="day-3-4-different-stress-levels" class="level3">
+<h3 class="anchored" data-anchor-id="day-3-4-different-stress-levels">Day 3-4: Different Stress Levels</h3>
+<p>On Day 3, I had two interviews back-to-back. Before the first one, I did a quick 5-minute “Focus” meditation the app recommended.</p>
+<p>After interviews, I was exhausted and stressed. Opened the app again that evening. It recommended… the same 10-minute stress management session from Day 1.</p>
+<p>Wait—shouldn’t it notice I used the app twice in one day, during high-stress moments, and adjust its recommendations? Maybe suggest something longer or more intensive?</p>
+<p>Instead, the recommendations looked identical to Day 1.</p>
+</section>
+<section id="day-5-7-checking-for-patterns" class="level3">
+<h3 class="anchored" data-anchor-id="day-5-7-checking-for-patterns">Day 5-7: Checking for Patterns</h3>
+<p>I deliberately tried different meditation types: - Morning: 7-minute “Daily Calm” meditation - Afternoon: 10-minute breathing exercise - Night: 20-minute sleep story</p>
+<p>Each time, I marked how I felt afterward. Sometimes “Calm,” sometimes “Same,” once “Restless” (I was too stressed to focus).</p>
+<p>By Day 7, my recommendations were… still basically the same as Day 1. A few new options appeared in the “Recommended for You” section, but they seemed randomly rotated rather than based on what I’d actually used or found helpful.</p>
+</section>
+</section>
+<section id="is-this-actually-ai-personalization" class="level2">
+<h2 class="anchored" data-anchor-id="is-this-actually-ai-personalization">Is This Actually AI Personalization?</h2>
+<section id="what-would-real-personalization-look-like" class="level3">
+<h3 class="anchored" data-anchor-id="what-would-real-personalization-look-like">What Would Real Personalization Look Like?</h3>
+<p>If Calm were truly using AI to personalize my experience, I’d expect:</p>
+<p><strong>Usage pattern recognition:</strong> Notice that I meditate more frequently during high-stress periods (like Day 3 with interviews) and suggest more intensive practices during those times.</p>
+<p><strong>Effectiveness tracking:</strong> If I consistently rate 7-minute sessions as “Relaxing” but 20-minute sessions as “Restless” (because I can’t focus that long when stressed), it should recommend shorter sessions.</p>
+<p><strong>Time-of-day optimization:</strong> Learn that I actually use the app most in the evening, not morning, despite saying “morning” in my initial setup.</p>
+<p><strong>Content adaptation:</strong> If I skip certain meditation styles repeatedly, stop recommending them.</p>
+</section>
+<section id="what-i-actually-observed" class="level3">
+<h3 class="anchored" data-anchor-id="what-i-actually-observed">What I Actually Observed</h3>
+<p>The recommendations seemed based on: - My initial survey answers (static profile) - General content rotation (everyone sees different things each day) - Basic category matching (I said “stress,” so I get stress-related content)</p>
+<p>This isn’t machine learning—it’s a preference quiz with some randomization.</p>
+</section>
+<section id="the-check-in-feature" class="level3">
+<h3 class="anchored" data-anchor-id="the-check-in-feature">The “Check-In” Feature</h3>
+<p>Calm asks “How do you feel?” after each session. This data could theoretically train a model to learn what works for me.</p>
+<p>But after a week of providing this feedback, I saw no evidence it changed anything. The app didn’t: - Suggest more of what I rated highly - Avoid what I rated poorly - Adjust session length based on my responses - Change reminder timing based on when I actually use the app</p>
+<p>According to <a href="https://www.sciencedirect.com/science/article/pii/S2949916X24000525">research on adaptive meditation apps</a>, truly personalized digital interventions should show measurable adaptation over time. I didn’t see this.</p>
+</section>
+</section>
+<section id="ai-meditation-vs.-regular-guided-meditation" class="level2">
+<h2 class="anchored" data-anchor-id="ai-meditation-vs.-regular-guided-meditation">AI Meditation vs.&nbsp;Regular Guided Meditation</h2>
+<section id="what-makes-meditation-effective" class="level3">
+<h3 class="anchored" data-anchor-id="what-makes-meditation-effective">What Makes Meditation Effective</h3>
+<p>Research on meditation effectiveness shows it depends on: - Consistency of practice - Finding techniques that match your needs - Appropriate session length for your focus capacity - Quality of instruction</p>
+<p>None of these inherently require AI. A good meditation teacher, a simple YouTube video, or even free apps without “AI” can provide these.</p>
+</section>
+<section id="does-ai-add-value" class="level3">
+<h3 class="anchored" data-anchor-id="does-ai-add-value">Does AI Add Value?</h3>
+<p>In theory, AI personalization could help by: - Learning which techniques work for your specific stress patterns - Adapting difficulty as you build meditation capacity - Identifying optimal times for practice based on your schedule</p>
+<p>But Calm doesn’t seem to do this. The “AI” label appears to be marketing rather than meaningful personalization.</p>
+</section>
+<section id="the-free-alternative" class="level3">
+<h3 class="anchored" data-anchor-id="the-free-alternative">The Free Alternative</h3>
+<p>I compared Calm to free guided meditations on YouTube and Spotify. Many are: - Same quality instruction - Same variety of styles and lengths - No subscription fee - Equally effective</p>
+<p>The main advantage of these apps is convenience (everything in one app) and production quality (nice UI, good voice actors). But these aren’t AI features—they’re just app design.</p>
+<p>You could manually build a YouTube playlist of meditations that work for you, and that “personalization” would be more effective than Calm’s alleged AI.</p>
+</section>
+</section>
+<section id="the-ai-ification-of-wellness-apps" class="level2">
+<h2 class="anchored" data-anchor-id="the-ai-ification-of-wellness-apps">The AI-ification of Wellness Apps</h2>
+<section id="why-everything-is-ai-powered-now" class="level3">
+<h3 class="anchored" data-anchor-id="why-everything-is-ai-powered-now">Why Everything Is “AI-Powered” Now</h3>
+<p>Calm isn’t alone. Nearly every wellness app now claims AI: - “AI-powered” workout plans - “AI-driven” nutrition coaching - “AI-enhanced” sleep tracking - “AI-personalized” meditation</p>
+<p>The pattern is clear: adding “AI” to your app: - Justifies higher subscription prices (Calm is $70/year) - Makes the app sound more sophisticated - Appeals to tech-forward users - Differentiates from free alternatives</p>
+</section>
+<section id="whats-probably-happening" class="level3">
+<h3 class="anchored" data-anchor-id="whats-probably-happening">What’s Probably Happening</h3>
+<p>Most “AI personalization” in wellness apps is likely: - Simple if-then logic based on user inputs - Random content rotation to create variety - Basic categorization (stress → stress content) - A/B testing to optimize engagement (not personalization)</p>
+<p>These are useful features, but they’re not AI in any meaningful sense.</p>
+<p>According to <a href="https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00231-9/fulltext">analysis of health app AI claims</a>, most apps labeled as “AI-powered” show no evidence of machine learning in their actual operation. Calm appears to fit this pattern.</p>
+</section>
+<section id="the-premium-price-problem" class="level3">
+<h3 class="anchored" data-anchor-id="the-premium-price-problem">The Premium Price Problem</h3>
+<p>Calm charges $70/year partly because of its AI personalization promise. But if the personalization isn’t real, you’re paying a premium for: - A nice UI - Good production quality - Convenient access to meditation content</p>
+<p>These are fine features, but they don’t require AI or justify the AI marketing.</p>
+</section>
+</section>
+<section id="did-it-actually-help-with-stress" class="level2">
+<h2 class="anchored" data-anchor-id="did-it-actually-help-with-stress">Did It Actually Help With Stress?</h2>
+<section id="the-honest-assessment" class="level3">
+<h3 class="anchored" data-anchor-id="the-honest-assessment">The Honest Assessment</h3>
+<p>Yes, using Calm helped me feel less stressed during recruiting season. But I’m pretty sure this had nothing to do with AI:</p>
+<p><strong>Meditation works:</strong> Taking 10 minutes to breathe and focus helps reduce stress. This is true whether you use a paid app, YouTube, or just sit quietly.</p>
+<p><strong>Guided instruction helps:</strong> Having someone guide you through meditation is easier than doing it alone, especially as a beginner. But good instruction doesn’t require AI.</p>
+<p><strong>Convenience matters:</strong> Having all meditations in one app makes it more likely I’ll actually do it. But this is about app design, not AI.</p>
+<p><strong>Reminder system:</strong> The daily notifications helped build a habit. Again, not AI—just push notifications.</p>
+</section>
+<section id="would-free-alternatives-work-as-well" class="level3">
+<h3 class="anchored" data-anchor-id="would-free-alternatives-work-as-well">Would Free Alternatives Work as Well?</h3>
+<p>Probably yes. The benefit came from: 1. Deciding to prioritize meditation during a stressful period 2. Having accessible guided content 3. Following through consistently</p>
+<p>None of this required Calm specifically or its “AI” features.</p>
+</section>
+<section id="the-placebo-question" class="level3">
+<h3 class="anchored" data-anchor-id="the-placebo-question">The Placebo Question</h3>
+<p>There’s a possibility that believing the app is “personalized” makes it more effective through placebo effect. If you think the AI is customizing meditations for your specific needs, you might engage more seriously.</p>
+<p>But this raises an ethical question: should companies charge premium prices for placebo effects based on false AI claims?</p>
+</section>
+</section>
+<section id="should-you-use-ai-meditation-apps" class="level2">
+<h2 class="anchored" data-anchor-id="should-you-use-ai-meditation-apps">Should You Use AI Meditation Apps?</h2>
+<section id="use-them-if" class="level3">
+<h3 class="anchored" data-anchor-id="use-them-if">Use Them If:</h3>
+<ul>
+<li>You want convenient access to guided meditation</li>
+<li>You find the UI and production quality motivating</li>
+<li>You’re willing to pay for convenience</li>
+<li>You need variety in meditation styles</li>
+</ul>
+<p>But don’t pay extra for “AI personalization” that probably isn’t real.</p>
+</section>
+<section id="skip-them-if" class="level3">
+<h3 class="anchored" data-anchor-id="skip-them-if">Skip Them If:</h3>
+<ul>
+<li>You’re comfortable finding free meditations on YouTube/Spotify</li>
+<li>You don’t need an app to motivate practice</li>
+<li>You’re skeptical of premium subscription prices</li>
+</ul>
+</section>
+<section id="better-approaches" class="level3">
+<h3 class="anchored" data-anchor-id="better-approaches">Better Approaches:</h3>
+<p><strong>Try free options first:</strong> Use YouTube or free apps (Insight Timer, UCLA Mindful) to see if guided meditation helps you.</p>
+<p><strong>Manual personalization:</strong> Pay attention to which meditation styles, lengths, and times of day work best for you. This is better personalization than any AI.</p>
+<p><strong>Focus on consistency over features:</strong> The best meditation app is the one you’ll actually use. Fancy AI features don’t matter if you don’t build a habit.</p>
+<p><strong>Question the AI label:</strong> When any wellness app claims AI, ask: “What is the AI actually doing that couldn’t be done with basic programming?”</p>
+</section>
+</section>
+<section id="final-thoughts" class="level2">
+<h2 class="anchored" data-anchor-id="final-thoughts">Final Thoughts</h2>
+<p>Calm is a well-designed meditation app with good content. The guided meditations helped me manage stress during a busy recruiting and school period.</p>
+<p>But the “AI personalization” appears to be marketing rather than meaningful technology. After a week of use and deliberate testing, I saw no evidence that the app was learning my preferences or adapting recommendations based on my behavior.</p>
+<p>The recommendations seemed to come from: - My initial survey answers (static profile) - Content rotation (showing variety) - Basic category matching</p>
+<p>This isn’t AI—it’s a preference quiz with some randomization.</p>
+<p>For people who find Calm helpful and are willing to pay, that’s fine. The app has value. But it’s worth being clear about what you’re paying for: convenient access to quality meditation content, not AI-powered personalization.</p>
+<p>As wellness apps increasingly add “AI” to their marketing, we should be skeptical. Real AI personalization would show measurable adaptation over time. Most apps, including Calm, don’t demonstrate this.</p>
+<p>The meditation helped with my recruiting stress. The AI claims? Those just stressed me out more.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>AI</category>
+  <category>health</category>
+  <category>fitness</category>
+  <category>skeptical</category>
+  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/016_/016.html</guid>
+  <pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/016_/meditation-app-interface.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Using Claude to Synthesize Dense Class Notes</title>
   <dc:creator>Raymond Liu Ao</dc:creator>
@@ -89,7 +273,7 @@
 <h3 class="anchored" data-anchor-id="cant-replace-actually-studying">Can’t Replace Actually Studying</h3>
 <p>The biggest misconception would be thinking Claude can study for you. It can’t.</p>
 <p>When I tried asking Claude to quiz me on material, I noticed I could “cheat” by asking for hints or looking back at its previous responses. The lack of real accountability meant I wasn’t forcing myself to actually retrieve information from memory.</p>
-<p>According to <a href="https://www.retrievalpractice.org/why-it-works">research on active learning</a>, the cognitive struggle of retrieval is what builds long-term retention. AI tools that make information too easy to access can undermine this.</p>
+<p>According to <a href="https://www.cmu.edu/news/stories/archives/2021/october/active-learning.html">research on active learning</a>, the cognitive struggle of retrieval is what builds long-term retention. AI tools that make information too easy to access can undermine this.</p>
 </section>
 <section id="factual-accuracy-issues" class="level3">
 <h3 class="anchored" data-anchor-id="factual-accuracy-issues">Factual Accuracy Issues</h3>
@@ -104,7 +288,7 @@
 <section id="dependence-risk" class="level3">
 <h3 class="anchored" data-anchor-id="dependence-risk">Dependence Risk</h3>
 <p>There’s a real risk of becoming dependent on AI for synthesis and losing the ability to do it myself. The mental work of organizing information and finding connections is part of learning—offloading that entirely to AI might make me better at using AI but worse at actual thinking.</p>
-<p><a href="https://www.nature.com/articles/s41562-023-01615-5">Research on cognitive offloading to technology</a> suggests that over-reliance on external tools can reduce our own cognitive abilities over time.</p>
+<p><a href="https://www.mdpi.com/2075-4698/15/1/6">Research on cognitive offloading to technology</a> suggests that over-reliance on external tools can reduce our own cognitive abilities over time.</p>
 </section>
 </section>
 <section id="is-claude-actually-a-good-study-partner" class="level2">
