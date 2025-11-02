@@ -11,6 +11,9 @@ about:
     - icon: linkedin
       text: Linkedin
       href: https://linkedin.com/in/liuaoray/
+    - icon: github
+      text: GitHub
+      href: https://github.com/liuaoraymond
 ---
 
 ##  

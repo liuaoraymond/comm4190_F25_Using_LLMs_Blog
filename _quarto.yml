@@ -8,11 +8,9 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
-      - icon: rss
-        href: index.xml
+        href: https://github.com/liuaoraymond
+      - icon: linkedin
+        href: https://linkedin.com/in/liuaoray/
     
 format:
   html:
