@@ -112,116 +112,130 @@
     "text": "Implementation Strategy\n\nStart Small\nBegin with low-stakes tasks like email drafting or meal planning before using AI for important projects.\n\n\nBuild Verification Habits\nDevelop a routine of checking AI outputs against reliable sources.\n\n\nKeep Learning\nAI capabilities and limitations evolve. Stay informed about updates and new research.\n\n\nDocument What Works\nSave effective prompts and note which applications produce reliable results for your needs.\n Use these tips and tricks!\nFollowing these guidelines ensures you gain AI’s benefits while avoiding common mistakes that can lead to poor decisions or security issues."
   },
   {
-    "objectID": "posts/016_-Copy2/017.html",
-    "href": "posts/016_-Copy2/017.html",
+    "objectID": "posts/015_/015.html",
+    "href": "posts/015_/015.html",
+    "title": "Using Claude to Synthesize Dense Class Notes",
+    "section": "",
+    "text": "I’m taking Human Disease and Evolution this semester, and it’s incredibly note-intensive. Every lecture covers evolutionary biology, epidemiology, pathogen adaptation, and historical case studies—all dense material that builds on previous content. By midterms, I had hundreds of pages of notes with no clear way to study them efficiently.\nI decided to test whether Claude could help synthesize these notes and work as a study partner. Not just summarizing, but actually helping me understand connections and prepare for exams.\n\nDense notes from Human Disease and Evolution lectures"
+  },
+  {
+    "objectID": "posts/015_/015.html#drowning-in-dense-class-notes",
+    "href": "posts/015_/015.html#drowning-in-dense-class-notes",
+    "title": "Using Claude to Synthesize Dense Class Notes",
+    "section": "",
+    "text": "I’m taking Human Disease and Evolution this semester, and it’s incredibly note-intensive. Every lecture covers evolutionary biology, epidemiology, pathogen adaptation, and historical case studies—all dense material that builds on previous content. By midterms, I had hundreds of pages of notes with no clear way to study them efficiently.\nI decided to test whether Claude could help synthesize these notes and work as a study partner. Not just summarizing, but actually helping me understand connections and prepare for exams.\n\nDense notes from Human Disease and Evolution lectures"
+  },
+  {
+    "objectID": "posts/015_/015.html#how-im-using-claude",
+    "href": "posts/015_/015.html#how-im-using-claude",
+    "title": "Using Claude to Synthesize Dense Class Notes",
+    "section": "How I’m Using Claude",
+    "text": "How I’m Using Claude\n\nInitial Upload and Organization\nI created a Claude project specifically for the course and uploaded: - Lecture notes from the first 8 weeks - Reading summaries - Professor’s study guide questions - Previous exam questions (from the syllabus)\nThen I asked:\n\n“I’ve uploaded notes from my Human Disease and Evolution course. Help me organize the main themes across lectures and identify connections between topics.”\n\nClaude produced a thematic breakdown: - Evolutionary pressures on pathogens - Host-pathogen coevolution - Historical transitions (hunter-gatherer → agricultural → urban) and disease emergence - Trade-offs in immune response - Case studies (malaria, tuberculosis, influenza)\nThis was immediately useful. My notes were chronologically organized by lecture, but the exam tests conceptual understanding across topics.\n\n\nSynthesizing Across Lectures\nMy next prompt:\n\n“We covered malaria in weeks 2, 4, and 7 from different angles. Synthesize all the malaria content into one coherent explanation covering: evolutionary biology, geographic distribution, historical impact, and current challenges.”\n\nClaude pulled information from multiple lecture sets and created a unified overview. This saved me from manually cross-referencing my notes across different weeks.\n\n\nGenerating Practice Questions\nFor active recall practice:\n\n“Based on the uploaded notes, generate 10 exam-style questions that test conceptual understanding, not just memorization. Include questions that require applying concepts to new scenarios.”\n\nThe questions were decent: - “How would you expect pathogen virulence to evolve in a population with high vs. low host density?” - “Explain why tuberculosis resurged in urban populations during industrialization using evolutionary principles.”\nThese forced me to think beyond memorizing facts.\n\nEvolutionary dynamics between hosts and pathogens"
+  },
+  {
+    "objectID": "posts/015_/015.html#what-actually-helped",
+    "href": "posts/015_/015.html#what-actually-helped",
+    "title": "Using Claude to Synthesize Dense Class Notes",
+    "section": "What Actually Helped",
+    "text": "What Actually Helped\n\nFinding Connections I Missed\nClaude identified patterns across lectures that I hadn’t noticed while taking notes in real-time. For example, the concept of “virulence-transmission trade-offs” appeared in multiple contexts (influenza, cholera, malaria), but I’d written it down separately each time without seeing the unifying principle.\n\n\nClarifying Confusing Concepts\nWhen I asked:\n\n“I don’t fully understand the relationship between R0 (basic reproduction number) and herd immunity threshold. Explain using the influenza example from my notes.”\n\nClaude broke it down using the specific examples from my lectures, not generic textbook explanations. This was more helpful than Googling because it referenced the actual case studies we’d covered.\n\n\nCreating Study Guides\nInstead of re-reading hundreds of pages, I asked:\n\n“Create a two-page study guide covering the five most important concepts from weeks 1-8, with specific examples from the notes.”\n\nThe condensed version helped me review quickly before office hours and identify gaps in my understanding."
+  },
+  {
+    "objectID": "posts/015_/015.html#significant-limitations",
+    "href": "posts/015_/015.html#significant-limitations",
+    "title": "Using Claude to Synthesize Dense Class Notes",
+    "section": "Significant Limitations",
+    "text": "Significant Limitations\n\nCan’t Replace Actually Studying\nThe biggest misconception would be thinking Claude can study for you. It can’t.\nWhen I tried asking Claude to quiz me on material, I noticed I could “cheat” by asking for hints or looking back at its previous responses. The lack of real accountability meant I wasn’t forcing myself to actually retrieve information from memory.\nAccording to research on active learning, the cognitive struggle of retrieval is what builds long-term retention. AI tools that make information too easy to access can undermine this.\n\n\nFactual Accuracy Issues\nClaude occasionally made small errors when synthesizing across notes: - Mixing up dates for historical disease outbreaks - Slightly mischaracterizing which regions certain diseases are endemic to - Conflating similar but distinct evolutionary concepts\nThese weren’t obvious hallucinations—they were plausible-sounding errors that I only caught because I’d attended the lectures. If I’d been using Claude to learn new material rather than organize existing notes, I might not have noticed.\n\n\nCan’t Capture Lecture Nuance\nMy professor emphasizes certain concepts or says “this will be on the exam.” Those verbal cues don’t make it into my typed notes, so Claude can’t prioritize what’s actually important vs. what’s just background information.\nIt treats all information in my notes equally, when some concepts are more central than others.\n\n\nDependence Risk\nThere’s a real risk of becoming dependent on AI for synthesis and losing the ability to do it myself. The mental work of organizing information and finding connections is part of learning—offloading that entirely to AI might make me better at using AI but worse at actual thinking.\nResearch on cognitive offloading to technology suggests that over-reliance on external tools can reduce our own cognitive abilities over time."
+  },
+  {
+    "objectID": "posts/015_/015.html#is-claude-actually-a-good-study-partner",
+    "href": "posts/015_/015.html#is-claude-actually-a-good-study-partner",
+    "title": "Using Claude to Synthesize Dense Class Notes",
+    "section": "Is Claude Actually a Good Study Partner?",
+    "text": "Is Claude Actually a Good Study Partner?\n\nWhat Makes a Good Study Partner\nReal study partners: - Challenge your understanding by asking probing questions - Notice when you’re bullshitting and call you out - Have their own understanding that you can compare against - Hold you accountable for actually studying\nClaude does some of this (asking questions, providing alternative explanations) but fails at others (accountability, challenging weak understanding).\n\n\nWhere It Actually Works\nClaude is better described as a “note organization assistant” than a “study partner.” It’s useful for: - Synthesizing large amounts of text quickly - Finding patterns across multiple documents - Generating initial practice questions - Creating structured study guides\nThese are valuable, but they’re the preliminary work before actual studying begins.\n\n\nThe Accountability Gap\nThe biggest difference between Claude and a human study partner: I can’t fool Claude, but I also can’t fool myself into thinking Claude-assisted studying counts as real studying.\nWhen I study with friends, the social pressure and explanation requirement force actual learning. With Claude, I can go through the motions of “studying” while not really engaging deeply with the material."
+  },
+  {
+    "objectID": "posts/015_/015.html#how-im-actually-using-it",
+    "href": "posts/015_/015.html#how-im-actually-using-it",
+    "title": "Using Claude to Synthesize Dense Class Notes",
+    "section": "How I’m Actually Using It",
+    "text": "How I’m Actually Using It\n\nEarly-Stage Organization Only\nI use Claude at the beginning of my study process: 1. Upload notes after several lectures 2. Get thematic organization and connections 3. Create initial study guide 4. Generate practice questions\nThen I study using traditional methods: spaced repetition flashcards, practice problems without AI help, and study groups with actual humans.\n\n\nVerification Against Lecture Materials\nAnything Claude synthesizes, I verify against: - Original lecture slides - Textbook readings - Professor’s posted materials\nI don’t trust Claude’s synthesis as the final word—it’s a starting point that I refine.\n\n\nUsing It for Weak Areas\nWhen I identify concepts I don’t understand well, I ask Claude for additional explanations or examples. But then I test my understanding by explaining it to a friend without AI help.\n\n\nReal Study Sessions Stay Human\nMy actual exam prep involves: - Study groups with classmates - Office hours with TA and professor - Practice exams under time pressure - Teaching concepts to others\nClaude handles the logistical grunt work of organizing notes, but learning happens through human interaction and cognitive struggle."
+  },
+  {
+    "objectID": "posts/015_/015.html#final-assessment",
+    "href": "posts/015_/015.html#final-assessment",
+    "title": "Using Claude to Synthesize Dense Class Notes",
+    "section": "Final Assessment",
+    "text": "Final Assessment\nUsing Claude to synthesize dense class notes is genuinely useful for note-intensive courses. It saves time on organization and helps identify connections across material.\nBut calling it a “study partner” overstates what it can do. It’s more like a smart organizational tool that can handle the tedious work of cross-referencing and initial synthesis.\nThe real learning—deep understanding, retention, application—still requires traditional study methods and human interaction. Claude can make the prep work more efficient, but it can’t replace the cognitive work of actually studying.\nFor Human Disease and Evolution specifically, Claude helped me organize a semester’s worth of dense notes into a manageable study plan. But I’m not bringing Claude into the exam room—I need to make sure the knowledge is in my head, not just in my AI assistant’s context window.\nThe tool is helpful. But over-relying on it would be a mistake that probably shows up when exam day arrives."
+  },
+  {
+    "objectID": "posts/017/017.html",
+    "href": "posts/017/017.html",
     "title": "Creating Music with AI: Suno for Marketing Projects",
     "section": "",
     "text": "For my Marketing 7340 class with Dr. Gideon Nave, I needed to create original music for a Corona ad campaign. The problem: I have no formal music production training. The solution: Suno AI, a tool that generates music from text prompts and voice recordings.\nI paid $10/month for Suno Pro to test whether AI could actually produce usable marketing music. Here’s what happened.\n\nSuno AI’s music generation interface"
   },
   {
-    "objectID": "posts/016_-Copy2/017.html#making-music-without-musical-training",
-    "href": "posts/016_-Copy2/017.html#making-music-without-musical-training",
+    "objectID": "posts/017/017.html#making-music-without-musical-training",
+    "href": "posts/017/017.html#making-music-without-musical-training",
     "title": "Creating Music with AI: Suno for Marketing Projects",
     "section": "",
     "text": "For my Marketing 7340 class with Dr. Gideon Nave, I needed to create original music for a Corona ad campaign. The problem: I have no formal music production training. The solution: Suno AI, a tool that generates music from text prompts and voice recordings.\nI paid $10/month for Suno Pro to test whether AI could actually produce usable marketing music. Here’s what happened.\n\nSuno AI’s music generation interface"
   },
   {
-    "objectID": "posts/016_-Copy2/017.html#the-assignment-corona-ad-music",
-    "href": "posts/016_-Copy2/017.html#the-assignment-corona-ad-music",
+    "objectID": "posts/017/017.html#the-assignment-corona-ad-music",
+    "href": "posts/017/017.html#the-assignment-corona-ad-music",
     "title": "Creating Music with AI: Suno for Marketing Projects",
     "section": "The Assignment: Corona Ad Music",
     "text": "The Assignment: Corona Ad Music\nBrief: - Concept: Funky, Latin, afrohouse beat that inspires dancing - Instruments: Drums, trumpets, soothing vocals - Inspiration: Barry Can’t Swim style - Tempo: 120-140 BPM - Purpose: Corona advertisement - Mood: Beach resort, enjoyment, refreshing, sunbathed\nLyrics concept:\n[Chorus]\nChasing the sun\nChasing the glow\nWhere the ocean whispers what we already know\nWith a Corona in hand\nTime comes undone\nLiving the moment\nChasing the sun\nListen to the Corona ad track"
   },
   {
-    "objectID": "posts/016_-Copy2/017.html#how-suno-actually-works",
-    "href": "posts/016_-Copy2/017.html#how-suno-actually-works",
+    "objectID": "posts/017/017.html#how-suno-actually-works",
+    "href": "posts/017/017.html#how-suno-actually-works",
     "title": "Creating Music with AI: Suno for Marketing Projects",
     "section": "How Suno Actually Works",
     "text": "How Suno Actually Works\n\nVoice Recording as Foundation\nI started by recording my own voice singing low and high tones. Suno used this as the base vocal texture and extended it into a full track. This “cover” feature lets you input raw vocals that the AI then transforms.\n\n\nLyrics Generation and Editing\nSuno has a lyrics generator, but I quickly learned the AI-generated lyrics were generic. I used the generator as a starting point, then heavily edited:\nOriginal AI lyrics: Standard party/dance themes My edits (in bold): Added specific production notes like: - [Add intense percussion] - [Add marimbas and bongos] - [Make it hypnotic] - [Build anticipation, create anxiety and excitement for the chorus]\n\n\nStyle Prompting\nThe key to good output was detailed style prompts:\n140bpm. Deephouse, melodic, hypnotic. \nAdd layers of organic, progressive house elements. \nAdd unexpected elements. \nUse Rufus Du Sol as inspiration.\n\nEditing lyrics and adding production notes in Suno"
   },
   {
-    "objectID": "posts/016_-Copy2/017.html#the-iteration-process",
-    "href": "posts/016_-Copy2/017.html#the-iteration-process",
+    "objectID": "posts/017/017.html#the-iteration-process",
+    "href": "posts/017/017.html#the-iteration-process",
     "title": "Creating Music with AI: Suno for Marketing Projects",
     "section": "The Iteration Process",
     "text": "The Iteration Process\n\nFirst Attempt: Complete Failure\nMy initial generated song was terrible. The AI-generated lyrics were cliché, the production was muddy, and it didn’t capture the vibe I wanted at all.\nWhat went wrong: - Generic party lyrics that felt empty - Overproduced sound that lost the organic beach feel - Wrong energy—too aggressive, not relaxed enough\nI realized I needed to be much more specific in my prompts.\n\n\nSecond Attempt: Rufus Du Sol Inspiration\nI prompted: “Change the lyrics to be more Rufus Du Sol-like.”\nThen I restructured the entire song with detailed production notes:\n[Intro - Another Voice, Raspy Voice]\n[Add ethereal synths and deep bass]\n(Ahora)\nEl viaje empieza\n[Make pause for drop]\n\n[Verse 1 - Another Voice, drop here]\nLa atmósfera te abraza, ¿la notas?\nFluye conmigo, sin pausa, sin sombras\n\n[Another pause, longer]\n[Build anticipation, create anxiety and excitement \nfor the chorus with drums, marimbas, bongos, and trumpets. \nVery light instrumental at the beginning.]\n\n[Chorus - Main Voice]\nLet the waves of sound enfold\nWe're captive, our spirits bold\nThis version was better. The AI actually responded to the detailed production notes and created more dynamic arrangements.\nListen to the Rufus-inspired version\n\n\nThird Attempt: Corona Ad Track\nFor the final Corona track, I stripped down the complexity and focused on the beach resort vibe: - Simpler, more direct lyrics about “chasing the sun” - Specific instrument calls (trumpets, drums) - Barry Can’t Swim inspiration for that organic house feel - Tempo locked at 120-140 BPM\nThis was the most successful version."
   },
   {
-    "objectID": "posts/016_-Copy2/017.html#what-actually-works",
-    "href": "posts/016_-Copy2/017.html#what-actually-works",
+    "objectID": "posts/017/017.html#what-actually-works",
+    "href": "posts/017/017.html#what-actually-works",
     "title": "Creating Music with AI: Suno for Marketing Projects",
     "section": "What Actually Works",
     "text": "What Actually Works\n\nSpecificity in Prompts\nVague prompts like “make happy music” produce generic results. Detailed prompts with: - Specific BPM - Named artist references - Exact instruments - Production technique descriptions\n…produce much better output.\n\n\nProduction Notes Within Lyrics\nThe bracketed production notes [Add trumpet solo] or [Build anticipation] actually work. Suno interprets these and adjusts the arrangement accordingly.\n\n\nVoice Input as Foundation\nRecording my own voice gave the track a unique texture. Even though the AI heavily processed it, there’s something more authentic than purely synthetic vocals.\n\n\nIteration Is Essential\nThe first output is never good. You need multiple generations, tweaking prompts each time based on what worked and what didn’t."
   },
   {
-    "objectID": "posts/016_-Copy2/017.html#serious-limitations",
-    "href": "posts/016_-Copy2/017.html#serious-limitations",
+    "objectID": "posts/017/017.html#serious-limitations",
+    "href": "posts/017/017.html#serious-limitations",
     "title": "Creating Music with AI: Suno for Marketing Projects",
     "section": "Serious Limitations",
     "text": "Serious Limitations\n\nLack of Fine Control\nYou can suggest instruments and styles, but you can’t control: - Exact timing of drops or builds - Precise mixing levels - Specific chord progressions - Individual track editing\nA real producer would have much more granular control.\n\n\nInconsistent Output Quality\nEven with the same prompt, Suno generates wildly different results. Sometimes it nails the vibe, sometimes it completely misses. You’re rolling the dice each generation.\n\n\nGeneric Elements\nDespite specific prompts, certain elements always sound “AI-generated”: - Vocal processing has a distinctive Suno quality - Transitions can feel abrupt or unnatural - Complex arrangements often get muddied\n\n\nLimited Musical Understanding\nSuno doesn’t understand music theory deeply. If you ask for a specific harmonic progression or complex rhythmic pattern, it might approximate but not execute precisely.\n\n\nCopyright and Licensing Questions\nFor a real commercial project (like an actual Corona ad), there are murky questions: - Who owns the rights to AI-generated music? - Can you legally use Suno output in paid advertising? - What happens if the AI “learned” from copyrighted material?\nFor a class project this is fine, but for real commercial use, these are unresolved issues."
   },
   {
-    "objectID": "posts/016_-Copy2/017.html#is-10month-worth-it",
-    "href": "posts/016_-Copy2/017.html#is-10month-worth-it",
+    "objectID": "posts/017/017.html#is-10month-worth-it",
+    "href": "posts/017/017.html#is-10month-worth-it",
     "title": "Creating Music with AI: Suno for Marketing Projects",
     "section": "Is $10/Month Worth It?",
     "text": "Is $10/Month Worth It?\n\nWhat You Get with Suno Pro\n\nMore generation credits per month\nHigher quality audio output\nCommercial use rights (with caveats)\nFaster generation times\n\n\n\nFor This Assignment: Yes\nFor a marketing class project where I needed original music quickly, \\(10 was worth it. The alternative would be:\n- Learning actual music production (months/years)\n- Hiring a producer (\\)hundreds to $thousands) - Using stock music (doesn’t fit specific brief)\n\n\nFor Serious Music Production: No\nIf you’re actually trying to produce professional music, Suno is a novelty, not a tool. The limitations are too significant, and the output quality isn’t competitive with human-produced tracks.\n\n\nThe Real Use Case\nSuno is best for: - Rapid prototyping of musical ideas - Creating placeholder tracks for projects - Generating inspiration for actual musicians - Quick demos for pitches or presentations\nIt’s not a replacement for music production, but it’s a useful sketching tool."
   },
   {
-    "objectID": "posts/016_-Copy2/017.html#what-this-means-for-marketing",
-    "href": "posts/016_-Copy2/017.html#what-this-means-for-marketing",
+    "objectID": "posts/017/017.html#what-this-means-for-marketing",
+    "href": "posts/017/017.html#what-this-means-for-marketing",
     "title": "Creating Music with AI: Suno for Marketing Projects",
     "section": "What This Means for Marketing",
     "text": "What This Means for Marketing\n\nDemocratization of Content Creation\nTools like Suno lower the barrier to creating original audio content. Small brands or student projects can now generate custom music without big budgets.\n\n\nQuality vs. Cost Tradeoff\nThe output isn’t professional-grade, but it’s “good enough” for many contexts: - Social media content - Internal presentations - Pitch decks - Testing concepts before investing in production\n\n\nThe Authenticity Question\nIf audiences knew the Corona ad used AI-generated music, would they care? Would it affect brand perception?\nThis is an open question in marketing. Some consumers might appreciate the innovation; others might see it as cheap or inauthentic.\n\n\nProfessional Musicians’ Concern\nFrom a music industry perspective, tools like Suno are concerning. If brands can generate “good enough” music for $10/month, that undercuts professional composers and producers.\nThe counterargument: truly great music still requires human creativity, and AI tools might just handle the low-end market that wasn’t hiring professionals anyway."
   },
   {
-    "objectID": "posts/016_-Copy2/017.html#final-assessment",
-    "href": "posts/016_-Copy2/017.html#final-assessment",
+    "objectID": "posts/017/017.html#final-assessment",
+    "href": "posts/017/017.html#final-assessment",
     "title": "Creating Music with AI: Suno for Marketing Projects",
     "section": "Final Assessment",
     "text": "Final Assessment\nSuno AI successfully generated usable music for my marketing class project. The Corona ad track captured the beach resort vibe and had the right energy for the brief.\nBut the process revealed clear limitations: - Heavy iteration required (first attempts were unusable) - Lack of fine control over production elements - Output has distinctive “AI” quality - Not suitable for professional commercial use\nFor class projects and rapid prototyping: Suno is genuinely useful. It lets you explore musical ideas quickly without technical skills.\nFor real marketing campaigns: You’d still want a human producer. The AI can generate ideas or placeholder tracks, but the final product needs human refinement.\nThe $10/month was worth it for this specific use case, but I’m canceling the subscription after the project ends. It’s a tool I needed temporarily, not something I’d use regularly.\nMost importantly: AI music generation is impressive technically, but it highlights what human musicians bring—intentionality, emotional depth, and creative choices that respond to cultural context in ways algorithms can’t replicate.\nThe Corona ad track works for a student project. But Corona the actual company? They’re still hiring real composers."
-  },
-  {
-    "objectID": "posts/009_/009.html",
-    "href": "posts/009_/009.html",
-    "title": "Experimenting with Vibe Creation Using LLMs",
-    "section": "",
-    "text": "I’ve been experimenting with what I’m calling “vibe creation” in Claude—essentially asking the LLM to generate or interpret atmospheric descriptions for different contexts. The goal was to see how well these models understand and reproduce subjective, mood-based content rather than factual information.\n Testing different prompts to generate atmospheric descriptions"
-  },
-  {
-    "objectID": "posts/009_/009.html#playing-with-atmospheric-prompting",
-    "href": "posts/009_/009.html#playing-with-atmospheric-prompting",
-    "title": "Experimenting with Vibe Creation Using LLMs",
-    "section": "",
-    "text": "I’ve been experimenting with what I’m calling “vibe creation” in Claude—essentially asking the LLM to generate or interpret atmospheric descriptions for different contexts. The goal was to see how well these models understand and reproduce subjective, mood-based content rather than factual information.\n Testing different prompts to generate atmospheric descriptions"
-  },
-  {
-    "objectID": "posts/009_/009.html#the-prompts-i-tested",
-    "href": "posts/009_/009.html#the-prompts-i-tested",
-    "title": "Experimenting with Vibe Creation Using LLMs",
-    "section": "The Prompts I Tested",
-    "text": "The Prompts I Tested\n\nStarting Simple\nMy first prompt was straightforward:\n\n“Describe the vibe of a rainy coffee shop at 3pm on a Tuesday”\n\nClaude generated a description that hit the expected notes—muted conversations, steam from coffee cups, the rhythmic sound of rain. It was accurate but generic, the kind of description you’d find in any piece of atmospheric writing.\n\n\nAdding Specificity\nI tried making the prompt more specific:\n\n“Describe the vibe of a college library during finals week at 2am. Include sounds, lighting, and the feeling of collective stress”\n\nThis produced better results. The model captured details like the fluorescent lighting, the sound of highlighters on paper, and the “quiet panic” of students. It understood the assignment but still felt somewhat detached—like someone describing a scene they’d read about rather than experienced.\n\n\nTesting Negative Space\nHere’s where it got interesting. I asked:\n\n“Describe the vibe of an empty office building at night. Focus on what’s NOT there rather than what is”\n\nClaude struggled more with this. It could describe absence—no people, no noise—but couldn’t quite capture the uncanny feeling of a space designed for activity sitting dormant. The descriptions remained surface-level. The output focused on the lack of meetings, chatter, talk, noise in the office. But it did not capture the liminal-space-like, vast, expansive (almost scary) vibe of an empty office in the way the show Severance, for instance, can.\n Comparing outputs from different prompting approaches"
-  },
-  {
-    "objectID": "posts/009_/009.html#what-worked-and-what-didnt",
-    "href": "posts/009_/009.html#what-worked-and-what-didnt",
-    "title": "Experimenting with Vibe Creation Using LLMs",
-    "section": "What Worked and What Didn’t",
-    "text": "What Worked and What Didn’t\n\nStrengths\nThe LLM is good at: - Assembling sensory details that conventionally fit a scene - Understanding cultural contexts (“finals week” immediately triggered appropriate stress markers) - Maintaining consistency within a single atmospheric description - Responding to structural prompts (“focus on sounds” vs “focus on lighting”)\n\n\nLimitations\nWhere it falls short: - Generating truly novel atmospheric combinations - Capturing subtle emotional undertones that aren’t explicitly named - Moving beyond stereotypical associations (coffee shop = cozy, library = studious) - Understanding the relationship between physical space and psychological state in non-obvious ways\nThe model seems to work from a database of common associations rather than synthesizing new atmospheric understanding."
-  },
-  {
-    "objectID": "posts/009_/009.html#why-this-matters-from-a-skeptical-angle",
-    "href": "posts/009_/009.html#why-this-matters-from-a-skeptical-angle",
-    "title": "Experimenting with Vibe Creation Using LLMs",
-    "section": "Why This Matters (From a Skeptical Angle)",
-    "text": "Why This Matters (From a Skeptical Angle)\n\nThe Homogenization Problem\nIf everyone starts using LLMs to generate atmospheric descriptions for creative projects, writing, or marketing, we risk creating a feedback loop of averaged-out vibes. The model can only reproduce what it’s seen in training data, which means we get the most statistically likely description of any given mood or setting.\nAfter all, LLMs tend to regress toward mean responses when generating creative content, potentially flattening the diversity of human expression.\n\n\nLost Nuance\nReal atmospheric writing comes from personal observation and specific experience. When I asked Claude to describe my college library during finals, it gave me a generic college library experience. It couldn’t know about the specific smell of old heating systems mixed with energy drinks, or the way light reflects off that one weird pillar in the corner.\n\n\nUseful But Limited Tool\nThis isn’t to say vibe creation with LLMs is useless. It’s good for: - Quick brainstorming when you’re stuck - Getting a baseline description to then personalize - Understanding how certain settings are conventionally described\nBut treating it as a replacement for actual observation and personal experience would result in flatter, less distinctive creative work."
-  },
-  {
-    "objectID": "posts/009_/009.html#final-thoughts",
-    "href": "posts/009_/009.html#final-thoughts",
-    "title": "Experimenting with Vibe Creation Using LLMs",
-    "section": "Final Thoughts",
-    "text": "Final Thoughts\nPlaying with vibe creation revealed both the capabilities and constraints of current LLMs. They’re sophisticated pattern-matching systems that can assemble convincing atmospheric descriptions from training data, but they lack the experiential knowledge that makes truly evocative writing memorable.\nThe exercise reinforced my skepticism about over-relying on these tools for creative work. They’re useful for scaffolding and inspiration, but the most interesting atmospheric details still need to come from human observation and experience.\nFor anyone trying similar experiments: push the model toward specificity and unconventional combinations. The more generic your prompt, the more generic your output."
   },
   {
     "objectID": "posts/007_/007.html",
@@ -686,60 +700,46 @@
     "text": "Limitations\n\nPrivacy Concerns\nAll this convenience requires uploading your photos to Google’s servers where they analyze everything. If that bothers you, you can’t really use these features.\n\n\nSometimes Too Smart\nThe AI occasionally creates albums for things that weren’t actually events, or groups random photos together based on superficial similarities.\n\n\nSearch Isn’t Perfect\nComplex searches don’t always work. “Photos of John at the beach” might miss some or include wrong results. Simple, single-concept searches work much better.\nIt’s genuinely useful for finding old photos you’d never locate otherwise. The search functionality makes having thousands of photos actually manageable instead of just overwhelming."
   },
   {
-    "objectID": "posts/015_/015.html",
-    "href": "posts/015_/015.html",
-    "title": "Using Claude to Synthesize Dense Class Notes",
+    "objectID": "posts/009_/009.html",
+    "href": "posts/009_/009.html",
+    "title": "Experimenting with Vibe Creation Using LLMs",
     "section": "",
-    "text": "I’m taking Human Disease and Evolution this semester, and it’s incredibly note-intensive. Every lecture covers evolutionary biology, epidemiology, pathogen adaptation, and historical case studies—all dense material that builds on previous content. By midterms, I had hundreds of pages of notes with no clear way to study them efficiently.\nI decided to test whether Claude could help synthesize these notes and work as a study partner. Not just summarizing, but actually helping me understand connections and prepare for exams.\n\nDense notes from Human Disease and Evolution lectures"
+    "text": "I’ve been experimenting with what I’m calling “vibe creation” in Claude—essentially asking the LLM to generate or interpret atmospheric descriptions for different contexts. The goal was to see how well these models understand and reproduce subjective, mood-based content rather than factual information.\n Testing different prompts to generate atmospheric descriptions"
   },
   {
-    "objectID": "posts/015_/015.html#drowning-in-dense-class-notes",
-    "href": "posts/015_/015.html#drowning-in-dense-class-notes",
-    "title": "Using Claude to Synthesize Dense Class Notes",
+    "objectID": "posts/009_/009.html#playing-with-atmospheric-prompting",
+    "href": "posts/009_/009.html#playing-with-atmospheric-prompting",
+    "title": "Experimenting with Vibe Creation Using LLMs",
     "section": "",
-    "text": "I’m taking Human Disease and Evolution this semester, and it’s incredibly note-intensive. Every lecture covers evolutionary biology, epidemiology, pathogen adaptation, and historical case studies—all dense material that builds on previous content. By midterms, I had hundreds of pages of notes with no clear way to study them efficiently.\nI decided to test whether Claude could help synthesize these notes and work as a study partner. Not just summarizing, but actually helping me understand connections and prepare for exams.\n\nDense notes from Human Disease and Evolution lectures"
+    "text": "I’ve been experimenting with what I’m calling “vibe creation” in Claude—essentially asking the LLM to generate or interpret atmospheric descriptions for different contexts. The goal was to see how well these models understand and reproduce subjective, mood-based content rather than factual information.\n Testing different prompts to generate atmospheric descriptions"
   },
   {
-    "objectID": "posts/015_/015.html#how-im-using-claude",
-    "href": "posts/015_/015.html#how-im-using-claude",
-    "title": "Using Claude to Synthesize Dense Class Notes",
-    "section": "How I’m Using Claude",
-    "text": "How I’m Using Claude\n\nInitial Upload and Organization\nI created a Claude project specifically for the course and uploaded: - Lecture notes from the first 8 weeks - Reading summaries - Professor’s study guide questions - Previous exam questions (from the syllabus)\nThen I asked:\n\n“I’ve uploaded notes from my Human Disease and Evolution course. Help me organize the main themes across lectures and identify connections between topics.”\n\nClaude produced a thematic breakdown: - Evolutionary pressures on pathogens - Host-pathogen coevolution - Historical transitions (hunter-gatherer → agricultural → urban) and disease emergence - Trade-offs in immune response - Case studies (malaria, tuberculosis, influenza)\nThis was immediately useful. My notes were chronologically organized by lecture, but the exam tests conceptual understanding across topics.\n\n\nSynthesizing Across Lectures\nMy next prompt:\n\n“We covered malaria in weeks 2, 4, and 7 from different angles. Synthesize all the malaria content into one coherent explanation covering: evolutionary biology, geographic distribution, historical impact, and current challenges.”\n\nClaude pulled information from multiple lecture sets and created a unified overview. This saved me from manually cross-referencing my notes across different weeks.\n\n\nGenerating Practice Questions\nFor active recall practice:\n\n“Based on the uploaded notes, generate 10 exam-style questions that test conceptual understanding, not just memorization. Include questions that require applying concepts to new scenarios.”\n\nThe questions were decent: - “How would you expect pathogen virulence to evolve in a population with high vs. low host density?” - “Explain why tuberculosis resurged in urban populations during industrialization using evolutionary principles.”\nThese forced me to think beyond memorizing facts.\n\nEvolutionary dynamics between hosts and pathogens"
+    "objectID": "posts/009_/009.html#the-prompts-i-tested",
+    "href": "posts/009_/009.html#the-prompts-i-tested",
+    "title": "Experimenting with Vibe Creation Using LLMs",
+    "section": "The Prompts I Tested",
+    "text": "The Prompts I Tested\n\nStarting Simple\nMy first prompt was straightforward:\n\n“Describe the vibe of a rainy coffee shop at 3pm on a Tuesday”\n\nClaude generated a description that hit the expected notes—muted conversations, steam from coffee cups, the rhythmic sound of rain. It was accurate but generic, the kind of description you’d find in any piece of atmospheric writing.\n\n\nAdding Specificity\nI tried making the prompt more specific:\n\n“Describe the vibe of a college library during finals week at 2am. Include sounds, lighting, and the feeling of collective stress”\n\nThis produced better results. The model captured details like the fluorescent lighting, the sound of highlighters on paper, and the “quiet panic” of students. It understood the assignment but still felt somewhat detached—like someone describing a scene they’d read about rather than experienced.\n\n\nTesting Negative Space\nHere’s where it got interesting. I asked:\n\n“Describe the vibe of an empty office building at night. Focus on what’s NOT there rather than what is”\n\nClaude struggled more with this. It could describe absence—no people, no noise—but couldn’t quite capture the uncanny feeling of a space designed for activity sitting dormant. The descriptions remained surface-level. The output focused on the lack of meetings, chatter, talk, noise in the office. But it did not capture the liminal-space-like, vast, expansive (almost scary) vibe of an empty office in the way the show Severance, for instance, can.\n Comparing outputs from different prompting approaches"
   },
   {
-    "objectID": "posts/015_/015.html#what-actually-helped",
-    "href": "posts/015_/015.html#what-actually-helped",
-    "title": "Using Claude to Synthesize Dense Class Notes",
-    "section": "What Actually Helped",
-    "text": "What Actually Helped\n\nFinding Connections I Missed\nClaude identified patterns across lectures that I hadn’t noticed while taking notes in real-time. For example, the concept of “virulence-transmission trade-offs” appeared in multiple contexts (influenza, cholera, malaria), but I’d written it down separately each time without seeing the unifying principle.\n\n\nClarifying Confusing Concepts\nWhen I asked:\n\n“I don’t fully understand the relationship between R0 (basic reproduction number) and herd immunity threshold. Explain using the influenza example from my notes.”\n\nClaude broke it down using the specific examples from my lectures, not generic textbook explanations. This was more helpful than Googling because it referenced the actual case studies we’d covered.\n\n\nCreating Study Guides\nInstead of re-reading hundreds of pages, I asked:\n\n“Create a two-page study guide covering the five most important concepts from weeks 1-8, with specific examples from the notes.”\n\nThe condensed version helped me review quickly before office hours and identify gaps in my understanding."
+    "objectID": "posts/009_/009.html#what-worked-and-what-didnt",
+    "href": "posts/009_/009.html#what-worked-and-what-didnt",
+    "title": "Experimenting with Vibe Creation Using LLMs",
+    "section": "What Worked and What Didn’t",
+    "text": "What Worked and What Didn’t\n\nStrengths\nThe LLM is good at: - Assembling sensory details that conventionally fit a scene - Understanding cultural contexts (“finals week” immediately triggered appropriate stress markers) - Maintaining consistency within a single atmospheric description - Responding to structural prompts (“focus on sounds” vs “focus on lighting”)\n\n\nLimitations\nWhere it falls short: - Generating truly novel atmospheric combinations - Capturing subtle emotional undertones that aren’t explicitly named - Moving beyond stereotypical associations (coffee shop = cozy, library = studious) - Understanding the relationship between physical space and psychological state in non-obvious ways\nThe model seems to work from a database of common associations rather than synthesizing new atmospheric understanding."
   },
   {
-    "objectID": "posts/015_/015.html#significant-limitations",
-    "href": "posts/015_/015.html#significant-limitations",
-    "title": "Using Claude to Synthesize Dense Class Notes",
-    "section": "Significant Limitations",
-    "text": "Significant Limitations\n\nCan’t Replace Actually Studying\nThe biggest misconception would be thinking Claude can study for you. It can’t.\nWhen I tried asking Claude to quiz me on material, I noticed I could “cheat” by asking for hints or looking back at its previous responses. The lack of real accountability meant I wasn’t forcing myself to actually retrieve information from memory.\nAccording to research on active learning, the cognitive struggle of retrieval is what builds long-term retention. AI tools that make information too easy to access can undermine this.\n\n\nFactual Accuracy Issues\nClaude occasionally made small errors when synthesizing across notes: - Mixing up dates for historical disease outbreaks - Slightly mischaracterizing which regions certain diseases are endemic to - Conflating similar but distinct evolutionary concepts\nThese weren’t obvious hallucinations—they were plausible-sounding errors that I only caught because I’d attended the lectures. If I’d been using Claude to learn new material rather than organize existing notes, I might not have noticed.\n\n\nCan’t Capture Lecture Nuance\nMy professor emphasizes certain concepts or says “this will be on the exam.” Those verbal cues don’t make it into my typed notes, so Claude can’t prioritize what’s actually important vs. what’s just background information.\nIt treats all information in my notes equally, when some concepts are more central than others.\n\n\nDependence Risk\nThere’s a real risk of becoming dependent on AI for synthesis and losing the ability to do it myself. The mental work of organizing information and finding connections is part of learning—offloading that entirely to AI might make me better at using AI but worse at actual thinking.\nResearch on cognitive offloading to technology suggests that over-reliance on external tools can reduce our own cognitive abilities over time."
+    "objectID": "posts/009_/009.html#why-this-matters-from-a-skeptical-angle",
+    "href": "posts/009_/009.html#why-this-matters-from-a-skeptical-angle",
+    "title": "Experimenting with Vibe Creation Using LLMs",
+    "section": "Why This Matters (From a Skeptical Angle)",
+    "text": "Why This Matters (From a Skeptical Angle)\n\nThe Homogenization Problem\nIf everyone starts using LLMs to generate atmospheric descriptions for creative projects, writing, or marketing, we risk creating a feedback loop of averaged-out vibes. The model can only reproduce what it’s seen in training data, which means we get the most statistically likely description of any given mood or setting.\nAfter all, LLMs tend to regress toward mean responses when generating creative content, potentially flattening the diversity of human expression.\n\n\nLost Nuance\nReal atmospheric writing comes from personal observation and specific experience. When I asked Claude to describe my college library during finals, it gave me a generic college library experience. It couldn’t know about the specific smell of old heating systems mixed with energy drinks, or the way light reflects off that one weird pillar in the corner.\n\n\nUseful But Limited Tool\nThis isn’t to say vibe creation with LLMs is useless. It’s good for: - Quick brainstorming when you’re stuck - Getting a baseline description to then personalize - Understanding how certain settings are conventionally described\nBut treating it as a replacement for actual observation and personal experience would result in flatter, less distinctive creative work."
   },
   {
-    "objectID": "posts/015_/015.html#is-claude-actually-a-good-study-partner",
-    "href": "posts/015_/015.html#is-claude-actually-a-good-study-partner",
-    "title": "Using Claude to Synthesize Dense Class Notes",
-    "section": "Is Claude Actually a Good Study Partner?",
-    "text": "Is Claude Actually a Good Study Partner?\n\nWhat Makes a Good Study Partner\nReal study partners: - Challenge your understanding by asking probing questions - Notice when you’re bullshitting and call you out - Have their own understanding that you can compare against - Hold you accountable for actually studying\nClaude does some of this (asking questions, providing alternative explanations) but fails at others (accountability, challenging weak understanding).\n\n\nWhere It Actually Works\nClaude is better described as a “note organization assistant” than a “study partner.” It’s useful for: - Synthesizing large amounts of text quickly - Finding patterns across multiple documents - Generating initial practice questions - Creating structured study guides\nThese are valuable, but they’re the preliminary work before actual studying begins.\n\n\nThe Accountability Gap\nThe biggest difference between Claude and a human study partner: I can’t fool Claude, but I also can’t fool myself into thinking Claude-assisted studying counts as real studying.\nWhen I study with friends, the social pressure and explanation requirement force actual learning. With Claude, I can go through the motions of “studying” while not really engaging deeply with the material."
-  },
-  {
-    "objectID": "posts/015_/015.html#how-im-actually-using-it",
-    "href": "posts/015_/015.html#how-im-actually-using-it",
-    "title": "Using Claude to Synthesize Dense Class Notes",
-    "section": "How I’m Actually Using It",
-    "text": "How I’m Actually Using It\n\nEarly-Stage Organization Only\nI use Claude at the beginning of my study process: 1. Upload notes after several lectures 2. Get thematic organization and connections 3. Create initial study guide 4. Generate practice questions\nThen I study using traditional methods: spaced repetition flashcards, practice problems without AI help, and study groups with actual humans.\n\n\nVerification Against Lecture Materials\nAnything Claude synthesizes, I verify against: - Original lecture slides - Textbook readings - Professor’s posted materials\nI don’t trust Claude’s synthesis as the final word—it’s a starting point that I refine.\n\n\nUsing It for Weak Areas\nWhen I identify concepts I don’t understand well, I ask Claude for additional explanations or examples. But then I test my understanding by explaining it to a friend without AI help.\n\n\nReal Study Sessions Stay Human\nMy actual exam prep involves: - Study groups with classmates - Office hours with TA and professor - Practice exams under time pressure - Teaching concepts to others\nClaude handles the logistical grunt work of organizing notes, but learning happens through human interaction and cognitive struggle."
-  },
-  {
-    "objectID": "posts/015_/015.html#final-assessment",
-    "href": "posts/015_/015.html#final-assessment",
-    "title": "Using Claude to Synthesize Dense Class Notes",
-    "section": "Final Assessment",
-    "text": "Final Assessment\nUsing Claude to synthesize dense class notes is genuinely useful for note-intensive courses. It saves time on organization and helps identify connections across material.\nBut calling it a “study partner” overstates what it can do. It’s more like a smart organizational tool that can handle the tedious work of cross-referencing and initial synthesis.\nThe real learning—deep understanding, retention, application—still requires traditional study methods and human interaction. Claude can make the prep work more efficient, but it can’t replace the cognitive work of actually studying.\nFor Human Disease and Evolution specifically, Claude helped me organize a semester’s worth of dense notes into a manageable study plan. But I’m not bringing Claude into the exam room—I need to make sure the knowledge is in my head, not just in my AI assistant’s context window.\nThe tool is helpful. But over-relying on it would be a mistake that probably shows up when exam day arrives."
+    "objectID": "posts/009_/009.html#final-thoughts",
+    "href": "posts/009_/009.html#final-thoughts",
+    "title": "Experimenting with Vibe Creation Using LLMs",
+    "section": "Final Thoughts",
+    "text": "Final Thoughts\nPlaying with vibe creation revealed both the capabilities and constraints of current LLMs. They’re sophisticated pattern-matching systems that can assemble convincing atmospheric descriptions from training data, but they lack the experiential knowledge that makes truly evocative writing memorable.\nThe exercise reinforced my skepticism about over-relying on these tools for creative work. They’re useful for scaffolding and inspiration, but the most interesting atmospheric details still need to come from human observation and experience.\nFor anyone trying similar experiments: push the model toward specificity and unconventional combinations. The more generic your prompt, the more generic your output."
   },
   {
     "objectID": "posts/012_/012.html",

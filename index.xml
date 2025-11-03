@@ -14,7 +14,7 @@
 <item>
   <title>Creating Music with AI: Suno for Marketing Projects</title>
   <dc:creator>Raymond Liu Ao</dc:creator>
-  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/016_-Copy2/017.html</link>
+  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/017/017.html</link>
   <description><![CDATA[ 
 
 
@@ -25,7 +25,7 @@
 <h2 class="anchored" data-anchor-id="making-music-without-musical-training">Making Music Without Musical Training</h2>
 <p>For my Marketing 7340 class with Dr.&nbsp;Gideon Nave, I needed to create original music for a Corona ad campaign. The problem: I have no formal music production training. The solution: Suno AI, a tool that generates music from text prompts and voice recordings.</p>
 <p>I paid $10/month for Suno Pro to test whether AI could actually produce usable marketing music. Here’s what happened.</p>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/016_-Copy2/suno-interface.jpg" alt="Suno AI Interface" style="max-width: 450px; max-height: 300px; object-fit: contain; display: block; margin: 20px auto;"></p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/017/suno-interface.jpg" alt="Suno AI Interface" style="max-width: 450px; max-height: 300px; object-fit: contain; display: block; margin: 20px auto;"></p>
 <p><em>Suno AI’s music generation interface</em></p>
 </section>
 <section id="the-assignment-corona-ad-music" class="level2">
@@ -60,7 +60,7 @@ Chasing the sun</code></pre>
 Add layers of organic, progressive house elements. 
 Add unexpected elements. 
 Use Rufus Du Sol as inspiration.</code></pre>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/016_-Copy2/suno-editing-interface.jpg" alt="Suno Editing" style="max-width: 450px; max-height: 300px; object-fit: contain; display: block; margin: 20px auto;"></p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/017/suno-editing-interface.jpg" alt="Suno Editing" style="max-width: 450px; max-height: 300px; object-fit: contain; display: block; margin: 20px auto;"></p>
 <p><em>Editing lyrics and adding production notes in Suno</em></p>
 </section>
 </section>
@@ -212,9 +212,9 @@ We're captive, our spirits bold</code></pre>
   <category>creative</category>
   <category>professional</category>
   <category>marketing</category>
-  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/016_-Copy2/017.html</guid>
+  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/017/017.html</guid>
   <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
-  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/016_-Copy2/suno-interface.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/017/suno-interface.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>AI Meditation Apps: Is the Personalization Real?</title>
