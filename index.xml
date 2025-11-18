@@ -10,7 +10,196 @@
 <atom:link href="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Let&#39;s Find Out</description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Sun, 19 Oct 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 21 Oct 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>NotebookLM for Exam Prep: Gemini’s Research Assistant</title>
+  <dc:creator>Raymond Liu Ao</dc:creator>
+  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/019_/019.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="a-year-of-gemini-pro-testing-notebooklm" class="level2">
+<h2 class="anchored" data-anchor-id="a-year-of-gemini-pro-testing-notebooklm">A Year of Gemini Pro: Testing NotebookLM</h2>
+<p>I got access to Gemini Pro for a year and decided to test Google’s NotebookLM for my upcoming MKTG exam. NotebookLM markets itself as an AI research assistant that grounds its responses in your uploaded sources—supposedly reducing hallucinations and providing more reliable study support.</p>
+<p>I uploaded my lecture notes, course readings, and lecture transcripts to see if it actually lives up to the claims. Spoiler: I actually liked it.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/019_/notebooklm-interface.jpg" alt="NotebookLM Interface" style="max-width: 450px; max-height: 300px; object-fit: contain; display: block; margin: 20px auto;"></p>
+<p><em>NotebookLM’s interface with uploaded course materials</em></p>
+</section>
+<section id="what-i-uploaded" class="level2">
+<h2 class="anchored" data-anchor-id="what-i-uploaded">What I Uploaded</h2>
+<p>For my MKTG exam prep, I loaded NotebookLM with:</p>
+<p><strong>Lecture Notes:</strong> Typed notes from all lectures covering consumer behavior, market segmentation, brand positioning, and pricing strategies.</p>
+<p><strong>Course Readings:</strong> PDFs of assigned textbook chapters and case studies.</p>
+<p><strong>Lecture Transcripts:</strong> Auto-generated transcripts from recorded lectures (with professor’s verbal explanations and examples).</p>
+<p>The total was probably 200+ pages of material. In the past, I’ve used Claude Projects for this, so I was curious how NotebookLM would compare. It took around 2 hours to load the material in.</p>
+</section>
+<section id="how-notebooklm-actually-works" class="level2">
+<h2 class="anchored" data-anchor-id="how-notebooklm-actually-works">How NotebookLM Actually Works</h2>
+<section id="source-grounding" class="level3">
+<h3 class="anchored" data-anchor-id="source-grounding">Source Grounding</h3>
+<p>The key feature: NotebookLM claims to only use information from your uploaded sources. When it answers questions, it provides citations showing exactly which document and section it pulled from.</p>
+<p>I tested this by asking about a specific marketing framework we covered in class. NotebookLM gave me the answer and cited: “Lecture Notes, Week 4, Page 3” and “Consumer Behavior Reading, Chapter 7, Section 2.”</p>
+<p>I checked the sources—it was accurate. The information came directly from those sections, not from generic marketing knowledge Gemini learned during training.</p>
+</section>
+<section id="the-qa-experience" class="level3">
+<h3 class="anchored" data-anchor-id="the-qa-experience">The Q&amp;A Experience</h3>
+<p>I could ask specific questions like: - “How is creativity broadly defined in the course?” - “Explain the difference between attribute dependency and subsituttion in Systematic Innovation Theory (SIT)” - “What examples did the professor give for constraints leading to creativity?”</p>
+<p>NotebookLM pulled answers from the uploaded materials and cited where each piece of information came from. This was more reliable than asking a general LLM, which might give textbook definitions that don’t match what my professor actually taught.</p>
+</section>
+<section id="cross-reference-capability" class="level3">
+<h3 class="anchored" data-anchor-id="cross-reference-capability">Cross-Reference Capability</h3>
+<p>One useful feature: NotebookLM could synthesize across multiple sources. When I asked about brand positioning, it pulled from: - Lecture notes (professor’s explanation) - Textbook reading (formal definition) - Lecture transcript (specific examples the professor gave verbally)</p>
+<p>This created a more complete picture than each source individually.</p>
+</section>
+</section>
+<section id="the-audio-overview-feature" class="level2">
+<h2 class="anchored" data-anchor-id="the-audio-overview-feature">The Audio Overview Feature</h2>
+<p>NotebookLM has a feature that generates an audio “podcast” summarizing your sources. I tried it with my MKTG materials.</p>
+<section id="what-it-generated" class="level3">
+<h3 class="anchored" data-anchor-id="what-it-generated">What It Generated</h3>
+<p>The audio overview was two AI voices having a conversation about the key concepts from my notes: - Voice 1: “So let’s talk about market segmentation…” - Voice 2: “Right, and there are four main types covered in these materials…”</p>
+<p>It was surprisingly natural-sounding and covered the main topics in a logical order.</p>
+</section>
+<section id="actually-useful-for-review" class="level3">
+<h3 class="anchored" data-anchor-id="actually-useful-for-review">Actually Useful for Review</h3>
+<p>I listened to the 10-minute audio summary while walking to class. It hit the major concepts and provided a good high-level review. This was genuinely helpful for: - Quick refreshers before class - Identifying which topics I needed to study more deeply - Hearing concepts explained conversationally rather than reading dense notes</p>
+</section>
+<section id="limitations-of-audio-summaries" class="level3">
+<h3 class="anchored" data-anchor-id="limitations-of-audio-summaries">Limitations of Audio Summaries</h3>
+<p>The audio overview was good for broad strokes but missed: - Specific formulas or calculations - Detailed case study analysis - Nuanced distinctions between similar concepts</p>
+<p>It’s a supplementary review tool, not a replacement for actually studying the material.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/019_/notebooklm-audio-overview.jpg" alt="Audio Overview" style="max-width: 450px; max-height: 300px; object-fit: contain; display: block; margin: 20px auto;"></p>
+<p><em>NotebookLM’s audio overview feature generating podcast-style summaries</em></p>
+</section>
+</section>
+<section id="what-actually-worked-well" class="level2">
+<h2 class="anchored" data-anchor-id="what-actually-worked-well">What Actually Worked Well</h2>
+<section id="accurate-source-attribution" class="level3">
+<h3 class="anchored" data-anchor-id="accurate-source-attribution">Accurate Source Attribution</h3>
+<p>The biggest advantage over general LLMs: NotebookLM tells you exactly where information comes from. When studying for an exam, you need to know what the professor actually taught, not what a generic AI thinks the answer should be.</p>
+<p>The citations were consistently accurate. I spot-checked multiple answers and they matched the source material.</p>
+</section>
+<section id="no-hallucinations-so-far" class="level3">
+<h3 class="anchored" data-anchor-id="no-hallucinations-so-far">No Hallucinations (So Far)</h3>
+<p>I didn’t catch NotebookLM making up information. Because it’s constrained to uploaded sources, it can’t invent facts the way ChatGPT or Claude sometimes do.</p>
+<p>When I asked about topics not covered in my materials, it said “I don’t have information about that in your sources” rather than making something up.</p>
+</section>
+<section id="understanding-context" class="level3">
+<h3 class="anchored" data-anchor-id="understanding-context">Understanding Context</h3>
+<p>The lecture transcripts included the professor’s verbal explanations and examples. NotebookLM could pull from these conversational explanations, which added context that wouldn’t be in formal textbook readings.</p>
+<p>For example, when the professor said “this is important for the exam,” NotebookLM picked up on that emphasis.</p>
+</section>
+<section id="study-guide-generation" class="level3">
+<h3 class="anchored" data-anchor-id="study-guide-generation">Study Guide Generation</h3>
+<p>I asked NotebookLM to create a study guide covering key concepts. It generated: - Main topics organized by lecture - Important definitions - Examples from case studies - Connections between concepts</p>
+<p>All sourced from my uploaded materials, formatted clearly.</p>
+</section>
+</section>
+<section id="limitations" class="level2">
+<h2 class="anchored" data-anchor-id="limitations">Limitations</h2>
+<section id="cant-handle-everything" class="level3">
+<h3 class="anchored" data-anchor-id="cant-handle-everything">Can’t Handle Everything</h3>
+<p>NotebookLM struggled with: - Complex diagrams or charts (it could see them but didn’t fully understand them) - Handwritten notes (I had to use typed notes)</p>
+<p>For a marketing class this was fine, but for quantitative subjects it might be more limited.</p>
+</section>
+<section id="limited-interactivity" class="level3">
+<h3 class="anchored" data-anchor-id="limited-interactivity">Limited Interactivity</h3>
+<p>Unlike Claude Projects where I could have extended back-and-forth conversations, NotebookLM felt more like a Q&amp;A tool. It answered questions but didn’t build on previous context as naturally.</p>
+</section>
+<section id="relies-on-source-quality" class="level3">
+<h3 class="anchored" data-anchor-id="relies-on-source-quality">Relies on Source Quality</h3>
+<p>NotebookLM is only as good as what you upload. If your notes are incomplete or lecture transcripts are inaccurate (auto-transcription errors), the AI will work with flawed information.</p>
+<p>Garbage in, garbage out.</p>
+</section>
+<section id="no-proactive-suggestions" class="level3">
+<h3 class="anchored" data-anchor-id="no-proactive-suggestions">No Proactive Suggestions</h3>
+<p>NotebookLM responds to questions but doesn’t proactively identify gaps in your knowledge or suggest what to study. It’s a passive tool that requires you to know what to ask.</p>
+</section>
+</section>
+<section id="notebooklm-vs.-claude-projects" class="level2">
+<h2 class="anchored" data-anchor-id="notebooklm-vs.-claude-projects">NotebookLM vs.&nbsp;Claude Projects</h2>
+<p>I’ve used Claude Projects for similar purposes, so here’s how they compare:</p>
+<section id="where-notebooklm-is-better" class="level3">
+<h3 class="anchored" data-anchor-id="where-notebooklm-is-better">Where NotebookLM Is Better</h3>
+<p><strong>Source citations:</strong> More explicit about where information comes from</p>
+<p><strong>Audio summaries:</strong> The podcast-style overview is a unique feature Claude doesn’t have</p>
+<p><strong>Grounding discipline:</strong> Stays within uploaded sources more strictly</p>
+</section>
+<section id="where-claude-projects-is-better" class="level3">
+<h3 class="anchored" data-anchor-id="where-claude-projects-is-better">Where Claude Projects Is Better</h3>
+<p><strong>Conversational depth:</strong> Claude handles multi-turn conversations better</p>
+<p><strong>Synthesis and analysis:</strong> Claude is better at making connections and generating insights beyond summarizing</p>
+<p><strong>Flexibility:</strong> Claude can go beyond sources when helpful; NotebookLM is rigidly constrained</p>
+</section>
+<section id="different-use-cases" class="level3">
+<h3 class="anchored" data-anchor-id="different-use-cases">Different Use Cases</h3>
+<p><strong>Use NotebookLM for:</strong> Exam prep where you need to know exactly what’s in your course materials, no more, no less.</p>
+<p><strong>Use Claude Projects for:</strong> Research projects where you want the AI to synthesize across sources and generate new ideas.</p>
+<p>For my MKTG exam, NotebookLM was the right tool. For writing papers or doing creative projects, Claude is probably better.</p>
+</section>
+</section>
+<section id="is-this-actually-better-than-traditional-study-methods" class="level2">
+<h2 class="anchored" data-anchor-id="is-this-actually-better-than-traditional-study-methods">Is This Actually Better Than Traditional Study Methods?</h2>
+<section id="what-notebooklm-adds" class="level3">
+<h3 class="anchored" data-anchor-id="what-notebooklm-adds">What NotebookLM Adds</h3>
+<p><strong>Organization:</strong> Pulls information from multiple sources more efficiently than manual cross-referencing</p>
+<p><strong>Quick reviews:</strong> Audio overviews provide fast refreshers</p>
+<p><strong>Finding information:</strong> Faster than Ctrl+F through multiple documents</p>
+</section>
+<section id="what-it-doesnt-replace" class="level3">
+<h3 class="anchored" data-anchor-id="what-it-doesnt-replace">What It Doesn’t Replace</h3>
+<p><strong>Active recall:</strong> The act of retrieving information from memory without AI help</p>
+<p><strong>Deep understanding:</strong> NotebookLM can summarize, but you still need to understand underlying concepts</p>
+<p><strong>Practice problems:</strong> For quantitative subjects, you need to actually do practice problems</p>
+</section>
+<section id="the-risk" class="level3">
+<h3 class="anchored" data-anchor-id="the-risk">The Risk</h3>
+<p>The danger of tools like NotebookLM: they make it easy to feel like you’re studying without actually learning.</p>
+<p>According to <a href="https://www.retrievalpractice.org/why-it-works">research on learning and retrieval practice</a>, passive review (like asking an AI questions) is less effective than active retrieval (testing yourself without assistance).</p>
+<p>NotebookLM is useful for organization and review, but shouldn’t replace traditional study methods like: - Self-testing without AI help - Explaining concepts to others - Working through practice problems - Creating your own summaries and connections</p>
+</section>
+</section>
+<section id="my-actual-study-approach" class="level2">
+<h2 class="anchored" data-anchor-id="my-actual-study-approach">My Actual Study Approach</h2>
+<section id="notebooklm-for-organization" class="level3">
+<h3 class="anchored" data-anchor-id="notebooklm-for-organization">NotebookLM for Organization</h3>
+<p>I’m using NotebookLM at the beginning of exam prep: 1. Upload all materials 2. Generate study guide to identify main topics 3. Listen to audio overview for high-level understanding 4. Use Q&amp;A to clarify confusing concepts</p>
+</section>
+<section id="traditional-methods-for-learning" class="level3">
+<h3 class="anchored" data-anchor-id="traditional-methods-for-learning">Traditional Methods for Learning</h3>
+<p>Then I switch to proven study techniques: - Create my own flashcards (without AI) - Self-test on major concepts - Practice explaining topics out loud - Work through case studies independently - Study with classmates</p>
+</section>
+<section id="notebooklm-as-reference" class="level3">
+<h3 class="anchored" data-anchor-id="notebooklm-as-reference">NotebookLM as Reference</h3>
+<p>I come back to NotebookLM when: - I need to verify a fact quickly - I can’t find something in my notes - I want to see how different sources explain the same concept</p>
+<p>But the actual learning happens through traditional active study methods.</p>
+</section>
+</section>
+<section id="final-assessment" class="level2">
+<h2 class="anchored" data-anchor-id="final-assessment">Final Assessment</h2>
+<p>I actually liked NotebookLM for exam prep. The source grounding is more reliable than general LLMs, the audio overview feature is genuinely useful, and the citations help verify information.</p>
+<p><strong>Best use cases:</strong> - Organizing large amounts of course material - Quick reviews and refreshers - Finding specific information across multiple documents - Creating initial study guides</p>
+<p><strong>Not good for:</strong> - Replacing active learning and retrieval practice - Complex mathematical or quantitative subjects - Creative synthesis beyond source material - Building deep conceptual understanding</p>
+<p>For my MKTG exam specifically, NotebookLM was the right tool. It helped me organize content from lectures, readings, and transcripts efficiently. The audio overview gave me a quick review I could listen to while walking to class.</p>
+<p>But I’m not relying on it as my primary study method. It’s a supplement to traditional studying, not a replacement.</p>
+<p>The year of free Gemini Pro is nice, and I’ll keep using NotebookLM for course organization. But the actual studying—the hard work of learning and retaining information—still requires doing things the old-fashioned way: active recall, self-testing, and explaining concepts without AI help.</p>
+<p>NotebookLM makes studying more efficient. It doesn’t make studying unnecessary.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>AI</category>
+  <category>LLM</category>
+  <category>professional</category>
+  <category>daily-life</category>
+  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/019_/019.html</guid>
+  <pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/019_/notebooklm-interface.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Superagency Review #2: Solutionism vs. Problemism</title>
   <dc:creator>Raymond Liu Ao</dc:creator>
