@@ -27,5 +27,3 @@ listing:
   <h1>Let's Find Out</h1>
   <em>Exploring AI in daily life</em>
 </div>
-
----
