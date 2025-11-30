@@ -10,7 +10,298 @@
 <atom:link href="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Let&#39;s Find Out</description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Tue, 21 Oct 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 01 Nov 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation</title>
+  <dc:creator>Raymond Liu Ao</dc:creator>
+  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/021_/021.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="chapter-5-testing-testing-1-2-infinite" class="level2">
+<h2 class="anchored" data-anchor-id="chapter-5-testing-testing-1-2-infinite">Chapter 5: <em>Testing, Testing, 1, 2 (Infinite)</em></h2>
+<p>This section of <em>Superagency</em> (pages 99–143) shifts from optimism to mechanics: how testing, benchmarking, and iterative competition supposedly form the backbone of American AI leadership. Hoffman and Beato frame this as a uniquely democratic innovation engine. Parts of the chapter are compelling; others amplify the same concerns raised earlier in the book.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/021_/superagency-testing-cover.jpg" alt="AI Testing Race" style="max-width: 450px; max-height: 300px; object-fit: contain; display: block; margin: 20px auto;"></p>
+</section>
+<section id="the-cold-war-parallel" class="level2">
+<h2 class="anchored" data-anchor-id="the-cold-war-parallel">The Cold War Parallel</h2>
+<p>Hoffman highlights the rising use of phrases like <strong>“AI arms race”</strong> and <strong>“AI Space Race.”</strong> These metaphors frame AI as a geopolitical contest and cast innovation as national defense.</p>
+<p>Cold War language implies: - national survival stakes - winner-take-all dynamics - justification for speed over caution - suspicion toward dissent</p>
+<p>My concern is that emergency framing narrows public debate. It turns critique into perceived disloyalty. The question becomes whether urgency helps innovation or simply suppresses precaution.</p>
+</section>
+<section id="democracy-vs.-china-competitive-advantage-or-ideological-comfort" class="level2">
+<h2 class="anchored" data-anchor-id="democracy-vs.-china-competitive-advantage-or-ideological-comfort">Democracy vs.&nbsp;China – Competitive Advantage or Ideological Comfort?</h2>
+<p>The authors argue that American innovation thrives because democracy encourages open experimentation, while China favors control and pre-approval. This framing leads to the implicit claim that <strong>American hegemony is the only acceptable outcome</strong>, a point that deserves more scrutiny.</p>
+<p>The real tension is not democracy vs.&nbsp;authoritarianism; it’s <strong>permissionless innovation vs.&nbsp;burden-of-proof safety models.</strong> For frontier AI, neither extreme may work. The chapter sidesteps how high-risk technologies challenge this binary.</p>
+</section>
+<section id="benchmarks-as-pseudo-regulation" class="level2">
+<h2 class="anchored" data-anchor-id="benchmarks-as-pseudo-regulation">Benchmarks as Pseudo-Regulation</h2>
+<p>Hoffman argues that benchmarks function as a cultural form of regulation—“regulation, gamified.” When companies compete to score well on shared tests, innovation accelerates.</p>
+<p>The assumption is that: - companies will voluntarily exceed standards - benchmarks naturally tighten over time - competition substitutes for enforcement</p>
+<p>In practice, gamified regulation creates problems: - companies optimize for the test, not real-world safety - metrics become PR tools - firms cherry-pick flattering benchmarks - bad actors simply ignore the system</p>
+<p>Benchmarks matter, but they cannot govern high-risk technology alone.</p>
+</section>
+<section id="why-expect-ai-to-be-perfect" class="level2">
+<h2 class="anchored" data-anchor-id="why-expect-ai-to-be-perfect">Why Expect AI to Be Perfect?</h2>
+<p>Hoffman asks why society expects AI to achieve near-zero error when humans make mistakes constantly. The answer is scale.</p>
+<ul>
+<li>A human error affects one person.</li>
+<li>An AI system deployed to millions repeats an error instantly.</li>
+<li>Failures are opaque and hard to trace.</li>
+<li>Risks become systemic, not isolated.</li>
+</ul>
+<p>Expectations are higher because the consequences are broader.</p>
+</section>
+<section id="innovation-as-safety-a-tension" class="level2">
+<h2 class="anchored" data-anchor-id="innovation-as-safety-a-tension">Innovation as Safety – A Tension</h2>
+<p>The authors claim innovation itself is safety: rapidly iterating helps uncover failures early. This logic underpins “permissionless innovation.” But if real users become unwitting test subjects, the line between experimentation and exploitation blurs.</p>
+<p>The analogy to the Ford assembly line captures both sides. It democratized mobility while creating decades of infrastructural and environmental dependencies. Innovation often hides long-tail costs that appear only after widespread deployment.</p>
+</section>
+<section id="the-vorsorgeprinzip" class="level2">
+<h2 class="anchored" data-anchor-id="the-vorsorgeprinzip">The Vorsorgeprinzip</h2>
+<p>Germany’s <strong>forecaring principle</strong> requires developers to prove safety before deployment. Hoffman frames this as overly conservative, but it’s not clear that frontier AI fits the American model of “deploy first, fix later.”</p>
+<p>When developers can’t fully predict system behavior, shifting the burden of proof may be reasonable.</p>
+</section>
+<section id="big-knowledge-and-collective-intelligence" class="level2">
+<h2 class="anchored" data-anchor-id="big-knowledge-and-collective-intelligence">Big Knowledge and Collective Intelligence</h2>
+<p>The chapter ends with “big knowledge” examples like Google Maps—systems where collective data improves outcomes for all. The story is persuasive, but it glosses over deepening dependencies: - people lose local knowledge - decision-making shifts to opaque models - infrastructure becomes more fragile</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/021_/placeholder-big-knowledge.jpg" alt="Collective Intelligence" style="max-width: 450px; max-height: 300px; object-fit: contain; display: block; margin: 20px auto;"></p>
+<p>Optimistic narratives rarely acknowledge these hidden costs.</p>
+</section>
+<section id="my-notes-and-questions" class="level2">
+<h2 class="anchored" data-anchor-id="my-notes-and-questions">My Notes and Questions</h2>
+<ul>
+<li>If testing replaces regulation, who enforces the testers?</li>
+<li>Who absorbs harm during iterative deployment?</li>
+<li>Is innovation inherently democratic, or is this an American myth?</li>
+<li>Why should speed be a virtue when consequences scale exponentially?</li>
+</ul>
+<p>The book grows more persuasive, but its implicit assumptions grow louder too.</p>
+</section>
+<section id="final-thoughts" class="level2">
+<h2 class="anchored" data-anchor-id="final-thoughts">Final Thoughts</h2>
+<p>Chapter 5 argues that testing can replace regulation, accelerating safe innovation. The idea has merit—overly strict regulation can freeze progress.</p>
+<p>But the chapter underestimates what happens when testing becomes a governance substitute. Benchmarks become branding exercises. Users become test subjects. Accountability evaporates.</p>
+<p>The line between innovation and recklessness is thin, and <em>Superagency</em> often blurs it more than it clarifies it.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>AI</category>
+  <category>book-review</category>
+  <category>skeptical</category>
+  <category>governance</category>
+  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/021_/021.html</guid>
+  <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/021_/superagency-testing-cover.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Your Brain on ChatGPT: The Cost of Cognitive Convenience</title>
+  <dc:creator>Raymond Liu Ao</dc:creator>
+  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/020_/020.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="a-study-that-made-me-uncomfortable" class="level2">
+<h2 class="anchored" data-anchor-id="a-study-that-made-me-uncomfortable">A Study That Made Me Uncomfortable</h2>
+<p>I came across a recent MIT Media Lab study examining how AI-assisted writing affects the brain during essay tasks. The findings pushed me to rethink how much I rely on Claude for school, work, and even these posts.</p>
+<p>The study followed 54 participants over four months. Some wrote essays with no tools, some used search engines, and others used ChatGPT. EEG measurements revealed something striking: <strong>LLM-assisted writers consistently showed the weakest neural connectivity and lowest cognitive engagement.</strong></p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/020_/brain-connectivity-scan.jpg" alt="Brain Activity Differences" style="max-width: 450px; max-height: 300px; object-fit: contain; display: block; margin: 20px auto;"></p>
+</section>
+<section id="what-the-study-found" class="level2">
+<h2 class="anchored" data-anchor-id="what-the-study-found">What the Study Found</h2>
+<section id="cognitive-engagement-differences" class="level3">
+<h3 class="anchored" data-anchor-id="cognitive-engagement-differences">Cognitive Engagement Differences</h3>
+<p>Participants’ neural activity broke down into three clear tiers: - <strong>Brain-only:</strong> strongest, most distributed activation - <strong>Search Engine:</strong> moderate activation - <strong>LLM-assisted:</strong> lowest activation and weakest connectivity</p>
+<p>The more the tool handled the synthesis, the less the brain participated.</p>
+</section>
+<section id="cognitive-debt-builds-over-time" class="level3">
+<h3 class="anchored" data-anchor-id="cognitive-debt-builds-over-time">Cognitive Debt Builds Over Time</h3>
+<p>After four months, patterns did not converge. If anything, they diverged.</p>
+<p>When researchers forced participants to switch modes: - <strong>LLM-to-Brain</strong> users struggled to activate core cognitive networks once the AI was removed - <strong>Brain-to-LLM</strong> users still retained higher activation patterns</p>
+<p>The authors call this <strong>cognitive debt</strong> — a cumulative loss of mental effort that makes it harder to think independently after extended reliance on AI.</p>
+</section>
+</section>
+<section id="the-ownership-problem" class="level2">
+<h2 class="anchored" data-anchor-id="the-ownership-problem">The Ownership Problem</h2>
+<p>Participants were asked how much each essay felt like “their own.” Results tracked the neural data: - Brain-only: highest sense of ownership - Search Engine: moderate - LLM-assisted: lowest</p>
+<p>More tellingly, LLM-assisted writers struggled to <strong>quote their own work</strong> later. Because they did not synthesize the ideas themselves, the memory trace was weaker. The AI generated wording; participants just approved it.</p>
+</section>
+<section id="everyone-started-sounding-the-same" class="level2">
+<h2 class="anchored" data-anchor-id="everyone-started-sounding-the-same">Everyone Started Sounding the Same</h2>
+<p>Using NLP techniques, the researchers found that LLM-assisted essays clustered tightly around similar: - topics - n-gram structures - named entities - argument patterns</p>
+<p>The essays demonstrated <strong>linguistic homogeneity</strong> — a flattening of personal style that did not appear in the other groups.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/020_/essay-similarity-analysis.jpg" alt="Essay Similarity Patterns" style="max-width: 450px; max-height: 300px; object-fit: contain; display: block; margin: 20px auto;"></p>
+</section>
+<section id="why-this-hits-close-for-me" class="level2">
+<h2 class="anchored" data-anchor-id="why-this-hits-close-for-me">Why This Hits Close for Me</h2>
+<p>I use Claude constantly: to summarize lectures, structure research, draft arguments, and shape my writing. This study suggests I may have been offloading the exact cognitive work that produces long-term learning and memory.</p>
+<p>When I revise an AI-generated draft, I’m not constructing ideas — I’m <strong>judging</strong> them. That’s a different neural mode. It feels productive but sidesteps the hardest, most valuable part of thinking.</p>
+</section>
+<section id="what-this-means-for-learning" class="level2">
+<h2 class="anchored" data-anchor-id="what-this-means-for-learning">What This Means for Learning</h2>
+<section id="cognitive-debt-accumulates" class="level3">
+<h3 class="anchored" data-anchor-id="cognitive-debt-accumulates">Cognitive Debt Accumulates</h3>
+<p>Long-term LLM reliance was associated with: - weaker neural activation - shallower memory formation - reduced engagement - diminished ownership</p>
+<p>The brain adapts to what it practices. If cognitive synthesis is outsourced, the skill erodes.</p>
+</section>
+<section id="not-all-tools-are-equal" class="level3">
+<h3 class="anchored" data-anchor-id="not-all-tools-are-equal">Not All Tools Are Equal</h3>
+<p>Search engines require active synthesis: evaluating sources, forming arguments, deciding what matters. LLMs <strong>do</strong> the synthesis for you. That difference matters.</p>
+</section>
+</section>
+<section id="the-larger-picture" class="level2">
+<h2 class="anchored" data-anchor-id="the-larger-picture">The Larger Picture</h2>
+<section id="who-benefits-from-offloading-thinking" class="level3">
+<h3 class="anchored" data-anchor-id="who-benefits-from-offloading-thinking">Who Benefits From Offloading Thinking?</h3>
+<p>On paper, productivity increases. But in education, productivity is not the point. The <strong>cognitive work</strong> is the point.</p>
+</section>
+<section id="the-convenience-trap" class="level3">
+<h3 class="anchored" data-anchor-id="the-convenience-trap">The Convenience Trap</h3>
+<p>You don’t feel cognitive decline happening. You only feel the difficulty once you try to write or think without the AI.</p>
+<p>That’s exactly what happened to the LLM-to-Brain group. Their minds had become dependent on external structure.</p>
+</section>
+</section>
+<section id="what-im-changing" class="level2">
+<h2 class="anchored" data-anchor-id="what-im-changing">What I’m Changing</h2>
+<section id="where-ill-reduce-ai" class="level3">
+<h3 class="anchored" data-anchor-id="where-ill-reduce-ai">Where I’ll Reduce AI</h3>
+<ul>
+<li>reading and synthesis</li>
+<li>argument construction</li>
+<li>high-stakes learning tasks</li>
+<li>creative work</li>
+</ul>
+</section>
+<section id="where-ai-is-fine" class="level3">
+<h3 class="anchored" data-anchor-id="where-ai-is-fine">Where AI Is Fine</h3>
+<ul>
+<li>logistics</li>
+<li>summaries of things I already understand</li>
+<li>admin tasks</li>
+<li>formatting</li>
+</ul>
+<p>The goal isn’t purity — it’s avoiding cognitive atrophy.</p>
+</section>
+</section>
+<section id="final-thoughts" class="level2">
+<h2 class="anchored" data-anchor-id="final-thoughts">Final Thoughts</h2>
+<p>This MIT study raises real concerns about the hidden cost of AI convenience. We gain speed and efficiency. But we risk losing: - cognitive engagement - memory formation - ownership - originality</p>
+<p><strong>The question isn’t whether AI works. It’s what happens to our minds when we let it think for us.</strong></p>
+
+
+</section>
+
+ ]]></description>
+  <category>AI</category>
+  <category>research</category>
+  <category>skeptical</category>
+  <category>learning</category>
+  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/020_/020.html</guid>
+  <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/020_/brain-connectivity-scan.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation</title>
+  <dc:creator>Raymond Liu Ao</dc:creator>
+  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/018_/018.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="chapter-5-testing-testing-1-2-infinite" class="level2">
+<h2 class="anchored" data-anchor-id="chapter-5-testing-testing-1-2-infinite">Chapter 5: <em>Testing, Testing, 1, 2 (Infinite)</em></h2>
+<p>This section covers pages 99 through roughly 143 of <em>Superagency</em>. Here, Hoffman and Beato pivot from broad optimism to a more operational argument: that <strong>testing, benchmarking, and competitive iteration</strong> are the core engines of AI progress.</p>
+<p>The chapter frames testing as not just an engineering practice but a <strong>national philosophy</strong>—one tied to American innovation culture, competition with China, and a belief that openness accelerates breakthroughs.</p>
+<p>Some parts of the argument were more persuasive than earlier chapters. Others reinforced my anxieties about the increasingly competitive, quasi-militarized framing of AI development.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/018_/superagency-testing-cover.jpg" alt="AI Testing and Benchmarking" style="max-width: 450px; max-height: 300px; object-fit: contain; display: block; margin: 20px auto;"></p>
+<p><em>Testing as the cultural engine of AI development</em></p>
+</section>
+<section id="the-cold-war-framing" class="level2">
+<h2 class="anchored" data-anchor-id="the-cold-war-framing">The Cold War Framing</h2>
+<p>Hoffman highlights how phrases like <strong>“AI arms race”</strong> and <strong>“AI Space Race”</strong> dominate media coverage. He treats these metaphors as motivational—language that accelerates innovation and keeps America competitive.</p>
+<p>But Cold War framing has consequences: - It implies existential stakes. - It normalizes urgency over deliberation. - It positions being second as failure. - It pushes policymakers toward reactionary speed.</p>
+<p>My concern: <strong>emergency framing suppresses dissent</strong>. In Cold War logic, slowing down or questioning the dominant approach becomes coded as weakness, not prudence.</p>
+</section>
+<section id="democracy-as-competitive-advantage-or-ideological-comfort" class="level2">
+<h2 class="anchored" data-anchor-id="democracy-as-competitive-advantage-or-ideological-comfort">Democracy as Competitive Advantage — Or Ideological Comfort?</h2>
+<p>The book claims repeatedly that America remains ahead because <strong>democratic systems foster trial-and-error innovation</strong>, whereas China takes a more precautionary, state-driven approach.</p>
+<p>The implicit argument: <em>American dynamism is the only acceptable global leadership model.</em></p>
+<p>But this raises real questions: - Why is American dominance assumed to be morally superior? - What is inherently wrong with China being technologically ahead? - Are both systems inadequate for frontier AI, in different ways?</p>
+<p>The authors rely heavily on the contrast between <strong>“innocent until proven guilty”</strong> innovation (America) and <strong>“guilty until proven safe”</strong> (China). But frontier AI may require a governance approach that is neither extreme.</p>
+</section>
+<section id="benchmarks-as-pseudo-regulation" class="level2">
+<h2 class="anchored" data-anchor-id="benchmarks-as-pseudo-regulation">Benchmarks as Pseudo-Regulation</h2>
+<p>One of the chapter’s central claims is that <strong>benchmarks can substitute for regulation</strong>—that shared tests create a culture of continuous improvement.</p>
+<p>Page 105 captures the ethos:</p>
+<blockquote class="blockquote">
+<p>“Testing elevates the focus from compliance to continuous improvement. It’s regulation, gamified.”</p>
+</blockquote>
+<p>This framing is clever, but it’s also dangerous.</p>
+<p>Gamifying regulation creates incentives to: - optimize narrowly for the benchmark, - use metrics as PR tools, - cherry-pick tests, - ignore safety dimensions that are hard to measure.</p>
+<p>Benchmarks motivate progress, but <strong>they do not replace regulatory enforcement</strong>. Safety cannot rely on voluntary participation alone.</p>
+</section>
+<section id="why-is-ai-expected-to-be-perfect" class="level2">
+<h2 class="anchored" data-anchor-id="why-is-ai-expected-to-be-perfect">Why Is AI Expected to Be Perfect?</h2>
+<p>Hoffman argues that society holds AI to unrealistic standards, demanding near-zero error rates, while human systems are full of mistakes.</p>
+<p>But the comparison misses key points: - AI errors can scale instantly to millions. - AI failures are systemic and correlated. - AI decisions lack transparency and explainability.</p>
+<p>The demand isn’t for perfection—it’s for <strong>predictable, accountable risk</strong> in systems that can impact entire populations simultaneously.</p>
+</section>
+<section id="innovation-as-safety-the-argument-for-iteration" class="level2">
+<h2 class="anchored" data-anchor-id="innovation-as-safety-the-argument-for-iteration">Innovation as Safety — The Argument for Iteration</h2>
+<p>The chapter presents a provocative idea: <strong>innovation itself is a form of safety.</strong> Faster iteration exposes flaws earlier, allowing teams to fix them quickly.</p>
+<p>This philosophy underlies <em>permissionless innovation</em>: deploying unfinished systems to learn from real-world interactions.</p>
+<p>But this effectively turns the public into test subjects.</p>
+<p>The Ford assembly line analogy illustrates this tension. Yes, the assembly line democratized access to cars—but it also entrenched car dependence, reshaped cities, and created environmental burdens.</p>
+<p>Optimistic narratives often downplay the long-term externalities that surface only decades later.</p>
+</section>
+<section id="vorsorgeprinzip-the-forecaring-principle" class="level2">
+<h2 class="anchored" data-anchor-id="vorsorgeprinzip-the-forecaring-principle">Vorsorgeprinzip — The Forecaring Principle</h2>
+<p>The chapter briefly references the <strong>Vorsorgeprinzip</strong>, the German principle that requires proving safety before deployment.</p>
+<p>Hoffman frames this as anti-innovation, but for frontier AI, the precautionary stance may be more reasonable than the American assumption that harms can be corrected after release.</p>
+<p>In a world where accountability is still uncertain, shifting the burden of proof onto developers seems far from unreasonable.</p>
+</section>
+<section id="big-knowledge-and-the-power-of-collective-intelligence" class="level2">
+<h2 class="anchored" data-anchor-id="big-knowledge-and-the-power-of-collective-intelligence">Big Knowledge and the Power of Collective Intelligence</h2>
+<p>The chapter ends by celebrating “<strong>big knowledge</strong>” systems—crowdsourced intelligence such as Google Maps.</p>
+<p>The removal of Selective Availability from GPS becomes a symbol of how public infrastructure can unlock massive private innovation.</p>
+<p>But the optimistic framing skips over deeper vulnerabilities: - overreliance on algorithmic routing, - erosion of embodied geographic knowledge, - infrastructural risks when billions depend on a few proprietary systems.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/018_/placeholder-big-knowledge.jpg" alt="Crowdsourced Knowledge Systems" style="max-width: 450px; max-height: 300px; object-fit: contain; display: block; margin: 20px auto;"></p>
+<p><em>Crowdsourced data builds powerful information systems — and new dependencies</em></p>
+</section>
+<section id="my-running-notes" class="level2">
+<h2 class="anchored" data-anchor-id="my-running-notes">My Running Notes</h2>
+<p>Questions that kept resurfacing as I read: - If testing replaces regulation, who enforces the testers? - When iterative deployment harms people, who is responsible? - Is innovation inherently democratic, or is that an American myth? - Why is speed treated as an unquestioned virtue?</p>
+<p>The book is becoming more persuasive, but the unexamined assumptions remain noticeable.</p>
+</section>
+<section id="final-thoughts" class="level2">
+<h2 class="anchored" data-anchor-id="final-thoughts">Final Thoughts</h2>
+<p>Chapter 5 argues strongly for testing as the engine of progress—and as a viable alternative to regulation. Parts of this resonate, especially the critique that overly restrictive rules can stall innovation.</p>
+<p>But the chapter underestimates the societal risk of treating real users as test subjects for unproven systems. Benchmarks motivate improvement, but they cannot replace governance.</p>
+<p>I left more convinced that testing is essential, but equally convinced that testing alone cannot ensure accountability. Without guardrails, iterative deployment becomes mass experimentation.</p>
+<p>Innovation and recklessness are not synonyms—but the book sometimes blurs that distinction.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>AI</category>
+  <category>book-review</category>
+  <category>skeptical</category>
+  <category>governance</category>
+  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/018_/018.html</guid>
+  <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/018_/superagency-testing-cover.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>NotebookLM for Exam Prep: Gemini’s Research Assistant</title>
   <dc:creator>Raymond Liu Ao</dc:creator>
@@ -199,153 +490,6 @@
   <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/019_/019.html</guid>
   <pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
   <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/019_/notebooklm-interface.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Superagency Review #2: Solutionism vs. Problemism</title>
-  <dc:creator>Raymond Liu Ao</dc:creator>
-  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/018_/018.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="chapter-3-what-could-possibly-go-right" class="level2">
-<h2 class="anchored" data-anchor-id="chapter-3-what-could-possibly-go-right">Chapter 3: What Could Possibly Go Right</h2>
-<p>This is part 2 of my review of Reid Hoffman and Greg Beato’s <em>Superagency</em>. Pages 48-94 cover Chapter 3, titled “What Could Possibly Go Right”—a deliberate play on words. Instead of the usual “what could go wrong,” Hoffman and Beato flip the framing to emphasize opportunity over risk.</p>
-<p>This chapter introduces two competing worldviews: <strong>solutionism</strong> (the tech optimist’s belief that complex problems have technological fixes) and <strong>problemism</strong> (which Hoffman frames as the gloomer’s default mode of focusing on risks and downsides).</p>
-<p>Let me break down why this framing is more complicated than the book presents it.</p>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/018_/superagency-book-cover.jpg" alt="Superagency Book" style="max-width: 450px; max-height: 300px; object-fit: contain; display: block; margin: 20px auto;"></p>
-<p><em>Superagency by Reid Hoffman and Greg Beato</em></p>
-</section>
-<section id="solutionism-technology-as-the-answer" class="level2">
-<h2 class="anchored" data-anchor-id="solutionism-technology-as-the-answer">Solutionism: Technology as the Answer</h2>
-<p>Hoffman defines <strong>solutionism</strong> as the belief that the world’s most vexing challenges have technological fixes. AI, in this view, is one of the most proven levers for creating change at scale.</p>
-<section id="to-what-extent-is-this-true" class="level3">
-<h3 class="anchored" data-anchor-id="to-what-extent-is-this-true">To What Extent Is This True?</h3>
-<p>The book argues that technology has consistently solved major human problems: vaccines eradicated diseases, the internet democratized information, smartphones connected billions of people.</p>
-<p>This is partially true. Technology has solved specific, well-defined problems. But “the world’s most vexing challenges” are rarely technical problems—they’re social, political, and economic problems that happen to have technical components.</p>
-<p>Consider climate change. We have the technology to transition to renewable energy. The “vexing challenge” isn’t the technology—it’s coordinating global political will, managing economic transitions, and overcoming entrenched interests. No AI breakthrough solves those problems.</p>
-</section>
-<section id="the-question-of-scale" class="level3">
-<h3 class="anchored" data-anchor-id="the-question-of-scale">The Question of Scale</h3>
-<p>Hoffman emphasizes that technology creates change “at scale.” This is true—technology can reach millions or billions of people quickly.</p>
-<p>But here’s the critical question the book doesn’t adequately address: <strong>Are the positives of technology distributed evenly at scale?</strong></p>
-<p>The internet connected billions of people, but: - Who profited most? Tech companies and early adopters in wealthy countries - Who bears the costs? Workers displaced by automation, communities disrupted by platform economies, users whose data is monetized - Who gets left behind? People without access, those who can’t afford devices, communities where infrastructure wasn’t built</p>
-<p>Solutionism tends to measure success by aggregate impact while ignoring distributional questions. “We connected 3 billion people” sounds impressive, but if those 3 billion are predominantly in wealthy countries while the other 4 billion remain disconnected, that’s not universal progress.</p>
-</section>
-<section id="is-technology-really-the-most-proven-lever" class="level3">
-<h3 class="anchored" data-anchor-id="is-technology-really-the-most-proven-lever">Is Technology Really the Most Proven Lever?</h3>
-<p>The book asserts that technology is among “the most proven levers for creating change.” But proven in what sense?</p>
-<p>Social movements, policy changes, and institutional reforms have also created massive change at scale: - Civil rights legislation transformed society - Public health systems eradicated diseases (often more than vaccines alone) - Labor organizing improved working conditions - Democratic reforms expanded political participation</p>
-<p>These weren’t primarily technological solutions. They were social and political solutions that sometimes used technology as a tool.</p>
-<p>The solutionist framing centers technology as the primary driver of progress, which minimizes the role of human organization, policy, and collective action.</p>
-</section>
-</section>
-<section id="problemism-the-gloomers-worldview" class="level2">
-<h2 class="anchored" data-anchor-id="problemism-the-gloomers-worldview">Problemism: The Gloomer’s Worldview</h2>
-<p>Hoffman introduces <strong>problemism</strong> as the default mode of skeptics (gloomers like me). Problemists focus on what could go wrong, potential harms, and unintended consequences.</p>
-<p>The chapter frames problemism as: - An obstacle to progress - Overly cautious and risk-averse - Focused on negatives at the expense of recognizing benefits</p>
-<section id="is-this-scapegoating" class="level3">
-<h3 class="anchored" data-anchor-id="is-this-scapegoating">Is This Scapegoating?</h3>
-<p>There’s something convenient about positioning skeptics as the problem. If gloomers are just pessimists who can’t see opportunities, then their concerns can be dismissed as psychological rather than substantive.</p>
-<p>But “problemism” isn’t just pessimism—it’s pattern recognition based on history. Every major technological revolution has produced: - Massive distributional inequalities - Unintended harmful consequences - Power concentration among early adopters - Disruption of existing social structures</p>
-<p>Pointing out these patterns isn’t holding progress back. It’s asking: “Given what we know about past technological disruptions, how can we avoid repeating the same mistakes?”</p>
-</section>
-<section id="has-big-tech-only-created-progress" class="level3">
-<h3 class="anchored" data-anchor-id="has-big-tech-only-created-progress">Has Big Tech Only Created Progress?</h3>
-<p>The book frames problemists as entities “holding progress back.” But this assumes that what Big Tech calls “progress” is universally beneficial.</p>
-<p>Consider social media—a technology that Big Tech champions as connecting humanity: - <strong>Positive:</strong> Enabled global communication, grassroots organizing, democratized content creation - <strong>Negative:</strong> Amplified misinformation, enabled surveillance capitalism, contributed to mental health crises, facilitated political manipulation</p>
-<p>Did social media create progress? For some people, yes. For others, it created new problems. Calling skeptics “problemists” for pointing out the downsides doesn’t make those downsides disappear—it just silences legitimate critique.</p>
-</section>
-<section id="unrestrained-innovation-vs.-thoughtful-innovation" class="level3">
-<h3 class="anchored" data-anchor-id="unrestrained-innovation-vs.-thoughtful-innovation">Unrestrained Innovation vs.&nbsp;Thoughtful Innovation</h3>
-<p>The book frames problemism as harmful to society because it slows down innovation. But here’s the question: <strong>Isn’t stepping back and rethinking innovation, rather than pursuing unrestrained innovation, ultimately good?</strong></p>
-<p>We’ve learned from history that “move fast and break things” causes real harm: - Facebook’s rapid expansion broke democratic discourse - Uber’s disruption broke labor protections - Cryptocurrency’s innovation broke financial stability for many who invested</p>
-<p>“Problemism”—if we’re calling it that—is the practice of asking “should we?” before “can we?” That’s not holding progress back. That’s responsible innovation.</p>
-<p>According to <a href="https://www.nature.com/articles/s42256-021-00445-7">research on responsible AI development</a>, incorporating critical perspectives early in development leads to better outcomes than addressing harms reactively after deployment. “Problemism” is just another term for proactive risk assessment.</p>
-</section>
-</section>
-<section id="the-kokobot-example-when-problemism-was-right" class="level2">
-<h2 class="anchored" data-anchor-id="the-kokobot-example-when-problemism-was-right">The Kokobot Example: When Problemism Was Right</h2>
-<p>Hoffman discusses Kokobot, an AI mental health chatbot that faced significant backlash. The book presents this as an example of how problemism stifles innovation in mental health.</p>
-<p>But let’s look at what actually happened with Kokobot and similar AI mental health tools.</p>
-<section id="the-challenges" class="level3">
-<h3 class="anchored" data-anchor-id="the-challenges">The Challenges</h3>
-<p>Critics raised concerns about: - <strong>Safety:</strong> Could an AI chatbot adequately handle users in crisis? - <strong>Privacy:</strong> Was user mental health data being properly protected? - <strong>Effectiveness:</strong> Did these tools actually help, or just provide the appearance of help? - <strong>Replacement of human care:</strong> Would employers use cheap chatbots instead of providing actual mental health benefits?</p>
-<p>These weren’t hypothetical concerns. Studies showed that: - Some mental health chatbots gave harmful advice during crisis situations - User data from mental health apps was sold to advertisers - Many users reported the chatbots felt impersonal and unhelpful - Companies did use chatbots as cheaper alternatives to human therapists</p>
-</section>
-<section id="the-opportunities" class="level3">
-<h3 class="anchored" data-anchor-id="the-opportunities">The Opportunities</h3>
-<p>Hoffman argues that despite these concerns, AI mental health tools offer opportunities: - Accessible mental health support for underserved populations - 24/7 availability for people in crisis - Reduced stigma through anonymous digital interfaces - Scalable support that human therapists alone can’t provide</p>
-<p>These are real benefits. But here’s where solutionism and problemism diverge:</p>
-<p><strong>Solutionist view:</strong> The technology has benefits, so we should deploy it widely and fix problems as they arise.</p>
-<p><strong>Problemist view:</strong> The technology has serious risks, so we should address those risks before wide deployment.</p>
-</section>
-<section id="who-was-right" class="level3">
-<h3 class="anchored" data-anchor-id="who-was-right">Who Was Right?</h3>
-<p>In the case of Kokobot and similar tools, the “problemists” were vindicated. Multiple mental health chatbots: - Failed to detect suicidal ideation - Gave inappropriate advice - Violated user privacy - Created false sense of receiving adequate care</p>
-<p>The backlash wasn’t people being pessimistic—it was people recognizing that mental health is high-stakes, and deploying untested AI tools in that domain was reckless.</p>
-<p>Hoffman frames this as problemism holding back progress. I’d frame it as problemism preventing harm.</p>
-</section>
-</section>
-<section id="the-false-dichotomy" class="level2">
-<h2 class="anchored" data-anchor-id="the-false-dichotomy">The False Dichotomy</h2>
-<p>The biggest issue with this chapter is how it sets up solutionism vs.&nbsp;problemism as opposing worldviews, with solutionism positioned as forward-thinking and problemism as regressive.</p>
-<p>This is a false dichotomy.</p>
-<section id="you-can-believe-both" class="level3">
-<h3 class="anchored" data-anchor-id="you-can-believe-both">You Can Believe Both</h3>
-<p>It’s possible to believe: - Technology can solve important problems AND - Technology creates serious risks that need careful management</p>
-<p>It’s possible to be: - Excited about AI’s potential AND - Concerned about its misuse</p>
-<p>The productive position isn’t pure solutionism or pure problemism—it’s <strong>conditional optimism</strong>: being optimistic about technology’s potential while insisting on safeguards, accountability, and equitable distribution of benefits.</p>
-</section>
-<section id="the-rhetorical-strategy" class="level3">
-<h3 class="anchored" data-anchor-id="the-rhetorical-strategy">The Rhetorical Strategy</h3>
-<p>By framing critics as “problemists,” Hoffman creates a rhetorical strategy where: - Skepticism = pessimism = obstruction - Optimism = innovation = progress</p>
-<p>This shuts down legitimate critique by making it seem like an attitude problem rather than a substantive concern.</p>
-<p>But asking hard questions isn’t pessimism. It’s due diligence.</p>
-</section>
-<section id="what-this-chapter-misses" class="level3">
-<h3 class="anchored" data-anchor-id="what-this-chapter-misses">What This Chapter Misses</h3>
-<p>The chapter doesn’t adequately address: - <strong>Power dynamics:</strong> Who controls AI development and who benefits? - <strong>Historical patterns:</strong> Why should we expect AI to be different from past technologies in terms of distributional inequity? - <strong>Alternative approaches:</strong> Could we pursue AI development with built-in safeguards rather than the “deploy first, fix later” model? - <strong>The cost of being wrong:</strong> If solutionists are wrong and AI causes serious harm, what’s the cost? If problemists are wrong and we move slower than necessary, what’s the cost?</p>
-<p>Asymmetric risk matters. The cost of deploying harmful AI is potentially much higher than the cost of taking extra time to get it right.</p>
-</section>
-</section>
-<section id="my-take-problemism-is-pattern-recognition" class="level2">
-<h2 class="anchored" data-anchor-id="my-take-problemism-is-pattern-recognition">My Take: Problemism Is Pattern Recognition</h2>
-<p>After reading Chapter 3, I’m more convinced that “problemism”—if we’re calling it that—is necessary and valuable.</p>
-<p>It’s not pessimism. It’s pattern recognition based on history: - The Industrial Revolution increased productivity but created brutal working conditions - Social media connected people but amplified misinformation and surveillance - The internet democratized information but enabled new forms of manipulation</p>
-<p>Every time, the solutionists said “the benefits outweigh the risks, let’s move fast.” Every time, the problemists said “wait, let’s think about the downsides.” And every time, we later discovered the problemists were identifying real issues that should have been addressed earlier.</p>
-<p>Hoffman positions problemism as holding society back. I’d argue problemism is the only thing preventing us from repeating the same mistakes at an accelerated pace.</p>
-<section id="what-good-problemism-looks-like" class="level3">
-<h3 class="anchored" data-anchor-id="what-good-problemism-looks-like">What Good Problemism Looks Like</h3>
-<p>Productive skepticism isn’t just saying “AI bad.” It’s asking: - Who benefits from this technology and who bears the costs? - What safeguards prevent misuse? - How do we ensure benefits are distributed equitably? - What happens if this goes wrong, and how do we mitigate that? - What can we learn from past technological transitions?</p>
-<p>These questions don’t stop innovation. They guide innovation toward better outcomes.</p>
-</section>
-<section id="the-real-question" class="level3">
-<h3 class="anchored" data-anchor-id="the-real-question">The Real Question</h3>
-<p>The chapter asks: “What could possibly go right?”</p>
-<p>But the more important question is: “For whom will things go right, and at whose expense?”</p>
-<p>Solutionism assumes universal benefit. Problemism asks about distribution. And history suggests the problemists are asking the right question.</p>
-<p>I’ll keep reading, but so far, <em>Superagency</em> is making the case for optimism without adequately addressing why past optimism about technology has often proven naive.</p>
-</section>
-</section>
-<section id="up-next" class="level2">
-<h2 class="anchored" data-anchor-id="up-next">Up Next</h2>
-<p>Review #3 will cover pages 95-141. I’m curious to see if the book addresses distributional concerns more seriously, or if it continues positioning skepticism as the primary obstacle to AI progress.</p>
-<p>Stay tuned.</p>
-
-
-</section>
-
- ]]></description>
-  <category>AI</category>
-  <category>book-review</category>
-  <category>skeptical</category>
-  <category>research</category>
-  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/018_/018.html</guid>
-  <pubDate>Sun, 19 Oct 2025 00:00:00 GMT</pubDate>
-  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/018_/superagency-book-cover.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Creating Music with AI: Suno for Marketing Projects</title>
@@ -2182,452 +2326,6 @@ We're captive, our spirits bold</code></pre>
   <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/002_AI_Dos_And_Donts/002.html</guid>
   <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
   <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/002_AI_Dos_And_Donts/ai-safety-guidelines.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>5 Ways to Use AI Every Day</title>
-  <dc:creator>Raymond Liu Ao</dc:creator>
-  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_AI_Daily_Guide/001.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="using-ai-for-daily-tasks" class="level2">
-<h2 class="anchored" data-anchor-id="using-ai-for-daily-tasks">Using AI for Daily Tasks</h2>
-<p>AI tools like ChatGPT and Claude can handle routine tasks that usually take significant time. Here are five practical applications that work reliably.</p>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_AI_Daily_Guide/ai-daily-tasks.jpg" class="img-fluid" alt="AI Daily Tasks"> <em>Common tasks where AI provides immediate value</em></p>
-</section>
-<section id="meal-planning-and-recipes" class="level2">
-<h2 class="anchored" data-anchor-id="meal-planning-and-recipes">1. Meal Planning and Recipes</h2>
-<p>Turn ingredients into meal plans instantly.</p>
-<p><strong>Basic ingredient prompt:</strong></p>
-<pre><code>I have chicken breast, rice, and broccoli. 
-Give me 3 different 30-minute meals with instructions.</code></pre>
-<p><strong>Weekly planning prompt:</strong></p>
-<pre><code>Create a 5-day meal plan for 2 people, $60 budget. 
-Include grocery list organized by store section.</code></pre>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_AI_Daily_Guide/ai-meal-planning.jpg" class="img-fluid" alt="AI Meal Planning"> <em>AI generates recipes based on available ingredients and dietary preferences</em></p>
-<p>AI handles dietary restrictions, cooking time constraints, and budget limitations effectively. The grocery lists are particularly useful since they organize items by store layout.</p>
-</section>
-<section id="email-and-message-writing" class="level2">
-<h2 class="anchored" data-anchor-id="email-and-message-writing">2. Email and Message Writing</h2>
-<p>Improve clarity and tone in professional communication.</p>
-<p><strong>Email revision prompt:</strong></p>
-<pre><code>Make this email more professional and concise:
-[paste your draft]</code></pre>
-<p><strong>Difficult conversation prompt:</strong></p>
-<pre><code>Help me write a polite but firm email declining this request:
-[explain situation]</code></pre>
-<p><strong>Meeting follow-up prompt:</strong></p>
-<pre><code>Draft a follow-up email summarizing these meeting points:
-[list key decisions and action items]</code></pre>
-<p>This works for text messages, LinkedIn messages, and any written communication where tone matters.</p>
-</section>
-<section id="quick-learning-and-research" class="level2">
-<h2 class="anchored" data-anchor-id="quick-learning-and-research">3. Quick Learning and Research</h2>
-<p>Get structured explanations on unfamiliar topics.</p>
-<p><strong>Concept explanation prompt:</strong></p>
-<pre><code>Explain [topic] in simple terms, then give me 
-5 follow-up questions to test my understanding.</code></pre>
-<p><strong>Skill learning prompt:</strong></p>
-<pre><code>I need to learn Excel pivot tables for work. 
-Give me a step-by-step tutorial focusing on the most practical features.</code></pre>
-<p><strong>Research synthesis prompt:</strong></p>
-<pre><code>Compare the top 3 options for [product/service] 
-with pros and cons for each.</code></pre>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_AI_Daily_Guide/ai-learning-interface.jpg" class="img-fluid" alt="AI Learning Assistant"> <em>AI breaks down complex topics into manageable learning steps</em></p>
-<p>AI excels at creating structured learning paths and synthesizing information from multiple angles.</p>
-</section>
-<section id="travel-and-event-planning" class="level2">
-<h2 class="anchored" data-anchor-id="travel-and-event-planning">4. Travel and Event Planning</h2>
-<p>Generate detailed itineraries and logistics.</p>
-<p><strong>Trip planning prompt:</strong></p>
-<pre><code>Plan a 3-day weekend trip to [destination] for [number] people 
-with a $[amount] budget. Include transportation, accommodation, 
-and daily activities.</code></pre>
-<p><strong>Local exploration prompt:</strong></p>
-<pre><code>What are 5 lesser-known attractions in [city] 
-that locals recommend?</code></pre>
-<p><strong>Event planning prompt:</strong></p>
-<pre><code>Create a timeline and checklist for planning a 
-[birthday party/dinner party/work event] for [number] people.</code></pre>
-<p>AI handles multiple constraints simultaneously - budget, time, preferences, and logistics.</p>
-</section>
-<section id="home-management-and-finances" class="level2">
-<h2 class="anchored" data-anchor-id="home-management-and-finances">5. Home Management and Finances</h2>
-<p>Get practical advice for household and money management.</p>
-<p><strong>Home maintenance prompt:</strong></p>
-<pre><code>My [appliance/fixture] is [problem description]. 
-Walk me through troubleshooting steps from simple to complex.</code></pre>
-<p><strong>Budget planning prompt:</strong></p>
-<pre><code>I make $[amount] monthly, fixed expenses are $[amount]. 
-Create a realistic budget with savings and discretionary spending.</code></pre>
-<p><strong>Purchase decision prompt:</strong></p>
-<pre><code>I'm considering buying [item] for [purpose]. 
-What factors should I evaluate? Create a decision framework.</code></pre>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_AI_Daily_Guide/ai-budget-planning.jpg" class="img-fluid" alt="AI Home Finance"> <em>AI provides structured approaches to financial and household decisions</em></p>
-<p>These applications work because AI can process multiple variables and provide step-by-step guidance for complex decisions.</p>
-</section>
-<section id="implementation-notes" class="level2">
-<h2 class="anchored" data-anchor-id="implementation-notes">Implementation Notes</h2>
-<p><strong>Prompt specificity matters.</strong> Include relevant details like budget, timeframe, number of people, and specific constraints.</p>
-<p><strong>Follow-up questions improve results.</strong> Ask for alternatives, simplifications, or additional detail as needed.</p>
-<p><strong>Save effective prompts.</strong> Keep a note file with prompts that work well for repeated use.</p>
-<p>These five applications cover the most common daily planning and decision-making tasks. Each provides immediate time savings and often produces better results than manual research.</p>
-
-
-</section>
-
- ]]></description>
-  <category>AI</category>
-  <category>productivity</category>
-  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_AI_Daily_Guide/001.html</guid>
-  <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
-  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_AI_Daily_Guide/ai-daily-tasks.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>How AI Systems Work: A Technical Overview</title>
-  <dc:creator>Raymond Liu Ao</dc:creator>
-  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_How_Does_AI_Really_Work/000.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="understanding-modern-ai-systems" class="level2">
-<h2 class="anchored" data-anchor-id="understanding-modern-ai-systems">Understanding Modern AI Systems</h2>
-<p>Artificial intelligence systems like ChatGPT and Claude can engage in conversations, solve problems, and generate content. However, their underlying mechanisms are fundamentally different from human cognition.</p>
-<p>These systems operate as sophisticated pattern recognition and prediction engines. While they can produce human-like responses, they function by identifying statistical patterns in data rather than developing conceptual understanding.</p>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_How_Does_AI_Really_Work/neural-network-brain.jpg" class="img-fluid" alt="Neural Network vs Brain"> <em>AI neural networks are inspired by brain structure but operate through different mechanisms</em></p>
-<blockquote class="blockquote">
-<p><strong>Key Question:</strong> How do statistical pattern-matching systems produce seemingly intelligent behavior?</p>
-</blockquote>
-</section>
-<section id="core-architecture-prediction-systems" class="level2">
-<h2 class="anchored" data-anchor-id="core-architecture-prediction-systems">Core Architecture: Prediction Systems</h2>
-<p>Modern AI systems solve a fundamental prediction problem: given an input, determine the most statistically likely output. This applies whether predicting the next word in text, pixels in an image, or moves in a game.</p>
-<section id="transformer-architecture" class="level3">
-<h3 class="anchored" data-anchor-id="transformer-architecture">Transformer Architecture</h3>
-<p>Current large language models like GPT-4 and Claude use transformer architecture:</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># Simplified transformer process</span></span>
-<span id="cb1-2"><span class="kw" style="color: #003B4F;
-background-color: null;
-font-weight: bold;
-font-style: inherit;">def</span> transformer_prediction(input_text):</span>
-<span id="cb1-3">    tokens <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">=</span> tokenize(input_text)  <span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># Convert text to processable units</span></span>
-<span id="cb1-4">    embeddings <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">=</span> convert_to_vectors(tokens)  <span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># Map to numerical representations</span></span>
-<span id="cb1-5">    </span>
-<span id="cb1-6">    <span class="cf" style="color: #003B4F;
-background-color: null;
-font-weight: bold;
-font-style: inherit;">for</span> layer <span class="kw" style="color: #003B4F;
-background-color: null;
-font-weight: bold;
-font-style: inherit;">in</span> neural_layers:</span>
-<span id="cb1-7">        embeddings <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">=</span> attention_mechanism(embeddings)  <span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># Identify relationships</span></span>
-<span id="cb1-8">        embeddings <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">=</span> feed_forward(embeddings)  <span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># Process patterns</span></span>
-<span id="cb1-9">    </span>
-<span id="cb1-10">    <span class="cf" style="color: #003B4F;
-background-color: null;
-font-weight: bold;
-font-style: inherit;">return</span> predict_next_token(embeddings)  <span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># Generate most likely continuation</span></span></code></pre></div></div>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_How_Does_AI_Really_Work/transformer-architecture.jpg" class="img-fluid" alt="Transformer Architecture"> <em>Transformer architecture with attention and processing layers</em></p>
-<p>Modern systems operate at significant scale. GPT-3 contains 175 billion parameters trained on 45TB of text data. GPT-4 is estimated to exceed 1 trillion parameters with correspondingly higher computational requirements.</p>
-</section>
-<section id="attention-mechanisms" class="level3">
-<h3 class="anchored" data-anchor-id="attention-mechanisms">Attention Mechanisms</h3>
-<p>The attention mechanism enables models to focus selectively on different input elements when making predictions.</p>
-<p><strong>Example:</strong> “The cat sat on the mat because it was comfortable.”</p>
-<p>When determining what “it” refers to, the attention mechanism assigns weights: - “cat” (high attention - 0.7) - “mat” (medium attention - 0.2) - “sat” (low attention - 0.1)</p>
-<p>This mechanism allows processing of relationships between distant elements in sequences.</p>
-</section>
-</section>
-<section id="training-process" class="level2">
-<h2 class="anchored" data-anchor-id="training-process">Training Process</h2>
-<p>AI system development occurs through structured training phases that determine capabilities and limitations.</p>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_How_Does_AI_Really_Work/ai-training-process.jpg" class="img-fluid" alt="AI Training Process"> <em>Complete pipeline from data collection to deployed system</em></p>
-<section id="phase-1-pre-training" class="level3">
-<h3 class="anchored" data-anchor-id="phase-1-pre-training">Phase 1: Pre-training</h3>
-<p>Systems learn from large text datasets through next-token prediction:</p>
-<ol type="1">
-<li><strong>Data Collection</strong>: Process text from websites, books, and articles</li>
-<li><strong>Tokenization</strong>: Convert text to discrete units for processing</li>
-<li><strong>Prediction Training</strong>: Train models to predict missing tokens in sequences</li>
-<li><strong>Parameter Adjustment</strong>: Iteratively modify billions of parameters based on prediction accuracy</li>
-</ol>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># Simplified training loop</span></span>
-<span id="cb2-2"><span class="cf" style="color: #003B4F;
-background-color: null;
-font-weight: bold;
-font-style: inherit;">for</span> epoch <span class="kw" style="color: #003B4F;
-background-color: null;
-font-weight: bold;
-font-style: inherit;">in</span> <span class="bu" style="color: null;
-background-color: null;
-font-style: inherit;">range</span>(many_epochs):</span>
-<span id="cb2-3">    <span class="cf" style="color: #003B4F;
-background-color: null;
-font-weight: bold;
-font-style: inherit;">for</span> text_chunk <span class="kw" style="color: #003B4F;
-background-color: null;
-font-weight: bold;
-font-style: inherit;">in</span> massive_dataset:</span>
-<span id="cb2-4">        input_tokens <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">=</span> text_chunk[:<span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">-</span><span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span>]  <span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># Input sequence</span></span>
-<span id="cb2-5">        target_token <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">=</span> text_chunk[<span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">-</span><span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span>]   <span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># Target prediction</span></span>
-<span id="cb2-6">        </span>
-<span id="cb2-7">        prediction <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">=</span> model(input_tokens)</span>
-<span id="cb2-8">        loss <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">=</span> calculate_error(prediction, target_token)</span>
-<span id="cb2-9">        </span>
-<span id="cb2-10">        <span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># Update model parameters</span></span>
-<span id="cb2-11">        model.update_weights(loss.gradient())</span></code></pre></div></div>
-</section>
-<section id="phase-2-fine-tuning" class="level3">
-<h3 class="anchored" data-anchor-id="phase-2-fine-tuning">Phase 2: Fine-tuning</h3>
-<p>Pre-trained models are refined for specific applications:</p>
-<ul>
-<li><strong>Supervised Fine-tuning</strong>: Training on curated question-answer pairs</li>
-<li><strong>Reinforcement Learning from Human Feedback (RLHF)</strong>: Using human preferences to shape responses</li>
-<li><strong>Safety Training</strong>: Implementing guidelines to avoid harmful outputs</li>
-</ul>
-<p>This process transforms basic text predictors into conversational assistants.</p>
-</section>
-</section>
-<section id="emergent-capabilities" class="level2">
-<h2 class="anchored" data-anchor-id="emergent-capabilities">Emergent Capabilities</h2>
-<p>Large-scale training produces capabilities that weren’t explicitly programmed. These emergent abilities arise from complex interactions between simple components.</p>
-<section id="examples-of-emergence" class="level3">
-<h3 class="anchored" data-anchor-id="examples-of-emergence">Examples of Emergence</h3>
-<p>As model size increases, new capabilities develop:</p>
-<p><strong>Chain-of-Thought Reasoning</strong>: Models develop step-by-step problem-solving approaches without explicit training on this strategy.</p>
-<p><strong>In-Context Learning</strong>: Systems can perform new tasks based on examples in prompts without additional training.</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3" style="background: #f1f3f5;"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb3-1"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># Example of in-context learning</span></span>
-<span id="cb3-2">prompt <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">=</span> <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"""</span></span>
-<span id="cb3-3"><span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">Translate English to French:</span></span>
-<span id="cb3-4"><span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">Hello → Bonjour</span></span>
-<span id="cb3-5"><span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">Goodbye → Au revoir</span></span>
-<span id="cb3-6"><span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">Thank you → Merci</span></span>
-<span id="cb3-7"><span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">Good morning → </span></span>
-<span id="cb3-8"><span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"""</span></span>
-<span id="cb3-9"></span>
-<span id="cb3-10"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># Model produces "Bonjour" despite no explicit</span></span>
-<span id="cb3-11"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># training on this translation task</span></span></code></pre></div></div>
-<p><strong>Cross-Lingual Transfer</strong>: Models trained primarily on English can operate effectively in other languages.</p>
-<p>The mechanisms underlying emergence remain an active research area, with theories including phase transitions, increased representational capacity, and pattern recognition thresholds.</p>
-</section>
-</section>
-<section id="system-limitations" class="level2">
-<h2 class="anchored" data-anchor-id="system-limitations">System Limitations</h2>
-<p>Current AI systems have several fundamental constraints that stem from their statistical architecture:</p>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_How_Does_AI_Really_Work/ai-limitations-chart.jpg" class="img-fluid" alt="AI Limitations Chart"> <em>Overview of AI system capabilities and constraints</em></p>
-<section id="pattern-matching-vs.-understanding" class="level3">
-<h3 class="anchored" data-anchor-id="pattern-matching-vs.-understanding">Pattern Matching vs.&nbsp;Understanding</h3>
-<p>AI systems process statistical relationships in symbols rather than developing conceptual understanding. They can accurately reproduce information without grasping underlying mechanisms.</p>
-<p><strong>Example</strong>: A system can state that “water boils at 100°C” without understanding molecular behavior, phase transitions, or the physical processes involved.</p>
-</section>
-<section id="output-generation-under-uncertainty" class="level3">
-<h3 class="anchored" data-anchor-id="output-generation-under-uncertainty">Output Generation Under Uncertainty</h3>
-<p>Systems are designed to produce responses even when lacking relevant information, leading to plausible but potentially inaccurate outputs.</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4" style="background: #f1f3f5;"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb4-1"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># Simplified response generation</span></span>
-<span id="cb4-2"><span class="kw" style="color: #003B4F;
-background-color: null;
-font-weight: bold;
-font-style: inherit;">def</span> generate_response(query):</span>
-<span id="cb4-3">    <span class="cf" style="color: #003B4F;
-background-color: null;
-font-weight: bold;
-font-style: inherit;">if</span> confidence_score <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&gt;</span> threshold:</span>
-<span id="cb4-4">        <span class="cf" style="color: #003B4F;
-background-color: null;
-font-weight: bold;
-font-style: inherit;">return</span> retrieve_known_information(query)</span>
-<span id="cb4-5">    <span class="cf" style="color: #003B4F;
-background-color: null;
-font-weight: bold;
-font-style: inherit;">else</span>:</span>
-<span id="cb4-6">        <span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># System still generates output</span></span>
-<span id="cb4-7">        <span class="cf" style="color: #003B4F;
-background-color: null;
-font-weight: bold;
-font-style: inherit;">return</span> generate_plausible_response(query)</span></code></pre></div></div>
-</section>
-<section id="training-data-constraints" class="level3">
-<h3 class="anchored" data-anchor-id="training-data-constraints">Training Data Constraints</h3>
-<p>Models are limited by their training data cutoff and cannot incorporate new information without retraining.</p>
-</section>
-<section id="memory-limitations" class="level3">
-<h3 class="anchored" data-anchor-id="memory-limitations">Memory Limitations</h3>
-<p>Current systems can process limited context windows (typically 4,000-128,000 tokens) with no persistent memory between conversations.</p>
-</section>
-<section id="correlation-vs.-causation" class="level3">
-<h3 class="anchored" data-anchor-id="correlation-vs.-causation">Correlation vs.&nbsp;Causation</h3>
-<p>Systems excel at identifying statistical correlations but have limited understanding of causal relationships. They may recognize that umbrella sales correlate with rain without understanding the causal mechanism.</p>
-</section>
-</section>
-<section id="practical-implications" class="level2">
-<h2 class="anchored" data-anchor-id="practical-implications">Practical Implications</h2>
-<p>Understanding AI architecture has important implications for effective use:</p>
-<section id="system-strengths" class="level3">
-<h3 class="anchored" data-anchor-id="system-strengths">System Strengths</h3>
-<ul>
-<li>Pattern recognition and text generation capabilities</li>
-<li>Rapid processing of large information sets</li>
-<li>Accessible interface for complex tasks</li>
-<li>Consistent performance within training domains</li>
-</ul>
-</section>
-<section id="appropriate-applications" class="level3">
-<h3 class="anchored" data-anchor-id="appropriate-applications">Appropriate Applications</h3>
-<ul>
-<li>Content drafting and editing</li>
-<li>Information synthesis from known sources</li>
-<li>Code generation and debugging assistance</li>
-<li>Language translation</li>
-<li>Creative brainstorming</li>
-</ul>
-</section>
-<section id="best-practices" class="level3">
-<h3 class="anchored" data-anchor-id="best-practices">Best Practices</h3>
-<ol type="1">
-<li><strong>Verify Important Information</strong>: Fact-check outputs for critical applications</li>
-<li><strong>Understand Limitations</strong>: Recognize domain constraints and knowledge cutoffs</li>
-<li><strong>Maintain Human Oversight</strong>: Keep humans involved in important decisions</li>
-<li><strong>Recognize Bias</strong>: Be aware that systems reflect training data biases</li>
-<li><strong>Use as Tools</strong>: Apply systems as analytical instruments rather than authoritative sources</li>
-</ol>
-</section>
-</section>
-<section id="future-development" class="level2">
-<h2 class="anchored" data-anchor-id="future-development">Future Development</h2>
-<p>Current AI systems represent early implementations of statistical learning approaches. Several research directions may expand capabilities:</p>
-<section id="near-term-developments-1-3-years" class="level3">
-<h3 class="anchored" data-anchor-id="near-term-developments-1-3-years">Near-Term Developments (1-3 years)</h3>
-<ul>
-<li>Multimodal systems integrating text, images, audio, and video</li>
-<li>Extended context windows for longer conversations and documents</li>
-<li>Improved reasoning and problem-solving capabilities</li>
-<li>Specialized models optimized for specific domains</li>
-</ul>
-</section>
-<section id="long-term-research-areas-10-years" class="level3">
-<h3 class="anchored" data-anchor-id="long-term-research-areas-10-years">Long-Term Research Areas (10+ years)</h3>
-<ul>
-<li>Artificial General Intelligence research</li>
-<li>Questions about machine consciousness and subjective experience</li>
-<li>AI alignment and safety considerations</li>
-</ul>
-</section>
-<section id="active-research-questions" class="level3">
-<h3 class="anchored" data-anchor-id="active-research-questions">Active Research Questions</h3>
-<p>Researchers are investigating fundamental questions:</p>
-<ul>
-<li><strong>Scaling Laws</strong>: Relationships between model size, data, and capabilities</li>
-<li><strong>Emergence Mechanisms</strong>: Why new abilities appear at certain scales</li>
-<li><strong>Alignment</strong>: Ensuring AI systems operate according to intended objectives</li>
-<li><strong>Interpretability</strong>: Understanding internal model representations and processes</li>
-</ul>
-</section>
-</section>
-<section id="summary" class="level2">
-<h2 class="anchored" data-anchor-id="summary">Summary</h2>
-<p>Modern AI systems represent sophisticated statistical engines that process patterns in data to generate human-like outputs. While they demonstrate impressive capabilities, they operate through pattern matching rather than conceptual understanding.</p>
-<section id="key-technical-points" class="level3">
-<h3 class="anchored" data-anchor-id="key-technical-points">Key Technical Points</h3>
-<p>Current AI systems achieve intelligent-seeming behavior through statistical pattern processing rather than understanding. This approach has several implications:</p>
-<ul>
-<li><strong>For Users</strong>: Understanding system strengths and limitations enables more effective application</li>
-<li><strong>For Organizations</strong>: Appropriate use requires human oversight and verification processes</li>
-<li><strong>For Society</strong>: New frameworks are needed for evaluating machine capabilities and limitations</li>
-</ul>
-<p>Statistical pattern matching at scale produces sophisticated behavior, suggesting that aspects of intelligence may be more computational than previously understood.</p>
-<p>As these systems become more prevalent, understanding their statistical nature becomes increasingly important for effective implementation. The technology continues evolving rapidly, with ongoing research addressing questions about scaling, emergence, and alignment with human objectives.</p>
-<p>The field represents significant progress in automated pattern recognition and generation, with continued development likely to expand capabilities while maintaining the fundamental statistical architecture.</p>
-<hr>
-<p><strong>Understanding the technical foundations of AI systems helps inform appropriate use and realistic expectations about current capabilities.</strong></p>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>AI</category>
-  <category>technology</category>
-  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_How_Does_AI_Really_Work/000.html</guid>
-  <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
-  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_How_Does_AI_Really_Work/neural-network-brain.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

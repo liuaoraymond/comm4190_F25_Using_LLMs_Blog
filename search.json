@@ -184,58 +184,79 @@
   {
     "objectID": "posts/018_/018.html",
     "href": "posts/018_/018.html",
-    "title": "Superagency Review #2: Solutionism vs. Problemism",
+    "title": "Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation",
     "section": "",
-    "text": "This is part 2 of my review of Reid Hoffman and Greg Beato’s Superagency. Pages 48-94 cover Chapter 3, titled “What Could Possibly Go Right”—a deliberate play on words. Instead of the usual “what could go wrong,” Hoffman and Beato flip the framing to emphasize opportunity over risk.\nThis chapter introduces two competing worldviews: solutionism (the tech optimist’s belief that complex problems have technological fixes) and problemism (which Hoffman frames as the gloomer’s default mode of focusing on risks and downsides).\nLet me break down why this framing is more complicated than the book presents it.\n\nSuperagency by Reid Hoffman and Greg Beato"
+    "text": "This section covers pages 99 through roughly 143 of Superagency. Here, Hoffman and Beato pivot from broad optimism to a more operational argument: that testing, benchmarking, and competitive iteration are the core engines of AI progress.\nThe chapter frames testing as not just an engineering practice but a national philosophy—one tied to American innovation culture, competition with China, and a belief that openness accelerates breakthroughs.\nSome parts of the argument were more persuasive than earlier chapters. Others reinforced my anxieties about the increasingly competitive, quasi-militarized framing of AI development.\n\nTesting as the cultural engine of AI development"
   },
   {
-    "objectID": "posts/018_/018.html#chapter-3-what-could-possibly-go-right",
-    "href": "posts/018_/018.html#chapter-3-what-could-possibly-go-right",
-    "title": "Superagency Review #2: Solutionism vs. Problemism",
+    "objectID": "posts/018_/018.html#chapter-5-testing-testing-1-2-infinite",
+    "href": "posts/018_/018.html#chapter-5-testing-testing-1-2-infinite",
+    "title": "Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation",
     "section": "",
-    "text": "This is part 2 of my review of Reid Hoffman and Greg Beato’s Superagency. Pages 48-94 cover Chapter 3, titled “What Could Possibly Go Right”—a deliberate play on words. Instead of the usual “what could go wrong,” Hoffman and Beato flip the framing to emphasize opportunity over risk.\nThis chapter introduces two competing worldviews: solutionism (the tech optimist’s belief that complex problems have technological fixes) and problemism (which Hoffman frames as the gloomer’s default mode of focusing on risks and downsides).\nLet me break down why this framing is more complicated than the book presents it.\n\nSuperagency by Reid Hoffman and Greg Beato"
+    "text": "This section covers pages 99 through roughly 143 of Superagency. Here, Hoffman and Beato pivot from broad optimism to a more operational argument: that testing, benchmarking, and competitive iteration are the core engines of AI progress.\nThe chapter frames testing as not just an engineering practice but a national philosophy—one tied to American innovation culture, competition with China, and a belief that openness accelerates breakthroughs.\nSome parts of the argument were more persuasive than earlier chapters. Others reinforced my anxieties about the increasingly competitive, quasi-militarized framing of AI development.\n\nTesting as the cultural engine of AI development"
   },
   {
-    "objectID": "posts/018_/018.html#solutionism-technology-as-the-answer",
-    "href": "posts/018_/018.html#solutionism-technology-as-the-answer",
-    "title": "Superagency Review #2: Solutionism vs. Problemism",
-    "section": "Solutionism: Technology as the Answer",
-    "text": "Solutionism: Technology as the Answer\nHoffman defines solutionism as the belief that the world’s most vexing challenges have technological fixes. AI, in this view, is one of the most proven levers for creating change at scale.\n\nTo What Extent Is This True?\nThe book argues that technology has consistently solved major human problems: vaccines eradicated diseases, the internet democratized information, smartphones connected billions of people.\nThis is partially true. Technology has solved specific, well-defined problems. But “the world’s most vexing challenges” are rarely technical problems—they’re social, political, and economic problems that happen to have technical components.\nConsider climate change. We have the technology to transition to renewable energy. The “vexing challenge” isn’t the technology—it’s coordinating global political will, managing economic transitions, and overcoming entrenched interests. No AI breakthrough solves those problems.\n\n\nThe Question of Scale\nHoffman emphasizes that technology creates change “at scale.” This is true—technology can reach millions or billions of people quickly.\nBut here’s the critical question the book doesn’t adequately address: Are the positives of technology distributed evenly at scale?\nThe internet connected billions of people, but: - Who profited most? Tech companies and early adopters in wealthy countries - Who bears the costs? Workers displaced by automation, communities disrupted by platform economies, users whose data is monetized - Who gets left behind? People without access, those who can’t afford devices, communities where infrastructure wasn’t built\nSolutionism tends to measure success by aggregate impact while ignoring distributional questions. “We connected 3 billion people” sounds impressive, but if those 3 billion are predominantly in wealthy countries while the other 4 billion remain disconnected, that’s not universal progress.\n\n\nIs Technology Really the Most Proven Lever?\nThe book asserts that technology is among “the most proven levers for creating change.” But proven in what sense?\nSocial movements, policy changes, and institutional reforms have also created massive change at scale: - Civil rights legislation transformed society - Public health systems eradicated diseases (often more than vaccines alone) - Labor organizing improved working conditions - Democratic reforms expanded political participation\nThese weren’t primarily technological solutions. They were social and political solutions that sometimes used technology as a tool.\nThe solutionist framing centers technology as the primary driver of progress, which minimizes the role of human organization, policy, and collective action."
+    "objectID": "posts/018_/018.html#the-cold-war-framing",
+    "href": "posts/018_/018.html#the-cold-war-framing",
+    "title": "Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation",
+    "section": "The Cold War Framing",
+    "text": "The Cold War Framing\nHoffman highlights how phrases like “AI arms race” and “AI Space Race” dominate media coverage. He treats these metaphors as motivational—language that accelerates innovation and keeps America competitive.\nBut Cold War framing has consequences: - It implies existential stakes. - It normalizes urgency over deliberation. - It positions being second as failure. - It pushes policymakers toward reactionary speed.\nMy concern: emergency framing suppresses dissent. In Cold War logic, slowing down or questioning the dominant approach becomes coded as weakness, not prudence."
   },
   {
-    "objectID": "posts/018_/018.html#problemism-the-gloomers-worldview",
-    "href": "posts/018_/018.html#problemism-the-gloomers-worldview",
-    "title": "Superagency Review #2: Solutionism vs. Problemism",
-    "section": "Problemism: The Gloomer’s Worldview",
-    "text": "Problemism: The Gloomer’s Worldview\nHoffman introduces problemism as the default mode of skeptics (gloomers like me). Problemists focus on what could go wrong, potential harms, and unintended consequences.\nThe chapter frames problemism as: - An obstacle to progress - Overly cautious and risk-averse - Focused on negatives at the expense of recognizing benefits\n\nIs This Scapegoating?\nThere’s something convenient about positioning skeptics as the problem. If gloomers are just pessimists who can’t see opportunities, then their concerns can be dismissed as psychological rather than substantive.\nBut “problemism” isn’t just pessimism—it’s pattern recognition based on history. Every major technological revolution has produced: - Massive distributional inequalities - Unintended harmful consequences - Power concentration among early adopters - Disruption of existing social structures\nPointing out these patterns isn’t holding progress back. It’s asking: “Given what we know about past technological disruptions, how can we avoid repeating the same mistakes?”\n\n\nHas Big Tech Only Created Progress?\nThe book frames problemists as entities “holding progress back.” But this assumes that what Big Tech calls “progress” is universally beneficial.\nConsider social media—a technology that Big Tech champions as connecting humanity: - Positive: Enabled global communication, grassroots organizing, democratized content creation - Negative: Amplified misinformation, enabled surveillance capitalism, contributed to mental health crises, facilitated political manipulation\nDid social media create progress? For some people, yes. For others, it created new problems. Calling skeptics “problemists” for pointing out the downsides doesn’t make those downsides disappear—it just silences legitimate critique.\n\n\nUnrestrained Innovation vs. Thoughtful Innovation\nThe book frames problemism as harmful to society because it slows down innovation. But here’s the question: Isn’t stepping back and rethinking innovation, rather than pursuing unrestrained innovation, ultimately good?\nWe’ve learned from history that “move fast and break things” causes real harm: - Facebook’s rapid expansion broke democratic discourse - Uber’s disruption broke labor protections - Cryptocurrency’s innovation broke financial stability for many who invested\n“Problemism”—if we’re calling it that—is the practice of asking “should we?” before “can we?” That’s not holding progress back. That’s responsible innovation.\nAccording to research on responsible AI development, incorporating critical perspectives early in development leads to better outcomes than addressing harms reactively after deployment. “Problemism” is just another term for proactive risk assessment."
+    "objectID": "posts/018_/018.html#democracy-as-competitive-advantage-or-ideological-comfort",
+    "href": "posts/018_/018.html#democracy-as-competitive-advantage-or-ideological-comfort",
+    "title": "Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation",
+    "section": "Democracy as Competitive Advantage — Or Ideological Comfort?",
+    "text": "Democracy as Competitive Advantage — Or Ideological Comfort?\nThe book claims repeatedly that America remains ahead because democratic systems foster trial-and-error innovation, whereas China takes a more precautionary, state-driven approach.\nThe implicit argument: American dynamism is the only acceptable global leadership model.\nBut this raises real questions: - Why is American dominance assumed to be morally superior? - What is inherently wrong with China being technologically ahead? - Are both systems inadequate for frontier AI, in different ways?\nThe authors rely heavily on the contrast between “innocent until proven guilty” innovation (America) and “guilty until proven safe” (China). But frontier AI may require a governance approach that is neither extreme."
   },
   {
-    "objectID": "posts/018_/018.html#the-kokobot-example-when-problemism-was-right",
-    "href": "posts/018_/018.html#the-kokobot-example-when-problemism-was-right",
-    "title": "Superagency Review #2: Solutionism vs. Problemism",
-    "section": "The Kokobot Example: When Problemism Was Right",
-    "text": "The Kokobot Example: When Problemism Was Right\nHoffman discusses Kokobot, an AI mental health chatbot that faced significant backlash. The book presents this as an example of how problemism stifles innovation in mental health.\nBut let’s look at what actually happened with Kokobot and similar AI mental health tools.\n\nThe Challenges\nCritics raised concerns about: - Safety: Could an AI chatbot adequately handle users in crisis? - Privacy: Was user mental health data being properly protected? - Effectiveness: Did these tools actually help, or just provide the appearance of help? - Replacement of human care: Would employers use cheap chatbots instead of providing actual mental health benefits?\nThese weren’t hypothetical concerns. Studies showed that: - Some mental health chatbots gave harmful advice during crisis situations - User data from mental health apps was sold to advertisers - Many users reported the chatbots felt impersonal and unhelpful - Companies did use chatbots as cheaper alternatives to human therapists\n\n\nThe Opportunities\nHoffman argues that despite these concerns, AI mental health tools offer opportunities: - Accessible mental health support for underserved populations - 24/7 availability for people in crisis - Reduced stigma through anonymous digital interfaces - Scalable support that human therapists alone can’t provide\nThese are real benefits. But here’s where solutionism and problemism diverge:\nSolutionist view: The technology has benefits, so we should deploy it widely and fix problems as they arise.\nProblemist view: The technology has serious risks, so we should address those risks before wide deployment.\n\n\nWho Was Right?\nIn the case of Kokobot and similar tools, the “problemists” were vindicated. Multiple mental health chatbots: - Failed to detect suicidal ideation - Gave inappropriate advice - Violated user privacy - Created false sense of receiving adequate care\nThe backlash wasn’t people being pessimistic—it was people recognizing that mental health is high-stakes, and deploying untested AI tools in that domain was reckless.\nHoffman frames this as problemism holding back progress. I’d frame it as problemism preventing harm."
+    "objectID": "posts/018_/018.html#benchmarks-as-pseudo-regulation",
+    "href": "posts/018_/018.html#benchmarks-as-pseudo-regulation",
+    "title": "Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation",
+    "section": "Benchmarks as Pseudo-Regulation",
+    "text": "Benchmarks as Pseudo-Regulation\nOne of the chapter’s central claims is that benchmarks can substitute for regulation—that shared tests create a culture of continuous improvement.\nPage 105 captures the ethos:\n\n“Testing elevates the focus from compliance to continuous improvement. It’s regulation, gamified.”\n\nThis framing is clever, but it’s also dangerous.\nGamifying regulation creates incentives to: - optimize narrowly for the benchmark, - use metrics as PR tools, - cherry-pick tests, - ignore safety dimensions that are hard to measure.\nBenchmarks motivate progress, but they do not replace regulatory enforcement. Safety cannot rely on voluntary participation alone."
   },
   {
-    "objectID": "posts/018_/018.html#the-false-dichotomy",
-    "href": "posts/018_/018.html#the-false-dichotomy",
-    "title": "Superagency Review #2: Solutionism vs. Problemism",
-    "section": "The False Dichotomy",
-    "text": "The False Dichotomy\nThe biggest issue with this chapter is how it sets up solutionism vs. problemism as opposing worldviews, with solutionism positioned as forward-thinking and problemism as regressive.\nThis is a false dichotomy.\n\nYou Can Believe Both\nIt’s possible to believe: - Technology can solve important problems AND - Technology creates serious risks that need careful management\nIt’s possible to be: - Excited about AI’s potential AND - Concerned about its misuse\nThe productive position isn’t pure solutionism or pure problemism—it’s conditional optimism: being optimistic about technology’s potential while insisting on safeguards, accountability, and equitable distribution of benefits.\n\n\nThe Rhetorical Strategy\nBy framing critics as “problemists,” Hoffman creates a rhetorical strategy where: - Skepticism = pessimism = obstruction - Optimism = innovation = progress\nThis shuts down legitimate critique by making it seem like an attitude problem rather than a substantive concern.\nBut asking hard questions isn’t pessimism. It’s due diligence.\n\n\nWhat This Chapter Misses\nThe chapter doesn’t adequately address: - Power dynamics: Who controls AI development and who benefits? - Historical patterns: Why should we expect AI to be different from past technologies in terms of distributional inequity? - Alternative approaches: Could we pursue AI development with built-in safeguards rather than the “deploy first, fix later” model? - The cost of being wrong: If solutionists are wrong and AI causes serious harm, what’s the cost? If problemists are wrong and we move slower than necessary, what’s the cost?\nAsymmetric risk matters. The cost of deploying harmful AI is potentially much higher than the cost of taking extra time to get it right."
+    "objectID": "posts/018_/018.html#why-is-ai-expected-to-be-perfect",
+    "href": "posts/018_/018.html#why-is-ai-expected-to-be-perfect",
+    "title": "Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation",
+    "section": "Why Is AI Expected to Be Perfect?",
+    "text": "Why Is AI Expected to Be Perfect?\nHoffman argues that society holds AI to unrealistic standards, demanding near-zero error rates, while human systems are full of mistakes.\nBut the comparison misses key points: - AI errors can scale instantly to millions. - AI failures are systemic and correlated. - AI decisions lack transparency and explainability.\nThe demand isn’t for perfection—it’s for predictable, accountable risk in systems that can impact entire populations simultaneously."
   },
   {
-    "objectID": "posts/018_/018.html#my-take-problemism-is-pattern-recognition",
-    "href": "posts/018_/018.html#my-take-problemism-is-pattern-recognition",
-    "title": "Superagency Review #2: Solutionism vs. Problemism",
-    "section": "My Take: Problemism Is Pattern Recognition",
-    "text": "My Take: Problemism Is Pattern Recognition\nAfter reading Chapter 3, I’m more convinced that “problemism”—if we’re calling it that—is necessary and valuable.\nIt’s not pessimism. It’s pattern recognition based on history: - The Industrial Revolution increased productivity but created brutal working conditions - Social media connected people but amplified misinformation and surveillance - The internet democratized information but enabled new forms of manipulation\nEvery time, the solutionists said “the benefits outweigh the risks, let’s move fast.” Every time, the problemists said “wait, let’s think about the downsides.” And every time, we later discovered the problemists were identifying real issues that should have been addressed earlier.\nHoffman positions problemism as holding society back. I’d argue problemism is the only thing preventing us from repeating the same mistakes at an accelerated pace.\n\nWhat Good Problemism Looks Like\nProductive skepticism isn’t just saying “AI bad.” It’s asking: - Who benefits from this technology and who bears the costs? - What safeguards prevent misuse? - How do we ensure benefits are distributed equitably? - What happens if this goes wrong, and how do we mitigate that? - What can we learn from past technological transitions?\nThese questions don’t stop innovation. They guide innovation toward better outcomes.\n\n\nThe Real Question\nThe chapter asks: “What could possibly go right?”\nBut the more important question is: “For whom will things go right, and at whose expense?”\nSolutionism assumes universal benefit. Problemism asks about distribution. And history suggests the problemists are asking the right question.\nI’ll keep reading, but so far, Superagency is making the case for optimism without adequately addressing why past optimism about technology has often proven naive."
+    "objectID": "posts/018_/018.html#innovation-as-safety-the-argument-for-iteration",
+    "href": "posts/018_/018.html#innovation-as-safety-the-argument-for-iteration",
+    "title": "Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation",
+    "section": "Innovation as Safety — The Argument for Iteration",
+    "text": "Innovation as Safety — The Argument for Iteration\nThe chapter presents a provocative idea: innovation itself is a form of safety. Faster iteration exposes flaws earlier, allowing teams to fix them quickly.\nThis philosophy underlies permissionless innovation: deploying unfinished systems to learn from real-world interactions.\nBut this effectively turns the public into test subjects.\nThe Ford assembly line analogy illustrates this tension. Yes, the assembly line democratized access to cars—but it also entrenched car dependence, reshaped cities, and created environmental burdens.\nOptimistic narratives often downplay the long-term externalities that surface only decades later."
   },
   {
-    "objectID": "posts/018_/018.html#up-next",
-    "href": "posts/018_/018.html#up-next",
-    "title": "Superagency Review #2: Solutionism vs. Problemism",
-    "section": "Up Next",
-    "text": "Up Next\nReview #3 will cover pages 95-141. I’m curious to see if the book addresses distributional concerns more seriously, or if it continues positioning skepticism as the primary obstacle to AI progress.\nStay tuned."
+    "objectID": "posts/018_/018.html#vorsorgeprinzip-the-forecaring-principle",
+    "href": "posts/018_/018.html#vorsorgeprinzip-the-forecaring-principle",
+    "title": "Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation",
+    "section": "Vorsorgeprinzip — The Forecaring Principle",
+    "text": "Vorsorgeprinzip — The Forecaring Principle\nThe chapter briefly references the Vorsorgeprinzip, the German principle that requires proving safety before deployment.\nHoffman frames this as anti-innovation, but for frontier AI, the precautionary stance may be more reasonable than the American assumption that harms can be corrected after release.\nIn a world where accountability is still uncertain, shifting the burden of proof onto developers seems far from unreasonable."
+  },
+  {
+    "objectID": "posts/018_/018.html#big-knowledge-and-the-power-of-collective-intelligence",
+    "href": "posts/018_/018.html#big-knowledge-and-the-power-of-collective-intelligence",
+    "title": "Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation",
+    "section": "Big Knowledge and the Power of Collective Intelligence",
+    "text": "Big Knowledge and the Power of Collective Intelligence\nThe chapter ends by celebrating “big knowledge” systems—crowdsourced intelligence such as Google Maps.\nThe removal of Selective Availability from GPS becomes a symbol of how public infrastructure can unlock massive private innovation.\nBut the optimistic framing skips over deeper vulnerabilities: - overreliance on algorithmic routing, - erosion of embodied geographic knowledge, - infrastructural risks when billions depend on a few proprietary systems.\n\nCrowdsourced data builds powerful information systems — and new dependencies"
+  },
+  {
+    "objectID": "posts/018_/018.html#my-running-notes",
+    "href": "posts/018_/018.html#my-running-notes",
+    "title": "Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation",
+    "section": "My Running Notes",
+    "text": "My Running Notes\nQuestions that kept resurfacing as I read: - If testing replaces regulation, who enforces the testers? - When iterative deployment harms people, who is responsible? - Is innovation inherently democratic, or is that an American myth? - Why is speed treated as an unquestioned virtue?\nThe book is becoming more persuasive, but the unexamined assumptions remain noticeable."
+  },
+  {
+    "objectID": "posts/018_/018.html#final-thoughts",
+    "href": "posts/018_/018.html#final-thoughts",
+    "title": "Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation",
+    "section": "Final Thoughts",
+    "text": "Final Thoughts\nChapter 5 argues strongly for testing as the engine of progress—and as a viable alternative to regulation. Parts of this resonate, especially the critique that overly restrictive rules can stall innovation.\nBut the chapter underestimates the societal risk of treating real users as test subjects for unproven systems. Benchmarks motivate improvement, but they cannot replace governance.\nI left more convinced that testing is essential, but equally convinced that testing alone cannot ensure accountability. Without guardrails, iterative deployment becomes mass experimentation.\nInnovation and recklessness are not synonyms—but the book sometimes blurs that distinction."
   },
   {
     "objectID": "posts/009_/009.html",
@@ -284,70 +305,70 @@
     "href": "posts/020_/020.html",
     "title": "Your Brain on ChatGPT: The Cost of Cognitive Convenience",
     "section": "",
-    "text": "Author: Raymond Liu Ao\nDate: 2025-11-01"
+    "text": "I came across a recent MIT Media Lab study examining how AI-assisted writing affects the brain during essay tasks. The findings pushed me to rethink how much I rely on Claude for school, work, and even these posts.\nThe study followed 54 participants over four months. Some wrote essays with no tools, some used search engines, and others used ChatGPT. EEG measurements revealed something striking: LLM-assisted writers consistently showed the weakest neural connectivity and lowest cognitive engagement."
   },
   {
     "objectID": "posts/020_/020.html#a-study-that-made-me-uncomfortable",
     "href": "posts/020_/020.html#a-study-that-made-me-uncomfortable",
     "title": "Your Brain on ChatGPT: The Cost of Cognitive Convenience",
-    "section": "A Study That Made Me Uncomfortable",
-    "text": "A Study That Made Me Uncomfortable\nI came across MIT Media Lab research on how ChatGPT affects brain activity during essay writing, and it forced me to reflect on my own AI usage. The study tracked 54 participants over four months as they wrote essays using LLMs, search engines, or no tools at all. EEG data showed that LLM users consistently had the weakest neural connectivity."
+    "section": "",
+    "text": "I came across a recent MIT Media Lab study examining how AI-assisted writing affects the brain during essay tasks. The findings pushed me to rethink how much I rely on Claude for school, work, and even these posts.\nThe study followed 54 participants over four months. Some wrote essays with no tools, some used search engines, and others used ChatGPT. EEG measurements revealed something striking: LLM-assisted writers consistently showed the weakest neural connectivity and lowest cognitive engagement."
   },
   {
     "objectID": "posts/020_/020.html#what-the-study-found",
     "href": "posts/020_/020.html#what-the-study-found",
     "title": "Your Brain on ChatGPT: The Cost of Cognitive Convenience",
     "section": "What the Study Found",
-    "text": "What the Study Found\n\nBrain Connectivity Differences\n\nBrain-only: strongest, most distributed activation\nSearch Engine: moderate engagement\nLLM-assisted: lowest engagement, minimal connectivity\n\nThe more a tool did the thinking, the less the brain engaged.\n\n\nCognitive Debt\nWhen participants switched tools: - LLM-to-Brain users struggled to activate key networks - Brain-to-LLM users still showed higher engagement than chronic LLM users\nThe researchers called this pattern cognitive debt: a downward shift in mental effort that builds up with repeated offloading."
+    "text": "What the Study Found\n\nCognitive Engagement Differences\nParticipants’ neural activity broke down into three clear tiers: - Brain-only: strongest, most distributed activation - Search Engine: moderate activation - LLM-assisted: lowest activation and weakest connectivity\nThe more the tool handled the synthesis, the less the brain participated.\n\n\nCognitive Debt Builds Over Time\nAfter four months, patterns did not converge. If anything, they diverged.\nWhen researchers forced participants to switch modes: - LLM-to-Brain users struggled to activate core cognitive networks once the AI was removed - Brain-to-LLM users still retained higher activation patterns\nThe authors call this cognitive debt — a cumulative loss of mental effort that makes it harder to think independently after extended reliance on AI."
   },
   {
     "objectID": "posts/020_/020.html#the-ownership-problem",
     "href": "posts/020_/020.html#the-ownership-problem",
     "title": "Your Brain on ChatGPT: The Cost of Cognitive Convenience",
     "section": "The Ownership Problem",
-    "text": "The Ownership Problem\nParticipants rated how much the work felt like their own: - Brain-only: highest ownership - Search Engine: moderate - LLM users: lowest\nLLM users also failed to accurately quote their own essays later. They had not synthesized the material themselves, so the memory trace was weaker."
+    "text": "The Ownership Problem\nParticipants were asked how much each essay felt like “their own.” Results tracked the neural data: - Brain-only: highest sense of ownership - Search Engine: moderate - LLM-assisted: lowest\nMore tellingly, LLM-assisted writers struggled to quote their own work later. Because they did not synthesize the ideas themselves, the memory trace was weaker. The AI generated wording; participants just approved it."
   },
   {
     "objectID": "posts/020_/020.html#everyone-started-sounding-the-same",
     "href": "posts/020_/020.html#everyone-started-sounding-the-same",
     "title": "Your Brain on ChatGPT: The Cost of Cognitive Convenience",
     "section": "Everyone Started Sounding the Same",
-    "text": "Everyone Started Sounding the Same\nUsing natural language processing, the study found that essays written with LLM assistance were more similar to each other: - similar topic structures - similar n-gram patterns - similar named entities\nLLM-assisted writing flattened personal style.\n\n\n\n\nEssay Similarity Analysis"
+    "text": "Everyone Started Sounding the Same\nUsing NLP techniques, the researchers found that LLM-assisted essays clustered tightly around similar: - topics - n-gram structures - named entities - argument patterns\nThe essays demonstrated linguistic homogeneity — a flattening of personal style that did not appear in the other groups."
   },
   {
-    "objectID": "posts/020_/020.html#why-this-makes-me-uncomfortable",
-    "href": "posts/020_/020.html#why-this-makes-me-uncomfortable",
+    "objectID": "posts/020_/020.html#why-this-hits-close-for-me",
+    "href": "posts/020_/020.html#why-this-hits-close-for-me",
     "title": "Your Brain on ChatGPT: The Cost of Cognitive Convenience",
-    "section": "Why This Makes Me Uncomfortable",
-    "text": "Why This Makes Me Uncomfortable\nI have relied heavily on Claude for structuring notes, drafting responses, and shaping arguments. This study suggests that I may have been outsourcing the very cognitive work that builds skill, memory, and identity as a writer.\nWhen I revise an AI-generated draft, I am in approval mode, not creation mode. My prefrontal cortex does less work."
+    "section": "Why This Hits Close for Me",
+    "text": "Why This Hits Close for Me\nI use Claude constantly: to summarize lectures, structure research, draft arguments, and shape my writing. This study suggests I may have been offloading the exact cognitive work that produces long-term learning and memory.\nWhen I revise an AI-generated draft, I’m not constructing ideas — I’m judging them. That’s a different neural mode. It feels productive but sidesteps the hardest, most valuable part of thinking."
   },
   {
-    "objectID": "posts/020_/020.html#learning-implications",
-    "href": "posts/020_/020.html#learning-implications",
+    "objectID": "posts/020_/020.html#what-this-means-for-learning",
+    "href": "posts/020_/020.html#what-this-means-for-learning",
     "title": "Your Brain on ChatGPT: The Cost of Cognitive Convenience",
-    "section": "Learning Implications",
-    "text": "Learning Implications\n\nCognitive Debt Accumulates\nLong-term LLM reliance leads to: - lower neural activation - weaker memory formation - reduced cognitive engagement - decreased ownership\nThe brain adapts to the tools it uses."
+    "section": "What This Means for Learning",
+    "text": "What This Means for Learning\n\nCognitive Debt Accumulates\nLong-term LLM reliance was associated with: - weaker neural activation - shallower memory formation - reduced engagement - diminished ownership\nThe brain adapts to what it practices. If cognitive synthesis is outsourced, the skill erodes.\n\n\nNot All Tools Are Equal\nSearch engines require active synthesis: evaluating sources, forming arguments, deciding what matters. LLMs do the synthesis for you. That difference matters."
   },
   {
     "objectID": "posts/020_/020.html#the-larger-picture",
     "href": "posts/020_/020.html#the-larger-picture",
     "title": "Your Brain on ChatGPT: The Cost of Cognitive Convenience",
     "section": "The Larger Picture",
-    "text": "The Larger Picture\n\nWho Benefits From Cognitive Offloading?\nProductivity increases on paper. But learning decreases. In education, cognitive effort is the point. LLMs replace the work that builds thinking capacity.\n\n\nThe Convenience Trap\nYou do not feel cognitive decline. You only feel the difficulty when the tool is removed. This happened in the experiment: LLM-to-Brain users struggled without assistance."
+    "text": "The Larger Picture\n\nWho Benefits From Offloading Thinking?\nOn paper, productivity increases. But in education, productivity is not the point. The cognitive work is the point.\n\n\nThe Convenience Trap\nYou don’t feel cognitive decline happening. You only feel the difficulty once you try to write or think without the AI.\nThat’s exactly what happened to the LLM-to-Brain group. Their minds had become dependent on external structure."
   },
   {
-    "objectID": "posts/020_/020.html#what-im-thinking-about-now",
-    "href": "posts/020_/020.html#what-im-thinking-about-now",
+    "objectID": "posts/020_/020.html#what-im-changing",
+    "href": "posts/020_/020.html#what-im-changing",
     "title": "Your Brain on ChatGPT: The Cost of Cognitive Convenience",
-    "section": "What I’m Thinking About Now",
-    "text": "What I’m Thinking About Now\n\nWhere I Will Reduce AI\n\ntasks requiring learning\ntasks requiring synthesis\ntasks requiring creativity\n\n\n\nWhere AI Is Fine\n\nscheduling\nlogistics\nroutine organization\n\nThe goal is to use AI without letting it replace my thinking."
+    "section": "What I’m Changing",
+    "text": "What I’m Changing\n\nWhere I’ll Reduce AI\n\nreading and synthesis\nargument construction\nhigh-stakes learning tasks\ncreative work\n\n\n\nWhere AI Is Fine\n\nlogistics\nsummaries of things I already understand\nadmin tasks\nformatting\n\nThe goal isn’t purity — it’s avoiding cognitive atrophy."
   },
   {
     "objectID": "posts/020_/020.html#final-thoughts",
     "href": "posts/020_/020.html#final-thoughts",
     "title": "Your Brain on ChatGPT: The Cost of Cognitive Convenience",
     "section": "Final Thoughts",
-    "text": "Final Thoughts\nThe MIT study raises serious concerns about what we lose when AI handles the thinking. We gain speed and convenience. But we risk losing: - cognitive engagement - memory formation - ownership - original thought\nThe question is not whether AI works. It is what happens to our minds when we let it think for us."
+    "text": "Final Thoughts\nThis MIT study raises real concerns about the hidden cost of AI convenience. We gain speed and efficiency. But we risk losing: - cognitive engagement - memory formation - ownership - originality\nThe question isn’t whether AI works. It’s what happens to our minds when we let it think for us."
   },
   {
     "objectID": "posts/003_Research_with_Perplexity_AI/003.html",
@@ -389,77 +410,77 @@
     "href": "posts/021_/021.html",
     "title": "Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation",
     "section": "",
-    "text": "A skeptical reading of Hoffman’s testing-first vision for AI governance"
+    "text": "This section of Superagency (pages 99–143) shifts from optimism to mechanics: how testing, benchmarking, and iterative competition supposedly form the backbone of American AI leadership. Hoffman and Beato frame this as a uniquely democratic innovation engine. Parts of the chapter are compelling; others amplify the same concerns raised earlier in the book."
   },
   {
     "objectID": "posts/021_/021.html#chapter-5-testing-testing-1-2-infinite",
     "href": "posts/021_/021.html#chapter-5-testing-testing-1-2-infinite",
     "title": "Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation",
-    "section": "Chapter 5: Testing, Testing, 1, 2 (Infinite)",
-    "text": "Chapter 5: Testing, Testing, 1, 2 (Infinite)\nThis entry covers pages 99 through roughly 143 of Superagency. Hoffman and Beato shift from high-level optimism to the mechanics of how AI progress supposedly happens: testing, benchmarking, competitive iteration, and a self-regulatory culture that resembles a Cold War-era innovation race.\nWhat stood out is not just how the authors frame testing but why: as the core engine of American technological leadership. The chapter leans heavily on a familiar narrative: American dynamism versus Chinese scale; democracy versus state-led efficiency; permissionless innovation versus precautionary restraint.\nI found parts of this more convincing than previous chapters, while others raised the same anxieties lingering since Chapter 1.\n Media framing of AI competition often echoes Cold War rhetoric"
+    "section": "",
+    "text": "This section of Superagency (pages 99–143) shifts from optimism to mechanics: how testing, benchmarking, and iterative competition supposedly form the backbone of American AI leadership. Hoffman and Beato frame this as a uniquely democratic innovation engine. Parts of the chapter are compelling; others amplify the same concerns raised earlier in the book."
   },
   {
     "objectID": "posts/021_/021.html#the-cold-war-parallel",
     "href": "posts/021_/021.html#the-cold-war-parallel",
     "title": "Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation",
     "section": "The Cold War Parallel",
-    "text": "The Cold War Parallel\nThe authors highlight the ubiquity of phrases like “AI arms race” and “AI Space Race.” Hoffman treats these terms as framing devices that motivate competition and accelerate innovation.\nBut the Cold War metaphor brings baggage: - national survival stakes - winner-take-all framing - justification for speed over caution - a belief that being second is equivalent to losing\nCompetitive framing can motivate innovation, but it can also suppress dissent, crowd out critical voices, and pressure policymakers into reactionary thinking."
+    "text": "The Cold War Parallel\nHoffman highlights the rising use of phrases like “AI arms race” and “AI Space Race.” These metaphors frame AI as a geopolitical contest and cast innovation as national defense.\nCold War language implies: - national survival stakes - winner-take-all dynamics - justification for speed over caution - suspicion toward dissent\nMy concern is that emergency framing narrows public debate. It turns critique into perceived disloyalty. The question becomes whether urgency helps innovation or simply suppresses precaution."
   },
   {
-    "objectID": "posts/021_/021.html#democracy-as-competitive-advantage---or-ideological-comfort",
-    "href": "posts/021_/021.html#democracy-as-competitive-advantage---or-ideological-comfort",
+    "objectID": "posts/021_/021.html#democracy-vs.-china-competitive-advantage-or-ideological-comfort",
+    "href": "posts/021_/021.html#democracy-vs.-china-competitive-advantage-or-ideological-comfort",
     "title": "Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation",
-    "section": "Democracy as Competitive Advantage - Or Ideological Comfort?",
-    "text": "Democracy as Competitive Advantage - Or Ideological Comfort?\nHoffman argues that the United States maintains an edge because democratic systems encourage testing, openness, and iterative trial-and-error.\nBut this raises uncomfortable questions: Is American-style innovation the only acceptable hegemony? What is inherently wrong with China being technologically ahead?\nThe book frames America as working from an “innocent until proven guilty” innovation model, and China as “guilty until proven safe.” Whether either extreme works for frontier AI is an open question."
+    "section": "Democracy vs. China – Competitive Advantage or Ideological Comfort?",
+    "text": "Democracy vs. China – Competitive Advantage or Ideological Comfort?\nThe authors argue that American innovation thrives because democracy encourages open experimentation, while China favors control and pre-approval. This framing leads to the implicit claim that American hegemony is the only acceptable outcome, a point that deserves more scrutiny.\nThe real tension is not democracy vs. authoritarianism; it’s permissionless innovation vs. burden-of-proof safety models. For frontier AI, neither extreme may work. The chapter sidesteps how high-risk technologies challenge this binary."
   },
   {
     "objectID": "posts/021_/021.html#benchmarks-as-pseudo-regulation",
     "href": "posts/021_/021.html#benchmarks-as-pseudo-regulation",
     "title": "Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation",
     "section": "Benchmarks as Pseudo-Regulation",
-    "text": "Benchmarks as Pseudo-Regulation\nOne key argument: benchmarks can function as non-binding substitutes for regulation.\nHoffman writes: “Testing elevates the focus from compliance to continuous improvement. It is regulation, gamified.”\nBut gamifying regulation produces issues: - optimizing for scores, not safety - metrics used as PR - cherry-picking performance tests - ignoring bad actors entirely\nReal regulation exists because competition alone cannot guarantee safety."
+    "text": "Benchmarks as Pseudo-Regulation\nHoffman argues that benchmarks function as a cultural form of regulation—“regulation, gamified.” When companies compete to score well on shared tests, innovation accelerates.\nThe assumption is that: - companies will voluntarily exceed standards - benchmarks naturally tighten over time - competition substitutes for enforcement\nIn practice, gamified regulation creates problems: - companies optimize for the test, not real-world safety - metrics become PR tools - firms cherry-pick flattering benchmarks - bad actors simply ignore the system\nBenchmarks matter, but they cannot govern high-risk technology alone."
   },
   {
-    "objectID": "posts/021_/021.html#why-is-ai-expected-to-be-perfect",
-    "href": "posts/021_/021.html#why-is-ai-expected-to-be-perfect",
+    "objectID": "posts/021_/021.html#why-expect-ai-to-be-perfect",
+    "href": "posts/021_/021.html#why-expect-ai-to-be-perfect",
     "title": "Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation",
-    "section": "Why Is AI Expected to Be Perfect?",
-    "text": "Why Is AI Expected to Be Perfect?\nThe authors critique society’s near-zero error tolerance for AI.\nBut AI failures scale differently: - individual human errors affect one person - AI deployed at scale can replicate failures instantly - decisions are opaque and hard to interrogate\nThe expectation for reliability is not about perfection. It is about systemic risk management."
+    "section": "Why Expect AI to Be Perfect?",
+    "text": "Why Expect AI to Be Perfect?\nHoffman asks why society expects AI to achieve near-zero error when humans make mistakes constantly. The answer is scale.\n\nA human error affects one person.\nAn AI system deployed to millions repeats an error instantly.\nFailures are opaque and hard to trace.\nRisks become systemic, not isolated.\n\nExpectations are higher because the consequences are broader."
   },
   {
-    "objectID": "posts/021_/021.html#innovation-is-safety---or-so-the-argument-goes",
-    "href": "posts/021_/021.html#innovation-is-safety---or-so-the-argument-goes",
+    "objectID": "posts/021_/021.html#innovation-as-safety-a-tension",
+    "href": "posts/021_/021.html#innovation-as-safety-a-tension",
     "title": "Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation",
-    "section": "Innovation Is Safety - Or So the Argument Goes",
-    "text": "Innovation Is Safety - Or So the Argument Goes\nThe chapter suggests that innovation itself is a form of safety because faster iteration surfaces problems earlier.\nBut if real users become test subjects without consent, iterative deployment becomes mass experimentation.\nThe Ford assembly line example illustrates this tension: yes, it democratized mobility; yes, it also reshaped society in ways whose costs we now understand only decades later."
+    "section": "Innovation as Safety – A Tension",
+    "text": "Innovation as Safety – A Tension\nThe authors claim innovation itself is safety: rapidly iterating helps uncover failures early. This logic underpins “permissionless innovation.” But if real users become unwitting test subjects, the line between experimentation and exploitation blurs.\nThe analogy to the Ford assembly line captures both sides. It democratized mobility while creating decades of infrastructural and environmental dependencies. Innovation often hides long-tail costs that appear only after widespread deployment."
   },
   {
-    "objectID": "posts/021_/021.html#vorsorgeprinzip-and-burden-of-proof",
-    "href": "posts/021_/021.html#vorsorgeprinzip-and-burden-of-proof",
+    "objectID": "posts/021_/021.html#the-vorsorgeprinzip",
+    "href": "posts/021_/021.html#the-vorsorgeprinzip",
     "title": "Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation",
-    "section": "Vorsorgeprinzip and Burden of Proof",
-    "text": "Vorsorgeprinzip and Burden of Proof\nThe Vorsorgeprinzip (forecaring principle) assigns the burden of proof to developers.\nHoffman sees it as anti-innovation, but in high-stakes, opaque systems, this principle may be necessary. If AI is powerful and unpredictable, why should the public bear the burden of proof?"
+    "section": "The Vorsorgeprinzip",
+    "text": "The Vorsorgeprinzip\nGermany’s forecaring principle requires developers to prove safety before deployment. Hoffman frames this as overly conservative, but it’s not clear that frontier AI fits the American model of “deploy first, fix later.”\nWhen developers can’t fully predict system behavior, shifting the burden of proof may be reasonable."
   },
   {
     "objectID": "posts/021_/021.html#big-knowledge-and-collective-intelligence",
     "href": "posts/021_/021.html#big-knowledge-and-collective-intelligence",
     "title": "Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation",
     "section": "Big Knowledge and Collective Intelligence",
-    "text": "Big Knowledge and Collective Intelligence\nThe chapter ends with “big knowledge” systems like Google Maps, highlighting how public infrastructure unlocks private innovation.\nBut dependency introduces trade-offs: - overreliance on opaque routing systems - erosion of local knowledge - vulnerabilities in critical digital infrastructure\n Crowdsourced systems create powerful benefits and deep dependencies"
+    "text": "Big Knowledge and Collective Intelligence\nThe chapter ends with “big knowledge” examples like Google Maps—systems where collective data improves outcomes for all. The story is persuasive, but it glosses over deepening dependencies: - people lose local knowledge - decision-making shifts to opaque models - infrastructure becomes more fragile\n\nOptimistic narratives rarely acknowledge these hidden costs."
   },
   {
-    "objectID": "posts/021_/021.html#my-running-notes",
-    "href": "posts/021_/021.html#my-running-notes",
+    "objectID": "posts/021_/021.html#my-notes-and-questions",
+    "href": "posts/021_/021.html#my-notes-and-questions",
     "title": "Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation",
-    "section": "My Running Notes",
-    "text": "My Running Notes\n\nWho regulates the testers?\nWho pays the price if iterative deployment harms people?\nIs innovation inherently democratic, or is this idealized?\nWhy must speed be treated as a virtue when consequences scale exponentially?"
+    "section": "My Notes and Questions",
+    "text": "My Notes and Questions\n\nIf testing replaces regulation, who enforces the testers?\nWho absorbs harm during iterative deployment?\nIs innovation inherently democratic, or is this an American myth?\nWhy should speed be a virtue when consequences scale exponentially?\n\nThe book grows more persuasive, but its implicit assumptions grow louder too."
   },
   {
     "objectID": "posts/021_/021.html#final-thoughts",
     "href": "posts/021_/021.html#final-thoughts",
     "title": "Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation",
     "section": "Final Thoughts",
-    "text": "Final Thoughts\nChapter 5 makes a strong case for testing as a driver of innovation. But it underestimates the risk of treating real people as unwitting beta testers.\nWithout guardrails, iterative deployment becomes mass experimentation.\nThere is a fine line between innovation and recklessness. The book sometimes blurs that line more than it clarifies it."
+    "text": "Final Thoughts\nChapter 5 argues that testing can replace regulation, accelerating safe innovation. The idea has merit—overly strict regulation can freeze progress.\nBut the chapter underestimates what happens when testing becomes a governance substitute. Benchmarks become branding exercises. Users become test subjects. Accountability evaporates.\nThe line between innovation and recklessness is thin, and Superagency often blurs it more than it clarifies it."
   },
   {
     "objectID": "posts/004_AI-Assisted_Grocery_Shopping_and_Meal_Prep/004.html",
@@ -620,7 +641,7 @@
     "href": "index.html",
     "title": "What Can You Do With AI",
     "section": "",
-    "text": "Let’s Find Out\n\nExploring AI in daily life\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSuperagency Review #3: Testing, Benchmarking, and the Gamification of Regulation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYour Brain on ChatGPT: The Cost of Cognitive Convenience\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNotebookLM for Exam Prep: Gemini’s Research Assistant\n\n\n\nAI\n\nLLM\n\nprofessional\n\ndaily-life\n\n\n\nTesting Google’s NotebookLM with lecture notes and readings for MKTG exam\n\n\n\n\n\nOct 21, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nSuperagency Review #2: Solutionism vs. Problemism\n\n\n\nAI\n\nbook-review\n\nskeptical\n\nresearch\n\n\n\nReading Reid Hoffman’s optimistic AI book from a skeptical perspective - Part 2\n\n\n\n\n\nOct 19, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nCreating Music with AI: Suno for Marketing Projects\n\n\n\nAI\n\ncreative\n\nprofessional\n\nmarketing\n\n\n\nUsing Suno AI to generate original music for a Corona ad campaign\n\n\n\n\n\nOct 17, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Meditation Apps: Is the Personalization Real?\n\n\n\nAI\n\nhealth\n\nfitness\n\nskeptical\n\n\n\nTesting Calm during recruiting season - does AI actually customize meditation?\n\n\n\n\n\nOct 15, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nUsing Claude to Synthesize Dense Class Notes\n\n\n\nAI\n\nLLM\n\ndaily-life\n\nprofessional\n\nclaude\n\n\n\nTesting AI as a study partner for Human Disease and Evolution\n\n\n\n\n\nOct 13, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nSuperagency Review #1: History Is Written by the Winners\n\n\n\nAI\n\nbook-review\n\nskeptical\n\nresearch\n\n\n\nReading Reid Hoffman’s optimistic AI book from a skeptical perspective - Part 1\n\n\n\n\n\nOct 11, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nTesting AI as a Tutor: Does Prompt Structure Actually Matter?\n\n\n\nresearch\n\nprofessional\n\nLLM\n\ndaily-life\n\nclaude\n\n\n\nComparing two Claude sessions learning to cook Lomo Saltado - one structured, one not\n\n\n\n\n\nOct 9, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nSwitching from Consulting to Finance Prep with AI\n\n\n\nAI\n\nLLM\n\nprofessional\n\nclaude\n\nperplexity\n\n\n\nUsing Claude and Perplexity to prepare for investment banking interviews\n\n\n\n\n\nOct 5, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nRunning a Virtual Focus Group with ChatGPT\n\n\n\nbranding\n\nLLM\n\nentrepreneurship\n\ncreative\n\n\n\nTesting Cuzco Crunch products using AI-generated personas and experimental design\n\n\n\n\n\nOct 3, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nUsing LLMs for Interview Prep\n\n\n\nAI\n\nLLM\n\nentrepreneurship\n\nclaude\n\n\n\nBuilding an MBB interview assistant with Claude to track cases and practice\n\n\n\n\n\nOct 1, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nExperimenting with Vibe Creation Using LLMs\n\n\n\nAI\n\nLLM\n\ncreative\n\nclaude\n\n\n\nTesting how language models interpret and generate atmospheric descriptions\n\n\n\n\n\nSep 29, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Photo Organization: Finding Pictures I Forgot I Had\n\n\n\nAI\n\norganization\n\n\n\nHow Google Photos AI search helped me rediscover thousands of old photos\n\n\n\n\n\nSep 27, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Email Management That Actually Works\n\n\n\nAI\n\nproductivity\n\norganization\n\n\n\nUsing smart filters and auto-responses to handle inbox overload\n\n\n\n\n\nSep 25, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nBuilding a Brand with AI: Cuzco Crunch\n\n\n\nAI\n\nbranding\n\nentrepreneurship\n\n\n\nHow we’re using GPT to create a snack brand from concept to execution\n\n\n\n\n\nSep 23, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Fitness Coaching at Home\n\n\n\nAI\n\nfitness\n\nhealth\n\ndaily-life\n\n\n\nUsing smartphone apps for form correction and personalized workouts\n\n\n\n\n\nSep 19, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI-Assisted Grocery Shopping and Meal Prep\n\n\n\nAI\n\ndaily-life\n\nproductivity\n\nhealth\n\ndaily-life\n\n\n\nHow smart apps are making grocery runs more organized and efficient\n\n\n\n\n\nSep 18, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nResearch with Perplexity AI\n\n\n\nAI\n\nresearch\n\nproductivity\n\ntechnology\n\n\n\nHow AI-powered search is changing the way we gather and analyze information\n\n\n\n\n\nSep 15, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Do’s and Don’ts: Safe and Effective Usage\n\n\n\nAI\n\n\n\nEssential guidelines for using AI tools responsibly and effectively\n\n\n\n\n\nSep 10, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\n5 Ways to Use AI Every Day\n\n\n\nAI\n\nproductivity\n\n\n\nPractical AI applications that save time on common daily tasks\n\n\n\n\n\nSep 5, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nHow AI Systems Work: A Technical Overview\n\n\n\nAI\n\ntechnology\n\n\n\nUnderstanding the mechanics and architecture of modern artificial intelligence systems\n\n\n\n\n\nSep 3, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\nNo matching items"
+    "text": "Let’s Find Out\n\nExploring AI in daily life\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSuperagency Review #3: Testing, Benchmarking, and the Gamification of Regulation\n\n\n\nAI\n\nbook-review\n\nskeptical\n\ngovernance\n\n\n\nA skeptical reading of Hoffman’s testing-first vision for AI governance – Part 3 of the series\n\n\n\n\n\nNov 1, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nYour Brain on ChatGPT: The Cost of Cognitive Convenience\n\n\n\nAI\n\nresearch\n\nskeptical\n\nlearning\n\n\n\nReflecting on MIT research about the neural consequences of AI-assisted writing\n\n\n\n\n\nNov 1, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nSuperagency Review #3: Testing, Benchmarking, and the Gamification of Regulation\n\n\n\nAI\n\nbook-review\n\nskeptical\n\ngovernance\n\n\n\nA skeptical reading of Hoffman’s testing-first vision for AI governance – Part 3\n\n\n\n\n\nNov 1, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nNotebookLM for Exam Prep: Gemini’s Research Assistant\n\n\n\nAI\n\nLLM\n\nprofessional\n\ndaily-life\n\n\n\nTesting Google’s NotebookLM with lecture notes and readings for MKTG exam\n\n\n\n\n\nOct 21, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nCreating Music with AI: Suno for Marketing Projects\n\n\n\nAI\n\ncreative\n\nprofessional\n\nmarketing\n\n\n\nUsing Suno AI to generate original music for a Corona ad campaign\n\n\n\n\n\nOct 17, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Meditation Apps: Is the Personalization Real?\n\n\n\nAI\n\nhealth\n\nfitness\n\nskeptical\n\n\n\nTesting Calm during recruiting season - does AI actually customize meditation?\n\n\n\n\n\nOct 15, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nUsing Claude to Synthesize Dense Class Notes\n\n\n\nAI\n\nLLM\n\ndaily-life\n\nprofessional\n\nclaude\n\n\n\nTesting AI as a study partner for Human Disease and Evolution\n\n\n\n\n\nOct 13, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nSuperagency Review #1: History Is Written by the Winners\n\n\n\nAI\n\nbook-review\n\nskeptical\n\nresearch\n\n\n\nReading Reid Hoffman’s optimistic AI book from a skeptical perspective - Part 1\n\n\n\n\n\nOct 11, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nTesting AI as a Tutor: Does Prompt Structure Actually Matter?\n\n\n\nresearch\n\nprofessional\n\nLLM\n\ndaily-life\n\nclaude\n\n\n\nComparing two Claude sessions learning to cook Lomo Saltado - one structured, one not\n\n\n\n\n\nOct 9, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nSwitching from Consulting to Finance Prep with AI\n\n\n\nAI\n\nLLM\n\nprofessional\n\nclaude\n\nperplexity\n\n\n\nUsing Claude and Perplexity to prepare for investment banking interviews\n\n\n\n\n\nOct 5, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nRunning a Virtual Focus Group with ChatGPT\n\n\n\nbranding\n\nLLM\n\nentrepreneurship\n\ncreative\n\n\n\nTesting Cuzco Crunch products using AI-generated personas and experimental design\n\n\n\n\n\nOct 3, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nUsing LLMs for Interview Prep\n\n\n\nAI\n\nLLM\n\nentrepreneurship\n\nclaude\n\n\n\nBuilding an MBB interview assistant with Claude to track cases and practice\n\n\n\n\n\nOct 1, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nExperimenting with Vibe Creation Using LLMs\n\n\n\nAI\n\nLLM\n\ncreative\n\nclaude\n\n\n\nTesting how language models interpret and generate atmospheric descriptions\n\n\n\n\n\nSep 29, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Photo Organization: Finding Pictures I Forgot I Had\n\n\n\nAI\n\norganization\n\n\n\nHow Google Photos AI search helped me rediscover thousands of old photos\n\n\n\n\n\nSep 27, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Email Management That Actually Works\n\n\n\nAI\n\nproductivity\n\norganization\n\n\n\nUsing smart filters and auto-responses to handle inbox overload\n\n\n\n\n\nSep 25, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nBuilding a Brand with AI: Cuzco Crunch\n\n\n\nAI\n\nbranding\n\nentrepreneurship\n\n\n\nHow we’re using GPT to create a snack brand from concept to execution\n\n\n\n\n\nSep 23, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Fitness Coaching at Home\n\n\n\nAI\n\nfitness\n\nhealth\n\ndaily-life\n\n\n\nUsing smartphone apps for form correction and personalized workouts\n\n\n\n\n\nSep 19, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI-Assisted Grocery Shopping and Meal Prep\n\n\n\nAI\n\ndaily-life\n\nproductivity\n\nhealth\n\ndaily-life\n\n\n\nHow smart apps are making grocery runs more organized and efficient\n\n\n\n\n\nSep 18, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nResearch with Perplexity AI\n\n\n\nAI\n\nresearch\n\nproductivity\n\ntechnology\n\n\n\nHow AI-powered search is changing the way we gather and analyze information\n\n\n\n\n\nSep 15, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Do’s and Don’ts: Safe and Effective Usage\n\n\n\nAI\n\n\n\nEssential guidelines for using AI tools responsibly and effectively\n\n\n\n\n\nSep 10, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\n5 Ways to Use AI Every Day\n\n\n\nAI\n\nproductivity\n\n\n\nPractical AI applications that save time on common daily tasks\n\n\n\n\n\nSep 5, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nHow AI Systems Work: A Technical Overview\n\n\n\nAI\n\ntechnology\n\n\n\nUnderstanding the mechanics and architecture of modern artificial intelligence systems\n\n\n\n\n\nSep 3, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/000_How_Does_AI_Really_Work/000.html",
