@@ -280,88 +280,186 @@
     "text": "Final Thoughts\nPlaying with vibe creation revealed both the capabilities and constraints of current LLMs. They’re sophisticated pattern-matching systems that can assemble convincing atmospheric descriptions from training data, but they lack the experiential knowledge that makes truly evocative writing memorable.\nThe exercise reinforced my skepticism about over-relying on these tools for creative work. They’re useful for scaffolding and inspiration, but the most interesting atmospheric details still need to come from human observation and experience.\nFor anyone trying similar experiments: push the model toward specificity and unconventional combinations. The more generic your prompt, the more generic your output."
   },
   {
-    "objectID": "posts/007_/007.html",
-    "href": "posts/007_/007.html",
-    "title": "AI Email Management That Actually Works",
+    "objectID": "posts/020_/020.html",
+    "href": "posts/020_/020.html",
+    "title": "Your Brain on ChatGPT: The Cost of Cognitive Convenience",
     "section": "",
-    "text": "I set up SaneBox to manage my email and it’s been running for about a week now. Instead of manually sorting through everything, the AI decides what’s important and what can wait.\n AI automatically categorizing emails by priority level"
+    "text": "Author: Raymond Liu Ao\nDate: 2025-11-01"
   },
   {
-    "objectID": "posts/007_/007.html#letting-ai-handle-my-inbox",
-    "href": "posts/007_/007.html#letting-ai-handle-my-inbox",
-    "title": "AI Email Management That Actually Works",
+    "objectID": "posts/020_/020.html#a-study-that-made-me-uncomfortable",
+    "href": "posts/020_/020.html#a-study-that-made-me-uncomfortable",
+    "title": "Your Brain on ChatGPT: The Cost of Cognitive Convenience",
+    "section": "A Study That Made Me Uncomfortable",
+    "text": "A Study That Made Me Uncomfortable\nI came across MIT Media Lab research on how ChatGPT affects brain activity during essay writing, and it forced me to reflect on my own AI usage. The study tracked 54 participants over four months as they wrote essays using LLMs, search engines, or no tools at all. EEG data showed that LLM users consistently had the weakest neural connectivity."
+  },
+  {
+    "objectID": "posts/020_/020.html#what-the-study-found",
+    "href": "posts/020_/020.html#what-the-study-found",
+    "title": "Your Brain on ChatGPT: The Cost of Cognitive Convenience",
+    "section": "What the Study Found",
+    "text": "What the Study Found\n\nBrain Connectivity Differences\n\nBrain-only: strongest, most distributed activation\nSearch Engine: moderate engagement\nLLM-assisted: lowest engagement, minimal connectivity\n\nThe more a tool did the thinking, the less the brain engaged.\n\n\nCognitive Debt\nWhen participants switched tools: - LLM-to-Brain users struggled to activate key networks - Brain-to-LLM users still showed higher engagement than chronic LLM users\nThe researchers called this pattern cognitive debt: a downward shift in mental effort that builds up with repeated offloading."
+  },
+  {
+    "objectID": "posts/020_/020.html#the-ownership-problem",
+    "href": "posts/020_/020.html#the-ownership-problem",
+    "title": "Your Brain on ChatGPT: The Cost of Cognitive Convenience",
+    "section": "The Ownership Problem",
+    "text": "The Ownership Problem\nParticipants rated how much the work felt like their own: - Brain-only: highest ownership - Search Engine: moderate - LLM users: lowest\nLLM users also failed to accurately quote their own essays later. They had not synthesized the material themselves, so the memory trace was weaker."
+  },
+  {
+    "objectID": "posts/020_/020.html#everyone-started-sounding-the-same",
+    "href": "posts/020_/020.html#everyone-started-sounding-the-same",
+    "title": "Your Brain on ChatGPT: The Cost of Cognitive Convenience",
+    "section": "Everyone Started Sounding the Same",
+    "text": "Everyone Started Sounding the Same\nUsing natural language processing, the study found that essays written with LLM assistance were more similar to each other: - similar topic structures - similar n-gram patterns - similar named entities\nLLM-assisted writing flattened personal style.\n\n\n\n\nEssay Similarity Analysis"
+  },
+  {
+    "objectID": "posts/020_/020.html#why-this-makes-me-uncomfortable",
+    "href": "posts/020_/020.html#why-this-makes-me-uncomfortable",
+    "title": "Your Brain on ChatGPT: The Cost of Cognitive Convenience",
+    "section": "Why This Makes Me Uncomfortable",
+    "text": "Why This Makes Me Uncomfortable\nI have relied heavily on Claude for structuring notes, drafting responses, and shaping arguments. This study suggests that I may have been outsourcing the very cognitive work that builds skill, memory, and identity as a writer.\nWhen I revise an AI-generated draft, I am in approval mode, not creation mode. My prefrontal cortex does less work."
+  },
+  {
+    "objectID": "posts/020_/020.html#learning-implications",
+    "href": "posts/020_/020.html#learning-implications",
+    "title": "Your Brain on ChatGPT: The Cost of Cognitive Convenience",
+    "section": "Learning Implications",
+    "text": "Learning Implications\n\nCognitive Debt Accumulates\nLong-term LLM reliance leads to: - lower neural activation - weaker memory formation - reduced cognitive engagement - decreased ownership\nThe brain adapts to the tools it uses."
+  },
+  {
+    "objectID": "posts/020_/020.html#the-larger-picture",
+    "href": "posts/020_/020.html#the-larger-picture",
+    "title": "Your Brain on ChatGPT: The Cost of Cognitive Convenience",
+    "section": "The Larger Picture",
+    "text": "The Larger Picture\n\nWho Benefits From Cognitive Offloading?\nProductivity increases on paper. But learning decreases. In education, cognitive effort is the point. LLMs replace the work that builds thinking capacity.\n\n\nThe Convenience Trap\nYou do not feel cognitive decline. You only feel the difficulty when the tool is removed. This happened in the experiment: LLM-to-Brain users struggled without assistance."
+  },
+  {
+    "objectID": "posts/020_/020.html#what-im-thinking-about-now",
+    "href": "posts/020_/020.html#what-im-thinking-about-now",
+    "title": "Your Brain on ChatGPT: The Cost of Cognitive Convenience",
+    "section": "What I’m Thinking About Now",
+    "text": "What I’m Thinking About Now\n\nWhere I Will Reduce AI\n\ntasks requiring learning\ntasks requiring synthesis\ntasks requiring creativity\n\n\n\nWhere AI Is Fine\n\nscheduling\nlogistics\nroutine organization\n\nThe goal is to use AI without letting it replace my thinking."
+  },
+  {
+    "objectID": "posts/020_/020.html#final-thoughts",
+    "href": "posts/020_/020.html#final-thoughts",
+    "title": "Your Brain on ChatGPT: The Cost of Cognitive Convenience",
+    "section": "Final Thoughts",
+    "text": "Final Thoughts\nThe MIT study raises serious concerns about what we lose when AI handles the thinking. We gain speed and convenience. But we risk losing: - cognitive engagement - memory formation - ownership - original thought\nThe question is not whether AI works. It is what happens to our minds when we let it think for us."
+  },
+  {
+    "objectID": "posts/003_Research_with_Perplexity_AI/003.html",
+    "href": "posts/003_Research_with_Perplexity_AI/003.html",
+    "title": "Research with Perplexity AI",
     "section": "",
-    "text": "I set up SaneBox to manage my email and it’s been running for about a week now. Instead of manually sorting through everything, the AI decides what’s important and what can wait.\n AI automatically categorizing emails by priority level"
+    "text": "I’ve been trying out Perplexity AI for research tasks lately. It’s different from regular Google searches because it synthesizes information from multiple sources and gives you one coherent answer with citations.\n Perplexity AI interface showing search results with sources"
   },
   {
-    "objectID": "posts/007_/007.html#how-it-sorts-things-out",
-    "href": "posts/007_/007.html#how-it-sorts-things-out",
-    "title": "AI Email Management That Actually Works",
-    "section": "How It Sorts Things Out",
-    "text": "How It Sorts Things Out\n\nPriority Filtering\nSaneBox learns from which emails I actually open and respond to. Work emails from my team get flagged as important, while newsletters and promotional stuff gets moved to a separate folder. It’s not perfect but catches most of the obvious stuff.\n\n\nSmart Scheduling\nGmail’s AI also suggests response times and can schedule emails to send later. I’ve been using it to send emails during business hours even when I’m working late, so I don’t look like I’m always online.\n\n\nQuick Replies\nThe suggested responses are actually useful for simple emails. When someone sends a meeting request, it’ll suggest “Looks good” or “Let me check my calendar” which saves typing the same responses over and over.\n AI-generated reply suggestions for common email types"
-  },
-  {
-    "objectID": "posts/007_/007.html#what-ive-noticed",
-    "href": "posts/007_/007.html#what-ive-noticed",
-    "title": "AI Email Management That Actually Works",
-    "section": "What I’ve Noticed",
-    "text": "What I’ve Noticed\n\nLess Time Sorting\nThe main benefit is spending less time deciding what to read first. Important emails show up in the main inbox, everything else gets organized automatically.\n\n\nFewer Missed Messages\nBefore, urgent emails would get buried under promotional stuff. Now they’re separated, so I’m less likely to miss something important.\n\n\nStill Need to Check\nThe AI sometimes gets it wrong - puts important emails in the low-priority folder or flags spam as urgent. You still need to glance through everything, but it’s more organized.\nIt’s a decent time-saver for people who get a lot of email. Not life-changing, but removes some of the daily friction of inbox management. The filtering works better than I expected, though you need to train it for a few days before it gets your priorities right."
-  },
-  {
-    "objectID": "posts/001_AI_Daily_Guide/001.html",
-    "href": "posts/001_AI_Daily_Guide/001.html",
-    "title": "5 Ways to Use AI Every Day",
+    "objectID": "posts/003_Research_with_Perplexity_AI/003.html#using-ai-for-research",
+    "href": "posts/003_Research_with_Perplexity_AI/003.html#using-ai-for-research",
+    "title": "Research with Perplexity AI",
     "section": "",
-    "text": "AI tools like ChatGPT and Claude can handle routine tasks that usually take significant time. Here are five practical applications that work reliably.\n Common tasks where AI provides immediate value"
+    "text": "I’ve been trying out Perplexity AI for research tasks lately. It’s different from regular Google searches because it synthesizes information from multiple sources and gives you one coherent answer with citations.\n Perplexity AI interface showing search results with sources"
   },
   {
-    "objectID": "posts/001_AI_Daily_Guide/001.html#using-ai-for-daily-tasks",
-    "href": "posts/001_AI_Daily_Guide/001.html#using-ai-for-daily-tasks",
-    "title": "5 Ways to Use AI Every Day",
+    "objectID": "posts/003_Research_with_Perplexity_AI/003.html#how-it-works",
+    "href": "posts/003_Research_with_Perplexity_AI/003.html#how-it-works",
+    "title": "Research with Perplexity AI",
+    "section": "How It Works",
+    "text": "How It Works\n\nGetting Information from Multiple Sources\nInstead of opening multiple tabs and reading through different articles, Perplexity pulls information from various sources and combines it into a single response. When I was researching market trends for a work project, I got a summary that included key points from several industry reports, all with proper citations.\n\n\nFollow-up Questions\nYou can ask follow-up questions that build on your previous search. After asking about “sustainable packaging trends 2025,” I could continue with: - “What are the cost implications?” - “Which companies are leading this transition?” - “How does this compare to 2024 predictions?”\nThe AI remembers the context, so you don’t need to re-explain what you’re looking for.\n Live citations and source integration in action"
+  },
+  {
+    "objectID": "posts/003_Research_with_Perplexity_AI/003.html#when-its-useful",
+    "href": "posts/003_Research_with_Perplexity_AI/003.html#when-its-useful",
+    "title": "Research with Perplexity AI",
+    "section": "When It’s Useful",
+    "text": "When It’s Useful\n\nAcademic Work\nGood for getting an overview of research topics and finding relevant studies. Helps identify what’s already been studied and where there might be gaps.\n\n\nBusiness Research\nUseful for market analysis and industry trends. You can ask specific questions and get answers that draw from recent reports and news sources.\n\n\nLearning New Topics\nWhen you’re unfamiliar with a subject, it can explain concepts and provide background without having to piece together information from multiple websites.\n\n\nFact-Checking\nSince it shows sources for each piece of information, it’s easier to verify claims and see where data comes from."
+  },
+  {
+    "objectID": "posts/003_Research_with_Perplexity_AI/003.html#what-ive-found",
+    "href": "posts/003_Research_with_Perplexity_AI/003.html#what-ive-found",
+    "title": "Research with Perplexity AI",
+    "section": "What I’ve Found",
+    "text": "What I’ve Found\n\nSaves Time\nThe main benefit is speed. You get the key information faster since it’s already compiled from multiple sources. You still need to read the original sources for details, but the initial overview is much quicker.\n\n\nClear Sources\nEvery piece of information comes with citations, so you can see exactly where it came from and verify it if needed.\n\n\nHandles Context Well\nThe conversation aspect works better than I expected. You can refine questions or explore related topics without starting over.\n\n\nShows Different Viewpoints\nWhen sources disagree, it usually mentions the different perspectives rather than just presenting one view.\nIt’s a useful tool for the initial stages of research when you need to understand a topic quickly or gather information from multiple sources. Not a replacement for thorough research, but it does help speed up the information gathering process."
+  },
+  {
+    "objectID": "posts/021_/021.html",
+    "href": "posts/021_/021.html",
+    "title": "Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation",
     "section": "",
-    "text": "AI tools like ChatGPT and Claude can handle routine tasks that usually take significant time. Here are five practical applications that work reliably.\n Common tasks where AI provides immediate value"
+    "text": "A skeptical reading of Hoffman’s testing-first vision for AI governance"
   },
   {
-    "objectID": "posts/001_AI_Daily_Guide/001.html#meal-planning-and-recipes",
-    "href": "posts/001_AI_Daily_Guide/001.html#meal-planning-and-recipes",
-    "title": "5 Ways to Use AI Every Day",
-    "section": "1. Meal Planning and Recipes",
-    "text": "1. Meal Planning and Recipes\nTurn ingredients into meal plans instantly.\nBasic ingredient prompt:\nI have chicken breast, rice, and broccoli. \nGive me 3 different 30-minute meals with instructions.\nWeekly planning prompt:\nCreate a 5-day meal plan for 2 people, $60 budget. \nInclude grocery list organized by store section.\n AI generates recipes based on available ingredients and dietary preferences\nAI handles dietary restrictions, cooking time constraints, and budget limitations effectively. The grocery lists are particularly useful since they organize items by store layout."
+    "objectID": "posts/021_/021.html#chapter-5-testing-testing-1-2-infinite",
+    "href": "posts/021_/021.html#chapter-5-testing-testing-1-2-infinite",
+    "title": "Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation",
+    "section": "Chapter 5: Testing, Testing, 1, 2 (Infinite)",
+    "text": "Chapter 5: Testing, Testing, 1, 2 (Infinite)\nThis entry covers pages 99 through roughly 143 of Superagency. Hoffman and Beato shift from high-level optimism to the mechanics of how AI progress supposedly happens: testing, benchmarking, competitive iteration, and a self-regulatory culture that resembles a Cold War-era innovation race.\nWhat stood out is not just how the authors frame testing but why: as the core engine of American technological leadership. The chapter leans heavily on a familiar narrative: American dynamism versus Chinese scale; democracy versus state-led efficiency; permissionless innovation versus precautionary restraint.\nI found parts of this more convincing than previous chapters, while others raised the same anxieties lingering since Chapter 1.\n Media framing of AI competition often echoes Cold War rhetoric"
   },
   {
-    "objectID": "posts/001_AI_Daily_Guide/001.html#email-and-message-writing",
-    "href": "posts/001_AI_Daily_Guide/001.html#email-and-message-writing",
-    "title": "5 Ways to Use AI Every Day",
-    "section": "2. Email and Message Writing",
-    "text": "2. Email and Message Writing\nImprove clarity and tone in professional communication.\nEmail revision prompt:\nMake this email more professional and concise:\n[paste your draft]\nDifficult conversation prompt:\nHelp me write a polite but firm email declining this request:\n[explain situation]\nMeeting follow-up prompt:\nDraft a follow-up email summarizing these meeting points:\n[list key decisions and action items]\nThis works for text messages, LinkedIn messages, and any written communication where tone matters."
+    "objectID": "posts/021_/021.html#the-cold-war-parallel",
+    "href": "posts/021_/021.html#the-cold-war-parallel",
+    "title": "Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation",
+    "section": "The Cold War Parallel",
+    "text": "The Cold War Parallel\nThe authors highlight the ubiquity of phrases like “AI arms race” and “AI Space Race.” Hoffman treats these terms as framing devices that motivate competition and accelerate innovation.\nBut the Cold War metaphor brings baggage: - national survival stakes - winner-take-all framing - justification for speed over caution - a belief that being second is equivalent to losing\nCompetitive framing can motivate innovation, but it can also suppress dissent, crowd out critical voices, and pressure policymakers into reactionary thinking."
   },
   {
-    "objectID": "posts/001_AI_Daily_Guide/001.html#quick-learning-and-research",
-    "href": "posts/001_AI_Daily_Guide/001.html#quick-learning-and-research",
-    "title": "5 Ways to Use AI Every Day",
-    "section": "3. Quick Learning and Research",
-    "text": "3. Quick Learning and Research\nGet structured explanations on unfamiliar topics.\nConcept explanation prompt:\nExplain [topic] in simple terms, then give me \n5 follow-up questions to test my understanding.\nSkill learning prompt:\nI need to learn Excel pivot tables for work. \nGive me a step-by-step tutorial focusing on the most practical features.\nResearch synthesis prompt:\nCompare the top 3 options for [product/service] \nwith pros and cons for each.\n AI breaks down complex topics into manageable learning steps\nAI excels at creating structured learning paths and synthesizing information from multiple angles."
+    "objectID": "posts/021_/021.html#democracy-as-competitive-advantage---or-ideological-comfort",
+    "href": "posts/021_/021.html#democracy-as-competitive-advantage---or-ideological-comfort",
+    "title": "Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation",
+    "section": "Democracy as Competitive Advantage - Or Ideological Comfort?",
+    "text": "Democracy as Competitive Advantage - Or Ideological Comfort?\nHoffman argues that the United States maintains an edge because democratic systems encourage testing, openness, and iterative trial-and-error.\nBut this raises uncomfortable questions: Is American-style innovation the only acceptable hegemony? What is inherently wrong with China being technologically ahead?\nThe book frames America as working from an “innocent until proven guilty” innovation model, and China as “guilty until proven safe.” Whether either extreme works for frontier AI is an open question."
   },
   {
-    "objectID": "posts/001_AI_Daily_Guide/001.html#travel-and-event-planning",
-    "href": "posts/001_AI_Daily_Guide/001.html#travel-and-event-planning",
-    "title": "5 Ways to Use AI Every Day",
-    "section": "4. Travel and Event Planning",
-    "text": "4. Travel and Event Planning\nGenerate detailed itineraries and logistics.\nTrip planning prompt:\nPlan a 3-day weekend trip to [destination] for [number] people \nwith a $[amount] budget. Include transportation, accommodation, \nand daily activities.\nLocal exploration prompt:\nWhat are 5 lesser-known attractions in [city] \nthat locals recommend?\nEvent planning prompt:\nCreate a timeline and checklist for planning a \n[birthday party/dinner party/work event] for [number] people.\nAI handles multiple constraints simultaneously - budget, time, preferences, and logistics."
+    "objectID": "posts/021_/021.html#benchmarks-as-pseudo-regulation",
+    "href": "posts/021_/021.html#benchmarks-as-pseudo-regulation",
+    "title": "Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation",
+    "section": "Benchmarks as Pseudo-Regulation",
+    "text": "Benchmarks as Pseudo-Regulation\nOne key argument: benchmarks can function as non-binding substitutes for regulation.\nHoffman writes: “Testing elevates the focus from compliance to continuous improvement. It is regulation, gamified.”\nBut gamifying regulation produces issues: - optimizing for scores, not safety - metrics used as PR - cherry-picking performance tests - ignoring bad actors entirely\nReal regulation exists because competition alone cannot guarantee safety."
   },
   {
-    "objectID": "posts/001_AI_Daily_Guide/001.html#home-management-and-finances",
-    "href": "posts/001_AI_Daily_Guide/001.html#home-management-and-finances",
-    "title": "5 Ways to Use AI Every Day",
-    "section": "5. Home Management and Finances",
-    "text": "5. Home Management and Finances\nGet practical advice for household and money management.\nHome maintenance prompt:\nMy [appliance/fixture] is [problem description]. \nWalk me through troubleshooting steps from simple to complex.\nBudget planning prompt:\nI make $[amount] monthly, fixed expenses are $[amount]. \nCreate a realistic budget with savings and discretionary spending.\nPurchase decision prompt:\nI'm considering buying [item] for [purpose]. \nWhat factors should I evaluate? Create a decision framework.\n AI provides structured approaches to financial and household decisions\nThese applications work because AI can process multiple variables and provide step-by-step guidance for complex decisions."
+    "objectID": "posts/021_/021.html#why-is-ai-expected-to-be-perfect",
+    "href": "posts/021_/021.html#why-is-ai-expected-to-be-perfect",
+    "title": "Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation",
+    "section": "Why Is AI Expected to Be Perfect?",
+    "text": "Why Is AI Expected to Be Perfect?\nThe authors critique society’s near-zero error tolerance for AI.\nBut AI failures scale differently: - individual human errors affect one person - AI deployed at scale can replicate failures instantly - decisions are opaque and hard to interrogate\nThe expectation for reliability is not about perfection. It is about systemic risk management."
   },
   {
-    "objectID": "posts/001_AI_Daily_Guide/001.html#implementation-notes",
-    "href": "posts/001_AI_Daily_Guide/001.html#implementation-notes",
-    "title": "5 Ways to Use AI Every Day",
-    "section": "Implementation Notes",
-    "text": "Implementation Notes\nPrompt specificity matters. Include relevant details like budget, timeframe, number of people, and specific constraints.\nFollow-up questions improve results. Ask for alternatives, simplifications, or additional detail as needed.\nSave effective prompts. Keep a note file with prompts that work well for repeated use.\nThese five applications cover the most common daily planning and decision-making tasks. Each provides immediate time savings and often produces better results than manual research."
+    "objectID": "posts/021_/021.html#innovation-is-safety---or-so-the-argument-goes",
+    "href": "posts/021_/021.html#innovation-is-safety---or-so-the-argument-goes",
+    "title": "Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation",
+    "section": "Innovation Is Safety - Or So the Argument Goes",
+    "text": "Innovation Is Safety - Or So the Argument Goes\nThe chapter suggests that innovation itself is a form of safety because faster iteration surfaces problems earlier.\nBut if real users become test subjects without consent, iterative deployment becomes mass experimentation.\nThe Ford assembly line example illustrates this tension: yes, it democratized mobility; yes, it also reshaped society in ways whose costs we now understand only decades later."
+  },
+  {
+    "objectID": "posts/021_/021.html#vorsorgeprinzip-and-burden-of-proof",
+    "href": "posts/021_/021.html#vorsorgeprinzip-and-burden-of-proof",
+    "title": "Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation",
+    "section": "Vorsorgeprinzip and Burden of Proof",
+    "text": "Vorsorgeprinzip and Burden of Proof\nThe Vorsorgeprinzip (forecaring principle) assigns the burden of proof to developers.\nHoffman sees it as anti-innovation, but in high-stakes, opaque systems, this principle may be necessary. If AI is powerful and unpredictable, why should the public bear the burden of proof?"
+  },
+  {
+    "objectID": "posts/021_/021.html#big-knowledge-and-collective-intelligence",
+    "href": "posts/021_/021.html#big-knowledge-and-collective-intelligence",
+    "title": "Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation",
+    "section": "Big Knowledge and Collective Intelligence",
+    "text": "Big Knowledge and Collective Intelligence\nThe chapter ends with “big knowledge” systems like Google Maps, highlighting how public infrastructure unlocks private innovation.\nBut dependency introduces trade-offs: - overreliance on opaque routing systems - erosion of local knowledge - vulnerabilities in critical digital infrastructure\n Crowdsourced systems create powerful benefits and deep dependencies"
+  },
+  {
+    "objectID": "posts/021_/021.html#my-running-notes",
+    "href": "posts/021_/021.html#my-running-notes",
+    "title": "Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation",
+    "section": "My Running Notes",
+    "text": "My Running Notes\n\nWho regulates the testers?\nWho pays the price if iterative deployment harms people?\nIs innovation inherently democratic, or is this idealized?\nWhy must speed be treated as a virtue when consequences scale exponentially?"
+  },
+  {
+    "objectID": "posts/021_/021.html#final-thoughts",
+    "href": "posts/021_/021.html#final-thoughts",
+    "title": "Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation",
+    "section": "Final Thoughts",
+    "text": "Final Thoughts\nChapter 5 makes a strong case for testing as a driver of innovation. But it underestimates the risk of treating real people as unwitting beta testers.\nWithout guardrails, iterative deployment becomes mass experimentation.\nThere is a fine line between innovation and recklessness. The book sometimes blurs that line more than it clarifies it."
   },
   {
     "objectID": "posts/004_AI-Assisted_Grocery_Shopping_and_Meal_Prep/004.html",
@@ -522,7 +620,7 @@
     "href": "index.html",
     "title": "What Can You Do With AI",
     "section": "",
-    "text": "Let’s Find Out\n\nExploring AI in daily life\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNotebookLM for Exam Prep: Gemini’s Research Assistant\n\n\n\nAI\n\nLLM\n\nprofessional\n\ndaily-life\n\n\n\nTesting Google’s NotebookLM with lecture notes and readings for MKTG exam\n\n\n\n\n\nOct 21, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nSuperagency Review #2: Solutionism vs. Problemism\n\n\n\nAI\n\nbook-review\n\nskeptical\n\nresearch\n\n\n\nReading Reid Hoffman’s optimistic AI book from a skeptical perspective - Part 2\n\n\n\n\n\nOct 19, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nCreating Music with AI: Suno for Marketing Projects\n\n\n\nAI\n\ncreative\n\nprofessional\n\nmarketing\n\n\n\nUsing Suno AI to generate original music for a Corona ad campaign\n\n\n\n\n\nOct 17, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Meditation Apps: Is the Personalization Real?\n\n\n\nAI\n\nhealth\n\nfitness\n\nskeptical\n\n\n\nTesting Calm during recruiting season - does AI actually customize meditation?\n\n\n\n\n\nOct 15, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nUsing Claude to Synthesize Dense Class Notes\n\n\n\nAI\n\nLLM\n\ndaily-life\n\nprofessional\n\nclaude\n\n\n\nTesting AI as a study partner for Human Disease and Evolution\n\n\n\n\n\nOct 13, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nSuperagency Review #1: History Is Written by the Winners\n\n\n\nAI\n\nbook-review\n\nskeptical\n\nresearch\n\n\n\nReading Reid Hoffman’s optimistic AI book from a skeptical perspective - Part 1\n\n\n\n\n\nOct 11, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nTesting AI as a Tutor: Does Prompt Structure Actually Matter?\n\n\n\nresearch\n\nprofessional\n\nLLM\n\ndaily-life\n\nclaude\n\n\n\nComparing two Claude sessions learning to cook Lomo Saltado - one structured, one not\n\n\n\n\n\nOct 9, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nSwitching from Consulting to Finance Prep with AI\n\n\n\nAI\n\nLLM\n\nprofessional\n\nclaude\n\nperplexity\n\n\n\nUsing Claude and Perplexity to prepare for investment banking interviews\n\n\n\n\n\nOct 5, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nRunning a Virtual Focus Group with ChatGPT\n\n\n\nbranding\n\nLLM\n\nentrepreneurship\n\ncreative\n\n\n\nTesting Cuzco Crunch products using AI-generated personas and experimental design\n\n\n\n\n\nOct 3, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nUsing LLMs for Interview Prep\n\n\n\nAI\n\nLLM\n\nentrepreneurship\n\nclaude\n\n\n\nBuilding an MBB interview assistant with Claude to track cases and practice\n\n\n\n\n\nOct 1, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nExperimenting with Vibe Creation Using LLMs\n\n\n\nAI\n\nLLM\n\ncreative\n\nclaude\n\n\n\nTesting how language models interpret and generate atmospheric descriptions\n\n\n\n\n\nSep 29, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Photo Organization: Finding Pictures I Forgot I Had\n\n\n\nAI\n\norganization\n\n\n\nHow Google Photos AI search helped me rediscover thousands of old photos\n\n\n\n\n\nSep 27, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Email Management That Actually Works\n\n\n\nAI\n\nproductivity\n\norganization\n\n\n\nUsing smart filters and auto-responses to handle inbox overload\n\n\n\n\n\nSep 25, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nBuilding a Brand with AI: Cuzco Crunch\n\n\n\nAI\n\nbranding\n\nentrepreneurship\n\n\n\nHow we’re using GPT to create a snack brand from concept to execution\n\n\n\n\n\nSep 23, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Fitness Coaching at Home\n\n\n\nAI\n\nfitness\n\nhealth\n\ndaily-life\n\n\n\nUsing smartphone apps for form correction and personalized workouts\n\n\n\n\n\nSep 19, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI-Assisted Grocery Shopping and Meal Prep\n\n\n\nAI\n\ndaily-life\n\nproductivity\n\nhealth\n\ndaily-life\n\n\n\nHow smart apps are making grocery runs more organized and efficient\n\n\n\n\n\nSep 18, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nResearch with Perplexity AI\n\n\n\nAI\n\nresearch\n\nproductivity\n\ntechnology\n\n\n\nHow AI-powered search is changing the way we gather and analyze information\n\n\n\n\n\nSep 15, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Do’s and Don’ts: Safe and Effective Usage\n\n\n\nAI\n\n\n\nEssential guidelines for using AI tools responsibly and effectively\n\n\n\n\n\nSep 10, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\n5 Ways to Use AI Every Day\n\n\n\nAI\n\nproductivity\n\n\n\nPractical AI applications that save time on common daily tasks\n\n\n\n\n\nSep 5, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nHow AI Systems Work: A Technical Overview\n\n\n\nAI\n\ntechnology\n\n\n\nUnderstanding the mechanics and architecture of modern artificial intelligence systems\n\n\n\n\n\nSep 3, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\nNo matching items"
+    "text": "Let’s Find Out\n\nExploring AI in daily life\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSuperagency Review #3: Testing, Benchmarking, and the Gamification of Regulation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYour Brain on ChatGPT: The Cost of Cognitive Convenience\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNotebookLM for Exam Prep: Gemini’s Research Assistant\n\n\n\nAI\n\nLLM\n\nprofessional\n\ndaily-life\n\n\n\nTesting Google’s NotebookLM with lecture notes and readings for MKTG exam\n\n\n\n\n\nOct 21, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nSuperagency Review #2: Solutionism vs. Problemism\n\n\n\nAI\n\nbook-review\n\nskeptical\n\nresearch\n\n\n\nReading Reid Hoffman’s optimistic AI book from a skeptical perspective - Part 2\n\n\n\n\n\nOct 19, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nCreating Music with AI: Suno for Marketing Projects\n\n\n\nAI\n\ncreative\n\nprofessional\n\nmarketing\n\n\n\nUsing Suno AI to generate original music for a Corona ad campaign\n\n\n\n\n\nOct 17, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Meditation Apps: Is the Personalization Real?\n\n\n\nAI\n\nhealth\n\nfitness\n\nskeptical\n\n\n\nTesting Calm during recruiting season - does AI actually customize meditation?\n\n\n\n\n\nOct 15, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nUsing Claude to Synthesize Dense Class Notes\n\n\n\nAI\n\nLLM\n\ndaily-life\n\nprofessional\n\nclaude\n\n\n\nTesting AI as a study partner for Human Disease and Evolution\n\n\n\n\n\nOct 13, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nSuperagency Review #1: History Is Written by the Winners\n\n\n\nAI\n\nbook-review\n\nskeptical\n\nresearch\n\n\n\nReading Reid Hoffman’s optimistic AI book from a skeptical perspective - Part 1\n\n\n\n\n\nOct 11, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nTesting AI as a Tutor: Does Prompt Structure Actually Matter?\n\n\n\nresearch\n\nprofessional\n\nLLM\n\ndaily-life\n\nclaude\n\n\n\nComparing two Claude sessions learning to cook Lomo Saltado - one structured, one not\n\n\n\n\n\nOct 9, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nSwitching from Consulting to Finance Prep with AI\n\n\n\nAI\n\nLLM\n\nprofessional\n\nclaude\n\nperplexity\n\n\n\nUsing Claude and Perplexity to prepare for investment banking interviews\n\n\n\n\n\nOct 5, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nRunning a Virtual Focus Group with ChatGPT\n\n\n\nbranding\n\nLLM\n\nentrepreneurship\n\ncreative\n\n\n\nTesting Cuzco Crunch products using AI-generated personas and experimental design\n\n\n\n\n\nOct 3, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nUsing LLMs for Interview Prep\n\n\n\nAI\n\nLLM\n\nentrepreneurship\n\nclaude\n\n\n\nBuilding an MBB interview assistant with Claude to track cases and practice\n\n\n\n\n\nOct 1, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nExperimenting with Vibe Creation Using LLMs\n\n\n\nAI\n\nLLM\n\ncreative\n\nclaude\n\n\n\nTesting how language models interpret and generate atmospheric descriptions\n\n\n\n\n\nSep 29, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Photo Organization: Finding Pictures I Forgot I Had\n\n\n\nAI\n\norganization\n\n\n\nHow Google Photos AI search helped me rediscover thousands of old photos\n\n\n\n\n\nSep 27, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Email Management That Actually Works\n\n\n\nAI\n\nproductivity\n\norganization\n\n\n\nUsing smart filters and auto-responses to handle inbox overload\n\n\n\n\n\nSep 25, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nBuilding a Brand with AI: Cuzco Crunch\n\n\n\nAI\n\nbranding\n\nentrepreneurship\n\n\n\nHow we’re using GPT to create a snack brand from concept to execution\n\n\n\n\n\nSep 23, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Fitness Coaching at Home\n\n\n\nAI\n\nfitness\n\nhealth\n\ndaily-life\n\n\n\nUsing smartphone apps for form correction and personalized workouts\n\n\n\n\n\nSep 19, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI-Assisted Grocery Shopping and Meal Prep\n\n\n\nAI\n\ndaily-life\n\nproductivity\n\nhealth\n\ndaily-life\n\n\n\nHow smart apps are making grocery runs more organized and efficient\n\n\n\n\n\nSep 18, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nResearch with Perplexity AI\n\n\n\nAI\n\nresearch\n\nproductivity\n\ntechnology\n\n\n\nHow AI-powered search is changing the way we gather and analyze information\n\n\n\n\n\nSep 15, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nAI Do’s and Don’ts: Safe and Effective Usage\n\n\n\nAI\n\n\n\nEssential guidelines for using AI tools responsibly and effectively\n\n\n\n\n\nSep 10, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\n5 Ways to Use AI Every Day\n\n\n\nAI\n\nproductivity\n\n\n\nPractical AI applications that save time on common daily tasks\n\n\n\n\n\nSep 5, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\n\n\n\n\n\n\n\nHow AI Systems Work: A Technical Overview\n\n\n\nAI\n\ntechnology\n\n\n\nUnderstanding the mechanics and architecture of modern artificial intelligence systems\n\n\n\n\n\nSep 3, 2025\n\n\nRaymond Liu Ao\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/000_How_Does_AI_Really_Work/000.html",
@@ -672,39 +770,88 @@
     "text": "The Reality Check\n\nStill Need Real Skills\nAI handles the brainstorming and initial concepts, but you still need to understand branding, know your target market, and make business decisions. It’s a tool, not a replacement for actual knowledge about building a brand.\n\n\nCost vs. Quality Trade-offs\nWe’re probably saving money in the early stages, but there’s a point where you need professional designers and marketers. The question is finding that sweet spot where AI gets you far enough to make informed decisions about what’s worth investing in.\n\n\nLearning Experience\nThe most valuable part has been understanding how much work goes into brand development. Using AI to handle the repetitive parts lets us focus on strategy and decision-making instead of getting stuck on execution details.\nWe’re treating this as an experiment rather than a serious business venture. If Cuzco Crunch turns into something real, great. If not, we’ve learned a lot about using AI for creative projects and brand development."
   },
   {
-    "objectID": "posts/003_Research_with_Perplexity_AI/003.html",
-    "href": "posts/003_Research_with_Perplexity_AI/003.html",
-    "title": "Research with Perplexity AI",
+    "objectID": "posts/001_AI_Daily_Guide/001.html",
+    "href": "posts/001_AI_Daily_Guide/001.html",
+    "title": "5 Ways to Use AI Every Day",
     "section": "",
-    "text": "I’ve been trying out Perplexity AI for research tasks lately. It’s different from regular Google searches because it synthesizes information from multiple sources and gives you one coherent answer with citations.\n Perplexity AI interface showing search results with sources"
+    "text": "AI tools like ChatGPT and Claude can handle routine tasks that usually take significant time. Here are five practical applications that work reliably.\n Common tasks where AI provides immediate value"
   },
   {
-    "objectID": "posts/003_Research_with_Perplexity_AI/003.html#using-ai-for-research",
-    "href": "posts/003_Research_with_Perplexity_AI/003.html#using-ai-for-research",
-    "title": "Research with Perplexity AI",
+    "objectID": "posts/001_AI_Daily_Guide/001.html#using-ai-for-daily-tasks",
+    "href": "posts/001_AI_Daily_Guide/001.html#using-ai-for-daily-tasks",
+    "title": "5 Ways to Use AI Every Day",
     "section": "",
-    "text": "I’ve been trying out Perplexity AI for research tasks lately. It’s different from regular Google searches because it synthesizes information from multiple sources and gives you one coherent answer with citations.\n Perplexity AI interface showing search results with sources"
+    "text": "AI tools like ChatGPT and Claude can handle routine tasks that usually take significant time. Here are five practical applications that work reliably.\n Common tasks where AI provides immediate value"
   },
   {
-    "objectID": "posts/003_Research_with_Perplexity_AI/003.html#how-it-works",
-    "href": "posts/003_Research_with_Perplexity_AI/003.html#how-it-works",
-    "title": "Research with Perplexity AI",
-    "section": "How It Works",
-    "text": "How It Works\n\nGetting Information from Multiple Sources\nInstead of opening multiple tabs and reading through different articles, Perplexity pulls information from various sources and combines it into a single response. When I was researching market trends for a work project, I got a summary that included key points from several industry reports, all with proper citations.\n\n\nFollow-up Questions\nYou can ask follow-up questions that build on your previous search. After asking about “sustainable packaging trends 2025,” I could continue with: - “What are the cost implications?” - “Which companies are leading this transition?” - “How does this compare to 2024 predictions?”\nThe AI remembers the context, so you don’t need to re-explain what you’re looking for.\n Live citations and source integration in action"
+    "objectID": "posts/001_AI_Daily_Guide/001.html#meal-planning-and-recipes",
+    "href": "posts/001_AI_Daily_Guide/001.html#meal-planning-and-recipes",
+    "title": "5 Ways to Use AI Every Day",
+    "section": "1. Meal Planning and Recipes",
+    "text": "1. Meal Planning and Recipes\nTurn ingredients into meal plans instantly.\nBasic ingredient prompt:\nI have chicken breast, rice, and broccoli. \nGive me 3 different 30-minute meals with instructions.\nWeekly planning prompt:\nCreate a 5-day meal plan for 2 people, $60 budget. \nInclude grocery list organized by store section.\n AI generates recipes based on available ingredients and dietary preferences\nAI handles dietary restrictions, cooking time constraints, and budget limitations effectively. The grocery lists are particularly useful since they organize items by store layout."
   },
   {
-    "objectID": "posts/003_Research_with_Perplexity_AI/003.html#when-its-useful",
-    "href": "posts/003_Research_with_Perplexity_AI/003.html#when-its-useful",
-    "title": "Research with Perplexity AI",
-    "section": "When It’s Useful",
-    "text": "When It’s Useful\n\nAcademic Work\nGood for getting an overview of research topics and finding relevant studies. Helps identify what’s already been studied and where there might be gaps.\n\n\nBusiness Research\nUseful for market analysis and industry trends. You can ask specific questions and get answers that draw from recent reports and news sources.\n\n\nLearning New Topics\nWhen you’re unfamiliar with a subject, it can explain concepts and provide background without having to piece together information from multiple websites.\n\n\nFact-Checking\nSince it shows sources for each piece of information, it’s easier to verify claims and see where data comes from."
+    "objectID": "posts/001_AI_Daily_Guide/001.html#email-and-message-writing",
+    "href": "posts/001_AI_Daily_Guide/001.html#email-and-message-writing",
+    "title": "5 Ways to Use AI Every Day",
+    "section": "2. Email and Message Writing",
+    "text": "2. Email and Message Writing\nImprove clarity and tone in professional communication.\nEmail revision prompt:\nMake this email more professional and concise:\n[paste your draft]\nDifficult conversation prompt:\nHelp me write a polite but firm email declining this request:\n[explain situation]\nMeeting follow-up prompt:\nDraft a follow-up email summarizing these meeting points:\n[list key decisions and action items]\nThis works for text messages, LinkedIn messages, and any written communication where tone matters."
   },
   {
-    "objectID": "posts/003_Research_with_Perplexity_AI/003.html#what-ive-found",
-    "href": "posts/003_Research_with_Perplexity_AI/003.html#what-ive-found",
-    "title": "Research with Perplexity AI",
-    "section": "What I’ve Found",
-    "text": "What I’ve Found\n\nSaves Time\nThe main benefit is speed. You get the key information faster since it’s already compiled from multiple sources. You still need to read the original sources for details, but the initial overview is much quicker.\n\n\nClear Sources\nEvery piece of information comes with citations, so you can see exactly where it came from and verify it if needed.\n\n\nHandles Context Well\nThe conversation aspect works better than I expected. You can refine questions or explore related topics without starting over.\n\n\nShows Different Viewpoints\nWhen sources disagree, it usually mentions the different perspectives rather than just presenting one view.\nIt’s a useful tool for the initial stages of research when you need to understand a topic quickly or gather information from multiple sources. Not a replacement for thorough research, but it does help speed up the information gathering process."
+    "objectID": "posts/001_AI_Daily_Guide/001.html#quick-learning-and-research",
+    "href": "posts/001_AI_Daily_Guide/001.html#quick-learning-and-research",
+    "title": "5 Ways to Use AI Every Day",
+    "section": "3. Quick Learning and Research",
+    "text": "3. Quick Learning and Research\nGet structured explanations on unfamiliar topics.\nConcept explanation prompt:\nExplain [topic] in simple terms, then give me \n5 follow-up questions to test my understanding.\nSkill learning prompt:\nI need to learn Excel pivot tables for work. \nGive me a step-by-step tutorial focusing on the most practical features.\nResearch synthesis prompt:\nCompare the top 3 options for [product/service] \nwith pros and cons for each.\n AI breaks down complex topics into manageable learning steps\nAI excels at creating structured learning paths and synthesizing information from multiple angles."
+  },
+  {
+    "objectID": "posts/001_AI_Daily_Guide/001.html#travel-and-event-planning",
+    "href": "posts/001_AI_Daily_Guide/001.html#travel-and-event-planning",
+    "title": "5 Ways to Use AI Every Day",
+    "section": "4. Travel and Event Planning",
+    "text": "4. Travel and Event Planning\nGenerate detailed itineraries and logistics.\nTrip planning prompt:\nPlan a 3-day weekend trip to [destination] for [number] people \nwith a $[amount] budget. Include transportation, accommodation, \nand daily activities.\nLocal exploration prompt:\nWhat are 5 lesser-known attractions in [city] \nthat locals recommend?\nEvent planning prompt:\nCreate a timeline and checklist for planning a \n[birthday party/dinner party/work event] for [number] people.\nAI handles multiple constraints simultaneously - budget, time, preferences, and logistics."
+  },
+  {
+    "objectID": "posts/001_AI_Daily_Guide/001.html#home-management-and-finances",
+    "href": "posts/001_AI_Daily_Guide/001.html#home-management-and-finances",
+    "title": "5 Ways to Use AI Every Day",
+    "section": "5. Home Management and Finances",
+    "text": "5. Home Management and Finances\nGet practical advice for household and money management.\nHome maintenance prompt:\nMy [appliance/fixture] is [problem description]. \nWalk me through troubleshooting steps from simple to complex.\nBudget planning prompt:\nI make $[amount] monthly, fixed expenses are $[amount]. \nCreate a realistic budget with savings and discretionary spending.\nPurchase decision prompt:\nI'm considering buying [item] for [purpose]. \nWhat factors should I evaluate? Create a decision framework.\n AI provides structured approaches to financial and household decisions\nThese applications work because AI can process multiple variables and provide step-by-step guidance for complex decisions."
+  },
+  {
+    "objectID": "posts/001_AI_Daily_Guide/001.html#implementation-notes",
+    "href": "posts/001_AI_Daily_Guide/001.html#implementation-notes",
+    "title": "5 Ways to Use AI Every Day",
+    "section": "Implementation Notes",
+    "text": "Implementation Notes\nPrompt specificity matters. Include relevant details like budget, timeframe, number of people, and specific constraints.\nFollow-up questions improve results. Ask for alternatives, simplifications, or additional detail as needed.\nSave effective prompts. Keep a note file with prompts that work well for repeated use.\nThese five applications cover the most common daily planning and decision-making tasks. Each provides immediate time savings and often produces better results than manual research."
+  },
+  {
+    "objectID": "posts/007_/007.html",
+    "href": "posts/007_/007.html",
+    "title": "AI Email Management That Actually Works",
+    "section": "",
+    "text": "I set up SaneBox to manage my email and it’s been running for about a week now. Instead of manually sorting through everything, the AI decides what’s important and what can wait.\n AI automatically categorizing emails by priority level"
+  },
+  {
+    "objectID": "posts/007_/007.html#letting-ai-handle-my-inbox",
+    "href": "posts/007_/007.html#letting-ai-handle-my-inbox",
+    "title": "AI Email Management That Actually Works",
+    "section": "",
+    "text": "I set up SaneBox to manage my email and it’s been running for about a week now. Instead of manually sorting through everything, the AI decides what’s important and what can wait.\n AI automatically categorizing emails by priority level"
+  },
+  {
+    "objectID": "posts/007_/007.html#how-it-sorts-things-out",
+    "href": "posts/007_/007.html#how-it-sorts-things-out",
+    "title": "AI Email Management That Actually Works",
+    "section": "How It Sorts Things Out",
+    "text": "How It Sorts Things Out\n\nPriority Filtering\nSaneBox learns from which emails I actually open and respond to. Work emails from my team get flagged as important, while newsletters and promotional stuff gets moved to a separate folder. It’s not perfect but catches most of the obvious stuff.\n\n\nSmart Scheduling\nGmail’s AI also suggests response times and can schedule emails to send later. I’ve been using it to send emails during business hours even when I’m working late, so I don’t look like I’m always online.\n\n\nQuick Replies\nThe suggested responses are actually useful for simple emails. When someone sends a meeting request, it’ll suggest “Looks good” or “Let me check my calendar” which saves typing the same responses over and over.\n AI-generated reply suggestions for common email types"
+  },
+  {
+    "objectID": "posts/007_/007.html#what-ive-noticed",
+    "href": "posts/007_/007.html#what-ive-noticed",
+    "title": "AI Email Management That Actually Works",
+    "section": "What I’ve Noticed",
+    "text": "What I’ve Noticed\n\nLess Time Sorting\nThe main benefit is spending less time deciding what to read first. Important emails show up in the main inbox, everything else gets organized automatically.\n\n\nFewer Missed Messages\nBefore, urgent emails would get buried under promotional stuff. Now they’re separated, so I’m less likely to miss something important.\n\n\nStill Need to Check\nThe AI sometimes gets it wrong - puts important emails in the low-priority folder or flags spam as urgent. You still need to glance through everything, but it’s more organized.\nIt’s a decent time-saver for people who get a lot of email. Not life-changing, but removes some of the daily friction of inbox management. The filtering works better than I expected, though you need to train it for a few days before it gets your priorities right."
   },
   {
     "objectID": "posts/008_ /008.html",
