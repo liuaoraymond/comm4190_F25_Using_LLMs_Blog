@@ -10,7 +10,291 @@
 <atom:link href="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Let&#39;s Find Out</description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Sun, 02 Nov 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 25 Nov 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Building Career Compass: What I Learned Making an LLM System</title>
+  <dc:creator>Raymond Liu Ao</dc:creator>
+  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/024_/024.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="the-project-an-llm-powered-career-advisor" class="level2">
+<h2 class="anchored" data-anchor-id="the-project-an-llm-powered-career-advisor">The Project: An LLM-Powered Career Advisor</h2>
+<p>For my AI Applications class, my team built Career Compass - an LLM system that helps with career transitions, networking strategy, and resume optimization.</p>
+<p>Three scenarios: - <strong>Ray:</strong> Career transition advisor (teacher → UX designer) - <strong>Aitalia:</strong> Social network analyzer (extract connections, score relevance) - <strong>Alex:</strong> Resume optimizer (fix new grad job search mistakes)</p>
+<p>We spent weeks writing structured prompts, testing edge cases, and discovering where LLMs actually help versus where they just sound helpful.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/024_/career-compass-system.jpg" alt="Career Compass System" style="max-width: 450px; max-height: 300px; object-fit: contain; display: block; margin: 20px auto;"></p>
+</section>
+<section id="what-actually-worked" class="level2">
+<h2 class="anchored" data-anchor-id="what-actually-worked">What Actually Worked</h2>
+<section id="structured-prompts-prevent-hallucination" class="level3">
+<h3 class="anchored" data-anchor-id="structured-prompts-prevent-hallucination">Structured Prompts Prevent Hallucination</h3>
+<p>We used Mollick-style prompts with explicit “NEVER” rules: - NEVER invent course names or salary data - NEVER recommend senior roles for new grads - NEVER assume details not explicitly stated</p>
+<p>Generic prompts hallucinated constantly. Specific constraints worked.</p>
+</section>
+<section id="adversarial-testing-revealed-weak-points" class="level3">
+<h3 class="anchored" data-anchor-id="adversarial-testing-revealed-weak-points">Adversarial Testing Revealed Weak Points</h3>
+<p>We tested with: “Which is better: Coke or Pepsi?”</p>
+<p>Early versions answered it. Final prompts declined appropriately: “I focus on career transitions. Let’s discuss your UX goals.”</p>
+<p>If your system answers irrelevant questions, it’ll answer relevant ones poorly too.</p>
+</section>
+<section id="asking-before-teaching-works-better" class="level3">
+<h3 class="anchored" data-anchor-id="asking-before-teaching-works-better">Asking Before Teaching Works Better</h3>
+<p>Ray’s prompt asks about constraints (salary, time, location) before generating a roadmap.</p>
+<p>When we skipped that step, plans were generic and useless. Gathering context first made outputs actually personalized.</p>
+</section>
+</section>
+<section id="what-didnt-work" class="level2">
+<h2 class="anchored" data-anchor-id="what-didnt-work">What Didn’t Work</h2>
+<section id="the-network-analyzer-hallucinated-roles" class="level3">
+<h3 class="anchored" data-anchor-id="the-network-analyzer-hallucinated-roles">The Network Analyzer Hallucinated Roles</h3>
+<p>Aitalia’s first version: User says “I talked to Sam.”</p>
+<p>System responds: “Sam - UX Designer at Google (Relevance: 95/100)”</p>
+<p>We never said Sam worked at Google or did UX. The LLM invented it because that fit the pattern.</p>
+<p>Fix: Add “If ambiguous, ask for clarification. NEVER invent roles or companies.”</p>
+</section>
+<section id="benchmarks-became-pr-not-safety" class="level3">
+<h3 class="anchored" data-anchor-id="benchmarks-became-pr-not-safety">Benchmarks Became PR, Not Safety</h3>
+<p>We tested on MMLU-style questions. Scored well. Then tested on actual messy user input - failed.</p>
+<p>Benchmarks optimize for tests, not real-world reliability.</p>
+</section>
+<section id="users-dont-know-what-data-the-system-needs" class="level3">
+<h3 class="anchored" data-anchor-id="users-dont-know-what-data-the-system-needs">Users Don’t Know What Data the System Needs</h3>
+<p>Alex’s resume optimizer needs: education, skills, projects.</p>
+<p>Users would write: “I graduated CS. Not getting interviews. Help?”</p>
+<p>The system needed to extract requirements iteratively, not assume users would provide complete information upfront.</p>
+</section>
+</section>
+<section id="the-real-limitations" class="level2">
+<h2 class="anchored" data-anchor-id="the-real-limitations">The Real Limitations</h2>
+<section id="llms-cant-verify-their-own-outputs" class="level3">
+<h3 class="anchored" data-anchor-id="llms-cant-verify-their-own-outputs">LLMs Can’t Verify Their Own Outputs</h3>
+<p>Ray suggests a 12-month UX learning roadmap. Is it actually realistic? The system can’t know.</p>
+<p>It bases estimates on patterns in training data, not current market conditions.</p>
+</section>
+<section id="social-context-is-fragile" class="level3">
+<h3 class="anchored" data-anchor-id="social-context-is-fragile">Social Context Is Fragile</h3>
+<p>Aitalia scores network connections by career relevance. But it can’t understand: - Actual relationship quality - Cultural context - Whether someone is actually willing to help</p>
+<p>It maps patterns. It doesn’t understand people.</p>
+</section>
+<section id="prompt-engineering-has-limits" class="level3">
+<h3 class="anchored" data-anchor-id="prompt-engineering-has-limits">Prompt Engineering Has Limits</h3>
+<p>We spent 40+ hours refining prompts. Improvements plateaued.</p>
+<p>At some point, better prompts can’t fix fundamental model limitations.</p>
+</section>
+</section>
+<section id="what-i-actually-learned" class="level2">
+<h2 class="anchored" data-anchor-id="what-i-actually-learned">What I Actually Learned</h2>
+<section id="constraints-matter-more-than-capabilities" class="level3">
+<h3 class="anchored" data-anchor-id="constraints-matter-more-than-capabilities">1. Constraints Matter More Than Capabilities</h3>
+<p>Good LLM systems aren’t about what they <em>can</em> do - they’re about what they <em>won’t</em> do.</p>
+<p>Guardrails, not features.</p>
+</section>
+<section id="testing-reveals-assumptions" class="level3">
+<h3 class="anchored" data-anchor-id="testing-reveals-assumptions">2. Testing Reveals Assumptions</h3>
+<p>Every edge case we tested exposed something we assumed users would do but didn’t.</p>
+<p>Design for messy input, not ideal input.</p>
+</section>
+<section id="llms-are-good-at-organizing-not-creating" class="level3">
+<h3 class="anchored" data-anchor-id="llms-are-good-at-organizing-not-creating">3. LLMs Are Good at Organizing, Not Creating</h3>
+<p>Career Compass works when it structures existing information (resume bullets, network connections, skill gaps).</p>
+<p>It fails when it needs to generate novel insights or verify truth.</p>
+</section>
+<section id="the-user-experience-isnt-the-system" class="level3">
+<h3 class="anchored" data-anchor-id="the-user-experience-isnt-the-system">4. The User Experience Isn’t the System</h3>
+<p>A helpful-sounding response isn’t the same as helpful advice.</p>
+<p>LLMs are very good at <em>seeming</em> authoritative. That’s a bug, not a feature.</p>
+</section>
+</section>
+<section id="would-i-use-this-system" class="level2">
+<h2 class="anchored" data-anchor-id="would-i-use-this-system">Would I Use This System?</h2>
+<p>For organizing thoughts? Yes.</p>
+<p>For making actual career decisions? No.</p>
+<p>Career Compass is a useful thinking tool. It’s not a replacement for judgment, research, or talking to actual humans in your field.</p>
+<p>Building it taught me more about LLM limitations than capabilities.</p>
+<p>That’s probably the point.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>AI</category>
+  <category>professional</category>
+  <category>LLM</category>
+  <category>research</category>
+  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/024_/024.html</guid>
+  <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/024_/career-compass-system.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>AI-Generated Advertising Mockups: Veo for Product Concepts</title>
+  <dc:creator>Raymond Liu Ao</dc:creator>
+  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/023_/023.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="the-assignment-advertise-a-product-that-doesnt-exist" class="level2">
+<h2 class="anchored" data-anchor-id="the-assignment-advertise-a-product-that-doesnt-exist">The Assignment: Advertise a Product That Doesn’t Exist</h2>
+<p>For my Marketing and Creativity class, I needed to create advertising concepts for “Bulby” - a climate-responsive smart lightbulb. The product isn’t real. I needed mockups showing what the campaigns would look like.</p>
+<p>I used Google DeepMind’s Veo to generate the visuals.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/023_/bulby-advertising.jpg" alt="Bulby Advertising Mockups" style="max-width: 450px; max-height: 300px; object-fit: contain; display: block; margin: 20px auto;"></p>
+</section>
+<section id="what-i-needed" class="level2">
+<h2 class="anchored" data-anchor-id="what-i-needed">What I Needed</h2>
+<p>Two campaign concepts:</p>
+<p><strong>Physical:</strong> Times Square billboard showing “It’s hot, Bulby” - using extreme heat as contrast to the product’s climate awareness</p>
+<p><strong>Digital:</strong> Social media ad showing “It’s cold, Bulby” - clean, modern living room with the lightbulb responding to temperature</p>
+<p>Photoshop would take hours. Hiring a designer costs money I don’t have. Veo generated both in 20 minutes.</p>
+</section>
+<section id="what-worked" class="level2">
+<h2 class="anchored" data-anchor-id="what-worked">What Worked</h2>
+<section id="the-times-square-billboard" class="level3">
+<h3 class="anchored" data-anchor-id="the-times-square-billboard">The Times Square Billboard</h3>
+<p>Prompt: “Large billboard in Times Square showing a glowing smart lightbulb with text ‘It’s hot, Bulby’ - evening, city lights, realistic”</p>
+<p>Veo nailed the environmental context. The billboard looked like it belonged there. Lighting, perspective, urban density - all correct.</p>
+</section>
+<section id="the-living-room-scene" class="level3">
+<h3 class="anchored" data-anchor-id="the-living-room-scene">The Living Room Scene</h3>
+<p>Prompt: “Modern minimalist living room, large windows, smart lightbulb visible with temperature icon, text ‘It’s cold, Bulby’ - bright natural lighting”</p>
+<p>Clean, professional, Instagram-ready aesthetic. Exactly what I needed for a social media mockup.</p>
+</section>
+</section>
+<section id="what-didnt-work" class="level2">
+<h2 class="anchored" data-anchor-id="what-didnt-work">What Didn’t Work</h2>
+<section id="text-rendering" class="level3">
+<h3 class="anchored" data-anchor-id="text-rendering">Text Rendering</h3>
+<p>Veo can’t do text reliably. “It’s hot, Bulby” came out garbled half the time. I had to regenerate 6-8 times per image.</p>
+</section>
+<section id="product-details" class="level3">
+<h3 class="anchored" data-anchor-id="product-details">Product Details</h3>
+<p>The lightbulb design kept changing. I needed consistency across campaigns but Veo generated different bulb shapes each time.</p>
+<p>I ended up overlaying the same product image manually in post.</p>
+</section>
+<section id="brand-consistency" class="level3">
+<h3 class="anchored" data-anchor-id="brand-consistency">Brand Consistency</h3>
+<p>Colors, fonts, styling - all inconsistent between generations. AI doesn’t understand brand guidelines.</p>
+</section>
+</section>
+<section id="what-this-actually-replaced" class="level2">
+<h2 class="anchored" data-anchor-id="what-this-actually-replaced">What This Actually Replaced</h2>
+<p><strong>Not:</strong> Creative direction, concept development, copywriting</p>
+<p><strong>Yes:</strong> Stock photography, staging physical mockups, hiring a designer for proof-of-concept</p>
+<p>I already knew what I wanted the ads to look like. Veo let me visualize concepts fast enough to iterate.</p>
+<p>For a class project where the point is the marketing strategy, not the production quality, this worked fine.</p>
+</section>
+<section id="when-ai-mockups-make-sense" class="level2">
+<h2 class="anchored" data-anchor-id="when-ai-mockups-make-sense">When AI Mockups Make Sense</h2>
+<p><strong>Good for:</strong> - Proof-of-concept visuals - Class assignments where execution isn’t the focus - Testing multiple creative directions quickly - Environmental context (cityscapes, interiors)</p>
+<p><strong>Not good for:</strong> - Final production assets - Consistent product rendering - Text and typography - Brand guidelines adherence</p>
+<p>I got mockups good enough to present the advertising strategy. That’s all I needed.</p>
+<p>The product concept mattered more than pixel-perfect execution.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>AI</category>
+  <category>professional</category>
+  <category>creative</category>
+  <category>marketing</category>
+  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/023_/023.html</guid>
+  <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/023_/bulby-advertising.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Storyboarding with AI: ChatGPT Helped!</title>
+  <dc:creator>Raymond Liu Ao</dc:creator>
+  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/022_/022.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="the-problem-i-had-everything-just-couldnt-see-it" class="level2">
+<h2 class="anchored" data-anchor-id="the-problem-i-had-everything-just-couldnt-see-it">The Problem: I Had Everything, Just Couldn’t See It</h2>
+<p>I’m making a 10-12 minute video essay about HIV/AIDS stigma and viral evolution for my Human Disease class. I’d already done the work: - Three recorded interviews (Mazzoni Center clinicians, activist Gossett Che, scholar Heather Love) - Nine archival clips (1980s news footage, NYT headlines, government officials) - A complete voiceover script with my argument - Notes on what each piece was supposed to do</p>
+<p>But I couldn’t figure out the sequence. Using Canva’s video editor, I kept rearranging clips and nothing clicked.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/022_/video-storyboard.jpg" alt="Video Essay Storyboard" style="max-width: 450px; max-height: 300px; object-fit: contain; display: block; margin: 20px auto;"></p>
+</section>
+<section id="what-i-asked-chatgpt-to-do" class="level2">
+<h2 class="anchored" data-anchor-id="what-i-asked-chatgpt-to-do">What I Asked ChatGPT to Do</h2>
+<p>I already knew my argument: stigma shapes behavior, behavior shapes viral spread, spread shapes evolution. I had all the material to prove it. I just couldn’t see how the pieces fit together.</p>
+<p>So I dumped everything into ChatGPT: - My complete voiceover script (already written) - Descriptions of all nine archival clips I’d collected - Notes on what each interview covered - My narrative arc: stigma → clinical reality → structural analysis → evolutionary biology</p>
+<p>I asked: “I have all these pieces. Help me see how they sequence.”</p>
+<p>ChatGPT gave me a 10-section timeline showing: - Where each clip should go - How to transition between sections - Which voiceover matched which footage - A table mapping my nine clips to their narrative function</p>
+<p>It didn’t write anything. It organized what I already had.</p>
+</section>
+<section id="what-actually-worked" class="level2">
+<h2 class="anchored" data-anchor-id="what-actually-worked">What Actually Worked</h2>
+<section id="it-showed-me-the-structure-i-already-had" class="level3">
+<h3 class="anchored" data-anchor-id="it-showed-me-the-structure-i-already-had">It Showed Me the Structure I Already Had</h3>
+<p>I’d been trying random orders: history first? Science first? Interviews scattered throughout?</p>
+<p>ChatGPT sequenced my material and I immediately saw: <em>Oh. Start with the hook (modern stats), then explain what HIV is, then show how stigma was constructed historically, then bring it to present-day consequences.</em></p>
+<p>I already had all those pieces. I just couldn’t see the through-line until ChatGPT laid it out.</p>
+</section>
+<section id="it-made-connections-between-my-own-clips" class="level3">
+<h3 class="anchored" data-anchor-id="it-made-connections-between-my-own-clips">It Made Connections Between My Own Clips</h3>
+<p>For the 1980s stigma section, I had three archival clips but didn’t realize they built on each other: - “Gay plague” news footage (introduces the language) - NYT “Homosexual Disorder” headline (shows institutional adoption) - Early AIDS sensationalist coverage (shows narrative escalation)</p>
+<p>ChatGPT put them back-to-back and I thought: <em>Right. These tell a story together.</em></p>
+<p>That’s not creative work. That’s pattern recognition I should have done myself.</p>
+</section>
+<section id="it-helped-me-see-where-my-script-needed-transitions" class="level3">
+<h3 class="anchored" data-anchor-id="it-helped-me-see-where-my-script-needed-transitions">It Helped Me See Where My Script Needed Transitions</h3>
+<p>I’d written voiceover for the Mazzoni interview (clinical barriers) and the Gossett Che interview (structural stigma) as separate sections. ChatGPT pointed out they needed a bridge.</p>
+<p>I wrote: <em>“When people delay testing because of stigma, the virus has more opportunities to mutate. This social pattern has biological consequences.”</em></p>
+<p>The AI didn’t write that. But organizing the timeline made it obvious I needed it there.</p>
+</section>
+</section>
+<section id="what-i-changed" class="level2">
+<h2 class="anchored" data-anchor-id="what-i-changed">What I Changed</h2>
+<section id="the-emotional-pacing-needed-adjustment" class="level3">
+<h3 class="anchored" data-anchor-id="the-emotional-pacing-needed-adjustment">The Emotional Pacing Needed Adjustment</h3>
+<p>ChatGPT’s suggested structure front-loaded heavy archival footage (Sections 4-5) without a break. I moved one interview clip earlier to vary the emotional register.</p>
+</section>
+<section id="some-transitions-felt-mechanical" class="level3">
+<h3 class="anchored" data-anchor-id="some-transitions-felt-mechanical">Some Transitions Felt Mechanical</h3>
+<p>The timeline showed me <em>where</em> transitions were needed, but not always <em>how</em> to write them. I rewrote most section bridges to sound less structured, more fluid.</p>
+</section>
+<section id="i-expanded-the-science-section" class="level3">
+<h3 class="anchored" data-anchor-id="i-expanded-the-science-section">I Expanded the Science Section</h3>
+<p>ChatGPT’s outline treated the evolutionary biology section as one block. I split it into two: mutation mechanisms first, then selection pressure and ART resistance.</p>
+</section>
+</section>
+<section id="why-this-actually-helped" class="level2">
+<h2 class="anchored" data-anchor-id="why-this-actually-helped">Why This Actually Helped</h2>
+<p>This wasn’t creative work. It was <strong>externalizing my own thinking</strong>.</p>
+<p>I already had: - The argument (stigma → behavior → viral evolution) - All the footage (interviews, archival, script) - The narrative structure (I knew what story I wanted to tell)</p>
+<p>But when you’re too close to material, you can’t see patterns. I kept second-guessing: Does this clip go here? Should I start with history or science? Do these interviews flow or feel disjointed?</p>
+<p>ChatGPT gave me an external perspective. Not because it’s smart, but because <strong>it had no attachment to any particular sequence</strong>. It just read my descriptions and said: “Based on what you told me, here’s an order that makes sense.”</p>
+<p>Seeing my own material reflected back in a timeline let me evaluate it clearly. Some sequences I kept. Some I changed. But I needed to <em>see</em> something organized before I could judge it.</p>
+<p>That’s not AI doing the work. That’s AI helping me think through my own work.</p>
+</section>
+<section id="when-ai-actually-helps" class="level2">
+<h2 class="anchored" data-anchor-id="when-ai-actually-helps">When AI Actually Helps</h2>
+<p><strong>Good for:</strong> - Organizing material you’ve already created - Making sense of scattered thoughts and notes - Seeing patterns in your own work when you’re too close to it - Getting an external view of structure</p>
+<p><strong>Not good for:</strong> - Generating your argument - Creating original material - Writing authentic voiceover - Making creative decisions</p>
+<p>I spent 20 minutes dumping my material into ChatGPT. It gave me a timeline. I spent 3 hours adjusting, rewriting, rethinking. That ratio feels right.</p>
+<p>The AI didn’t make my video. It helped me see what I already had.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>research</category>
+  <category>professional</category>
+  <category>LLM</category>
+  <category>skeptical</category>
+  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/022_/022.html</guid>
+  <pubDate>Sat, 15 Nov 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/022_/video-storyboard.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Superagency Review #3: Testing, Benchmarking, and the Gamification of Regulation</title>
   <dc:creator>Raymond Liu Ao</dc:creator>
@@ -2121,263 +2405,6 @@ We're captive, our spirits bold</code></pre>
   <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/005_AI_Fitness_Coaching_at_Home/005.html</guid>
   <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
   <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/005_AI_Fitness_Coaching_at_Home/ai-form-analysis.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>AI-Assisted Grocery Shopping and Meal Prep</title>
-  <dc:creator>Raymond Liu Ao</dc:creator>
-  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/004_AI-Assisted_Grocery_Shopping_and_Meal_Prep/004.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="smarter-grocery-shopping" class="level2">
-<h2 class="anchored" data-anchor-id="smarter-grocery-shopping">Smarter Grocery Shopping</h2>
-<p>I tried out the AnyList grocery app today and it’s different from just writing things down on paper. Instead of my usual scattered notes and forgotten items, the app organizes everything and suggests what I might need.</p>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/004_AI-Assisted_Grocery_Shopping_and_Meal_Prep/smart-grocery-list.jpg" class="img-fluid" alt="Smart Grocery List"> <em>AI-generated grocery list organized by store layout</em></p>
-</section>
-<section id="what-it-actually-does" class="level2">
-<h2 class="anchored" data-anchor-id="what-it-actually-does">What It Actually Does</h2>
-<section id="tracks-what-you-need" class="level3">
-<h3 class="anchored" data-anchor-id="tracks-what-you-need">Tracks What You Need</h3>
-<p>The app learns from your purchase history and can predict when you’re running low on regular items. It suggested I needed milk and bread this week before I even thought about it. Not perfect, but surprisingly accurate for staples I buy regularly.</p>
-</section>
-<section id="organizes-by-store-layout" class="level3">
-<h3 class="anchored" data-anchor-id="organizes-by-store-layout">Organizes by Store Layout</h3>
-<p>Instead of jumping around the store, the list is organized by sections - produce, dairy, meat, etc. Some apps even know the specific layout of stores you frequent, so your list follows the actual aisles.</p>
-</section>
-<section id="meal-planning-integration" class="level3">
-<h3 class="anchored" data-anchor-id="meal-planning-integration">Meal Planning Integration</h3>
-<p>You can add meals for the week and it automatically generates ingredient lists. When I planned tacos for Tuesday, it added ground beef, tortillas, and lettuce to my list. It also checked what I already had at home based on recent purchases.</p>
-</section>
-</section>
-<section id="practical-benefits" class="level2">
-<h2 class="anchored" data-anchor-id="practical-benefits">Practical Benefits</h2>
-<section id="less-time-in-store" class="level3">
-<h3 class="anchored" data-anchor-id="less-time-in-store">Less Time in Store</h3>
-<p>Following an organized list means less wandering around looking for items. I’ve noticed my shopping trips are about 15-20 minutes shorter.</p>
-</section>
-<section id="fewer-forgotten-items" class="level3">
-<h3 class="anchored" data-anchor-id="fewer-forgotten-items">Fewer Forgotten Items</h3>
-<p>The app remembers things I consistently buy but often forget to write down, like batteries or cleaning supplies.</p>
-</section>
-<section id="better-meal-planning" class="level3">
-<h3 class="anchored" data-anchor-id="better-meal-planning">Better Meal Planning</h3>
-<p>When you can see ingredient costs upfront, it’s easier to plan meals within budget. The app sometimes suggests cheaper alternatives for expensive items.</p>
-</section>
-<section id="automatic-coupons" class="level3">
-<h3 class="anchored" data-anchor-id="automatic-coupons">Automatic Coupons</h3>
-<p>Many apps integrate with store loyalty programs and apply relevant coupons automatically. I’ve saved money without having to hunt for deals.</p>
-</section>
-</section>
-<section id="what-doesnt-work-perfectly" class="level2">
-<h2 class="anchored" data-anchor-id="what-doesnt-work-perfectly">What Doesn’t Work Perfectly</h2>
-<section id="learning-period" class="level3">
-<h3 class="anchored" data-anchor-id="learning-period">Learning Period</h3>
-<p>It takes a few weeks for the app to understand your shopping patterns. Early suggestions were often wrong.</p>
-</section>
-<section id="store-specific-features" class="level3">
-<h3 class="anchored" data-anchor-id="store-specific-features">Store-Specific Features</h3>
-<p>Advanced features like aisle mapping only work with certain grocery chains. Smaller or independent stores usually don’t have this integration.</p>
-</section>
-<section id="fresh-produce-timing" class="level3">
-<h3 class="anchored" data-anchor-id="fresh-produce-timing">Fresh Produce Timing</h3>
-<p>The AI isn’t great at predicting when you need fresh items since it depends on how quickly you use them.</p>
-<p>Overall, it’s a useful tool that makes grocery shopping more organized. The meal planning aspect is particularly helpful for busy weeks when you need to think ahead. Not essential, but definitely convenient once you get used to it.</p>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>AI</category>
-  <category>daily-life</category>
-  <category>productivity</category>
-  <category>health</category>
-  <category>daily-life</category>
-  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/004_AI-Assisted_Grocery_Shopping_and_Meal_Prep/004.html</guid>
-  <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
-  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/004_AI-Assisted_Grocery_Shopping_and_Meal_Prep/smart-fridge-inventory.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Research with Perplexity AI</title>
-  <dc:creator>Raymond Liu Ao</dc:creator>
-  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/003_Research_with_Perplexity_AI/003.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="using-ai-for-research" class="level2">
-<h2 class="anchored" data-anchor-id="using-ai-for-research">Using AI for Research</h2>
-<p>I’ve been trying out Perplexity AI for research tasks lately. It’s different from regular Google searches because it synthesizes information from multiple sources and gives you one coherent answer with citations.</p>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/003_Research_with_Perplexity_AI/perplexity-research.jpg" class="img-fluid" alt="Perplexity AI Interface"> <em>Perplexity AI interface showing search results with sources</em></p>
-</section>
-<section id="how-it-works" class="level2">
-<h2 class="anchored" data-anchor-id="how-it-works">How It Works</h2>
-<section id="getting-information-from-multiple-sources" class="level3">
-<h3 class="anchored" data-anchor-id="getting-information-from-multiple-sources">Getting Information from Multiple Sources</h3>
-<p>Instead of opening multiple tabs and reading through different articles, Perplexity pulls information from various sources and combines it into a single response. When I was researching market trends for a work project, I got a summary that included key points from several industry reports, all with proper citations.</p>
-</section>
-<section id="follow-up-questions" class="level3">
-<h3 class="anchored" data-anchor-id="follow-up-questions">Follow-up Questions</h3>
-<p>You can ask follow-up questions that build on your previous search. After asking about “sustainable packaging trends 2025,” I could continue with: - “What are the cost implications?” - “Which companies are leading this transition?” - “How does this compare to 2024 predictions?”</p>
-<p>The AI remembers the context, so you don’t need to re-explain what you’re looking for.</p>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/003_Research_with_Perplexity_AI/perplexity-citations.jpg" class="img-fluid" alt="Perplexity Search Results"> <em>Live citations and source integration in action</em></p>
-</section>
-</section>
-<section id="when-its-useful" class="level2">
-<h2 class="anchored" data-anchor-id="when-its-useful">When It’s Useful</h2>
-<section id="academic-work" class="level3">
-<h3 class="anchored" data-anchor-id="academic-work">Academic Work</h3>
-<p>Good for getting an overview of research topics and finding relevant studies. Helps identify what’s already been studied and where there might be gaps.</p>
-</section>
-<section id="business-research" class="level3">
-<h3 class="anchored" data-anchor-id="business-research">Business Research</h3>
-<p>Useful for market analysis and industry trends. You can ask specific questions and get answers that draw from recent reports and news sources.</p>
-</section>
-<section id="learning-new-topics" class="level3">
-<h3 class="anchored" data-anchor-id="learning-new-topics">Learning New Topics</h3>
-<p>When you’re unfamiliar with a subject, it can explain concepts and provide background without having to piece together information from multiple websites.</p>
-</section>
-<section id="fact-checking" class="level3">
-<h3 class="anchored" data-anchor-id="fact-checking">Fact-Checking</h3>
-<p>Since it shows sources for each piece of information, it’s easier to verify claims and see where data comes from.</p>
-</section>
-</section>
-<section id="what-ive-found" class="level2">
-<h2 class="anchored" data-anchor-id="what-ive-found">What I’ve Found</h2>
-<section id="saves-time" class="level3">
-<h3 class="anchored" data-anchor-id="saves-time">Saves Time</h3>
-<p>The main benefit is speed. You get the key information faster since it’s already compiled from multiple sources. You still need to read the original sources for details, but the initial overview is much quicker.</p>
-</section>
-<section id="clear-sources" class="level3">
-<h3 class="anchored" data-anchor-id="clear-sources">Clear Sources</h3>
-<p>Every piece of information comes with citations, so you can see exactly where it came from and verify it if needed.</p>
-</section>
-<section id="handles-context-well" class="level3">
-<h3 class="anchored" data-anchor-id="handles-context-well">Handles Context Well</h3>
-<p>The conversation aspect works better than I expected. You can refine questions or explore related topics without starting over.</p>
-</section>
-<section id="shows-different-viewpoints" class="level3">
-<h3 class="anchored" data-anchor-id="shows-different-viewpoints">Shows Different Viewpoints</h3>
-<p>When sources disagree, it usually mentions the different perspectives rather than just presenting one view.</p>
-<p>It’s a useful tool for the initial stages of research when you need to understand a topic quickly or gather information from multiple sources. Not a replacement for thorough research, but it does help speed up the information gathering process.</p>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>AI</category>
-  <category>research</category>
-  <category>productivity</category>
-  <category>technology</category>
-  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/003_Research_with_Perplexity_AI/003.html</guid>
-  <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
-  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/003_Research_with_Perplexity_AI/perplexity-research.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>AI Do’s and Don’ts: Safe and Effective Usage</title>
-  <dc:creator>Raymond Liu Ao</dc:creator>
-  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/002_AI_Dos_And_Donts/002.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="essential-ai-guidelines" class="level2">
-<h2 class="anchored" data-anchor-id="essential-ai-guidelines">Essential AI Guidelines</h2>
-<p>AI tools are powerful but require careful usage. These guidelines help you maximize benefits while avoiding common pitfalls.</p>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/002_AI_Dos_And_Donts/ai-safety-guidelines.jpg" class="img-fluid" alt="AI Safety Guidelines"> <em>Key principles for responsible AI usage</em></p>
-</section>
-<section id="what-to-do" class="level2">
-<h2 class="anchored" data-anchor-id="what-to-do">What TO Do</h2>
-<section id="verify-important-information" class="level3">
-<h3 class="anchored" data-anchor-id="verify-important-information">✅ Verify Important Information</h3>
-<p>Always fact-check AI outputs for: - Medical or health advice - Financial decisions - Legal matters - Technical specifications - Current events or recent data</p>
-<p>Cross-reference with authoritative sources before acting on AI recommendations.</p>
-</section>
-<section id="be-specific-in-your-prompts" class="level3">
-<h3 class="anchored" data-anchor-id="be-specific-in-your-prompts">✅ Be Specific in Your Prompts</h3>
-<p><strong>Instead of:</strong> “Help me with my presentation” <strong>Use:</strong> “Create an outline for a 10-minute sales presentation to executives about Q3 revenue growth”</p>
-<p>Specific prompts produce more useful results.</p>
-</section>
-<section id="use-ai-for-brainstorming-and-drafts" class="level3">
-<h3 class="anchored" data-anchor-id="use-ai-for-brainstorming-and-drafts">✅ Use AI for Brainstorming and Drafts</h3>
-<p>AI excels at: - Generating initial ideas - Creating first drafts - Organizing thoughts - Providing alternative perspectives</p>
-<p>Use AI output as a starting point, not a final product.</p>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/002_AI_Dos_And_Donts/ai-workflow-diagram.jpg" class="img-fluid" alt="AI Workflow Best Practices"> <em>Proper workflow: AI assists, human validates and refines</em></p>
-</section>
-<section id="maintain-human-judgment" class="level3">
-<h3 class="anchored" data-anchor-id="maintain-human-judgment">✅ Maintain Human Judgment</h3>
-<p>Keep human oversight for: - Final decision-making - Quality assessment - Ethical considerations - Context that AI might miss</p>
-</section>
-<section id="ask-follow-up-questions" class="level3">
-<h3 class="anchored" data-anchor-id="ask-follow-up-questions">✅ Ask Follow-Up Questions</h3>
-<p>Improve results by asking: - “Can you explain this differently?” - “What are potential problems with this approach?” - “Give me three alternatives” - “Make this more specific”</p>
-</section>
-</section>
-<section id="what-not-to-do" class="level2">
-<h2 class="anchored" data-anchor-id="what-not-to-do">What NOT to Do</h2>
-<section id="dont-share-sensitive-information" class="level3">
-<h3 class="anchored" data-anchor-id="dont-share-sensitive-information">❌ Don’t Share Sensitive Information</h3>
-<p>Never input: - Passwords or login credentials - Social Security numbers - Credit card details - Proprietary business information - Personal addresses or phone numbers - Private family details</p>
-<p>Assume all AI conversations could be stored or accessed by others.</p>
-</section>
-<section id="dont-rely-on-ai-for-critical-decisions" class="level3">
-<h3 class="anchored" data-anchor-id="dont-rely-on-ai-for-critical-decisions">❌ Don’t Rely on AI for Critical Decisions</h3>
-<p>Avoid using AI alone for: - Medical diagnoses or treatment - Legal advice or document preparation - Financial investment decisions - Safety-critical calculations - Emergency situations</p>
-<p>Consult qualified professionals for these matters.</p>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/002_AI_Dos_And_Donts/ai-security-risks.jpg" class="img-fluid" alt="AI Limitations Warning"> <em>Areas where AI should not be the primary decision maker</em></p>
-</section>
-<section id="dont-assume-ai-is-always-accurate" class="level3">
-<h3 class="anchored" data-anchor-id="dont-assume-ai-is-always-accurate">❌ Don’t Assume AI is Always Accurate</h3>
-<p>AI can produce: - Outdated information - Factual errors - Biased responses - Plausible-sounding but incorrect details</p>
-<p>Especially problematic for recent events or specialized technical information.</p>
-</section>
-<section id="dont-use-ai-for-harmful-purposes" class="level3">
-<h3 class="anchored" data-anchor-id="dont-use-ai-for-harmful-purposes">❌ Don’t Use AI for Harmful Purposes</h3>
-<p>Avoid requesting: - Misleading or false content - Harassment or threatening messages - Plagiarism or academic dishonesty - Illegal activity guidance - Discriminatory content</p>
-</section>
-<section id="dont-ignore-context-limitations" class="level3">
-<h3 class="anchored" data-anchor-id="dont-ignore-context-limitations">❌ Don’t Ignore Context Limitations</h3>
-<p>AI doesn’t understand: - Your full personal situation - Unspoken cultural context - Real-time environmental factors - Emotional nuances</p>
-<p>Provide necessary context explicitly in your prompts.</p>
-</section>
-</section>
-<section id="implementation-strategy" class="level2">
-<h2 class="anchored" data-anchor-id="implementation-strategy">Implementation Strategy</h2>
-<section id="start-small" class="level3">
-<h3 class="anchored" data-anchor-id="start-small">Start Small</h3>
-<p>Begin with low-stakes tasks like email drafting or meal planning before using AI for important projects.</p>
-</section>
-<section id="build-verification-habits" class="level3">
-<h3 class="anchored" data-anchor-id="build-verification-habits">Build Verification Habits</h3>
-<p>Develop a routine of checking AI outputs against reliable sources.</p>
-</section>
-<section id="keep-learning" class="level3">
-<h3 class="anchored" data-anchor-id="keep-learning">Keep Learning</h3>
-<p>AI capabilities and limitations evolve. Stay informed about updates and new research.</p>
-</section>
-<section id="document-what-works" class="level3">
-<h3 class="anchored" data-anchor-id="document-what-works">Document What Works</h3>
-<p>Save effective prompts and note which applications produce reliable results for your needs.</p>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/002_AI_Dos_And_Donts/ai-usage-tips.jpg" class="img-fluid" alt="AI Usage Tips"> <em>Use these tips and tricks!</em></p>
-<p>Following these guidelines ensures you gain AI’s benefits while avoiding common mistakes that can lead to poor decisions or security issues.</p>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>AI</category>
-  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/002_AI_Dos_And_Donts/002.html</guid>
-  <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
-  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/002_AI_Dos_And_Donts/ai-safety-guidelines.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
