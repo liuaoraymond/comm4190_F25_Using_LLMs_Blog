@@ -10,7 +10,336 @@
 <atom:link href="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Let&#39;s Find Out</description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Tue, 25 Nov 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 10 Dec 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Superagency Review #4: GPS, Code, and the Architecture of Control</title>
+  <dc:creator>Raymond Liu Ao</dc:creator>
+  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/028_/028.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="chapters-7-8-from-gps-to-surveillance" class="level2">
+<h2 class="anchored" data-anchor-id="chapters-7-8-from-gps-to-surveillance">Chapters 7-8: From GPS to Surveillance</h2>
+<p>Pages 143-185 of <em>Superagency</em> shift from abstract innovation principles to concrete technologies: GPS as informational infrastructure and code as architectural control. Hoffman and Beato argue that AI functions like GPS for language - helping navigate from point A to point B with greater certainty.</p>
+<p>The chapters made me uncomfortable in a different way than earlier ones. Not because they’re wrong, but because they’re <em>persuasive</em>. I’m starting to see the optimistic case even as I remain skeptical about who benefits.</p>
+</section>
+<section id="chapter-7-gps-as-democratic-infrastructure" class="level2">
+<h2 class="anchored" data-anchor-id="chapter-7-gps-as-democratic-infrastructure">Chapter 7: GPS as Democratic Infrastructure</h2>
+<p>Hoffman highlights that GPS generated $1.4 trillion in economic benefits from 1984 to 2017. The technology emerged from military origins but became publicly accessible infrastructure.</p>
+<p>The FCC requirement in the early 2000s - that cell providers must give 911 call centers GPS coordinates - accelerated phone-based GPS adoption. Policy drove technology adoption, which created new possibilities.</p>
+<p>This is the optimistic narrative: regulation can steer innovation toward public benefit.</p>
+<p><strong>My question:</strong> If GPS created $1.4 trillion in value, who captured most of it? The economic benefit number says nothing about distribution.</p>
+</section>
+<section id="the-ability-to-get-lost" class="level2">
+<h2 class="anchored" data-anchor-id="the-ability-to-get-lost">The Ability to Get Lost</h2>
+<p>Hoffman asks: “Do we reduce the scope of human existence by making the world so legible we completely lose our ability to get lost?”</p>
+<p>This resonated with me more than it should have.</p>
+<p>Anti-AI rhetoric often centers on loss of humanness - our ability to create, feel, explore, be sentient. It comes from fear, and rightfully so. We’ve watched jobs disappear for the benefit of the few.</p>
+<p>But the book is making me ask: what about the flipside? What about the benefits that aren’t sellable news stories? History focuses on dramatic failures. Media amplifies fear because it grabs attention.</p>
+<p>Is that the right lens?</p>
+<p>I don’t know yet. But I’m less certain than I was.</p>
+</section>
+<section id="ai-as-gps-for-language" class="level2">
+<h2 class="anchored" data-anchor-id="ai-as-gps-for-language">AI as GPS for Language</h2>
+<p>The book positions AI as a system for “analyzing, synthesizing, and mapping language flows” - helping navigate from point A to point B with greater efficiency.</p>
+<p>The analogy has limits.</p>
+<p>GPS coordinates are objective. Language is not. The “informational planet” of each LLM differs based on training data, algorithms, weights, and architectural choices. There’s no shared ground truth.</p>
+<p>GPS works because we agree on latitude and longitude. AI outputs diverge because we don’t agree on what language <em>means</em>.</p>
+<p>The book acknowledges this but doesn’t dwell on it long enough.</p>
+</section>
+<section id="chapter-8-code-is-law" class="level2">
+<h2 class="anchored" data-anchor-id="chapter-8-code-is-law">Chapter 8: Code is Law</h2>
+<p>Hoffman traces the internet’s origins as open-source and decentralized. Commercialization changed that. User authentication, identity verification, centralization - all became necessary for commerce.</p>
+<p>Lawrence Lessig’s framework: four constraints regulate behavior - laws, markets, norms, and <em>architecture</em>. On the internet, architecture plays an outsized role. <strong>“Code is law.”</strong></p>
+<p>Hoffman’s concern: AI broadens the possibilities of perfect control.</p>
+<p>Self-driving cars that won’t exceed speed limits. Smart contracts that execute without negotiation. Surveillance systems that track compliance continuously.</p>
+<p><strong>The question:</strong> Is there liberty that emerges from inefficiencies in enforcement?</p>
+</section>
+<section id="the-uncontract" class="level2">
+<h2 class="anchored" data-anchor-id="the-uncontract">The Uncontract</h2>
+<p>Hoffman borrows from Shoshana Zuboff’s <em>The Age of Surveillance Capitalism</em> to introduce the “uncontract” - computer-mediated agreements where code replaces human judgment.</p>
+<p>Zuboff: “The uncontract desocialized the contract, manufacturing certainty through the substitution of automated procedures for promise, dialogue, shared meaning, problem solving, dispute resolution, and trust.”</p>
+<p>Self-executing agreements make judgment, negotiation, flexibility, moral reasoning, forgiveness, and empathy superfluous.</p>
+<p>This is the slippery slope the book is warning about. Not dramatic AI takeover. Gradual erosion of human discretion.</p>
+</section>
+<section id="perfect-control-vs.-human-agency" class="level2">
+<h2 class="anchored" data-anchor-id="perfect-control-vs.-human-agency">Perfect Control vs.&nbsp;Human Agency</h2>
+<p>The book argues that ubiquitous control has implications for privacy, autonomy, and liberty.</p>
+<p>Society depends on collective agreement to norms - speed limits, no smoking zones, drunk driving laws. Policing can’t verify every minute of our lives, so compliance relies on internalized norms and imperfect enforcement.</p>
+<p><strong>What happens when enforcement becomes perfect?</strong></p>
+<p>Hoffman doesn’t say we shouldn’t have laws. He asks whether continuous, automated compliance removes something essential about human choice - including the choice to break a law.</p>
+<p>I’m torn on this. Perfect enforcement sounds appealing when applied to drunk driving. It sounds dystopian when applied to everything else.</p>
+<p>Where’s the line?</p>
+</section>
+<section id="can-we-be-optimistic" class="level2">
+<h2 class="anchored" data-anchor-id="can-we-be-optimistic">Can We Be Optimistic?</h2>
+<p>The book wants me to believe that AI - like GPS - can be democratizing. That it provides access to services previously reserved for the highest classes. That regulation can guide it toward public benefit.</p>
+<p>I’m starting to see the argument. But I’m not convinced distribution follows innovation automatically.</p>
+<p>GPS created $1.4 trillion in value. How much went to military contractors? Tech companies? Wealthier users with smartphones?</p>
+<p>The book focuses on aggregate benefit. I keep asking: <strong>who benefits?</strong></p>
+<p>Hoffman argues we should develop AI “in alignment with democratic ideals of self-determination and broad participation.”</p>
+<p>Sure. But how? That’s the question the book keeps deferring.</p>
+</section>
+<section id="where-im-at" class="level2">
+<h2 class="anchored" data-anchor-id="where-im-at">Where I’m At</h2>
+<p>These chapters are persuasive because they’re <em>grounded</em>. GPS is real infrastructure with measurable benefits. Code-as-architecture is observable in every platform we use.</p>
+<p>The optimistic case is stronger than I expected. But the distributional questions remain unanswered.</p>
+<p>Hoffman sees GPS and thinks: AI can be like this - regulated, publicly beneficial, democratizing.</p>
+<p>I see GPS and think: Who owned the satellites? Who profited from the FCC mandate? Who got smartphones first?</p>
+<p>The book is making me less reflexively skeptical. But it hasn’t convinced me that innovation distributes benefit fairly without intentional policy forcing it.</p>
+<p><strong>Next chapters will determine whether optimism is justified or just well-argued.</strong></p>
+
+
+</section>
+
+ ]]></description>
+  <category>AI</category>
+  <category>book-review</category>
+  <category>skeptical</category>
+  <category>research</category>
+  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/028_/028.html</guid>
+  <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/028_/superagency-book-cover.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>NotebookLM for Exam Prep: When AI Audio Summaries Miss the Point</title>
+  <dc:creator>Raymond Liu Ao</dc:creator>
+  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/027_/027.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="the-promise-ai-generated-study-podcasts" class="level2">
+<h2 class="anchored" data-anchor-id="the-promise-ai-generated-study-podcasts">The Promise: AI-Generated Study Podcasts</h2>
+<p>For my Leading Across Differences class, we had 20+ academic readings. I tried Google’s NotebookLM, which generates audio podcast summaries of uploaded documents.</p>
+<p>The idea: Listen to summaries instead of reading everything.</p>
+<p>It didn’t work.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/027_/notebooklm-audio.jpg" alt="NotebookLM Audio Interface" style="max-width: 450px; max-height: 300px; object-fit: contain; display: block; margin: 20px auto;"></p>
+</section>
+<section id="what-i-tried" class="level2">
+<h2 class="anchored" data-anchor-id="what-i-tried">What I Tried</h2>
+<p>I uploaded all 15 readings from one week - a mix of academic articles, case studies, and book chapters on leadership, identity, and power dynamics.</p>
+<p>NotebookLM generated a 10-minute “podcast” summarizing the key themes across all readings.</p>
+<p>Two AI voices had a conversational discussion about the material. It sounded professional and engaging.</p>
+</section>
+<section id="what-went-wrong" class="level2">
+<h2 class="anchored" data-anchor-id="what-went-wrong">What Went Wrong</h2>
+<section id="it-missed-crucial-details" class="level3">
+<h3 class="anchored" data-anchor-id="it-missed-crucial-details">It Missed Crucial Details</h3>
+<p>The class required three essays analyzing specific arguments from specific authors. NotebookLM’s summary mentioned themes but didn’t preserve: - Who said what - Which study supported which claim - Distinctions between competing frameworks</p>
+<p>I knew the general concepts but couldn’t cite anyone.</p>
+</section>
+<section id="minutes-cant-cover-15-readings" class="level3">
+<h3 class="anchored" data-anchor-id="minutes-cant-cover-15-readings">10 Minutes Can’t Cover 15 Readings</h3>
+<p>Each reading was 20-40 pages. That’s 300+ pages of dense academic writing.</p>
+<p>NotebookLM condensed it into 10 minutes, which means it selected what it thought was important and dropped the rest.</p>
+<p>For a multiple-choice test, maybe that works. For essays where I need to synthesize arguments, it didn’t.</p>
+</section>
+<section id="the-format-was-too-passive" class="level3">
+<h3 class="anchored" data-anchor-id="the-format-was-too-passive">The Format Was Too Passive</h3>
+<p>Listening to a podcast is easy. Too easy. I retained almost nothing.</p>
+<p>Reading forces active engagement. I highlight, annotate, pause to think. Audio just washes over you.</p>
+</section>
+</section>
+<section id="when-notebooklm-might-actually-help" class="level2">
+<h2 class="anchored" data-anchor-id="when-notebooklm-might-actually-help">When NotebookLM Might Actually Help</h2>
+<p><strong>Good for:</strong> - Refreshing material you’ve already read - Getting a high-level overview before diving deep - Supplementing notes (not replacing reading) - Subjects with clear factual content (not interpretive analysis)</p>
+<p><strong>Not good for:</strong> - Classes requiring detailed citations - Essay-based assessments - Dense theoretical reading - First-pass learning of complex material</p>
+</section>
+<section id="what-i-use-instead" class="level2">
+<h2 class="anchored" data-anchor-id="what-i-use-instead">What I Use Instead</h2>
+<p><strong>For readings:</strong> I actually read them. I highlight key arguments and take notes in margins.</p>
+<p><strong>For review:</strong> I make my own summaries after reading - writing forces comprehension.</p>
+<p><strong>For exam prep:</strong> I create concept maps connecting ideas across readings. NotebookLM can’t do this because it doesn’t understand <em>my</em> interpretation.</p>
+<p><strong>Audio tools:</strong> I use text-to-speech to listen while I follow along in the document. That’s different from listening to AI-generated summaries.</p>
+</section>
+<section id="the-efficiency-trap" class="level2">
+<h2 class="anchored" data-anchor-id="the-efficiency-trap">The Efficiency Trap</h2>
+<p>NotebookLM saved time. But it didn’t save learning.</p>
+<p>I spent 10 minutes listening to a summary and understood nothing deeply. My classmates who read spent 3 hours and could actually write the essays.</p>
+<p><strong>The extra time mattered.</strong></p>
+<p>Maybe NotebookLM works better for straightforward material - timelines, definitions, factual summaries. But for interpretive work where you need to form your own arguments? AI summaries don’t replace the cognitive work of reading.</p>
+<p>Efficiency isn’t always effective.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>AI</category>
+  <category>learning</category>
+  <category>skeptical</category>
+  <category>research</category>
+  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/027_/027.html</guid>
+  <pubDate>Mon, 08 Dec 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/027_/notebooklm-audio.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>I Used ChatGPT to Plan My Japan Trip - It Wasn’t Helpful</title>
+  <dc:creator>Raymond Liu Ao</dc:creator>
+  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/026_/026.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="the-problem-planning-a-11-day-japan-trip" class="level2">
+<h2 class="anchored" data-anchor-id="the-problem-planning-a-11-day-japan-trip">The Problem: Planning a 11-Day Japan Trip</h2>
+<p>I’m traveling to Japan December 13-23. I wanted an itinerary focused on architecture, design, and niche culinary experiences. I tried ChatGPT first.</p>
+<p>It didn’t work.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/026_/japan-itinerary.jpg" alt="ChatGPT Japan Itinerary" style="max-width: 450px; max-height: 300px; object-fit: contain; display: block; margin: 20px auto;"></p>
+</section>
+<section id="what-i-asked-chatgpt" class="level2">
+<h2 class="anchored" data-anchor-id="what-i-asked-chatgpt">What I Asked ChatGPT</h2>
+<p>“Plan a 11-day Japan itinerary (Dec 13-23) focused on: - Modern architecture and design - Niche culinary spots (not tourist traps) - Efficient train routes between cities”</p>
+<p>ChatGPT generated a detailed day-by-day plan with recommendations, transit times, and restaurant suggestions.</p>
+<p>On paper, it looked perfect.</p>
+</section>
+<section id="what-went-wrong" class="level2">
+<h2 class="anchored" data-anchor-id="what-went-wrong">What Went Wrong</h2>
+<section id="train-dates-were-wrong" class="level3">
+<h3 class="anchored" data-anchor-id="train-dates-were-wrong">Train Dates Were Wrong</h3>
+<p>ChatGPT suggested specific trains and departure times. When I checked the actual JR schedules, half the trains didn’t run on those dates or times.</p>
+<p>I would’ve missed connections if I’d trusted the itinerary blindly.</p>
+</section>
+<section id="it-missed-my-vibe-completely" class="level3">
+<h3 class="anchored" data-anchor-id="it-missed-my-vibe-completely">It Missed My Vibe Completely</h3>
+<p><strong>What I wanted:</strong> Tadao Ando buildings, small design shops, local izakayas recommended by residents</p>
+<p><strong>What ChatGPT gave me:</strong> Tokyo Skytree, Senso-ji Temple, Tsukiji Fish Market - all mainstream tourist spots</p>
+<p>The recommendations weren’t <em>wrong</em>. They just weren’t <em>mine</em>.</p>
+</section>
+<section id="the-culinary-suggestions-were-generic" class="level3">
+<h3 class="anchored" data-anchor-id="the-culinary-suggestions-were-generic">The Culinary Suggestions Were Generic</h3>
+<p>ChatGPT recommended well-known ramen chains and Michelin-starred restaurants. Nothing niche. Nothing local.</p>
+<p>When I asked for “hidden gem food spots,” it gave me places with 10,000+ Google reviews.</p>
+</section>
+<section id="the-outputs-were-overwhelming" class="level3">
+<h3 class="anchored" data-anchor-id="the-outputs-were-overwhelming">The Outputs Were Overwhelming</h3>
+<p>Each day had 8-10 activities listed with paragraph descriptions. Reading through it felt like homework.</p>
+<p>I couldn’t see the flow of the trip. Just a wall of text with too many options.</p>
+</section>
+</section>
+<section id="what-actually-worked" class="level2">
+<h2 class="anchored" data-anchor-id="what-actually-worked">What Actually Worked</h2>
+<p>I ended up using:</p>
+<p><strong>TikTok and YouTube:</strong> Locals and frequent travelers showing actual spots. I found a tiny coffee shop in Kyoto that specializes in architecture books, a hidden kaiseki restaurant in Osaka, and a design district ChatGPT never mentioned.</p>
+<p><strong>Google Maps + Word of Mouth:</strong> I searched for “architecture” near areas I was already visiting. User reviews from real people who’d been there recently.</p>
+<p><strong>Travel blogs by residents:</strong> Japanese design blogs and expat food guides gave me the niche spots AI couldn’t.</p>
+<p><strong>Manual train checking:</strong> I verified every train route on the actual JR website. Time-consuming but necessary.</p>
+</section>
+<section id="why-ai-itinerary-planning-failed" class="level2">
+<h2 class="anchored" data-anchor-id="why-ai-itinerary-planning-failed">Why AI Itinerary Planning Failed</h2>
+<section id="it-optimizes-for-popularity-not-preference" class="level3">
+<h3 class="anchored" data-anchor-id="it-optimizes-for-popularity-not-preference">It Optimizes for Popularity, Not Preference</h3>
+<p>ChatGPT recommends places that appear frequently in its training data - which means tourist-heavy spots dominate.</p>
+<p>Niche recommendations require local knowledge AI doesn’t have.</p>
+</section>
+<section id="it-cant-verify-real-time-information" class="level3">
+<h3 class="anchored" data-anchor-id="it-cant-verify-real-time-information">It Can’t Verify Real-Time Information</h3>
+<p>Train schedules change. Restaurants close. Events get canceled. AI doesn’t know this.</p>
+<p>It generates confident answers based on outdated data.</p>
+</section>
+<section id="it-doesnt-understand-vibe" class="level3">
+<h3 class="anchored" data-anchor-id="it-doesnt-understand-vibe">It Doesn’t Understand “Vibe”</h3>
+<p>I can tell ChatGPT I like “architecture and design,” but it can’t distinguish between: - A famous building everyone photographs - A quiet neighborhood with innovative residential projects</p>
+<p>That nuance requires human curation.</p>
+</section>
+</section>
+<section id="when-ai-itinerary-tools-might-work" class="level2">
+<h2 class="anchored" data-anchor-id="when-ai-itinerary-tools-might-work">When AI Itinerary Tools Might Work</h2>
+<p><strong>Good for:</strong> - High-level structure (how many days in each city) - General logistics (visa requirements, currency, weather) - First-time travelers who want mainstream highlights</p>
+<p><strong>Not good for:</strong> - Niche interests - Real-time transit schedules - Finding hidden local spots - Balancing pacing and downtime</p>
+<p>I spent 3 hours with ChatGPT and got an unusable itinerary. I spent 5 hours manually researching and got a trip I’m actually excited about.</p>
+<p><strong>The extra time mattered.</strong> AI gave me efficiency. Manual research gave me a trip that fits who I am.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>AI</category>
+  <category>daily-life</category>
+  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/026_/026.html</guid>
+  <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/026_/japan-itinerary.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Using Claude for Literature Summaries vs Actually Reading</title>
+  <dc:creator>Raymond Liu Ao</dc:creator>
+  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/025_/025.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="the-shortcut-i-kept-taking" class="level2">
+<h2 class="anchored" data-anchor-id="the-shortcut-i-kept-taking">The Shortcut I Kept Taking</h2>
+<p>For my literature and medicine class, we were assigned three books in two months. I didn’t have time to read them all properly, so I used Claude to generate summaries, character analyses, and thematic breakdowns.</p>
+<p>It worked. I got through the assignments. But by exam time, I realized I couldn’t remember any of the books.</p>
+<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/025_/readingsummaries.jpg" alt="Illustrative Image" style="max-width: 450px; max-height: 300px; object-fit: contain; display: block; margin: 20px auto;"></p>
+</section>
+<section id="what-i-asked-claude-to-do" class="level2">
+<h2 class="anchored" data-anchor-id="what-i-asked-claude-to-do">What I Asked Claude to Do</h2>
+<p><strong>For each book:</strong> - Chapter-by-chapter summary - Character relationship maps - Key themes and symbols - Important quotes with context</p>
+<p>Claude delivered. Clean, organized, accurate. I could answer discussion questions without reading the actual text.</p>
+<p>For a while, this felt efficient.</p>
+</section>
+<section id="what-actually-worked" class="level2">
+<h2 class="anchored" data-anchor-id="what-actually-worked">What Actually Worked</h2>
+<p><strong>Claude was accurate.</strong> Summaries matched the books. Character descriptions were correct. Themes were properly identified.</p>
+<p><strong>It saved time.</strong> Reading three books takes 15-20 hours. Claude summaries took 30 minutes to review.</p>
+<p><strong>It helped with structure.</strong> For essays, Claude’s thematic breakdowns gave me a framework to build arguments around.</p>
+</section>
+<section id="what-i-lost" class="level2">
+<h2 class="anchored" data-anchor-id="what-i-lost">What I Lost</h2>
+<section id="i-couldnt-remember-anything" class="level3">
+<h3 class="anchored" data-anchor-id="i-couldnt-remember-anything">I Couldn’t Remember Anything</h3>
+<p>During the exam, questions asked about specific scenes or character moments. I knew the plot outline but couldn’t recall details. My classmates who’d actually read could answer from memory. I was guessing. At the end of the day, I was not really doing the mental/cognitive work of learning the content; of drawing my own conclusions and parallels.</p>
+</section>
+<section id="i-missed-the-tone" class="level3">
+<h3 class="anchored" data-anchor-id="i-missed-the-tone">I Missed the Tone</h3>
+<p>Claude summarizes <em>what happens</em>. It doesn’t capture how the writing feels, and the rhetorical choices that come with that. The voice, pacing, style - all gone. For a literature class, that’s the entire point.</p>
+</section>
+<section id="i-didnt-form-my-own-interpretations" class="level3">
+<h3 class="anchored" data-anchor-id="i-didnt-form-my-own-interpretations">I Didn’t Form My Own Interpretations</h3>
+<p>Claude’s thematic analysis was correct but generic. Everyone using AI got similar interpretations. My essays sounded like everyone else’s because we all used the same summaries.</p>
+</section>
+<section id="the-lack-of-struggle-matters" class="level3">
+<h3 class="anchored" data-anchor-id="the-lack-of-struggle-matters">The Lack of Struggle Matters</h3>
+<p>Reading hard books is supposed to be difficult. That difficulty builds comprehension. Summaries skip the work, which means you skip the learning.</p>
+</section>
+</section>
+<section id="when-ai-summaries-actually-help" class="level2">
+<h2 class="anchored" data-anchor-id="when-ai-summaries-actually-help">When AI Summaries Actually Help</h2>
+<p><strong>Refreshing books you’ve already read.</strong> If you read it years ago and need a reminder, summaries work fine.</p>
+<p><strong>Supplementing, not replacing.</strong> Read the book first, then use AI to clarify confusing sections or organize your notes.</p>
+<p><strong>Time triage.</strong> If you’re behind and need to prioritize, use AI for secondary readings while focusing deep reading time on primary texts.</p>
+<p><strong>Comparative analysis.</strong> If you’re comparing 10 books and only have time to deeply read 3, summaries can give you enough context for the others.</p>
+</section>
+<section id="what-im-doing-now" class="level2">
+<h2 class="anchored" data-anchor-id="what-im-doing-now">What I’m Doing Now</h2>
+<p>I stopped using Claude for primary readings. If it’s assigned, I read it. If I don’t have time, I skim the actual book rather than use AI.</p>
+<p>For secondary sources or background research, AI summaries are fine. But for the main texts in a literature class, there’s no shortcut that actually works.</p>
+<p><strong>The irony:</strong> Using AI to avoid reading made the class harder, not easier. I spent more time confused during discussions and scrambling during exams than I would have spent just reading.</p>
+<p>Efficiency isn’t always efficient.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>AI</category>
+  <category>LLM</category>
+  <category>skeptical</category>
+  <category>learning</category>
+  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/025_/025.html</guid>
+  <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/025_/readingsummaries.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Building Career Compass: What I Learned Making an LLM System</title>
   <dc:creator>Raymond Liu Ao</dc:creator>
@@ -2122,288 +2451,6 @@ We're captive, our spirits bold</code></pre>
   <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/009_/009.html</guid>
   <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
   <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/009_/vibe-prompting.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>AI Photo Organization: Finding Pictures I Forgot I Had</title>
-  <dc:creator>Raymond Liu Ao</dc:creator>
-  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/008_ /008.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="searching-through-10000-photos" class="level2">
-<h2 class="anchored" data-anchor-id="searching-through-10000-photos">Searching Through 10,000 Photos</h2>
-<p>I realized I had over 10,000 photos in Google Photos and no way to find specific ones. Today I tried using the AI search features to locate pictures from last year’s vacation, and it actually worked better than expected.</p>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/008_ /ai-photo-search.jpg" class="img-fluid" alt="AI Photo Search"> <em>Google Photos AI recognizing objects, people, and locations</em></p>
-</section>
-<section id="what-the-ai-can-find" class="level2">
-<h2 class="anchored" data-anchor-id="what-the-ai-can-find">What the AI Can Find</h2>
-<section id="object-recognition" class="level3">
-<h3 class="anchored" data-anchor-id="object-recognition">Object Recognition</h3>
-<p>I searched for “pizza” and it found every photo with pizza in it, even ones where pizza was just sitting on a table in the background. Same thing worked for “dog,” “beach,” and “birthday cake.” The AI recognizes way more objects than I expected.</p>
-</section>
-<section id="face-grouping" class="level3">
-<h3 class="anchored" data-anchor-id="face-grouping">Face Grouping</h3>
-<p>Google Photos automatically groups photos by faces, so I can find all pictures of specific people without having to manually tag them. It even recognizes people as they age or in different lighting.</p>
-</section>
-<section id="location-and-time" class="level3">
-<h3 class="anchored" data-anchor-id="location-and-time">Location and Time</h3>
-<p>If you have location data turned on, you can search by place names. I found all my photos from “San Francisco” or “coffee shop” pretty easily. Time-based searches work too - “photos from summer 2024” pulled up the right time period.</p>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/008_ /ai-photo-albums.jpg" class="img-fluid" alt="Auto-Generated Albums"> <em>Automatically created albums based on events and trips</em></p>
-</section>
-</section>
-<section id="automatic-albums" class="level2">
-<h2 class="anchored" data-anchor-id="automatic-albums">Automatic Albums</h2>
-<section id="trip-detection" class="level3">
-<h3 class="anchored" data-anchor-id="trip-detection">Trip Detection</h3>
-<p>The AI creates albums for trips automatically based on location and date patterns. It figured out my weekend in Portland and grouped all those photos together without me doing anything.</p>
-</section>
-<section id="event-recognition" class="level3">
-<h3 class="anchored" data-anchor-id="event-recognition">Event Recognition</h3>
-<p>It also makes albums for things like “Birthday party” or “Graduation” based on the types of photos and timing. Sometimes it gets it wrong - labeled a regular dinner as a “celebration” - but it’s right more often than not.</p>
-</section>
-<section id="people-albums" class="level3">
-<h3 class="anchored" data-anchor-id="people-albums">People Albums</h3>
-<p>Creates collections of photos featuring specific people, which is useful for family pictures or when you want to share photos of someone with them.</p>
-</section>
-</section>
-<section id="limitations" class="level2">
-<h2 class="anchored" data-anchor-id="limitations">Limitations</h2>
-<section id="privacy-concerns" class="level3">
-<h3 class="anchored" data-anchor-id="privacy-concerns">Privacy Concerns</h3>
-<p>All this convenience requires uploading your photos to Google’s servers where they analyze everything. If that bothers you, you can’t really use these features.</p>
-</section>
-<section id="sometimes-too-smart" class="level3">
-<h3 class="anchored" data-anchor-id="sometimes-too-smart">Sometimes Too Smart</h3>
-<p>The AI occasionally creates albums for things that weren’t actually events, or groups random photos together based on superficial similarities.</p>
-</section>
-<section id="search-isnt-perfect" class="level3">
-<h3 class="anchored" data-anchor-id="search-isnt-perfect">Search Isn’t Perfect</h3>
-<p>Complex searches don’t always work. “Photos of John at the beach” might miss some or include wrong results. Simple, single-concept searches work much better.</p>
-<p>It’s genuinely useful for finding old photos you’d never locate otherwise. The search functionality makes having thousands of photos actually manageable instead of just overwhelming.</p>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>AI</category>
-  <category>organization</category>
-  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/008_ /008.html</guid>
-  <pubDate>Sat, 27 Sep 2025 00:00:00 GMT</pubDate>
-  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/008_ /ai-photo-search.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>AI Email Management That Actually Works</title>
-  <dc:creator>Raymond Liu Ao</dc:creator>
-  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/007_/007.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="letting-ai-handle-my-inbox" class="level2">
-<h2 class="anchored" data-anchor-id="letting-ai-handle-my-inbox">Letting AI Handle My Inbox</h2>
-<p>I set up SaneBox to manage my email and it’s been running for about a week now. Instead of manually sorting through everything, the AI decides what’s important and what can wait.</p>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/007_/smart-inbox-sorting.jpg" class="img-fluid" alt="Smart Inbox Sorting"> <em>AI automatically categorizing emails by priority level</em></p>
-</section>
-<section id="how-it-sorts-things-out" class="level2">
-<h2 class="anchored" data-anchor-id="how-it-sorts-things-out">How It Sorts Things Out</h2>
-<section id="priority-filtering" class="level3">
-<h3 class="anchored" data-anchor-id="priority-filtering">Priority Filtering</h3>
-<p>SaneBox learns from which emails I actually open and respond to. Work emails from my team get flagged as important, while newsletters and promotional stuff gets moved to a separate folder. It’s not perfect but catches most of the obvious stuff.</p>
-</section>
-<section id="smart-scheduling" class="level3">
-<h3 class="anchored" data-anchor-id="smart-scheduling">Smart Scheduling</h3>
-<p>Gmail’s AI also suggests response times and can schedule emails to send later. I’ve been using it to send emails during business hours even when I’m working late, so I don’t look like I’m always online.</p>
-</section>
-<section id="quick-replies" class="level3">
-<h3 class="anchored" data-anchor-id="quick-replies">Quick Replies</h3>
-<p>The suggested responses are actually useful for simple emails. When someone sends a meeting request, it’ll suggest “Looks good” or “Let me check my calendar” which saves typing the same responses over and over.</p>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/007_/smart-email-responses.jpg" class="img-fluid" alt="Email Response Suggestions"> <em>AI-generated reply suggestions for common email types</em></p>
-</section>
-</section>
-<section id="what-ive-noticed" class="level2">
-<h2 class="anchored" data-anchor-id="what-ive-noticed">What I’ve Noticed</h2>
-<section id="less-time-sorting" class="level3">
-<h3 class="anchored" data-anchor-id="less-time-sorting">Less Time Sorting</h3>
-<p>The main benefit is spending less time deciding what to read first. Important emails show up in the main inbox, everything else gets organized automatically.</p>
-</section>
-<section id="fewer-missed-messages" class="level3">
-<h3 class="anchored" data-anchor-id="fewer-missed-messages">Fewer Missed Messages</h3>
-<p>Before, urgent emails would get buried under promotional stuff. Now they’re separated, so I’m less likely to miss something important.</p>
-</section>
-<section id="still-need-to-check" class="level3">
-<h3 class="anchored" data-anchor-id="still-need-to-check">Still Need to Check</h3>
-<p>The AI sometimes gets it wrong - puts important emails in the low-priority folder or flags spam as urgent. You still need to glance through everything, but it’s more organized.</p>
-<p>It’s a decent time-saver for people who get a lot of email. Not life-changing, but removes some of the daily friction of inbox management. The filtering works better than I expected, though you need to train it for a few days before it gets your priorities right.</p>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>AI</category>
-  <category>productivity</category>
-  <category>organization</category>
-  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/007_/007.html</guid>
-  <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
-  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/007_/smart-inbox-sorting.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Building a Brand with AI: Cuzco Crunch</title>
-  <dc:creator>Raymond Liu Ao</dc:creator>
-  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/006_Cuzco_Crunch/006.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="creating-a-brand-with-ai" class="level2">
-<h2 class="anchored" data-anchor-id="creating-a-brand-with-ai">Creating a Brand with AI</h2>
-<p>Eury and I decided to try building a snack brand called Cuzco Crunch, mostly to see how much of the process we could handle using AI tools. We are just experimenting with what’s possible when you use GPT for everything from naming to packaging concepts.</p>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/006_Cuzco_Crunch/cuzco-crunch.jpg" class="img-fluid" alt="Cuzco Crunch Logo"> <em>Initial logo concepts generated through AI prompting</em></p>
-</section>
-<section id="what-were-using-ai-for" class="level2">
-<h2 class="anchored" data-anchor-id="what-were-using-ai-for">What We’re Using AI For</h2>
-<section id="brand-development" class="level3">
-<h3 class="anchored" data-anchor-id="brand-development">Brand Development</h3>
-<p>The name “Cuzco Crunch” came from asking GPT to suggest names that sounded distinctive but not too weird. We wanted something that hinted at South American flavors without being too on-the-nose. It generated about 30 options and this one felt right.</p>
-</section>
-<section id="packaging-design-direction" class="level3">
-<h3 class="anchored" data-anchor-id="packaging-design-direction">Packaging Design Direction</h3>
-<p>We’re using AI to create mood boards and design concepts. Instead of hiring a designer upfront, we’re generating different packaging styles to see what resonates. The AI helps us think through color schemes, typography, and overall brand personality.</p>
-</section>
-<section id="marketing-copy" class="level3">
-<h3 class="anchored" data-anchor-id="marketing-copy">Marketing Copy</h3>
-<p>Product descriptions, social media posts, and even this blog post started with AI-generated drafts that we then edited. It’s faster than staring at a blank page, and sometimes the AI suggests angles we wouldn’t have thought of.</p>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/006_Cuzco_Crunch/cuzco-crunch-packaging.jpg" class="img-fluid" alt="Packaging Concepts"> <em>Various packaging design concepts and color schemes</em></p>
-</section>
-</section>
-<section id="whats-working-and-what-isnt" class="level2">
-<h2 class="anchored" data-anchor-id="whats-working-and-what-isnt">What’s Working and What Isn’t</h2>
-<section id="the-good-stuff" class="level3">
-<h3 class="anchored" data-anchor-id="the-good-stuff">The Good Stuff</h3>
-<p>Speed is the biggest advantage. We can iterate on ideas quickly without waiting for external feedback or spending money on design consultations. The AI is also good at generating variations - give it one concept and it’ll produce 10 different takes on it.</p>
-</section>
-<section id="the-limitations" class="level3">
-<h3 class="anchored" data-anchor-id="the-limitations">The Limitations</h3>
-<p>Everything needs human editing. The AI-generated copy often sounds too generic or tries too hard to be clever. Design concepts look decent but lack the subtle details that make professional packaging stand out on shelves.</p>
-<p>Also, the AI doesn’t understand practical constraints. It’ll suggest elaborate packaging designs that would be expensive to produce or flavors that might not actually taste good together.</p>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/006_Cuzco_Crunch/cuzco-crunch-mockups.jpg" class="img-fluid" alt="Package Mockups"> <em>3D mockups and shelf visualization concepts</em></p>
-</section>
-</section>
-<section id="the-reality-check" class="level2">
-<h2 class="anchored" data-anchor-id="the-reality-check">The Reality Check</h2>
-<section id="still-need-real-skills" class="level3">
-<h3 class="anchored" data-anchor-id="still-need-real-skills">Still Need Real Skills</h3>
-<p>AI handles the brainstorming and initial concepts, but you still need to understand branding, know your target market, and make business decisions. It’s a tool, not a replacement for actual knowledge about building a brand.</p>
-</section>
-<section id="cost-vs.-quality-trade-offs" class="level3">
-<h3 class="anchored" data-anchor-id="cost-vs.-quality-trade-offs">Cost vs.&nbsp;Quality Trade-offs</h3>
-<p>We’re probably saving money in the early stages, but there’s a point where you need professional designers and marketers. The question is finding that sweet spot where AI gets you far enough to make informed decisions about what’s worth investing in.</p>
-</section>
-<section id="learning-experience" class="level3">
-<h3 class="anchored" data-anchor-id="learning-experience">Learning Experience</h3>
-<p>The most valuable part has been understanding how much work goes into brand development. Using AI to handle the repetitive parts lets us focus on strategy and decision-making instead of getting stuck on execution details.</p>
-<p>We’re treating this as an experiment rather than a serious business venture. If Cuzco Crunch turns into something real, great. If not, we’ve learned a lot about using AI for creative projects and brand development.</p>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>AI</category>
-  <category>branding</category>
-  <category>entrepreneurship</category>
-  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/006_Cuzco_Crunch/006.html</guid>
-  <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
-  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/006_Cuzco_Crunch/cuzco-crunch.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>AI Fitness Coaching at Home</title>
-  <dc:creator>Raymond Liu Ao</dc:creator>
-  <link>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/005_AI_Fitness_Coaching_at_Home/005.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="working-out-with-ai-guidance" class="level2">
-<h2 class="anchored" data-anchor-id="working-out-with-ai-guidance">Working Out with AI Guidance</h2>
-<p>I tried the Freeletics app today instead of going to the gym. It uses your phone’s camera to watch your form and give feedback in real time, which felt like having a trainer watching you.</p>
-<p><img src="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/005_AI_Fitness_Coaching_at_Home/ai-form-analysis.jpg" class="img-fluid" alt="AI Form Analysis"> <em>Smartphone analyzing exercise form with real-time feedback</em></p>
-</section>
-<section id="how-it-works" class="level2">
-<h2 class="anchored" data-anchor-id="how-it-works">How It Works</h2>
-<section id="real-time-form-correction" class="level3">
-<h3 class="anchored" data-anchor-id="real-time-form-correction">Real-Time Form Correction</h3>
-<p>You prop your phone up and the camera tracks your movements. When I was doing squats, it noticed I wasn’t going low enough and told me to “squat deeper” right as I was doing the exercise. It also caught that I was leaning too far forward.</p>
-</section>
-<section id="counts-reps-automatically" class="level3">
-<h3 class="anchored" data-anchor-id="counts-reps-automatically">Counts Reps Automatically</h3>
-<p>The app counts your repetitions so you don’t have to keep track. It only counts reps with proper form, so if your push-up doesn’t go low enough, it won’t count it.</p>
-</section>
-<section id="adjusts-based-on-performance" class="level3">
-<h3 class="anchored" data-anchor-id="adjusts-based-on-performance">Adjusts Based on Performance</h3>
-<p>When I started struggling with burpees halfway through, the app suggested switching to a modified version. It seemed to pick up on the fact that my form was getting sloppy and offered an easier variation.</p>
-</section>
-</section>
-<section id="what-works-well" class="level2">
-<h2 class="anchored" data-anchor-id="what-works-well">What Works Well</h2>
-<section id="form-feedback" class="level3">
-<h3 class="anchored" data-anchor-id="form-feedback">Form Feedback</h3>
-<p>The corrections are actually helpful. It’s like having someone watch you who knows what proper form looks like. Caught several things I didn’t realize I was doing wrong.</p>
-</section>
-<section id="no-equipment-needed" class="level3">
-<h3 class="anchored" data-anchor-id="no-equipment-needed">No Equipment Needed</h3>
-<p>All bodyweight exercises, so you can do it anywhere. The app designs workouts based on what space and time you have available.</p>
-</section>
-<section id="adapts-to-your-level" class="level3">
-<h3 class="anchored" data-anchor-id="adapts-to-your-level">Adapts to Your Level</h3>
-<p>Starts with easier exercises and gradually increases difficulty based on how you perform. If you’re struggling, it scales back. If you’re crushing it, it adds more challenging moves.</p>
-</section>
-<section id="tracks-progress-over-time" class="level3">
-<h3 class="anchored" data-anchor-id="tracks-progress-over-time">Tracks Progress Over Time</h3>
-<p>Keeps track of how many reps you can do and how your form improves. You can see whether you’re getting stronger or if certain exercises are still difficult.</p>
-</section>
-</section>
-<section id="limitations" class="level2">
-<h2 class="anchored" data-anchor-id="limitations">Limitations</h2>
-<section id="camera-angle-matters" class="level3">
-<h3 class="anchored" data-anchor-id="camera-angle-matters">Camera Angle Matters</h3>
-<p>You need to position your phone correctly for it to see your whole body. Took a few tries to get the angle right.</p>
-</section>
-<section id="lighting-requirements" class="level3">
-<h3 class="anchored" data-anchor-id="lighting-requirements">Lighting Requirements</h3>
-<p>Works better in good lighting. Had trouble tracking movements when the room was too dim.</p>
-</section>
-<section id="limited-exercise-types" class="level3">
-<h3 class="anchored" data-anchor-id="limited-exercise-types">Limited Exercise Types</h3>
-<p>Focuses mainly on bodyweight movements. If you want to lift weights or use equipment, you’ll need a different approach.</p>
-</section>
-<section id="not-always-perfect" class="level3">
-<h3 class="anchored" data-anchor-id="not-always-perfect">Not Always Perfect</h3>
-<p>Sometimes misses form issues or gives feedback that doesn’t quite match what you’re doing. Still better than working out with no guidance, but not as precise as a human trainer.</p>
-<p>It’s a solid option for home workouts when you want some structure and feedback. The form correction feature is genuinely useful, especially for exercises you’re not familiar with.</p>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>AI</category>
-  <category>fitness</category>
-  <category>health</category>
-  <category>daily-life</category>
-  <guid>https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/005_AI_Fitness_Coaching_at_Home/005.html</guid>
-  <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
-  <media:content url="https://liuaoraymond.github.io/comm4190_F25_Using_LLMs_Blog/posts/005_AI_Fitness_Coaching_at_Home/ai-form-analysis.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
